@@ -1,0 +1,14 @@
+﻿---
+ID: "2b3cb144-8c8f-4281-9125-4a633498d56b"
+Parent: "58b328a3-6c86-4afe-9b09-7123056615ce"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Blog/thumbs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T145325Z

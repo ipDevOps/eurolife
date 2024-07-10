@@ -1,0 +1,18 @@
+﻿---
+ID: "7d9a3854-252a-429e-8bf8-343cb2f6cd0c"
+Parent: "72624aad-c2b9-4568-a921-5df5386fb7ba"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Person/_HasPersonQuote/Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T083259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

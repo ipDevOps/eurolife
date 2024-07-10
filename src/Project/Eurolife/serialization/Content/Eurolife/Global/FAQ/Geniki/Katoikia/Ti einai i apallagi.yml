@@ -1,0 +1,26 @@
+﻿---
+ID: "20148ed2-b626-4386-a7b7-af4d7b7603d8"
+Parent: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia/Ti einai i apallagi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι είναι η απαλλαγή;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T085140Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Alpha;&pi;&alpha;&lambda;&lambda;&alpha;&gamma;ή &epsilon;ί&nu;&alpha;&iota; &tau;&omicron; &pi;&omicron;&sigma;ό &tau;&eta;&sigmaf; &zeta;&eta;&mu;&iota;ά&sigmaf; &pi;&omicron;&upsilon; &pi;&lambda;&eta;&rho;ώ&nu;&epsilon;&iota; &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;. &Epsilon;ά&nu; &tau;&omicron; &pi;&omicron;&sigma;ό &tau;&eta;&sigmaf; &zeta;&eta;&mu;&iota;ά&sigmaf; &epsilon;ί&nu;&alpha;&iota; &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron; &alpha;&pi;ό &tau;&omicron; &pi;&omicron;&sigma;ό &tau;&eta;&sigmaf; &alpha;&pi;&alpha;&lambda;&lambda;&alpha;&gamma;ή&sigmaf;, &kappa;&alpha;&tau;&alpha;&beta;ά&lambda;&lambda;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;&iota;&alpha;&phi;&omicron;&rho;ά &omega;&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Gamma;&iota;&alpha; &pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha;, &alpha;&pi;&alpha;&lambda;&lambda;&alpha;&gamma;ή 400&euro; &sigma;&eta;&mu;&alpha;ί&nu;&epsilon;&iota; ό&tau;&iota; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &zeta;&eta;&mu;&iota;ά&sigmaf; &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&eta;&sigmaf; &tau;&omega;&nu; 400&euro;, &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; &pi;&lambda;&eta;&rho;ώ&nu;&epsilon;&iota; &tau;&alpha; 400&euro; &kappa;&alpha;&iota; &eta; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&iota; &tau;&omicron; &upsilon;&pi;ό&lambda;&omicron;&iota;&pi;&omicron; &pi;&omicron;&sigma;ό. </span></p>

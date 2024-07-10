@@ -1,0 +1,45 @@
+﻿---
+ID: "ba13d627-39f9-49fd-8f02-4e18ffa7c180"
+Parent: "16fca268-89e5-4a8e-93f1-8d92f64e72e4"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEGA/AEGA-ektheseis-esoterikon-metavliton/2019/09/29/19/10/2018a"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20190930T210000Z
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20191001T210000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T095446Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Χρήση έως 30/06/2018
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediaid="{040E88F4-61DC-41F5-A7D4-7DC18B4D85C2}" src="-/media/040E88F461DC41F5A7D47DC18B4D85C2.ashx" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T050118Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Eurolife ERB

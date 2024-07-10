@@ -1,0 +1,25 @@
+﻿---
+ID: "27a4b833-17de-4c41-9a16-e7d9e7468f29"
+Parent: "27593046-d70b-4a35-9c55-33dd69a694c0"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/frontida-oximatos-autoassist/_Local/frontida oximatos/diadikasia apozimiosis oximatos"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Διαδικασία Αποζημιώσης Οχήματος
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T151954Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΑ ΒΗΜΑΤΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AD884652-5702-425F-A316-48FBCFA23FED}" />

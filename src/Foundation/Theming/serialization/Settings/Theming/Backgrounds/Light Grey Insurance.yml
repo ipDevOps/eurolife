@@ -1,0 +1,33 @@
+﻿---
+ID: "7f898357-3b13-4bec-802e-7ef58d50f030"
+Parent: "fa97c3b9-9b1d-4b6b-95aa-6f72a9bdfb23"
+Template: "cc84a3ac-cbe7-454e-8e28-929fcd7d8753"
+Path: /sitecore/system/Settings/Foundation/Theming/Backgrounds/Light Grey Insurance
+DB: master
+SharedFields:
+- ID: "41d1e1aa-4552-4852-b717-acd5d3e632c2"
+  Hint: Style
+  Value: "bg-life-insurance "
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190704T085440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T084313Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

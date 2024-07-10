@@ -1,0 +1,31 @@
+﻿---
+ID: "3dccda01-7a23-4de5-bef0-9276886b1c33"
+Parent: "b009ef84-6712-4333-a9e3-8c6d09c6b33f"
+Template: "e8da73b3-8edf-4ca3-9f9a-b3fb540ef441"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/mikres epixeiriseis panel group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T090737Z
+    - ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+      Hint: Panels
+      Type: Multilist
+      Value: |
+        {182BE6D2-CB8E-4174-A439-2DAA95EA81CD}
+        {DBF9A416-C01C-4556-AFBF-67E9B1F61D97}
+        {09271960-BD2F-4AE4-81DD-F8B3830B2804}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f5d19984-678a-4fef-919d-4cf92f68f464"
+      Hint: PanelGroupTitle
+      Value: Συγκριτικός Πίνακας Προγραμμάτων
+    - ID: "fb7552f8-587d-4b90-ae31-7e3ec84ae7f0"
+      Hint: PanelGroupSummary
+      Value: 

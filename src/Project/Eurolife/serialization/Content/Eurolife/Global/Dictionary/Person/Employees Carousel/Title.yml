@@ -1,0 +1,35 @@
+﻿---
+ID: "f63f447c-2b50-4ec3-93f6-9ae64c154467"
+Parent: "efce46a1-9ab8-41d4-af1b-ea6b39580a83"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Person/Employees Carousel/Title
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T054117Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Διοικητική Ομάδα
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T094745Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: What out people said about us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

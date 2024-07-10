@@ -1,0 +1,188 @@
+﻿---
+ID: "d75df390-1bd5-47c6-b31f-9fade555508e"
+Parent: "9f486afa-7f59-4d25-9456-3f88ecfee18e"
+Template: "ae711333-bf88-44a2-b049-2aaec5d679fa"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sixnes-erotiseis"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F3280C02-D2A5-439D-A6E0-E8145828DCC1}"
+              p:after="r[@uid='{8A619E14-2225-4EB6-B5DF-DBC38797961B}']"
+              s:ds="{C58855C5-A7AD-4F1D-B8B0-EFBA9117A520}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{E210D3D8-17D3-4E99-9942-E2C6068499FE}"
+              p:after="r[@uid='{F3280C02-D2A5-439D-A6E0-E8145828DCC1}']"
+              s:ds="{04A4660F-9492-4ABD-B392-9D1617DD2551}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{15E9A449-D48A-4C06-907D-AA4AEE2EEAFE}"
+              p:after="r[@uid='{E210D3D8-17D3-4E99-9942-E2C6068499FE}']"
+              s:ds="{25E5195D-F542-4819-A5E3-FEB7B38C84D1}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{3D788D66-B80F-49E2-A745-CEC02E21807D}"
+              p:after="r[@uid='{15E9A449-D48A-4C06-907D-AA4AEE2EEAFE}']"
+              s:ds="{5974D0B6-CE1D-4202-8457-039C6A1A0DD7}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{84FF9EFC-7F91-4A4A-9E63-64DD5D25352C}"
+              p:after="r[@uid='{3D788D66-B80F-49E2-A745-CEC02E21807D}']"
+              s:ds="{1E17925E-6767-45BE-8BD6-57A018749B34}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{0EF7513C-1BC8-4EC3-B6F8-78AC063A96E1}"
+              p:after="r[@uid='{84FF9EFC-7F91-4A4A-9E63-64DD5D25352C}']"
+              s:ds="{34568B1A-8377-479A-9FC7-B4F4D7C435CD}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{7DDDF4C1-4B0D-45DD-B56E-5CB616781CE2}"
+              p:after="r[@uid='{0EF7513C-1BC8-4EC3-B6F8-78AC063A96E1}']"
+              s:ds="{272CB329-AD35-4498-9648-A01EA25E10FB}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{E51AE88A-F026-4F75-ACF8-42D275502C7D}"
+              p:after="r[@uid='{7DDDF4C1-4B0D-45DD-B56E-5CB616781CE2}']"
+              s:ds="{02BE4D27-E29B-4F0B-A966-C7ACDB774724}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{4C3AA4AB-1202-4BDC-A47F-3BF0DF2FE571}"
+              p:after="r[@uid='{E51AE88A-F026-4F75-ACF8-42D275502C7D}']"
+              s:ds="{945613DB-4801-4B04-A587-B153DBEC524B}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{1E050D44-FC5F-4A50-8FE6-EAE0C72ECF52}"
+              p:after="r[@uid='{4C3AA4AB-1202-4BDC-A47F-3BF0DF2FE571}']"
+              s:ds="{697A709C-C21C-419E-98BE-623F027CDBF9}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{CE5AB130-2B08-417F-AA28-E2E8120FD9B0}"
+              p:after="r[@uid='{1E050D44-FC5F-4A50-8FE6-EAE0C72ECF52}']"
+              s:ds="{0F3DD575-B3DB-4CDF-BB6F-4382E295FE32}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{AD0FD4E2-74C9-4BDF-9F87-99DE1F458520}"
+              p:after="r[@uid='{CE5AB130-2B08-417F-AA28-E2E8120FD9B0}']"
+              s:ds="{8895ECB3-6941-4C7D-96B8-ADAA5457FE34}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{09B3869F-E7E5-45C2-BD82-FF200544FA30}"
+              p:after="r[@uid='{AD0FD4E2-74C9-4BDF-9F87-99DE1F458520}']"
+              s:ds="{597B0D95-C6A0-4D37-B9D3-9D3B37D5FCBE}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{1036DD83-EE73-4E31-8D02-27B61C465241}"
+              p:after="r[@uid='{09B3869F-E7E5-45C2-BD82-FF200544FA30}']"
+              s:ds="{667AC4E7-1C08-4DD1-BB35-1469C9CE94D1}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{CF6E9DE9-109A-47CF-944A-6EB3DA7F335B}"
+              p:after="r[@uid='{1036DD83-EE73-4E31-8D02-27B61C465241}']"
+              s:ds="{9A96E5AE-32FC-486A-AE74-2BCC694A089F}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{4F9266B3-540B-4A70-AA5D-760C9C6B9BA6}"
+              p:after="r[@uid='{CF6E9DE9-109A-47CF-944A-6EB3DA7F335B}']"
+              s:ds="{AA8F2870-295F-4791-A2A3-364C3AE2E807}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:ph="page-layout" />
+            <r
+              uid="{2D3DD99D-83A5-411A-87F1-2F324B98FD53}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191012T124539Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Συχνές Ερωτήσεις
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Συχνές Ερωτήσεις
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{964BF030-17C2-48D1-B059-86014BCFDD47}"
+              p:after="*[1=2]"
+              s:ds="{04A4660F-9492-4ABD-B392-9D1617DD2551}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:par=""
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "0ce01372-9068-4424-8ec1-81005fbcfe3b"
+      Hint: SeoFollowLinks
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T075038Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: FAQ
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: FAQ
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

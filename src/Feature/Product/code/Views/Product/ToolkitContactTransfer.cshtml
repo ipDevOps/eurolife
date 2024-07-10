@@ -1,0 +1,31 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Product
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.HasProductToolkit.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasProductToolkit.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+}
+
+@if(!Model.Item.FieldHasValue(Templates.HasProductToolkit.Fields.ContactTransfer) && !Sitecore.Context.PageMode.IsExperienceEditor)
+{
+    return;
+}
+
+<li>
+    <input type="checkbox" name="panel" id="panel-03">
+    <label for="panel-03">
+        @Html.Sitecore().Dictionary("/Product/Toolkit/Contact Transfer" , "Transfer contact from another company")
+        <span class="accordion__state"></span>
+    </label>
+    <div class="accordion__content">
+        <div class="p-b-16">
+            @Html.Sitecore().Field(Templates.HasProductToolkit.Fields.ContactTransfer)
+        </div>
+    </div>
+</li>

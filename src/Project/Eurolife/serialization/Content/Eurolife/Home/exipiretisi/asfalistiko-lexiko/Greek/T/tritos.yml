@@ -1,0 +1,24 @@
+﻿---
+ID: "a9b7d747-180e-49ef-92f5-dc9fc55ddf9d"
+Parent: "1662d046-1153-46a7-b472-ccb6de2035c9"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/T/tritos"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Τρίτος
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T080212Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: "Κάθε φυσικό ή νομικό πρόσωπο, εκτός από: τον ασφαλισμένο, τον/την σύζυγο, τους μέχρι Β’ βαθμού συγγενείς, τα πρόσωπα που συνοικούν μαζί του ή που βρίσκονται στην υπηρεσία του, τους νόμιμους αντιπροσώπους ή εκπροσώπους ή συνεταίρους του ή εκείνους στους οποίους έχει ανατεθεί επαγγελματικά η φύλαξη των Ασφαλισμένων Αντικειμένων."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

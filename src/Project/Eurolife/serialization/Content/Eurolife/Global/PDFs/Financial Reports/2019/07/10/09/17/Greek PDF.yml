@@ -1,0 +1,25 @@
+﻿---
+ID: "608b036a-edb2-4687-b6fe-784d71fb5438"
+Parent: "26e442b3-cd26-4629-a80f-561fef3db6b7"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: /sitecore/content/Eurolife/Global/PDFs/Financial Reports/2019/07/10/09/17/Greek PDF
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T091744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: GREEK PDF
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediapath="" mediaid="{0B427F84-7AA3-46D6-8077-3B6761D28822}" src="-/media/0B427F847AA346D680773B6761D28822.ashx" />

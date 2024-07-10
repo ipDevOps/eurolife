@@ -1,0 +1,28 @@
+﻿---
+ID: "ddbf4c43-8078-4c18-8823-8e5fb5982972"
+Parent: "34227539-3917-49d9-bca9-640afd6b6cbd"
+Template: "1079f9fb-99f2-4a6c-aea2-c3b8eb8f3aa2"
+Path: "/sitecore/content/Eurolife/Home/prosopika-dedomena/Enimerosi-Eurolife-ERB-Insurance-Group-AE-Symmetoxon/_Local/Highlights Accordions Group"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ac1cee8-850d-4779-a8d6-370771e20126"
+      Hint: Accordions
+      Type: Multilist with Search
+      Value: |
+        {E0805595-CA6D-4815-A0F4-C2DA1B0DD081}
+        {A198FD06-92D8-454D-AA89-A43015CB4C5C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T171904Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

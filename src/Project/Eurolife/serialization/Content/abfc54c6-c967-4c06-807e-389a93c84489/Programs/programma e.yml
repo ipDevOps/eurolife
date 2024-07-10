@@ -1,0 +1,56 @@
+﻿---
+ID: "f938e7c2-ca86-42c0-bc3e-04b5a85bcf84"
+Parent: "327bef6f-0e6d-4511-9f37-e5507ca7d132"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local/messaies epixeiriseis Panel/Programs/programma e"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: 
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {B0700986-3A8A-492C-8809-2AE30C0F7D2D}
+        {7826D585-B687-4FA4-BBC4-7BAA156C99FB}
+        {11058D9E-A1C2-48A1-A4A3-E07621D0E1BA}
+        {8D2ABCA7-BAAA-4580-8C7C-08A6B6845014}
+        {7CF9F7BC-C8C6-4A27-899D-FBB527AB6C24}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {1712590B-7B4E-481C-A888-D99A89E97415}
+        {3213CAB9-0C9A-40FC-93C1-45A7084948D8}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {9A0EF1DE-70F2-45A9-ACF8-3C62A9EC915C}

@@ -1,0 +1,27 @@
+﻿---
+ID: "28332ae5-3c7a-4c36-a714-3496498dd0de"
+Parent: "b2c36624-663d-45de-b33a-4cfeb3c06655"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Search/Paged Search Results
+DB: master
+SharedFields:
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{3E85DE9F-46F1-4A60-A28C-03EE2A481F2D}"
+- ID: "d7e7d647-0d97-4df7-a1ae-01253761a71b"
+  Hint: JavaScript assets
+  Value: /scripts/search/search.js
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: PagedSearchResults
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Wedia.Feature.Search.Controllers.SearchController, Wedia.Feature.Search
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T134732Z

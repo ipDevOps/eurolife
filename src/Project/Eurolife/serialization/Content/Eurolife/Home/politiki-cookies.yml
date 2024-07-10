@@ -1,0 +1,234 @@
+﻿---
+ID: "33c5083a-229b-4c95-b5cb-8b46fc7c4626"
+Parent: "f2be096d-911f-4409-8a98-9ee16cb8b283"
+Template: "5b62e4d9-7aed-47c0-aad1-ceb525263407"
+Path: "/sitecore/content/Eurolife/Home/politiki-cookies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{03E1B290-E9B7-483A-9E0E-2EFDA6D45552}"
+              p:before="*"
+              s:id="{0C50FD78-8252-4FC9-B779-8222677467FA}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{6AF08A3F-663A-4C22-83B1-EFE2E8807A77}"
+              p:after="r[@uid='{03E1B290-E9B7-483A-9E0E-2EFDA6D45552}']"
+              s:id="{00C6C1FB-EB91-43A5-84EF-1F8B207496CC}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{D196E07D-0814-48B4-8E24-120406D1AC76}"
+              p:after="r[@uid='{6AF08A3F-663A-4C22-83B1-EFE2E8807A77}']"
+              s:ds=""
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:par="Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D"
+              s:ph="page-layout" />
+            <r
+              uid="{87235964-4703-4C6F-8CD8-E3B4ED6FA48D}">
+              <p:d />
+            </r>
+            <r
+              uid="{A14B5449-C946-4C04-95C5-F6266FB843DE}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T121802Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Πολιτική Cookies
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Πολιτική Cookies
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <strong id="docs-internal-guid-7d5217b7-7fff-fa46-4d81-39e73c183779"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>&Tau;&iota; &epsilon;ί&nu;&alpha;&iota; &tau;&alpha; Cookies;</strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>&nbsp;</strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Sigma;&tau;&alpha; &pi;&lambda;&alpha;ί&sigma;&iota;&alpha; &tau;&eta;&sigmaf; &omicron;&rho;&theta;ή&sigmaf; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha;&sigmaf; &tau;&omicron;&upsilon; &iota;&sigma;&tau;ό&tau;&omicron;&pi;&omicron;&upsilon; &mu;&alpha;&sigmaf; &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;&omicron;ύ&mu;&epsilon; Cookies. &Tau;&alpha; Cookies &epsilon;ί&nu;&alpha;&iota; &mu;&iota;&kappa;&rho;ά &alpha;&rho;&chi;&epsilon;ί&alpha; ό&pi;&omicron;&upsilon; &alpha;&pi;&omicron;&theta;&eta;&kappa;&epsilon;ύ&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&eta; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;ή &sigma;&alpha;&sigmaf; &kappa;&alpha;&tau;ά &tau;&eta;&nu; &epsilon;&pi;ί&sigma;&kappa;&epsilon;&psi;&eta; &sigma;&tau;&omicron;&nu; &iota;&sigma;&tau;ό&tau;&omicron;&pi;&omicron; &mu;&alpha;&sigmaf;. &Eta; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &laquo;&theta;&upsilon;&mu;&omicron;ύ&nu;&tau;&alpha;&iota;&raquo; &epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&epsilon;&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&omicron;&tau;&iota;&mu;ή&sigma;&epsilon;&iota;&sigmaf; &sigma;&alpha;&sigmaf; &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &nu;&alpha; &beta;&omicron;&eta;&theta;&omicron;ύ&nu; &tau;&eta;&nu; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&eta; &pi;&epsilon;&rho;&iota;ή&gamma;&eta;&sigma;&eta; &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron;&nu; &iota;&sigma;&tau;ό&tau;&omicron;&pi;&omicron; &mu;&alpha;&sigmaf;.&nbsp;</span></p>
+        <strong id="docs-internal-guid-7d5217b7-7fff-fa46-4d81-39e73c183779"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>&Tau;&iota; Cookies &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;&omicron;ύ&mu;&epsilon;;</strong></span><span style="background-color: #ffffff; text-decoration: none; color: #0e3d80;"><strong></strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #0e3d80;"><strong>&nbsp;</strong></span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Tau;&alpha; Cookies &pi;&omicron;&upsilon; &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;&omicron;ύ&mu;&epsilon; &chi;&omega;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;ί&epsilon;&sigmaf;:</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&nbsp;</span></p>
+        <ul style="margin-top: 0px; margin-bottom: 0px;">
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>&Beta;&alpha;&sigma;&iota;&kappa;ά cookies</strong> </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &alpha;&pi;&alpha;&iota;&tau;&omicron;ύ&nu;&tau;&alpha;&iota; έ&tau;&sigma;&iota; ώ&sigma;&tau;&epsilon; &nu;&alpha; &gamma;ί&nu;&epsilon;&tau;&alpha;&iota; &epsilon;ύ&rho;&upsilon;&theta;&mu;&alpha; &eta; &pi;&epsilon;&rho;&iota;ή&gamma;&eta;&sigma;&eta; &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron;&nu; &iota;&sigma;&tau;ό&tau;&omicron;&pi;&omicron; &mu;&alpha;&sigmaf;. &Kappa;ά&pi;&omicron;&iota;&epsilon;&sigmaf; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&epsilon;&sigmaf; &epsilon;&nu;&delta;&epsilon;&chi;&omicron;&mu;έ&nu;&omega;&sigmaf; &nu;&alpha; &mu;&eta;&nu; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; &omicron;&lambda;&omicron;&kappa;&lambda;&eta;&rho;&omega;&theta;&omicron;ύ&nu; &chi;&omega;&rho;ί&sigmaf; &alpha;&upsilon;&tau;ά.&nbsp;&nbsp;</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>Cookies &alpha;&pi;ό&delta;&omicron;&sigma;&eta;&sigmaf;</strong></span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &sigma;&upsilon;&lambda;&lambda;έ&gamma;&omicron;&upsilon;&nu; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&omicron; &pi;&omega;&sigmaf; &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; &eta; &iota;&sigma;&tau;&omicron;&sigma;&epsilon;&lambda;ί&delta;&alpha; &mu;&alpha;&sigmaf;, &pi;&omicron;&iota;&epsilon;&sigmaf; &sigma;&epsilon;&lambda;ί&delta;&epsilon;&sigmaf; &delta;έ&chi;&omicron;&nu;&tau;&alpha;&iota; &tau;&iota;&sigmaf; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&epsilon;&sigmaf; &epsilon;&pi;&iota;&sigma;&kappa;έ&psi;&epsilon;&iota;&sigmaf;. &Tau;&alpha; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&alpha; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&alpha; &delta;&iota;&alpha;&tau;&eta;&rho;&omicron;ύ&nu;&tau;&alpha;&iota; &kappa;&alpha;&iota; &tau;&alpha; &delta;&iota;&alpha;&chi;&epsilon;&iota;&rho;&iota;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &sigma;&upsilon;&gamma;&kappa;&epsilon;&nu;&tau;&rho;&omega;&tau;&iota;&kappa;ά &kappa;&alpha;&iota; &alpha;&nu;ώ&nu;&upsilon;&mu;&alpha;.</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>Cookies &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ό&tau;&eta;&tau;&alpha;&sigmaf;</strong></span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &sigma;&upsilon;&gamma;&kappa;&rho;&alpha;&tau;&omicron;ύ&nu; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&iota;&sigmaf; &pi;&rho;&omicron;&tau;&iota;&mu;ή&sigma;&epsilon;&iota;&sigmaf; &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron;&nu; &iota;&sigma;&tau;ό&tau;&omicron;&pi;&omicron;, ό&pi;&omega;&sigmaf; &pi;.&chi; &eta; &gamma;&lambda;ώ&sigma;&sigma;&alpha;.</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 16pt; padding: 0pt 0pt 3pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>Cookies &gamma;&iota;&alpha; &pi;&rho;&omicron;&omega;&theta;&eta;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &sigma;&kappa;&omicron;&pi;&omicron;ύ&sigmaf;</strong></span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;&iota;&omicron;ύ&nu;&tau;&alpha;&iota; &gamma;&iota;&alpha; &nu;&alpha; &sigma;&alpha;&sigmaf; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;&iota;ά&sigma;&omicron;&upsilon;&nu; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&epsilon;&sigmaf; &delta;&iota;&alpha;&phi;&eta;&mu;ί&sigma;&epsilon;&iota;&sigmaf; &pi;&omicron;&upsilon; &epsilon;&nu;&delta;έ&chi;&epsilon;&tau;&alpha;&iota; &nu;&alpha; &sigma;&alpha;&sigmaf; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&upsilon;&nu;.&nbsp;</span></p>
+            </li>
+        </ul>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 16pt; padding: 0pt 0pt 3pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;"><strong>&Pi;&omega;&sigmaf; &epsilon;&lambda;έ&gamma;&chi;&epsilon;&tau;&epsilon; &tau;&eta; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha; &tau;&omega;&nu; Cookies;</strong></span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 16pt; padding: 0pt 0pt 3pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Upsilon;&pi;ά&rho;&chi;&epsilon;&iota; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &nu;&alpha; έ&chi;&epsilon;&tau;&epsilon; &tau;&omicron;&nu; έ&lambda;&epsilon;&gamma;&chi;&omicron; &tau;&omega;&nu; Cookies &kappa;&alpha;&iota; έ&tau;&sigma;&iota; &nu;&alpha; &tau;&alpha; &delta;&iota;&alpha;&gamma;&rho;ά&psi;&epsilon;&tau;&epsilon; ή &nu;&alpha; &alpha;&pi;&omicron;&tau;&rho;έ&psi;&epsilon;&tau;&epsilon; &tau;&eta; &chi;&rho;ή&sigma;&eta; &tau;&omicron;&upsilon;&sigmaf; ό&pi;&omega;&sigmaf; &kappa;&alpha;&iota; &nu;&alpha; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;&alpha;&tau;ί&sigma;&epsilon;&tau;&epsilon; &tau;&omicron;&nu; browser &sigma;&alpha;&sigmaf; &nu;&alpha; &mu;&pi;&lambda;&omicron;&kappa;ά&rho;&epsilon;&iota; ή &nu;&alpha; &delta;έ&chi;&epsilon;&tau;&alpha;&iota; &epsilon;&iota;&delta;&omicron;&pi;&omicron;&iota;ή&sigma;&epsilon;&iota;&sigmaf; &gamma;&iota;&alpha; ό&lambda;&epsilon;&sigmaf; &tau;&iota;&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; cookies.</span></p>
+        <table class="telerik-reTable-1" style="border:2px solid #ef3340;width: 400px; height: 300px; background-color: #ef3340; text-align: center; vertical-align: middle;   background-position: center center; letter-spacing: normal; word-spacing: normal; line-height: normal;  font-size: larger;" align="center">
+            <tbody>
+                <tr class="telerik-reTableHeaderRow-1">
+                    <td colspan="2" class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; background-color: #ef3340; text-align: center; vertical-align: middle; color: #ffffff; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 2px;"><strong>Browser</strong></td>
+                    <td class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; background-color: #ef3340; text-align: center; vertical-align: middle; color: #ffffff; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 2px;">&Rho;&upsilon;&theta;&mu;ί&sigma;&epsilon;&iota;&sigmaf; <br />
+                    </td>
+                </tr>
+                <tr class="telerik-reTableOddRow-1">
+                    <td colspan="2" class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #ef3340; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">Google Chrome<br />
+                    </td>
+                    <td class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #00b0f0; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;<a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop">Link</a></td>
+                </tr>
+                <tr class="telerik-reTableEvenRow-1">
+                    <td colspan="2" class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #ef3340; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;Internet Explorer<br />
+                    </td>
+                    <td class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #00b0f0; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;<a href="https://support.microsoft.com/el-gr/help/17442/windows-internet-explorer-delete-manage-cookies">Link</a></td>
+                </tr>
+                <tr class="telerik-reTableOddRow-1">
+                    <td colspan="2" class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #ef3340; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">Apple Safari</td>
+                    <td class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #00b0f0; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;<a href="https://support.apple.com/el-gr/HT201265">Link</a></td>
+                </tr>
+                <tr class="telerik-reTableEvenRow-1">
+                    <td colspan="2" class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #ef3340; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;Mozilla Firefox<br />
+                    </td>
+                    <td class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #00b0f0; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;<a href="https://support.mozilla.org/el/kb/diagrafh-cookies-gia-afairesh-plhroforiwn">Link</a></td>
+                </tr>
+                <tr class="telerik-reTableOddRow-1">
+                    <td colspan="2" class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #ef3340; font-size: larger; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;Android Browser<br />
+                    </td>
+                    <td class="telerik-reTableHeaderEvenCol-1" style="border-color: #ef3340; text-align: center; vertical-align: middle; color: #00b0f0; letter-spacing: normal; word-spacing: normal; line-height: normal; border-width: 5px;">&nbsp;<a href="https://support.google.com/chrome/answer/2392709?co=GENIE.Platform%3DAndroid&amp;hl=el">Link</a></td>
+                </tr>
+            </tbody>
+        </table>
+        <style type="text/css" id="telerik-reTable-1">
+            .telerik-reTable-1 {
+            border-width: 0px;
+            border-style: none;
+            border-collapse: collapse;
+            font-family: Tahoma;
+            }
+            .telerik-reTable-1 tr.telerik-reTableHeaderRow-1 {
+            margin: 10px;
+            padding: 10px;
+            color: #3F4D6B;
+            background: #D6E8FF;
+            text-align: left;
+            font-size: 10pt;
+            font-style: normal;
+            font-family: Tahoma;
+            text-transform: capitalize;
+            font-weight: bold;
+            border-spacing: 10px;
+            line-height: 14pt;
+            vertical-align: top;
+            }
+            .telerik-reTable-1 td.telerik-reTableHeaderFirstCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            color: #3a4663;
+            line-height: 14pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableHeaderLastCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            color: #3a4663;
+            line-height: 14pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableHeaderOddCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            color: #3a4663;
+            line-height: 14pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableHeaderEvenCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            color: #3a4663;
+            line-height: 14pt;
+            }
+            .telerik-reTable-1 tr.telerik-reTableOddRow-1 {
+            color: #666666;
+            background-color: #F2F3F4;
+            font-size: 10pt;
+            vertical-align: top;
+            }
+            .telerik-reTable-1 tr.telerik-reTableEvenRow-1 {
+            color: #666666;
+            background-color: #E7EBF7;
+            font-size: 10pt;
+            vertical-align: top;
+            }
+            .telerik-reTable-1 td.telerik-reTableFirstCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableLastCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableOddCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableEvenCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            }
+            .telerik-reTable-1 tr.telerik-reTableFooterRow-1 {
+            background-color: #D6E8FF;
+            color: #4A5A80;
+            font-weight: 500;
+            font-size: 10pt;
+            font-family: Tahoma;
+            line-height: 11pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableFooterFirstCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            border-top: solid gray 1.0pt;
+            text-align: left;
+            }
+            .telerik-reTable-1 td.telerik-reTableFooterLastCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            border-top: solid gray 1.0pt;
+            text-align: left;
+            }
+            .telerik-reTable-1 td.telerik-reTableFooterOddCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            text-align: left;
+            border-top: solid gray 1.0pt;
+            }
+            .telerik-reTable-1 td.telerik-reTableFooterEvenCol-1 {
+            padding: 0in 5.4pt 0in 5.4pt;
+            text-align: left;
+            border-top: solid gray 1.0pt;
+            }
+        </style>
+        <p>
+        </p>
+        <p>&nbsp;</p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Sigma;&epsilon; &kappa;ά&theta;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &gamma;&nu;&omega;&rho;ί&zeta;&epsilon;&tau;&epsilon; ό&tau;&iota; &omicron;&pi;&omicron;&iota;&alpha;&delta;ή&pi;&omicron;&tau;&epsilon; &tau;έ&tau;&omicron;&iota;&alpha; &epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&alpha; &epsilon;&nu;&delta;έ&chi;&epsilon;&tau;&alpha;&iota; &nu;&alpha; &alpha;&lambda;&lambda;ά&xi;&epsilon;&iota; &tau;&eta;&nu; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &pi;&omicron;&upsilon; έ&chi;&epsilon;&tau;&epsilon; &alpha;&upsilon;&tau;ή &tau;&eta; &sigma;&tau;&iota;&gamma;&mu;ή &mu;&epsilon; &tau;&omicron;&nu; &iota;&sigma;&tau;ό&tau;&omicron;&pi;&omicron; &mu;&alpha;&sigmaf; ή &alpha;&kappa;ό&mu;&alpha; &kappa;&alpha;&iota; &kappa;ά&pi;&omicron;&iota;&epsilon;&sigmaf; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&epsilon;&sigmaf; &nu;&alpha; &mu;&eta;&nu; &epsilon;ί&nu;&alpha;&iota; &delta;&upsilon;&nu;&alpha;&tau;έ&sigmaf;.</span></p>
+        <p>
+        &nbsp;
+        <a class="optanon-show-settings">Cookie Settings</a></p>
+        <p>&nbsp;</p>
+        <p><span id="docs-internal-guid-8cfaba6e-7fff-65ff-cc08-a24166ccf92b" style="background-color: #ffffff; text-decoration: none; color: #ff0000;"><sup><em>*</em></sup></span><span id="docs-internal-guid-8cfaba6e-7fff-65ff-cc08-a24166ccf92b"><sup><em><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Eta; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&alpha; &alpha;&nu;&alpha;&theta;&epsilon;ώ&rho;&eta;&sigma;&eta; &tau;&eta;&sigmaf; &pi;&alpha;&rho;&omicron;ύ&sigma;&alpha;&sigmaf; &pi;&omicron;&lambda;&iota;&tau;&iota;&kappa;ή&sigmaf; έ&gamma;&iota;&nu;&epsilon; &sigma;&tau;&iota;&sigmaf; 12/02/2018.</span></em></sup></span></p>
+        <!-- OneTrust Cookies Settings button end -->
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Πολιτική Cookies

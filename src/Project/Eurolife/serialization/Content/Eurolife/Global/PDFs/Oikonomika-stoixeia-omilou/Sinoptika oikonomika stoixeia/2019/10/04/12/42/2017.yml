@@ -1,0 +1,48 @@
+﻿---
+ID: "15573517-b4c7-4ce0-a221-8a6ab65112e9"
+Parent: "8ca63792-8d91-4598-aa34-2dd9f18fae92"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/Oikonomika-stoixeia-omilou/Sinoptika oikonomika stoixeia/2019/10/04/12/42/2017"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20191002T210000Z
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20191002T210000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191003T205011Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: "01/01/2017 - 31/12/2017"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: "01/01/2017 - 31/12/2017"
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediaid="{B1696D87-5C09-42D2-9F56-2276D13DC8E7}" src="-/media/B1696D875C0942D29F562276D13DC8E7.ashx" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T050133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: New Doc

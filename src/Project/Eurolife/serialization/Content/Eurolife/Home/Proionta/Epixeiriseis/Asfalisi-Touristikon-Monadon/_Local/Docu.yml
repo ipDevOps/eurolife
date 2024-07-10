@@ -1,0 +1,47 @@
+﻿---
+ID: "f1ce1bb2-3bba-4cc8-92a0-25688ef9350e"
+Parent: "1638f94f-e447-4aa8-8764-fce30c5d3806"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Asfalisi-Touristikon-Monadon/_Local/Docu"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T142832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {2B87C416-F4C9-4942-B109-F0952DEE07E3}
+        {8737530C-DD1B-4782-9226-2FBD7A873EEA}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T140604Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {2B87C416-F4C9-4942-B109-F0952DEE07E3}
+        {8737530C-DD1B-4782-9226-2FBD7A873EEA}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα

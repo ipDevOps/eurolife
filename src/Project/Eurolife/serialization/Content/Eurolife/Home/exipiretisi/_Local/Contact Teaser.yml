@@ -1,0 +1,26 @@
+﻿---
+ID: "ced0cd3f-5283-4ef6-8402-3da08c1aceff"
+Parent: "cb46fc83-8b2f-49a6-b9b9-4639b4407191"
+Template: "4199becf-21aa-4aaa-a99d-7a64cae7fd94"
+Path: /sitecore/content/Eurolife/Home/exipiretisi/_Local/Contact Teaser
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        Όλοι οι τρόποι με τους οποίους μπορούμε να έρθουμε σε επαφή.
+        
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Τρόποι επικοινωνίας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T125340Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

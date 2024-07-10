@@ -1,0 +1,46 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserImage.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserImage.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+@if (Model.Item.FieldHasValue(Templates.HasTeaserImage.Fields.Image))
+{
+  <section class="solo-teaser m-b-112">
+    <div class="solo-teasers__detail-wrap">
+      <div class="solo-teaser__contents">
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserHeadline.Fields.Title))
+        {
+          <h3 class="solo-teaser__title m-t-64">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h3>
+        }
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary))
+        {
+          <p class="solo-teaser__text">@Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)</p>
+        }
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserCTA.Fields.CTA))
+        {
+          @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class = "btn btn--default btn--dark m-b-64" })
+        }
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserDownloadButton.Fields.CTA))
+        {
+          @Html.Sitecore().Field(Templates.HasTeaserDownloadButton.Fields.CTA, new { @class = "btn btn--default m-b-64" })
+        }
+      </div>
+    </div>
+    <div class="solo-teaser__image">
+      @Html.Sitecore().ImageField(Templates.HasTeaserImage.Fields.Image, Model.Item,
+        0,
+        Wedia.Feature.Teasers.Constants.ImageDimensions.ColoredTeaser.Width)
+    </div>
+  </section>
+}

@@ -1,0 +1,39 @@
+﻿---
+ID: "33444155-3317-4988-a4fa-b1f26efc502b"
+Parent: "d7192de8-c01f-496e-b6da-3906b526bbf8"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/exonosokomeiaki-perithalpsi/_Local/teaser list protovathmia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;ώ&sigma;&tau;&epsilon; &tau;&omicron; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &pi;&omicron;&upsilon; &epsilon;&pi;&iota;&lambda;έ&xi;&alpha;&tau;&epsilon;
+        &mu;&epsilon; &mu;&iota;&alpha; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu; &pi;&alpha;&rho;&omicron;&chi;έ&sigmaf;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ενισχύστε την προστασία σας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T095722Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T132913Z
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3

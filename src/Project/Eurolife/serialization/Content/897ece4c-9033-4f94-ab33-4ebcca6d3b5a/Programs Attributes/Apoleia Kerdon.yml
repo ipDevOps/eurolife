@@ -1,0 +1,25 @@
+﻿---
+ID: "6c0903f8-18c1-4ce2-ae87-2932b63a49e8"
+Parent: "f7e5378b-7c6a-43f5-8804-04788f97abbf"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/periexomeno/Programs Attributes/Apoleia Kerdon"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1543892b-a690-4e90-a05f-c496fee76c18"
+      Hint: PanelsIsCheckbox
+      Type: Checkbox
+      Value: 1
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Απώλεια Κερδών
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T094739Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

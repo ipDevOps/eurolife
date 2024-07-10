@@ -1,0 +1,59 @@
+﻿---
+ID: "f366dc6c-8b87-4ca7-9de6-d229ed98321c"
+Parent: "803d87c5-6e25-4842-b366-72956ddab858"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-katoikias/_Local/Highlights claims/vima1-anaggelia-peristatikou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T171706Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: "Βήμα 1: Αναγγελία περιστατικού"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <strong id="docs-internal-guid-19969c71-7fff-a59c-08c3-fbb4aab044bf"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Omicron;&pi;&omicron;&iota;&alpha;&delta;ή&pi;&omicron;&tau;&epsilon; &zeta;&eta;&mu;&iota;ά &sigma;&upsilon;&mu;&beta;&epsilon;ί &sigma;&tau;&omicron; &sigma;&pi;ί&tau;&iota; &sigma;&alpha;&sigmaf; &theta;&alpha; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &gamma;&nu;&omega;&sigma;&tau;&omicron;&pi;&omicron;&iota;&eta;&theta;&epsilon;ί &sigma;&tau;&eta;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &mu;&alpha;&sigmaf; &mu;&epsilon; έ&nu;&alpha;&nu; &alpha;&pi;ό &tau;&omicron;&upsilon;&sigmaf; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &tau;&rho;ό&pi;&omicron;&upsilon;&sigmaf;:</span></p>
+        <strong id="docs-internal-guid-19969c71-7fff-a59c-08c3-fbb4aab044bf"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&alpha;) &Mu;έ&sigma;&omega; &tau;&eta;&sigmaf; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha;&sigmaf;&nbsp; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&upsilon;ή&sigmaf; &zeta;&eta;&mu;&iota;ώ&nu; Repair, &pi;&omicron;&upsilon; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&epsilon;ί ό&lambda;&omicron; &tau;&omicron; &chi;&rho;ό&nu;&omicron;, 24 ώ&rho;&epsilon;&sigmaf; &tau;&omicron; 24&omega;&rho;&omicron;, &sigma;&tau;&omicron; &tau;&eta;&lambda;έ&phi;&omega;&nu;&omicron; (+30) 210 6504035 (&alpha;&pi;ό &sigma;&tau;&alpha;&theta;&epsilon;&rho;ό ή &kappa;&iota;&nu;&eta;&tau;ό &tau;&eta;&lambda;έ&phi;&omega;&nu;&omicron;).&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&beta;) &Mu;έ&sigma;&omega; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf; &mu;&epsilon; &tau;&alpha; &kappa;&epsilon;&nu;&tau;&rho;&iota;&kappa;ά &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;:</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&nbsp;</span><span style="background-color: transparent; text-decoration: none; color: #000000;"></span></p>
+        <ul style="margin-top: 0px; margin-bottom: 0px;">
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;">&Tau;&eta;&lambda;&epsilon;&phi;&omega;&nu;&iota;&kappa;ά &sigma;&tau;&omicron; &Kappa;έ&nu;&tau;&rho;&omicron; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &sigma;&tau;&omicron; (+30) 210 9303800 (&epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή 4).</p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;">&Sigma;&tau;&omicron; email nonlife-claims@eurolife.gr <strong><br />
+            </strong></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 12pt;">&Mu;&epsilon; fax &sigma;&tau;&omicron; 210 9303689 </p>
+            </li>
+        </ul>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&gamma;) &Mu;έ&sigma;&omega; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ &sigma;&alpha;&sigmaf; &sigma;&upsilon;&mu;&beta;&omicron;ύ&lambda;&omicron;&upsilon;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&nbsp;</span></p>
+        <p>
+        <strong id="docs-internal-guid-19969c71-7fff-a59c-08c3-fbb4aab044bf"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&iota;&lambda;ώ&nu;&tau;&alpha;&sigmaf; &mu;&epsilon; &tau;&omicron;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&eta; &mu;&alpha;&sigmaf;, </span><span style="background-color: transparent; text-decoration: none; color: #000000;"><br />
+        </span></strong></p>
+        <ul>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><strong id="docs-internal-guid-19969c71-7fff-a59c-08c3-fbb4aab044bf">&Epsilon;&nu;&eta;&mu;&epsilon;&rho;ώ&sigma;&tau;&epsilon; &mu;&alpha;&sigmaf; &epsilon;ά&nu; &chi;&rho;&epsilon;&iota;ά&zeta;&epsilon;&sigma;&tau;&epsilon; &beta;&omicron;ή&theta;&epsilon;&iota;&alpha; &gamma;&iota;&alpha; &zeta;&eta;&mu;&iota;ά &pi;&omicron;&upsilon; &kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&iota; (ή ό&chi;&iota;) &tau;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;ή&rho;&iota;&omicron; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;ό &sigma;&alpha;&sigmaf;</strong>.</p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><strong id="docs-internal-guid-19969c71-7fff-a59c-08c3-fbb4aab044bf">&Pi;&epsilon;&rho;&iota;&gamma;&rho;ά&psi;&tau;&epsilon; &mu;&alpha;&sigmaf; &tau;&iota; &alpha;&kappa;&rho;&iota;&beta;ώ&sigmaf; έ&chi;&epsilon;&iota; &sigma;&upsilon;&mu;&beta;&epsilon;ί &gamma;&iota;&alpha; &nu;&alpha; &sigma;&alpha;&sigmaf; &delta;ώ&sigma;&omicron;&upsilon;&mu;&epsilon; &omicron;&delta;&eta;&gamma;ί&epsilon;&sigmaf; &kappa;&alpha;&iota; &epsilon;&pi;&iota;&lambda;&omicron;&gamma;έ&sigmaf; &gamma;&iota;&alpha; ό,&tau;&iota; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &chi;&rho;&epsilon;&iota;ά&zeta;&epsilon;&sigma;&tau;&epsilon; &epsilon;&xi;&alpha;&iota;&tau;ί&alpha;&sigmaf; &tau;&eta;&sigmaf; &zeta;&eta;&mu;&iota;ά&sigmaf;.</strong><strong></strong></p>
+            </li>
+        </ul>
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: 

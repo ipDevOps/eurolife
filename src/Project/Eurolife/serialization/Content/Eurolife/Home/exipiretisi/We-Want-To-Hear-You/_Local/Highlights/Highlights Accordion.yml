@@ -1,0 +1,18 @@
+﻿---
+ID: "ae204aed-5c86-4c6a-a0c2-036501649bd7"
+Parent: "3b99b080-371f-48b2-8fe9-822b45c36bf7"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/We-Want-To-Hear-You/_Local/Highlights/Highlights Accordion"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T144511Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

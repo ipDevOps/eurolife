@@ -1,0 +1,39 @@
+﻿---
+ID: "faace7f6-7fe2-4546-9788-5802fdb2e29c"
+Parent: "bc92ef99-e752-4063-93c2-584af381e5d3"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/omadiki-asfalisi-pronomia-prosopikou/_Local/panel mikres epixeiriseis astiki euthini/astiki efthini xoros katastimaton/Programs Attributes/Anotato orio gia somatikes blabes ylikes zimies gia oli ti diarkeia tou symbolaiou"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Ανώτατο όριο για σωματικές βλάβες & υλικές ζημιές για όλη τη διάρκεια του συμβολαίου
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Αμοιβή  χειρούργων, αναισθησιολόγων και λοιπών ειδικοτήτων
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T101044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,128 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Navigation
+@using Wedia.Foundation.Dictionary.Extensions
+@using Sitecore.Data
+@model IEnumerable<Wedia.Feature.Navigation.Models.NavigationItems>
+
+
+<nav class="nav-product nav-product--health" role="navigation">
+  <div class="nav-product__wrap center center--1700">
+    @if (Model != null)
+    {
+      foreach (var item in Model?.Select((value, index) => new { value, index }))
+      {
+        @Html.Raw(RenderExtraMenuDiv(item.index, true))
+        <div class="@RenderNavTriggerClass(item.index)">
+          @item.value.Title
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+            <defs>
+              <path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z" />
+            </defs>
+            <use fill="#FFF" fill-rule="nonzero" transform="rotate(90 29.99 30)" xlink:href="#a" />
+          </svg>
+        </div>
+        @Html.Raw(RenderExtraMenuDiv(item.index, false))
+      }
+    }
+
+    @Html.Sitecore().Placeholder("login-register-link")
+  </div>
+</nav>
+
+@if (Model != null)
+{
+  foreach (var item in Model?.Select((value, index) => new { value, index }))
+  {
+    <div class="menu-expanded @MenuExpandedClass(item.index)">
+      <div class="menu-products center center--1700">
+        @if (item.value.NavItems != null)
+        {
+          foreach (var subMenu in item.value.NavItems)
+          {
+            <div class="@Html.Sitecore().Field(Templates.LinkMenuItem.Fields.Class, subMenu.Item)">
+              <h3 class="h5">@Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, subMenu)</h3>
+
+              @if (subMenu.ShowChildren && subMenu.Children != null && subMenu.Children.NavItems.Any())
+              {
+                <ul>
+                  @{
+                    var delay = 0.2;
+                  }
+
+                  @foreach (var menuItem in subMenu.Children.NavItems)
+                  {
+
+                    if (menuItem.Item.FieldHasValue(Templates.LinkMenuItem.Fields.Icon))
+                    {
+                      <li>
+                        <a href="@menuItem.Url" class="@Html.Sitecore().Field(Templates.LinkMenuItem.Fields.Class, menuItem.Item)">
+                          <img src="@menuItem.Item.ImageUrl(Templates.LinkMenuItem.Fields.Icon)"
+                               alt="@Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, menuItem.Item, new { DisableWebEdit = true })" />
+                          <span>@Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, menuItem.Item, new { DisableWebEdit = true })</span>
+                        </a>
+                      </li>
+                    }
+                    else
+                    {
+                      <li style="--delay: @delay.ToString().Replace(",", ".");">
+                        <a href="@menuItem.Url">
+                          @Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, menuItem.Item, new { DisableWebEdit = true })
+                        </a>
+                      </li>
+
+                      delay += 0.2;
+                    }
+                  }
+                </ul>
+              }
+            </div>
+          }
+        }
+      </div>
+    </div>
+  }
+}
+
+
+@functions {
+
+    public static string RenderNavTriggerClass(int index)
+    {
+      string renderClass = string.Empty;
+
+      if (index == 0)
+        renderClass = "nav-product__trigger";
+      else if (index == 1)
+        renderClass = "nav-blog__trigger";
+
+      return renderClass;
+    }
+
+    public static string RenderExtraMenuDiv(int index, bool start)
+    {
+      string renderElement = string.Empty;
+
+      if (index == 1)
+      {
+        if (start)
+          renderElement = "<div class='nav-blog'>";
+        else
+          renderElement = "</div>";
+      }
+
+      return renderElement;
+    }
+
+    public static string MenuExpandedClass(int index)
+    {
+      string renderClass = string.Empty;
+
+      if (index == 0)
+        renderClass = "productsmenu";
+      else if (index == 1)
+        renderClass = "blogmenu";
+
+      return renderClass;
+    }
+
+}

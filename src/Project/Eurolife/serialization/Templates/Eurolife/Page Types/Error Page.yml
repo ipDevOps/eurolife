@@ -1,0 +1,34 @@
+﻿---
+ID: "7002a34d-aa7b-48c1-9fbf-d2e89fcd69b2"
+Parent: "7e9dc118-7324-4071-9f01-23c10c5d9177"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Eurolife/Page Types/Error Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: ApplicationsV2/16x16/window_error.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {672FFC13-EA1C-476F-8B06-2BFACE235A8F}
+    {68DC8ED7-3248-4897-B179-7516EA3ED3C3}
+    {A41837DB-BE80-49DD-9340-D1336CB1F17F}
+    {E5F4F03B-3264-4FB8-ACB9-1A24E024C9BA}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{74C19DF7-12EF-4967-97A2-7F7238B9EE7A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T083809Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,33 @@
+﻿---
+ID: "a7292a6c-7d39-4d38-9993-db9588e84bc2"
+Parent: "b14148bf-1a38-4a5b-b81d-7e8fdee6d8f7"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/_Local/Career Achievements"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Σημαντικά στοιχεία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190821T084023Z
+    - ID: "2b28dcca-4258-4f5d-a795-b475333909cb"
+      Hint: Active
+      Value: 4
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 

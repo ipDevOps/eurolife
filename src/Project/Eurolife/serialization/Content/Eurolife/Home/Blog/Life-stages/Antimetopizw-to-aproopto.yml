@@ -1,0 +1,35 @@
+﻿---
+ID: "fbbb1bff-0332-4a65-b8e9-5a935f3e5136"
+Parent: "fd08fa85-572b-446d-bd88-82176122bc81"
+Template: "3d204d86-3db9-4721-b8ad-d4aa7f0e6f6e"
+Path: "/sitecore/content/Eurolife/Home/Blog/Life-stages/Antimetopizw-to-aproopto"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T090045Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Αντιμετωπίζω το απρόοπτο
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{674BA365-2AFE-4908-BE9C-6DA8659B3AEC}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: "Όσο η ζωή προχωρά, αλλαγές μπορεί να συμβαίνουν σε κάθε τομέα της ζωής σου, προσωπικό ή και επαγγελματικό. Αυτό σημαίνει ότι εξελίσσεσαι - κι εμείς είμαστε εδώ για να σε στηρίξουμε σε κάθε σου βήμα."
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{7DCD2F12-C5A2-44E8-840F-4C3849F2297C}" />
+    - ID: "e22449ae-462c-4573-9018-6fe278161aab"
+      Hint: Tag
+      Value: "#Antimetopizw-to-aproopto"

@@ -1,0 +1,36 @@
+﻿---
+ID: "e5ae146a-e612-4c21-84d0-81dcf70ed46f"
+Parent: "2be5c778-7c88-41b4-aca1-1892fd8a22ba"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores/Aigina/SKALTSHS NIKOLAOS   TSIKRIKA IwANNA"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191217T090859Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΣΚΑΛΤΣΗΣ ΝΙΚΟΛΑΟΣ  + ΤΣΙΚΡΙΚΑ ΙΩΑΝΝΑ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 697 4957456, 694 5388568
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 210 2753840
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: id.tsikrika@yahoo.gr
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: ΣΚΑΛΤΣΗΣ ΝΙΚΟΛΑΟΣ  + ΤΣΙΚΡΙΚΑ ΙΩΑΝΝΑ
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: "ΕΥΑΓ.ΣΧΟΛΗΣ ,3-5,14231"

@@ -1,0 +1,24 @@
+﻿---
+ID: "86038f36-24c6-4ae3-8a8a-87254ac0142c"
+Parent: "1013016b-840b-4024-9565-775144e4fccf"
+Template: "3590da26-6390-442a-a776-657a9eab38e5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New Newsletter Subscription"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210202T094006Z
+    - ID: "49f97460-3f80-4654-a453-a9c2069c45d9"
+      Hint: Description
+      Value: Κάνε την εγγραφή σου στο newsletter για να λαμβάνεις νέα για τα σημαντικά
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d255187d-6894-46a2-b8b8-878b5e2b920b"
+      Hint: Title
+      Value: Θέλω να μαθαίνω για όσα έχουν αξία

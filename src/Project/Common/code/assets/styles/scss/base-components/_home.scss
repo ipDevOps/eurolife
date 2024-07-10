@@ -1,0 +1,229 @@
+/*------------------------------------*\
+  #HOME
+\*------------------------------------*/
+.list-axis {
+  display: block;
+
+  @include breakpoint(700) {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(8,160px);
+  }
+
+  @include breakpoint(1140) {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(8,90px);
+  }
+
+  justify-content: center;
+  align-content: end;
+
+  article {
+    position: relative;
+    break-inside: avoid-column;
+    border-radius: 5px;
+    border: 1px solid #dedede;
+    will-change: transform;
+    page-break-inside: avoid;
+    transition: box-shadow 300ms ease, border-color 200ms ease;
+    box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    overflow: hidden;
+
+    @include breakpoint-rev(700) {
+      margin-bottom: 16px;
+      max-height: 300px;
+    }
+
+    > img {
+      display: block;
+
+      @include breakpoint(700) {
+        width: 100%;
+        object-fit: cover;
+        height: 100%;
+      }
+    }
+
+    .list-axis__link {
+      display: block;
+      position: absolute;
+      z-index: 2;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: #fff;
+      transition: all 300ms ease-in-out;
+    }
+
+
+    &.color-savings {
+      border-color: $tealish;
+      grid-column: 2/2;
+      grid-row: 1/4;
+
+      @include breakpoint(1140) {
+        grid-row: 1/4;
+      }
+    }
+
+    &.color-life-insurance {
+      border-color: $color-life-insurance;
+      grid-column: 1/1;
+      grid-row: 6/9;
+
+      @include breakpoint(820) {
+        grid-row: 6/9;
+      }
+    }
+
+    &.color-home {
+      border-color: $color-home;
+      grid-column: 1/1;
+      grid-row: 4/6;
+
+      @include breakpoint(1140) {
+        grid-row: 1/5;
+        grid-column: 3/3;
+      }
+    }
+
+    &.color-motor {
+      border-color: $color-motor;
+      grid-column: 2/2;
+      grid-row: 4/7;
+
+      @include breakpoint(1140) {
+        grid-row: 4/9;
+      }
+    }
+
+    &.color-business {
+      border-color: $color-business;
+      grid-column: 2/2;
+      grid-row: 7/9;
+
+      @include breakpoint(1140) {
+        grid-row: 5/9;
+        grid-column: 3/3;
+      }
+    }
+
+    &.color-health {
+      border-color: $color-health;
+      grid-column: 1/1;
+      grid-row: 1/4;
+
+      @include breakpoint(1140) {
+        grid-row: 1/6;
+      }
+    }
+
+    &:hover {
+      color: #fff;
+
+      &:before {
+        opacity: 0.8;
+      }
+    }
+
+    &.color-savings:hover {
+      &:before {
+        background-color: $tealish;
+      }
+    }
+
+    &.color-motor:hover {
+      &:before {
+        background-color: $color-motor;
+      }
+    }
+
+    &.color-life-insurance:hover {
+      &:before {
+        background-color: $color-life-insurance;
+      }
+    }
+
+    &.color-home:hover {
+      &:before {
+        background-color: $color-home;
+      }
+    }
+
+    &.color-business:hover {
+      &:before {
+        background-color: $color-business;
+      }
+    }
+
+    &.color-health:hover {
+      &:before {
+        background-color: $color-health;
+      }
+    }
+
+    .icon > img {
+      height: 70px;
+      margin-bottom: 8px;
+    }
+
+    &.color-motor {
+      border-color: $color-motor;
+    }
+
+    &.color-life-insurance {
+      border-color: $color-life-insurance;
+    }
+
+    &.color-home {
+      border-color: $color-home;
+    }
+
+    &.color-motor {
+      border-color: $color-motor;
+    }
+
+    &.color-business {
+      border-color: $color-business;
+    }
+
+    &.color-health {
+      border-color: $color-health;
+    }
+  }
+
+  &__overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 35px 25px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: flex-end;
+    flex-direction: column;
+
+    @include breakpoint(1140) {
+      padding: 45px 35px;
+    }
+  }
+}
+
+.list-axis__tag{
+  font-size: 14px;
+  font-weight: 500;
+  margin-top:16px;
+}         
+

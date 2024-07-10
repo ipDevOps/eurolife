@@ -1,0 +1,24 @@
+﻿---
+ID: "fa0a87ab-0657-41af-a18e-9558b96464a4"
+Parent: "25651102-a617-410b-b6ee-c595b53ae8bc"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/P/pinakas"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Πίνακας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T073022Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το έγγραφο που περιλαμβάνει, μεταξύ άλλων, πληροφορίες για τον ασφαλισμένο, την ασφαλισμένη περιουσία, την Περίοδο Ασφάλισης, τα Μέρη του Βιβλιαρίου και οποιουσδήποτε Δεσμευτικούς Όρους ή πρόσθετες Πράξεις που ισχύουν. Ο Πίνακας είναι μέρος του Ασφαλιστηρίου και βρίσκεται στην τελευταία σελίδα. Καινούργιος Πίνακας εκδίδεται εάν τροποποιηθεί το Ασφαλιστήριο.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

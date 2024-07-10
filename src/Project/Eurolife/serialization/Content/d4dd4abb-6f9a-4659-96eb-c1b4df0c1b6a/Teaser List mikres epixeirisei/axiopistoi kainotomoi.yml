@@ -1,0 +1,45 @@
+﻿---
+ID: "d970c33b-79e5-4098-82f9-7ff1e6317c9c"
+Parent: "5544cc63-09c0-417c-b438-89119c3e2907"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/omadiki-asfalisi-pronomia-prosopikou/_Local/Teaser List mikres epixeiriseis/axiopistoi kainotomoi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Ά&mu;&epsilon;&sigma;&eta; &Alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;, &mu;&epsilon; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &tau;&omicron; &alpha;&rho;&gamma;ό&tau;&epsilon;&rho;&omicron; &mu;έ&sigma;&alpha; &sigma;&epsilon; 10 &eta;&mu;έ&rho;&epsilon;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Αξιόπιστοι και καινοτόμοι
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T102606Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: In Any Case
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

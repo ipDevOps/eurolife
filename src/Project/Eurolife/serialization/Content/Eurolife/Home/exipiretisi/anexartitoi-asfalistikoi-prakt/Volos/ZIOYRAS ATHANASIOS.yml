@@ -1,0 +1,27 @@
+﻿---
+ID: "cb3e871c-dd3d-478d-b2af-bd72b4af0022"
+Parent: "3a6e5d67-cced-4f88-8b20-c3f69b34111d"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores/Volos/ZIOYRAS ATHANASIOS"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T120902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΖΙΟΥΡΑΣ ΑΘΑΝΑΣΙΟΣ
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2421033500
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: ziouras@vol.forthnet.gr

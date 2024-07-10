@@ -1,0 +1,25 @@
+﻿---
+ID: "e87a3e56-3fb1-4fc9-940d-642c9eb5ae20"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Se poies xores mporo na exo nosokomeiaki kalypsi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Σε ποιες χώρες µπορώ να έχω νοσοκοµειακή κάλυψη;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094913Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&epsilon;&lambda;&epsilon;&tau;ή&sigma;&tau;&epsilon; &tau;&omicron;&upsilon;&sigmaf; ό&rho;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; &tau;&iota;&sigmaf; &epsilon;&xi;&alpha;&iota;&rho;έ&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&alpha;&sigmaf; &gamma;&iota;&alpha; &nu;&alpha; &delta;&epsilon;ί&tau;&epsilon; &alpha;&nu; έ&chi;&epsilon;&tau;&epsilon; &pi;&alpha;&gamma;&kappa;ό&sigma;&mu;&iota;&alpha; &kappa;ά&lambda;&upsilon;&psi;&eta;.</span>

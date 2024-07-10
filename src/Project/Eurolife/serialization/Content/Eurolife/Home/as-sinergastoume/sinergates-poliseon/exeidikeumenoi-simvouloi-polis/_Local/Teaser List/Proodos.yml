@@ -1,0 +1,32 @@
+﻿---
+ID: "fd15fcea-c1f3-4152-b997-782da0b03b96"
+Parent: "c2e0575e-7b26-45e9-bf51-8b781c420c80"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/Teaser List/Proodos"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &alpha;&iota;&sigma;&iota;ό&delta;&omicron;&xi;&omicron;&iota; &kappa;&alpha;&iota; &alpha;&upsilon;&tau;ό &epsilon;&pi;&eta;&rho;&epsilon;ά&zeta;&epsilon;&iota; &tau;&omicron; &pi;ώ&sigmaf; &sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &kappa;&alpha;&iota; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &tau;&alpha; &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &kappa;&alpha;&iota; &tau;&iota;&sigmaf; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &mu;&alpha;&sigmaf;. &Epsilon;&nu;&epsilon;&rho;&gamma;&omicron;ύ&mu;&epsilon; &mu;&epsilon; &epsilon;&iota;&lambda;&iota;&kappa;&rho;ί&nu;&epsilon;&iota;&alpha; &kappa;&alpha;&iota; &delta;&iota;&alpha;&phi;ά&nu;&epsilon;&iota;&alpha;, &epsilon;&sigma;&tau;&iota;ά&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &pi;ά&nu;&tau;&alpha; &epsilon;&kappa;&epsilon;ί &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&omicron;ύ&mu;&epsilon; &nu;&alpha; &kappa;ά&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&eta; &delta;&iota;&alpha;&phi;&omicron;&rho;ά.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Προοδεύουμε, με αισιοδοξία.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T051501Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{F635CA48-769C-4034-BADE-6F1DF273EBE2}" ></image>

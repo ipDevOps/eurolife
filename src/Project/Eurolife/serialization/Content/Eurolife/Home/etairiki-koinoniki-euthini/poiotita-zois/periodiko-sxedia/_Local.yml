@@ -1,0 +1,18 @@
+﻿---
+ID: "6037e934-71f4-4f3a-8cf3-fc0de280b9ac"
+Parent: "f0ec7600-e9f6-40bd-ae1f-5f76ace5fef1"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/periodiko-sxedia/_Local"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T075843Z

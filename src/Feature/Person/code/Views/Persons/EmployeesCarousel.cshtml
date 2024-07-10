@@ -1,0 +1,52 @@
+﻿@using Wedia.Feature.Person
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+@{
+    if (Model == null || !Model.Any())
+    {
+        return;
+    }
+
+    string quotes = string.Empty;
+}
+
+<section class="people m-b-112">
+  <div class="center center--1100 t-c p-t-64 p-b-64 relator">
+    <h1 class="m-b-64 h3">@Html.Sitecore().Dictionary("/Person/Carousel/Title", "What our people said about us")</h1>
+    <div class="js-simple-slider slider-dotted">      
+      @foreach (var person in Model)
+      {
+        <div class="people__item">
+          <div class="people__image">
+            @Html.Sitecore().ImageField(Templates.HasPersonImage.Fields.Image, person)
+          </div>
+          <h3 class="h4 m-b-8 m-t-16">@Html.Sitecore().Field(Templates.Person.Fields.Name, person)</h3>
+          <div class="people__position m-b-48">@Html.Sitecore().Field(Templates.HasPersonPosition.Fields.Position, person)</div>
+          <div class="people__quote">
+            @Html.Sitecore().Field(Templates.HasPersonQuote.Fields.Quote, person)
+          </div>
+        </div>
+      }
+
+    </div>
+      
+    <div class="slick-prev">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+        <defs>
+          <path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z" />
+        </defs>
+        <use fill="#003B4D" fill-rule="nonzero" transform="rotate(-180 29.99 30)" xlink:href="#a" />
+      </svg>
+    </div>
+    <div class="slick-next">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+        <defs>
+          <path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z" />
+        </defs>
+        <use fill="#003B4D" fill-rule="nonzero" xlink:href="#a" />
+      </svg>
+    </div>
+  </div>
+</section>

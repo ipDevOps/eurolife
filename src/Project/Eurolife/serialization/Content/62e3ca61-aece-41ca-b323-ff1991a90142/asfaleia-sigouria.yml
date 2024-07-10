@@ -1,0 +1,30 @@
+﻿---
+ID: "af783eb8-b3a0-4607-a03e-6c52f33499a3"
+Parent: "62e3ca61-aece-41ca-b323-ff1991a90142"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/asfalistikoi sinergates/asfaleia-sigouria"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: "Ασφάλεια - Σιγουριά"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <ul>
+            <li>&Gamma;&iota;&alpha; &tau;&omicron; &epsilon;&iota;&sigma;ό&delta;&eta;&mu;ά &sigma;&alpha;&sigmaf;, &alpha;&pi;ό &tau;&omicron;&nu; &pi;&rho;ώ&tau;&omicron; &mu;ή&nu;&alpha; &epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha;&sigmaf; &sigma;&alpha;&sigmaf;</li>
+            <li>&Gamma;&iota;&alpha; &tau;&eta;&nu; &tau;ή&rho;&eta;&sigma;&eta; &tau;&omega;&nu; &delta;&epsilon;&sigma;&mu;&epsilon;ύ&sigma;&epsilon;ώ&nu; &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &theta;&alpha; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;&upsilon;&tau;&omicron;ύ&nu; &tau;&eta; &delta;&omicron;&upsilon;&lambda;&epsilon;&iota;ά &sigma;&alpha;&sigmaf;</li>
+            <li>&Gamma;&iota;&alpha; &tau;&eta;&nu; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &sigma;&alpha;&sigmaf; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;, &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &tau;&omega;&nu; &delta;&iota;&kappa;ώ&nu; &sigma;&alpha;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omega;&nu; </li>
+            <li>&Gamma;&iota;&alpha; &tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu; &sigma;&alpha;&sigmaf;</li>
+        </ul>

@@ -1,0 +1,18 @@
+﻿---
+ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+Parent: "e52283f5-8bbf-43c3-b314-ce5a9b26d04d"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Highlight/_HighlightMain/Content/HighlightTitle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T095215Z

@@ -1,0 +1,22 @@
+﻿---
+ID: "907df28b-fe15-4286-ad29-109bc7c0b98a"
+Parent: "6b1d70f2-b4cc-4640-aebe-14cb275985e3"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Media/Media File Toolkit Accordion
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/MediaFeature/MediaFileToolkitAccordion.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190521T073558Z
+    - ID: "77593ad2-0761-4d3e-8e17-82a304029640"
+      Hint: Supports Local Datasource
+      Type: Checkbox
+      Value: 1

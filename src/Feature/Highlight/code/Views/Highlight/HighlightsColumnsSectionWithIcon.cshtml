@@ -1,0 +1,57 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HighlightsGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightsGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+}
+
+@if (Model.Item.FieldHasValue(Templates.HighlightMain.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+{
+  <section id="hightlights-section" class="product-moto center center--1100">
+    <h1 class="h2 m-b-8 color-health">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title)</h1>
+    <p class="p-b-48">
+      @Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary)
+    </p>
+  </section>
+}
+
+<section class="highlights center--1100 center m-t-64 m-b-112">
+
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    foreach (var item in Model.Item.GetMultiListValueItems(Templates.HighlightsGroup.Fields.Highlights))
+    {
+      using (Html.BeginEditFrame(item.ID.ToString(), ""))
+      {
+        <div class="teaser teaser--highlight">
+
+          <div class="teaser-icon">
+            <img src="@item.ImageUrl(Templates.HasHighlightIcon.Fields.Icon)"
+                 alt="@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title, item, new { DisableWebEdit = true })" />
+          </div>
+    
+
+          <h2 class="h5 m-b-8 colored">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title, item)</h2>
+          <div class="teaser-highlight__text">
+            @Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary, item)
+          </div>
+
+          @if (item.DescendsFrom(Templates.HasHighlightCTA.ID))
+          {
+            <div class="teaser__btn">
+              @Html.Sitecore().Field(Templates.HasHighlightCTA.Fields.CTA, item, new { @class = "btn--default btn btn--dark" })
+            </div>
+          }
+
+        </div>
+      }
+    }
+  }
+</section>

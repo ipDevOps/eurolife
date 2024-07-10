@@ -1,0 +1,25 @@
+﻿---
+ID: "7cfeb8d8-cedb-4c2c-b0c5-e3ece8164c0d"
+Parent: "5c4643d2-b6af-4de0-b393-e7ca9ecd4d64"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Parapona/Ti theoreitai parapono
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Tι θεωρείται παράπονο;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T090256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Pi;&alpha;&rho;ά&pi;&omicron;&nu;&omicron; &theta;&epsilon;&omega;&rho;&epsilon;ί&tau;&alpha;&iota; &eta; &delta;ή&lambda;&omega;&sigma;&eta; &delta;&upsilon;&sigma;&alpha;&rho;έ&sigma;&kappa;&epsilon;&iota;&alpha;&sigmaf; &pi;&omicron;&upsilon; &alpha;&pi;&epsilon;&upsilon;&theta;ύ&nu;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&eta;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &alpha;&pi;ό &pi;&rho;ό&sigma;&omega;&pi;&omicron; &pi;&omicron;&upsilon; &sigma;&chi;&epsilon;&tau;ί&zeta;&epsilon;&tau;&alpha;&iota; &mu;&epsilon; &tau;&omicron; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;&omicron; ή &mu;&epsilon; &tau;&iota;&sigmaf; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &pi;&omicron;&upsilon; &tau;&omicron;&upsilon; &pi;&alpha;&rho;έ&chi;&omicron;&nu;&tau;&alpha;&iota;. &Eta; έ&nu;&nu;&omicron;&iota;&alpha; &tau;&omicron;&upsilon; &pi;&alpha;&rho;&alpha;&pi;ό&nu;&omicron;&upsilon; &delta;&epsilon;&nu; &pi;&epsilon;&rho;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&iota; &tau;&iota;&sigmaf; &alpha;&nu;&alpha;&gamma;&gamma;&epsilon;&lambda;ί&epsilon;&sigmaf; &alpha;&pi;&alpha;&iota;&tau;ή&sigma;&epsilon;&omega;&nu; ή &alpha;&iota;&tau;ή&sigma;&epsilon;&iota;&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf;, &omicron;ύ&tau;&epsilon; &tau;&alpha; &alpha;&pi;&lambda;ά &alpha;&iota;&tau;ή&mu;&alpha;&tau;&alpha; &pi;&omicron;&upsilon; &sigma;&chi;&epsilon;&tau;ί&zeta;&omicron;&nu;&tau;&alpha;&iota; &mu;&epsilon; &tau;&eta;&nu; &epsilon;&kappa;&tau;έ&lambda;&epsilon;&sigma;&eta; &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &kappa;&alpha;&iota; &tau;&eta;&nu; &pi;&alpha;&rho;&omicron;&chi;ή &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;&iota;ώ&nu; ή &delta;&iota;&epsilon;&upsilon;&kappa;&rho;&iota;&nu;ί&sigma;&epsilon;&omega;&nu;. &Pi;&rho;ό&sigma;&omega;&pi;&omicron; &pi;&omicron;&upsilon; &upsilon;&pi;&omicron;&beta;ά&lambda;&lambda;&epsilon;&iota; &tau;&omicron; &pi;&alpha;&rho;ά&pi;&omicron;&nu;&omicron; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &epsilon;ί&nu;&alpha;&iota; &omicron; &alpha;&nu;&tau;&iota;&sigma;&upsilon;&mu;&beta;&alpha;&lambda;&lambda;ό&mu;&epsilon;&nu;&omicron;&sigmaf;, &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;, &omicron; &delta;&iota;&kappa;&alpha;&iota;&omicron;ύ&chi;&omicron;&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf; ή &omicron; &zeta;&eta;&mu;&iota;&omega;&theta;&epsilon;ί&sigmaf; &tau;&rho;ί&tau;&omicron;&sigmaf;. </span>

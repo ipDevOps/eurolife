@@ -1,0 +1,24 @@
+﻿---
+ID: "f23bd8f4-2d52-4d8d-bcf4-e576fdbdaf20"
+Parent: "9204bc0a-9a21-49e4-b46f-64fbac1a1586"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/S/synasfalisi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Συνασφάλιση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T080102Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Αρχή, κατά την οποία η εταιρεία ασφαλίζει μόνο μέρος της πιθανής ζημιάς, ενώ ο ασφαλισμένος πληρώνει το άλλο μέρος.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

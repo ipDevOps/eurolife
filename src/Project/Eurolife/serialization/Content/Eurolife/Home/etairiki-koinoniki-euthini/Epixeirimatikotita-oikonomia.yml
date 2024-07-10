@@ -1,0 +1,187 @@
+﻿---
+ID: "9b399889-7f44-4a25-8adc-03bb67cd543d"
+Parent: "a5f4940a-1774-4a2d-b5c4-07c728cdf01a"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A06E4ADE-113C-403B-8D95-93E4957FB746}"
+              p:before="*"
+              s:ds="{3A62F5EB-0157-4919-8C72-7C2894624D69}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment&amp;Background=%7BF53D7E33-D5A7-4BD4-AFE9-3DB28EDAA7EB%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-3-{6E4948B2-7E87-42C5-8B4B-EF588D16FDCC}-0" />
+            <r
+              uid="{98E8D736-74E9-4E3F-BA82-4673F32F923E}"
+              p:after="r[@uid='{A06E4ADE-113C-403B-8D95-93E4957FB746}']"
+              s:ds="{7443AC05-D319-414B-99B8-438919C1CAFB}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment&amp;Background=%7BF53D7E33-D5A7-4BD4-AFE9-3DB28EDAA7EB%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-2-{6E4948B2-7E87-42C5-8B4B-EF588D16FDCC}-0" />
+            <r
+              uid="{3744EC6A-EA1D-41A6-871A-062EC60933CB}"
+              p:after="r[@uid='{98E8D736-74E9-4E3F-BA82-4673F32F923E}']"
+              s:ds="{CA0143E2-96A3-4090-8006-0D726D601F08}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment=%7B90C1EE80-932F-4C5F-9BAD-BCD954F6991D%7D&amp;Background=%7BF53D7E33-D5A7-4BD4-AFE9-3DB28EDAA7EB%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-1-{6E4948B2-7E87-42C5-8B4B-EF588D16FDCC}-0" />
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{025CBC0F-E30C-49AC-8699-5A703A0FD9C1}"
+              p:after="r[@uid='{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}']"
+              s:id="{34504938-755D-431A-BB30-FD36F57B6595}"
+              s:ph="page-layout" />
+            <r
+              uid="{1C53FFF0-606F-4465-8FEF-DE48D1EA9A5C}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{9B399889-7F44-4A25-8ADC-03BB67CD543D}"
+              s:id="{CFFFE422-9F95-454F-8C3E-9312C505222A}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "23ef204d-df36-447d-9e7d-8862c8b6455f"
+      Hint: IconImage
+      Value: |
+        <image mediaid="{E4BD4F77-EA16-4F91-ADE8-5804641C907A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T111212Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Επιχειρηματικότητα και Οικονομία
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Επιχειρηματικότητα και Οικονομία
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: 
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p>&Kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ά, &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &sigma;&upsilon;&sigma;&tau;&eta;&mu;&alpha;&tau;&iota;&kappa;ά &gamma;&iota;&alpha; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;ύ&nu;&alpha;&mu;&eta; &sigma;&epsilon; &epsilon;&kappa;&epsilon;ί&nu;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &beta;&lambda;έ&pi;&omicron;&upsilon;&nu; &tau;&eta; &zeta;&omega;ή &alpha;&iota;&sigma;&iota;ό&delta;&omicron;&xi;&alpha; &kappa;&alpha;&iota; &epsilon;&sigma;&tau;&iota;ά&zeta;&omicron;&upsilon;&nu; &sigma;&tau;&iota;&sigmaf; &theta;&epsilon;&tau;&iota;&kappa;έ&sigmaf; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;έ&sigmaf;. &Omicron;&iota; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf; &upsilon;&pi;ά&rho;&chi;&omicron;&upsilon;&nu; &kappa;&alpha;&iota;
+        &epsilon;&mu;&epsilon;ί&sigmaf; &epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &epsilon;&delta;ώ &gamma;&iota;&alpha; &nu;&alpha; &tau;&iota;&sigmaf; &epsilon;&nu;&theta;&alpha;&rho;&rho;ύ&nu;&omicron;&upsilon;&mu;&epsilon;.
+        </p>
+        <p>&Gamma;&iota;&alpha; &epsilon;&mu;ά&sigmaf;, &eta; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;&eta;&mu;&alpha;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha; έ&chi;&epsilon;&iota; &alpha;&pi;&epsilon;&rho;&iota;ό&rho;&iota;&sigma;&tau;&eta; &delta;ύ&nu;&alpha;&mu;&eta;.
+        </p>
+        <p>&Epsilon;ί&nu;&alpha;&iota; &mu;ί&alpha; &gamma;&nu;ώ&sigma;&eta; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&mu;&epsilon; &alpha;&pi;&omicron;&kappa;&tau;ή&sigma;&epsilon;&iota; &kappa;&alpha;&iota; &mu;&pi;&omicron;&rho;&omicron;ύ&mu;&epsilon; &nu;&alpha; &tau;&eta; &mu;&omicron;&iota;&rho;&alpha;&sigma;&tau;&omicron;ύ&mu;&epsilon;, &alpha;&pi;&omicron;&delta;&epsilon;&iota;&kappa;&nu;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&epsilon; &kappa;ά&theta;&epsilon; ά&nu;&theta;&rho;&omega;&pi;&omicron; ό&tau;&iota; έ&chi;&epsilon;&iota; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &nu;&alpha; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&sigma;&epsilon;&iota; &tau;&iota;&sigmaf; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;έ&sigmaf; &gamma;&iota;&alpha; &tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu;
+        &tau;&omicron;&upsilon;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: |
+        Πιστεύουμε ότι κάθε άνθρωπος πρέπει να έχει περισσότερες ευκαιρίες και επιλογές για ό,τι αφορά το μέλλον του, γι’ αυτό και ενθαρρύνουμε τις νέες ιδέες που δημιουργούν
+        αισιοδοξία και προοπτική.
+        
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{7ABCF259-9B26-4EBA-96BE-BAE9CA39BA3A}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Επιχειρηματικότητα και Οικονομία
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CF846E39-6348-4D3E-88CF-AAB00A660CD4}"
+              p:before="*"
+              s:ds="{CA0143E2-96A3-4090-8006-0D726D601F08}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{52BCE638-DAF5-4A7D-A1A8-1B95AC2B332D}-0" />
+            <r
+              uid="{3EB7B458-6C22-41A9-A846-CEEF61C2AF61}"
+              p:after="r[@uid='{88B91DF2-05C4-4CE5-A2AF-B1506006B971}']"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="page-layout" />
+            <r
+              uid="{52BCE638-DAF5-4A7D-A1A8-1B95AC2B332D}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{5AB969A5-F8B1-4BFA-8EA5-E6E09065DD32}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{3FFE80E4-04EE-486A-A656-0961E40367FB}"
+              p:after="*[1=2]"
+              s:ds="{98D0C2F9-5683-4D5E-BF97-40EE0BB990ED}"
+              s:id="{CFFFE422-9F95-454F-8C3E-9312C505222A}"
+              s:par=""
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T092833Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ποιότητα ζωής
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ποιότητα ζωής
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: Βρισκόμαστε δίπλα τους, σε ό,τι είναι σημαντικό για τους ίδιους και τη ζωή τους. Γι'αυτό και συνεργαζόμαστε με δύο οργανισμούς που έχουν στον πυρήνα των δραστηριοτήτων τους τον άνθρωπο.
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Υποστηρίζουμε την ευημερία των ανθρώπων και θέλουμε να χτίζουμε την αυτοπεποίθησή τους.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" src="" height="" mediaid="{71BC2865-797C-4F65-95D6-3CA4EBACD0D7}" hspace="" usethumbnail="" showineditor="" width="" alt="carousel_1920x680" vspace="" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ποιότητα ζωής

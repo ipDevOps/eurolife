@@ -1,0 +1,32 @@
+﻿---
+ID: "567ebe42-7de8-43a0-9114-b7c868bd2c96"
+Parent: "52a182b7-c526-4b6f-a5e2-758452bb6f34"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Teaser List oxima promo/epistrofi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Kappa;έ&rho;&delta;&iota;&sigma;&epsilon; &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &tau;&eta;&sigmaf; Eurolife ERB
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Πρόγραμμα Επιβράβευσης Πιστωτικών καρτών Eurobank
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T110330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6E40741C-28BC-4B53-947A-48CA8F8BF997}" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{D23F49C8-7071-4637-B18D-5134C91DDC26}"></image>

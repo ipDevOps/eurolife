@@ -1,0 +1,43 @@
+﻿---
+ID: "0b395f13-356f-48aa-9de5-0f6b2845bcd6"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/epixeirhsh-plhroi-tis-proupotheseis-gia-ygeia-asfaleia-sthn-ergasia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152942Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Η επιχείρηση στην οποία εργάζεστε πληροί τις προϋποθέσεις για την υγεία και την ασφάλεια στην εργασία;
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F5595893-93CA-43C1-A382-A5CEA55D9393}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p>Η <strong>υγεία και η ασφάλεια στην εργασία</strong> είναι πολύ σημαντική και μας αφορά όλους. Εκτός από τις υποχρεώσεις του εργοδότη και οι εργαζόμενοι με τη σειρά τους οφείλουν να είναι ενημερωμένοι, να χρησιμοποιούν σωστά τον εξοπλισμό τους, να ενημερώνουν τον εργοδότη για καταστάσεις που παρουσιάζουν άμεσο κίνδυνο και να βοηθούν στην υλοποίηση των απαιτήσεων που προάγουν την υγεία και την ασφάλεια στην εργασία.</p><p>Απαντήστε στις ερωτήσεις του quiz για να δείτε κατά πόσο η εταιρεία στην οποία εργάζεστε προάγει την υγεία και την ασφάλεια στην εργασία:</p><p><iframe data-rid-id="141673" width="600" height="600" frameborder="0" src="https://www.riddle.com/showcase/147730/quiz" title="List - Η επιχείρηση στην οποία εργάζεστε πληροί τις προϋποθέσεις για την υγεία και την ασφάλεια στην εργασία;"></iframe></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style=""text-align: justify;"">Με αφορμή την Παγκόσμια Ημέρα για την Υγεία και την Ασφάλεια στην Εργασία απαντήστε σε μερικές ερωτήσεις και διαπιστώστε εάν η επιχείρηση στην οποία εργάζεστε σας παρέχει τις κατάλληλες συνθήκες εργασίας και φροντίζει για την εκπαίδευσή σας γύρω από το θέμα.</p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{06EFBDAE-56AA-447F-80DC-37149D947CB2}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Η επιχείρηση στην οποία εργάζεστε πληροί τις προϋποθέσεις για την υγεία και την ασφάλεια στην εργασία;
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180426T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

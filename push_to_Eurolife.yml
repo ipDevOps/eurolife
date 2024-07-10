@@ -1,0 +1,33 @@
+trigger: 
+  branches:
+    include: 
+    - '*'
+
+variables:
+  url: github.com/ipDevOps/eurolife.git
+  username: ipDevOps
+  variable_token: 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
+  version: $(Build.BuildNumber)
+  branch: $(Build.SourceBranchName)
+
+pool:
+  vmImage: 'ubuntu-latest'
+# pool:
+#   name: 'DevOps'
+#   demands:
+#       - agent.name -equals InternalIT-Agent
+
+steps:
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: |
+      rm -r .git
+      git init
+      git branch -m master $(branch)
+      git config --global user.email "i.papadodimas@linakis.com"
+      git config --global user.name "Ilias"
+      git add .
+      git commit -m "Push New Release $(version)"
+      #git push -f https://ipDevOps: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@github.com/ipDevOps/eurolife.git $(branch)
+      git push -f https://$(username):$(variable_token)@$(url) $(branch)

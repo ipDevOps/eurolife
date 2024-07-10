@@ -1,0 +1,30 @@
+﻿---
+ID: "c785d633-de54-4321-aaee-b227442e9b60"
+Parent: "3a777b43-a696-49ea-b258-c0083985129c"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores/Athens/AMPNTELAL ANTZELA"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T115704Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΑΜΠΝΤΕΛΑΛ ΑΝΤΖΕΛΑ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6906900351
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: platinumgr.ins@gmail.com
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: "ΑΛΦΕΙΩΝΙΑΣ 3-5, 11632, AΘΗΝΑ"

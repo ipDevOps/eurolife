@@ -1,0 +1,32 @@
+﻿---
+ID: "bafe4562-f1aa-4786-a2ea-50f6e767e95d"
+Parent: "8d665b6d-c904-4387-a353-8f5359eb8eb2"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: /sitecore/content/Eurolife/Global/PDFs/AEGA/2019/10/04/12/46/Eurolife ERB
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T095446Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T050118Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Eurolife ERB

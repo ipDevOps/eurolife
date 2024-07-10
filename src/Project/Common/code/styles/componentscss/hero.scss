@@ -1,0 +1,137 @@
+/*------------------------------------*\
+  #HERO
+\*------------------------------------*/
+
+@import "../scss/base/mixins.scss";
+@import "../scss/base/variables.scss";
+
+.hero {
+  margin-right: 16px;
+
+
+  @include breakpoint(1140) {
+    margin-right: 24px;
+  }
+
+  @include breakpoint(1400) {
+    margin-right: 60px;
+  }
+
+  @include breakpoint(1700) {
+    margin-right: calc( (100vw - 1700px ) / 2 + 53px);
+  }
+
+  img {
+    width: 100%;
+    border-radius: 0 0 100px 0;
+    max-height: 576px;
+    object-fit: cover;
+  }
+}
+
+
+/*hero with extras*/
+.hero-contents{
+  position: absolute;
+  top: 0;
+  border: 0;
+  width: 100%;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+  justify-content: center;
+  @include breakpoint(1700) {
+    padding-left: calc((100vw - 1580px) / 2);
+  }
+
+  &:after{
+    content: '';
+    width: 100%;
+    height:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 0 0 100px 0;
+  }
+
+  h1{
+    color: #fff;
+  }
+  p{
+    font-size: 18px;
+    color: #fff;
+  }
+}
+
+
+.hero-contents__sup{
+  color:#fff;
+  margin-bottom: 34px;
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+  position: relative;
+
+  &:after{
+    content: '';
+    position: absolute;
+    bottom:-10px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height:1px;
+    width: 80%;
+    background-color: $color-base;
+  }
+}
+
+.hero-contents--plain{
+
+  position: absolute;
+  top: 0;
+  border: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+
+
+  &:after{
+    content: '';
+    width: 100%;
+    height:100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+
+  h1{
+    color: #fff;
+  }
+
+  p{
+    font-size: 18px;
+    color: #fff;
+  }
+}
+
+.hero-plain{
+  img{
+    object-fit: cover;
+    height: auto;
+    width:100%;
+  }
+}
+
+.hero--extra{
+  .h6{
+    font-weight: 500;
+    color:#fff;
+  }
+}

@@ -1,0 +1,65 @@
+﻿---
+ID: "97692f86-6a07-43ed-887b-2544c572d189"
+Parent: "b1a50b3f-65ca-4d54-bf27-66b537e06d78"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/_Local/my family first miniaio accordion highlights/apoleia zois apo atixima"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Απώλεια Ζωής από Ατύχημα
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ή &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha; &gamma;&iota;&alpha; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&omicron; &chi;&rho;&omicron;&nu;&iota;&kappa;ό &delta;&iota;ά&sigma;&tau;&eta;&mu;&alpha;, &kappa;&alpha;&tau;&alpha;&beta;ά&lambda;&lambda;&omicron;&nu;&tau;&alpha;&sigmaf; &kappa;&alpha;&theta;&omicron;&rho;&iota;&sigma;&mu;έ&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; &sigma;&tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &sigma;&alpha;&sigmaf; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha;&sigmaf; &zeta;&omega;ή&sigmaf; &alpha;&pi;ό &alpha;&tau;ύ&chi;&eta;&mu;&alpha;.</div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha;&sigmaf; &tau;&eta;&sigmaf; &zeta;&omega;ή&sigmaf; &sigma;&alpha;&sigmaf; &alpha;&pi;ό &alpha;&tau;ύ&chi;&eta;&mu;&alpha;. </span></li>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&Delta;&iota;&pi;&lambda;&alpha;&sigma;&iota;&alpha;&sigma;&mu;ό&sigmaf; &tau;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha;&sigmaf; &zeta;&omega;ή&sigmaf;, ό&pi;&omicron;&upsilon; &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; ή&tau;&alpha;&nu;:</span>
+            <ul>
+                <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&pi;&epsilon;&zeta;ό&sigmaf;, &theta;ύ&mu;&alpha; &tau;&rho;&omicron;&chi;&alpha;ί&omicron;&upsilon; &alpha;&tau;&upsilon;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf;</span></li>
+                <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&omicron;&delta;&eta;&gamma;ό&sigmaf; ή &sigma;&upsilon;&nu;&epsilon;&pi;&iota;&beta;ά&tau;&eta;&sigmaf; &sigma;&epsilon; &epsilon;&pi;&iota;&beta;&alpha;&tau;&iota;&kappa;ό &alpha;&upsilon;&tau;&omicron;&kappa;ί&nu;&eta;&tau;&omicron; &iota;&delta;&iota;&omega;&tau;&iota;&kappa;ή&sigmaf; &chi;&rho;ή&sigma;&eta;&sigmaf;</span></li>
+                <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&epsilon;&pi;&iota;&beta;ά&tau;&eta;&sigmaf; &sigma;&epsilon; &delta;&eta;&mu;ό&sigma;&iota;&omicron; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;&iota;&kappa;ό &mu;έ&sigma;&omicron;, &alpha;&lambda;&lambda;ά ό&chi;&iota; &omicron;&delta;&eta;&gamma;ό&sigmaf; ή &sigma;&upsilon;&nu;&epsilon;&pi;&iota;&beta;ά&tau;&eta;&sigmaf; &sigma;&epsilon; &mu;&omicron;&tau;&omicron;&sigma;&iota;&kappa;&lambda;έ&tau;&alpha;<br />
+                </span></li>
+            </ul>
+            </li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &epsilon;&pi;&iota;&lambda;έ&xi;&epsilon;&tau;&epsilon; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &iota;&sigma;&chi;ύ&omicron;&sigmaf; &tau;&eta;&sigmaf; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &alpha;&nu;ά&lambda;&omicron;&gamma;&alpha; &mu;&epsilon; &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &sigma;&alpha;&sigmaf;, &mu;&epsilon; &epsilon;&lambda;ά&chi;&iota;&sigma;&tau;&eta; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &tau;&alpha; 10 έ&tau;&eta;. <br />
+            &Eta; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &lambda;ή&gamma;&epsilon;&iota; &sigma;&tau;&omicron; 70&omicron; έ&tau;&omicron;&sigmaf; &tau;&eta;&sigmaf; &eta;&lambda;&iota;&kappa;ί&alpha;&sigmaf; &sigma;&alpha;&sigmaf; ή &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &mu;ό&nu;&iota;&mu;&eta;&sigmaf; &omicron;&lambda;&iota;&kappa;ή&sigmaf; ή &mu;&epsilon;&rho;&iota;&kappa;ή&sigmaf; &alpha;&nu;&iota;&kappa;&alpha;&nu;ό&tau;&eta;&tau;&alpha;&sigmaf; &alpha;&pi;ό &alpha;&sigma;&theta;έ&nu;&epsilon;&iota;&alpha; ή &alpha;&tau;ύ&chi;&eta;&mu;&alpha;.</span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>

@@ -1,0 +1,47 @@
+﻿---
+ID: "0ba067dd-ccd8-49da-85c4-036156fbd3d0"
+Parent: "525c696c-7999-4433-a823-cd06a385bae5"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Vehicle Panels/Troxospita/Attributes Categories/Secondary Healthcare
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {7420538A-F4AA-4CE4-A4CF-3510FCB689B4}
+        {7267F9EE-15CC-4347-B79C-60B5FD50A505}
+        {7C1CDAED-60CB-4B98-8974-A0D2D3485652}
+        {EB8DF9CA-E3DA-44F8-8528-E37874D11995}
+        {5EE88E3A-D3C8-43BD-AC33-D831E9B1EDF5}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

@@ -1,0 +1,26 @@
+﻿---
+ID: "89b7d6e7-a4b0-493c-a378-7b0c048cf6a7"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Ti tha symbei an den pliroso egkaira ta asfalistra tou Symbolaiou mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι θα συµβεί αν δεν πληρώσω έγκαιρα τα ασφάλιστρα του Συµβολαίου µου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T095011Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Eta; έ&nu;&alpha;&rho;&xi;&eta; &iota;&sigma;&chi;ύ&omicron;&sigmaf; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &epsilon;&nu;&epsilon;&rho;&gamma;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; &mu;&epsilon; &tau;&eta;&nu; &pi;&lambda;&eta;&rho;&omega;&mu;ή &tau;&omicron;&upsilon; &pi;&rho;ώ&tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omicron;&upsilon;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&epsilon; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;&alpha; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;&omicron;ύ &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omicron;&upsilon;, &sigma;&tau;&eta;&nu; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &mu;&eta; &pi;&lambda;&eta;&rho;&omega;&mu;ή&sigmaf; &epsilon;&pi;ό&mu;&epsilon;&nu;&omega;&nu; &delta;ό&sigma;&epsilon;&omega;&nu;, &tau;&omicron; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;&omicron; &alpha;&kappa;&upsilon;&rho;ώ&nu;&epsilon;&tau;&alpha;&iota;. &Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &pi;&omicron;&upsilon; έ&chi;&epsilon;&iota; &alpha;&pi;&omicron;&kappa;&tau;ή&sigma;&epsilon;&iota; &alpha;&xi;ί&alpha; &epsilon;&xi;&alpha;&gamma;&omicron;&rho;ά&sigmaf;, &gamma;ί&nu;&epsilon;&tau;&alpha;&iota; &epsilon;&lambda;&epsilon;ύ&theta;&epsilon;&rho;&omicron; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ώ&nu; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu;, &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &pi;ά&nu;&tau;&alpha; &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; ό&rho;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf;. </span></p>

@@ -1,0 +1,93 @@
+﻿---
+ID: "b69ee93d-198a-4634-b431-bdf57ebe8987"
+Parent: "9f486afa-7f59-4d25-9456-3f88ecfee18e"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/Diktyo-katastimaton-Eurobank"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{933EE1B3-F7BA-48C8-9CF3-C72894801E31}"
+              p:before="*"
+              s:id="{0C50FD78-8252-4FC9-B779-8222677467FA}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{7E4D18B4-0998-4680-AB4C-7141A694A573}"
+              p:after="r[@uid='{933EE1B3-F7BA-48C8-9CF3-C72894801E31}']"
+              s:id="{00C6C1FB-EB91-43A5-84EF-1F8B207496CC}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}">
+              <p:d />
+            </r>
+            <r
+              uid="{33F95C13-75B8-4328-A9AD-76788866C863}"
+              p:after="r[@uid='{910D84F1-7A4E-46C5-A0AA-39C463C70E0A}']"
+              s:ds=""
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:par="Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D"
+              s:ph="page-layout" />
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{88B91DF2-05C4-4CE5-A2AF-B1506006B971}">
+              <p:d />
+            </r>
+            <r
+              uid="{991190F8-E26F-463C-ABE4-1642CF1C25B9}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{8E754FB8-9911-4EB0-AB03-CD39D845F487}"
+              s:id="{7F610AEE-95C2-4814-9E1D-1E619ABCDE99}"
+              s:par="Alignment=%7B1168A85D-15F2-4335-8D86-CED079708B5A%7D&amp;Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D&amp;ContainerIsNotFullWidth=1&amp;FontColor"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T103854Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Δίκτυο Καταστημάτων
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Δίκτυο Καταστημάτων Eurobank
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p>&Tau;&alpha; &kappa;&alpha;&tau;&alpha;&sigma;&tau;ή&mu;&alpha;&tau;&alpha; Eurobank &kappa;&alpha;&iota; &Delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; &Nu;έ&omicron; &Tau;&alpha;&chi;&upsilon;&delta;&rho;&omicron;&mu;&iota;&kappa;ό &Tau;&alpha;&mu;&iota;&epsilon;&upsilon;&tau;ή&rho;&iota;&omicron; &sigma;&epsilon; ό&lambda;&eta; &tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &delta;&iota;&alpha;&theta;έ&tau;&omicron;&upsilon;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &tau;&eta;&sigmaf; Eurolife ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf;.
+        </p>
+        <p>&Epsilon;&iota;&delta;&iota;&kappa;ά &epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&mu;έ&nu;&omicron;&iota; &upsilon;&pi;ά&lambda;&lambda;&eta;&lambda;&omicron;&iota;, &pi;&iota;&sigma;&tau;&omicron;&pi;&omicron;&iota;&eta;&mu;έ&nu;&omicron;&iota; &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&eta;&nu; &iota;&sigma;&chi;ύ&omicron;&upsilon;&sigma;&alpha; &nu;&omicron;&mu;&omicron;&theta;&epsilon;&sigma;ί&alpha;, &sigma;&alpha;&sigmaf; &epsilon;&nu;&eta;&mu;&epsilon;&rho;ώ&nu;&omicron;&upsilon;&nu; &gamma;&iota;&alpha; &tau;&alpha; &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &alpha;&nu;&alpha;&lambda;&alpha;&mu;&beta;ά&nu;&omicron;&upsilon;&nu; &epsilon;&pi;&iota;&tau;ό&pi;&omicron;&upsilon; &tau;&iota;&sigmaf; &alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&epsilon;&sigmaf; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&epsilon;&sigmaf;. &Eta; &alpha;ί&tau;&eta;&sigma;&eta; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &eta; έ&kappa;&delta;&omicron;&sigma;&eta; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &gamma;ί&nu;&omicron;&nu;&tau;&alpha;&iota; &alpha;&pi;&lambda;ά &kappa;&alpha;&iota; &gamma;&rho;ή&gamma;&omicron;&rho;&alpha;.</p>
+        <a href="https://www.eurobank.gr/el/retail#GeoStart">&Beta;&rho;&epsilon;ί&tau;&epsilon; &kappa;&omicron;&nu;&tau;&iota;&nu;ό &kappa;&alpha;&tau;ά&sigma;&tau;&eta;&mu;&alpha;</a> &tau;&omicron;&upsilon; &Delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; Eurobank ή &Nu;έ&omicron; &Tau;&alpha;&chi;&upsilon;&delta;&rho;&omicron;&mu;&iota;&kappa;ό &Tau;&alpha;&mu;&iota;&epsilon;&upsilon;&tau;ή&rho;&iota;&omicron;.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Δίκτυο Καταστημάτων

@@ -1,0 +1,24 @@
+﻿---
+ID: "8031149d-d0be-4405-948c-168816f037f3"
+Parent: "99c43e69-bfca-4f55-a8c4-e063e9bfe513"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/A/asfalistikos-diamesolavitis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ασφαλιστικός Διαμεσολαβητής
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T210411Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Κάθε πρόσωπο, φυσικό ή νομικό, που αναλαμβάνει ή ασκεί δραστηριότητες ασφαλιστικής διαμεσολάβησης έναντι αμοιβής. Είναι υποχρεωτική η εγγραφή του στο επαγγελματικό επιμελητήριο.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "937b9b28-f539-48b3-8415-dc300df52625"
+Parent: "e1005094-5eac-49d8-a140-25ed9ae1cb3e"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/ygeia/ygeia vasika eggrafa pliroforion/2019/10
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T123417Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

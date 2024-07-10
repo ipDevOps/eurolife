@@ -1,0 +1,18 @@
+﻿---
+ID: "44d15980-f046-4b48-b865-6e54e897bcb1"
+Parent: "7280b3bc-0957-4070-8de2-713512b4c3f2"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/Oikonomika-stoixeia-omilou/Sinoptika oikonomika stoixeia/2019/10/04"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T124259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,36 @@
+﻿---
+ID: "f92c6e07-39be-4d63-a8b4-6fdc74887400"
+Parent: "fdc94fa4-02c8-415b-8742-197e2012d152"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/_Local/Teaser List/Mazi-epighanoume"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Omicron;&iota; &lambda;ό&gamma;&omicron;&iota; &pi;&omicron;&upsilon; &sigma;&tau;&eta;&nu; Eurolife ERB &mu;&epsilon;&gamma;&alpha;&lambda;ώ&nu;&omicron;&upsilon;&mu;&epsilon; &mu;&alpha;&zeta;ί &epsilon;ί&nu;&alpha;&iota; &pi;&omicron;&lambda;&lambda;&omicron;ί.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Μαζί επιτυγχάνουμε
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T194935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{0B6A121C-0C0F-4D41-8FE7-44D049116A7B}" querystring="" target="" text="ΔΕΙΤΕ ΤΑ ΠΡΟΝΟΜΙΑ" anchor="" url="/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Mazi-epitigxanoume" title="" class="" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{DE47DF37-F304-4B94-B79F-2FC224D10955}" />

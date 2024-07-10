@@ -1,0 +1,18 @@
+﻿---
+ID: "cdb46365-d728-48c2-8eb6-604dd8b92a9f"
+Parent: "3d83fc91-8358-4e1a-9cc1-fdf90c6e3ae2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Media/_HasMediaPublication/Publication
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T115209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

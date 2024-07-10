@@ -1,0 +1,23 @@
+﻿@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Blog.Models 
+@model IEnumerable<BlogPostItem>
+
+
+@if (Model != null && Model.Any())
+{
+  <section class="center center--1100 m-b-112 m-t-112"> 
+    <h1 class="h4 t-c m-b-8">@Html.Sitecore().Dictionary("/Blog/Articles/LatestTitle", "Latest articles")</h1>
+      
+    <div class="m-b-48 center--650 center t-c">
+        @Html.Sitecore().Dictionary("/Blog/Articles/LatestSubtitle", "Read more")
+      </div>
+     
+    <div class="list-grid">
+      @foreach (var item in Model)
+      {
+        @Html.Partial("_ArticleItem", item)
+      }
+      @Html.Partial("_NewsletterItem")
+    </div>
+  </section>
+}

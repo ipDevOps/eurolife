@@ -1,0 +1,19 @@
+﻿---
+ID: "d96fdf8b-d121-4aff-a368-84a14df1a9f4"
+Parent: "1ee4a2f5-213d-4c1d-995e-a19cca167d1f"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T081504Z

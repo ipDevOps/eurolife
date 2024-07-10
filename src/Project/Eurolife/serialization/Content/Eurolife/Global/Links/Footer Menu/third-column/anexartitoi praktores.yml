@@ -1,0 +1,59 @@
+﻿---
+ID: "cc9abc95-5b42-40a6-b83c-e4d151d0e7bb"
+Parent: "525d0b06-a114-4e28-bacb-5f882243b7e1"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Global/Links/Footer Menu/third-column/anexartitoi praktores"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190930T135828Z
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F504A856-2BE6-4D4A-83CE-9D3ED2123FBB}" />
+    - ID: "b8c12c18-dcef-4edf-a030-50a4a55bedac"
+      Hint: DividerBefore
+      Type: Checkbox
+      Value: 1
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ανεξάρτητοι πράκτορες, μεσίτες και συντονιστες
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T094253Z
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="Github" linktype="external" url="https://github.com" anchor="" title="" class="" querystring="" target="" id="{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Γραφείο Τύπου

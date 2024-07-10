@@ -1,0 +1,24 @@
+﻿---
+ID: "64d055cd-38ac-4781-a83f-f7483575454a"
+Parent: "25651102-a617-410b-b6ee-c595b53ae8bc"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/P/peristatiko-nosileias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Περιστατικό Νοσηλείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T073004Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Νοσηλεία λόγω ασθένειας που οφείλεται στην ασθένεια, καθώς και όλες οι σωματικές βλάβες που οφείλονται σε ατύχημα θα θεωρούνται σαν ένα Περιστατικό Νοσηλείας. Διαδοχικές νοσηλείες που οφείλονται στην ίδια αιτία ή στις επιπλοκές της θεωρούνται σαν ένα Περιστατικό Νοσηλείας, εφόσον δεν απέχουν μεταξύ τους περισσότερο από ενενήντα (90) ημέρες και υπό την προϋπόθεση ότι η Συμπληρωματική Κάλυψη Προγράμματος Υγείας είναι σε ισχύ.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

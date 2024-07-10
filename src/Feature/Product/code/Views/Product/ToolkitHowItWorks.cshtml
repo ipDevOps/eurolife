@@ -1,0 +1,31 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Product
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.HasProductToolkit.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasProductToolkit.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+}
+
+@if (!Model.Item.FieldHasValue(Templates.HasProductToolkit.Fields.HowItWorks) && !Sitecore.Context.PageMode.IsExperienceEditor)
+{
+    return;
+}
+
+<li>
+    <input type="checkbox" name="panel" id="panel-04">
+    <label for="panel-04">
+        @Html.Sitecore().Dictionary("/Product/Toolkit/How It Works", "How the process works")
+        <span class="accordion__state"></span>
+    </label>
+    <div class="accordion__content">
+        <div class="p-b-16">
+            @Html.Sitecore().Field(Templates.HasProductToolkit.Fields.HowItWorks)
+        </div>
+    </div>
+</li>

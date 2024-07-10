@@ -1,0 +1,27 @@
+﻿---
+ID: "3beb4f5f-d7b0-4a02-b640-7ac11462ea7d"
+Parent: "73047f68-664e-4419-9728-afbf28ce3a49"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/xrisima-eggrafa/_Local/eggrafa vasikon pliroforion astiki euthini"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T105253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {D9C65969-5204-4538-9C44-6C3E252FBFBF}
+        {0A85E4C3-AE41-41CC-91D6-3A83B280B1CE}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Έγγραφα Πληροφοριών Προϊόντων - Αστική Ευθύνη"

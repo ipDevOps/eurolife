@@ -1,0 +1,40 @@
+﻿---
+ID: "27e59c26-2c75-41c5-bc51-1cc45bd51069"
+Parent: "f2be096d-911f-4409-8a98-9ee16cb8b283"
+Template: "7002a34d-aa7b-48c1-9fbf-d2e89fcd69b2"
+Path: "/sitecore/content/Eurolife/Home/not-found"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T083942Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Δεν μπορούμε να βρούμε τη σελίδα που ζητάτε.
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        &Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &epsilon;&pi;&iota;&sigma;&tau;&rho;έ&psi;&epsilon;&tau;&epsilon; &sigma;&tau;&eta;&nu; <a href="/">&alpha;&rho;&chi;&iota;&kappa;ή &sigma;&epsilon;&lambda;ί&delta;&alpha;</a> ή &nu;&alpha; &epsilon;&nu;&eta;&mu;&epsilon;&rho;&omega;&theta;&epsilon;ί&tau;&epsilon; &gamma;&iota;&alpha; &tau;&alpha; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &alpha;&pi;&omicron;&tau;&alpha;&mu;ί&epsilon;&upsilon;&sigma;&eta;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191204T090614Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

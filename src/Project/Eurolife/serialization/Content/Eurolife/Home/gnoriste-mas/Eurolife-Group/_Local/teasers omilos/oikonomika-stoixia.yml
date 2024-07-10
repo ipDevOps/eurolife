@@ -1,0 +1,60 @@
+﻿---
+ID: "2ea7fd7b-865c-4ad5-b8e0-47cbd29e1726"
+Parent: "508a69e5-0ff7-4f1a-8dc1-38d94c6378d0"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/_Local/teasers omilos/oikonomika-stoixia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Sigma;&upsilon;&nu;&omicron;&pi;&tau;&iota;&kappa;ά &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &sigma;&tau;&omicron;&iota;&chi;&epsilon;ί&alpha; &kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &Epsilon;&kappa;&theta;έ&sigma;&epsilon;&iota;&sigmaf;<br />
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Οικονομικά Στοιχεία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T131444Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{C263C038-FB45-4C9C-A85D-71DFE20DCF6E}" querystring="" text="ΔΕΙΤΕ" linktype="internal" url="/Eurolife/Home/gnoriste-mas/Eurolife-Group/Oikonomika-stoixeia" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{92C843F7-A5AF-4523-B1FE-09A9DD98C15B}"></image>
+    - ID: "f51dd24c-64be-4832-9f98-e03f9e84fa63"
+      Hint: TeaserDownloadCTA
+      Value: |
+        <link text="FINANACIAL REPORT 2018" linktype="media" target="" id="{35DB3AA7-3935-4737-9C35-7DD150A9432B}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Η ιστορία μας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T084740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{E7088082-A118-422D-86EF-19D553D3D47F}" ></image>

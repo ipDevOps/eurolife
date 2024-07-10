@@ -1,0 +1,82 @@
+﻿---
+ID: "02372431-a234-447f-bd8a-eb62c88a2439"
+Parent: "6058db6b-d86f-44a4-b3bf-4629b9ae196d"
+Template: "47707496-be60-48c4-9a9a-2bb9de6b56d2"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/calculation-tool/Products List/perithalpsi gia olous"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "189b06cf-ca5b-4587-8766-45b0b3eeb05b"
+      Hint: CTA Text
+      Value: |
+        Με 99$/ χρονο για οικογένειες εως 5 μέλη
+        Με 99$/ χρονο για ατομική ασφάλιση
+        Διαγνωστικές εξετάσεις
+    - ID: "22da33a1-e5ac-4e48-aa4e-c82d41d33a7d"
+      Hint: Summary
+      Value: This is some content to show as a summary for to product selection list
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T110021Z
+    - ID: "3c37000c-2807-4cf8-bab3-5ad6a8841f8a"
+      Hint: CTA Title
+      Value: δες λεπτομέρειες
+    - ID: "415e0128-c0e5-4b50-999e-e5c47c395e9e"
+      Hint: Promo Second Title
+      Value: Εξασφαλίζω Προληψη
+    - ID: "51c5b69a-80ae-48a4-bf1c-eb9074cd14b1"
+      Hint: Tool CTA Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{25BCC0B2-B176-4483-8368-4ACE4DDDF0E4}" />
+    - ID: "5c09ae1d-5d01-4f12-ac56-4f5302581b9e"
+      Hint: CTA Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{25BCC0B2-B176-4483-8368-4ACE4DDDF0E4}" />
+    - ID: "5da991b0-0806-487c-af18-33c3a4a46aec"
+      Hint: Promo First Title
+      Value: Δειτε και το εξωνοσοκομειακο προγραμμα
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6643de71-10b8-4aa6-86f3-b3d4a63288e4"
+      Hint: Title
+      Value: Περίθαλψη για όλους
+    - ID: "759e6466-0c1b-4b96-b465-6e0c24a2c564"
+      Hint: Hospitalization Position
+      Value: Σουίτα
+    - ID: "7cf02413-6700-4f33-8180-4d511bd8da30"
+      Hint: Code
+      Value: 30293
+    - ID: "9bcded88-3317-4058-95b4-83301dd83985"
+      Hint: Exemption Amount
+      Value: "1500$ - 750$"
+    - ID: "a43e4f81-bbee-4f21-ab41-40f69371ebb1"
+      Hint: Tool CTA Title
+      Value: ΣΥΜΒΟΥΛΕΥΤΕΙΤΕ ΜΑΣ
+    - ID: "eec5187d-e5c9-4e44-ad9d-9feea629858b"
+      Hint: Full Description
+      Value: |
+        <h3 class="h4">700.000&euro;</h3>
+        <p>&alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &gamma;&iota;&alpha; &tau;&omicron; &kappa;&alpha;&theta;έ&nu;&alpha; &mu;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&alpha;&sigmaf; &sigma;&alpha;&sigmaf;</p>
+        <h3 class="h4">100%</h3>
+        <p>&alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &gamma;&iota;&alpha; &tau;&omicron; &kappa;&alpha;&theta;έ&nu;&alpha; &mu;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&alpha;&sigmaf; &sigma;&alpha;&sigmaf;</p>
+        <div class="m-t-24">
+        <a class="btn btn--ghost-rev btn--default">&Alpha;&Nu;&Alpha;&Lambda;&Upsilon;&Tau;&Iota;&Kappa;&Alpha;</a>
+        </div>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T105850Z
+    - ID: "6643de71-10b8-4aa6-86f3-b3d4a63288e4"
+      Hint: Title
+      Value: YPAO
+    - ID: "7cf02413-6700-4f33-8180-4d511bd8da30"
+      Hint: Code
+      Value: 30250

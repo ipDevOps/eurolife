@@ -1,0 +1,25 @@
+﻿---
+ID: "61f4aa1c-809b-4271-ab37-84921d5006bc"
+Parent: "e695305b-b056-484f-9289-9768370ea345"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Teasers/Colored Teaser Image
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Teasers/ColoredTeaserImage.cshtml
+- ID: "7d24e54f-5c16-4314-90c9-6051aa1a7da1"
+  Hint: Parameters Template
+  Value: "{56FA53F0-6E12-47DA-B8CE-0B6FC63F5A3D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T105655Z
+    - ID: "77593ad2-0761-4d3e-8e17-82a304029640"
+      Hint: Supports Local Datasource
+      Type: Checkbox
+      Value: 1

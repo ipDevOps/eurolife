@@ -1,0 +1,21 @@
+﻿---
+ID: "7717c5e5-a07c-46c3-8723-3c68b85c5423"
+Parent: "5c9deff1-393c-483e-a51a-21a057b9c5e3"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/exonosokomeiaki-perithalpsi/_Local/protovathmia/paroxes/etisia mikta asfalistra/etisia mikta asfalistra pronomio gia olous"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T090750Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Το κόστος για τον κυρίως ασφαλισμένο είναι €68. Το κόστος για το 1ο εξαρτώμενο μέλος είναι €55, για το 2ο εξαρτώμενο μέλος €30 και το κόστος για το 3ο και άνω, εξαρτώμενο μέλος είναι €20

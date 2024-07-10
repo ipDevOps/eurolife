@@ -1,0 +1,35 @@
+﻿---
+ID: "24f21182-cf0b-41e3-8b36-e8df7c59f386"
+Parent: "395e393b-3096-49ba-a7ba-4315cd46e447"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Panel/Product Panel/Cancel Button
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T101558Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Ακύρωση
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190603T102038Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Cancel
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

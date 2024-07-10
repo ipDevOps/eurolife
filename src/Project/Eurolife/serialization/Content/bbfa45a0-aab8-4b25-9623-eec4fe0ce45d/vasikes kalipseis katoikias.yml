@@ -1,0 +1,37 @@
+﻿---
+ID: "0841e23d-85e9-4290-9ded-3f29a02ca806"
+Parent: "bbfa45a0-aab8-4b25-9623-eec4fe0ce45d"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Attributes Categories/vasikes kalipseis katoikias
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {24BE1BF0-4070-430B-A14E-F61F13DEFE3F}
+        {26E21724-FACB-40FF-8017-6DFBEAE916A6}
+        {7BD7F018-A3FA-4E64-B2F1-6E6B50F935E1}
+        {29BBA440-7296-4FE5-B6BB-1A72027E4080}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T122931Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Βασικές καλύψεις κατοικίας

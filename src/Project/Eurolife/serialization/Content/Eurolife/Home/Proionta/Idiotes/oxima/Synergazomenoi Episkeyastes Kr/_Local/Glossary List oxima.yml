@@ -1,0 +1,33 @@
+﻿---
+ID: "3fc3182b-b1cd-4138-b6e6-485353e07333"
+Parent: "d96fdf8b-d121-4aff-a368-84a14df1a9f4"
+Template: "029f90fa-6f63-4d1d-ba0e-de4ea54426de"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Glossary List oxima
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ασφαλιστικό Λεξικό
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T143611Z
+    - ID: "58ae458f-3ad1-41d4-962d-d5b11002576d"
+      Hint: GlossaryItems
+      Type: TreelistEx
+      Value: |
+        {A80EC9DF-77F4-4BDF-86D7-E9F12D90FDCD}
+        {99534BE0-90F7-4E9C-8522-14FE4E918539}
+        {7C16A55A-405C-4C28-A805-7E1096A0C754}
+        {7988C444-CFC0-42A0-B5FF-5AD9FE5F2E76}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

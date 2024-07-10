@@ -1,0 +1,120 @@
+/*------------------------------------*\
+  #INPUTS
+\*------------------------------------*/
+
+.form{
+  label{
+    font-weight: 500;
+    font-size: 14px;
+  }
+  h2{
+    margin-top:0;
+    margin-bottom: 20px;
+
+    &.margin-double{
+      margin-bottom: 48px;
+    }
+  }
+}
+
+.form__group{
+  margin-bottom: 48px;
+}
+
+.form__item{
+  margin-bottom:20px;
+
+  label{
+    padding-left: 8px;
+    display: block;
+    transform: translateY(30px);
+    transition:transform 300ms ease;
+  }
+  input{
+    position: relative;
+    z-index: 2;
+    margin-bottom: 10px;
+    background: transparent;
+  }
+
+  &.filled{
+    label {
+      transform: translateY(10px);
+    }
+  }
+
+}
+
+.form__item-static{
+  margin-top:32px;
+  label{
+    padding-left: 8px;
+    display: block;
+  }
+  select{
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+}
+
+.form__item-upload{
+  padding:25px 35px;
+  label{
+    margin-right: 20px;
+    display: inline;
+    font-size: 16px;
+    font-weight: 500;
+    color:$dusky-blue;
+  }
+  background-color: #ecedf4;
+}
+
+
+.form__group--radio{
+  display: flex;
+  max-width: 70%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  >label {
+    font-size: 16px;
+    font-weight: 500;
+    flex-basis: 48%;
+  }
+
+  input[type="radio"] {
+    + label:after {
+      top: 6px;
+    }
+
+    + label:before {
+      top: 3px;
+    }
+  }
+}
+
+.form {
+  input[type=radio], input[type=checkbox] {
+    + label {
+      pointer-events: none;
+      margin-left: -30px;
+    }
+  }
+
+  .js-custom-radio > label {
+    cursor: pointer;
+
+    + label {
+      padding-left: 30px;
+    }
+  }
+
+  .js-custom-checkbox > label {
+    cursor: pointer;
+    padding-left: 30px;
+
+    + label {
+      padding-left: 30px;
+    }
+  }
+}

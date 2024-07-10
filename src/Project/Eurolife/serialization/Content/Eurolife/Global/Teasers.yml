@@ -1,0 +1,18 @@
+﻿---
+ID: "2bb88d51-eae0-4aa1-ac42-d14ab7f3d866"
+Parent: "1ad270cf-7ede-46b5-b9ab-3ab4d043f299"
+Template: "aacf7182-8b54-4b5c-8957-aa1369d879c9"
+Path: /sitecore/content/Eurolife/Global/Teasers
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T110126Z

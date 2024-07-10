@@ -1,0 +1,74 @@
+﻿---
+ID: "da885d0e-d161-4813-9503-d200b3a94d81"
+Parent: "0699e109-6692-4182-a4b8-6075f119d754"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/zoi-igeia-atixima/_Local/omadiki asfalisi Highlights Group/perithalpsi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: "Περίθαλψη - Ετήσιο Μικτό Ασφάλιστρο € 209,25"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__right contentgroup__tick">
+        <p><strong>&Alpha;&nu;ώ&tau;&alpha;&tau;&omicron; &pi;&omicron;&sigma;ό &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &gamma;&iota;&alpha; έ&xi;&omicron;&delta;&alpha; &Epsilon;&nu;&tau;ό&sigmaf; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron;&upsilon;</strong></p>
+        <ul>
+            <li>&euro; 10.000</li>
+        </ul>
+        <p><strong>&Alpha;&pi;ό&delta;&omicron;&sigma;&eta; &Epsilon;&xi;ό&delta;&omega;</strong>&nu;</p>
+        <ul>
+            <li>&Epsilon;ί&delta;&omicron;&sigmaf; &Nu;&omicron;&sigma;&kappa;&omicron;&mu;&epsilon;ί&omicron;&upsilon; - &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; / &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;</li>
+            <li>&Sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&alpha; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&alpha; - 80% / 20%</li>
+            <li>&Mu;&eta; &Sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&alpha; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&alpha; - 70% / 30%</li>
+            <li>&Delta;&eta;&mu;ό&sigma;&iota;&alpha; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&alpha; - 100% / 0%</li>
+        </ul>
+        <p><strong>&Alpha;&nu;ώ&tau;&alpha;&tau;&omicron; &kappa;&alpha;&tau;&alpha;&beta;&alpha;&lambda;&lambda;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &tau;&eta;&nu; &eta;&mu;έ&rho;&alpha; &gamma;&iota;&alpha; &delta;&omega;&mu;ά&tau;&iota;&omicron; &kappa;&alpha;&iota; &tau;&rho;&omicron;&phi;ή, &gamma;&iota;&alpha; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;</strong></p>
+        <ul>
+            <li>&Sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; B' &theta;έ&sigma;&eta;</li>
+            <li>&Epsilon;&kappa;&tau;ό&sigmaf; &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf; 400&euro;</li>
+            <li>&Sigma;&epsilon; &Mu;.&Epsilon;.&Theta;. (&mu;&epsilon; &alpha;&nu;ώ&tau;&alpha;&tau;&omicron; ό&rho;&iota;&omicron; 14 &eta;&mu;έ&rho;&epsilon;&sigmaf;) 400&euro;</li>
+        </ul>
+        <p><strong>&Alpha;&mu;&omicron;&iota;&beta;έ&sigmaf; &theta;&epsilon;&rho;&alpha;&pi;ό&nu;&tau;&omega;&nu; &iota;&alpha;&tau;&rho;ώ&nu;, &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;ώ&nu; ή &beta;&omicron;&eta;&theta;ώ&nu; &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;ώ&nu; ή &alpha;&nu;&alpha;&iota;&sigma;&theta;&eta;&sigma;&iota;&omicron;&lambda;ό&gamma;&omega;&nu;</strong></p>
+        <ul>
+            <li>&Sigma;&tau;&alpha; &Sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&alpha; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&alpha; &chi;&omega;&rho;ί&sigmaf; &alpha;&nu;ώ&tau;&alpha;&tau;&omicron; ό&rho;&iota;&omicron;. &Sigma;&tau;&alpha; &Mu;&eta; &Sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&alpha; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&alpha; &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &pi;ί&nu;&alpha;&kappa;&alpha; &alpha;&mu;&omicron;&iota;&beta;ώ&nu;</li>
+        </ul>
+        <p><strong>&Delta;&alpha;&pi;ά&nu;&epsilon;&sigmaf; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron;&upsilon;-&Kappa;&lambda;&iota;&nu;&iota;&kappa;ή<br />
+        &Eta;&mu;&epsilon;&rho;ή&sigma;&iota;&epsilon;&sigmaf; &theta;&epsilon;&rho;&alpha;&pi;&epsilon;ί&epsilon;&sigmaf; ή &epsilon;&pi;&epsilon;&mu;&beta;ά&sigma;&epsilon;&iota;&sigmaf;</strong></p>
+        <ul>
+            <li>&Chi;&omega;&rho;ί&sigmaf; &epsilon;&pi;&iota;&mu;έ&rho;&omicron;&upsilon;&sigmaf; ό&rho;&iota;&alpha;</li>
+        </ul>
+        <p><strong>&Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &epsilon;&pi;ί&delta;&omicron;&mu;&alpha;</strong><br />
+        (&Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &sigma;&epsilon; &Delta;&eta;&mu;ό&sigma;&iota;&omicron; ή &Iota;&delta;&iota;&omega;&tau;&iota;&kappa;ό &Nu;&omicron;&sigma;&eta;&lambda;&epsilon;&upsilon;&tau;&iota;&kappa;ό ί&delta;&rho;&upsilon;&mu;&alpha; &kappa;&alpha;&iota; &chi;&omega;&rho;ί&sigmaf; &nu;&alpha; &upsilon;&pi;&omicron;&beta;&lambda;&eta;&theta;&omicron;ύ&nu; έ&xi;&omicron;&delta;&alpha; &Nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf;)<br />
+        Screen reader support enabled.</p>
+        <ul>
+            <li>&euro; 50 &eta;&mu;&epsilon;&rho;ή&sigma;&iota;&alpha; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;</li>
+            <li>30 &eta;&mu;έ&rho;&epsilon;&sigmaf; &alpha;&nu;ώ&tau;&alpha;&tau;&omicron;&sigmaf; &alpha;&rho;&iota;&theta;&mu;ό&sigmaf; &eta;&mu;&epsilon;&rho;ώ&nu; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή&sigmaf;</li>
+        </ul>
+        <p><strong>&Chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ό &epsilon;&pi;ί&delta;&omicron;&mu;&alpha;</strong><br />
+        (&Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &pi;&omicron;&upsilon; &omicron; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; &upsilon;&pi;&omicron;&beta;&lambda;&eta;&theta;&epsilon;ί &sigma;&epsilon; &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ή &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta; &sigma;&epsilon; &Delta;&eta;&mu;ό&sigma;&iota;&omicron; ή &Iota;&delta;&iota;&omega;&tau;&iota;&kappa;ό &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron; &lambda;ό&gamma;&omega; &Alpha;&tau;&upsilon;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf; ή &Alpha;&sigma;&theta;έ&nu;&epsilon;&iota;&alpha;&sigmaf;, &kappa;&alpha;&iota; &delta;&epsilon;&nu; &pi;&rho;&omicron;&sigma;&kappa;&omicron;&mu;ί&sigma;&epsilon;&iota; έ&xi;&omicron;&delta;&alpha; &tau;ό&tau;&epsilon;, &eta; &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &kappa;&alpha;&tau;&alpha;&beta;ά&lambda;&lambda;&epsilon;&iota; &sigma;&tau;&omicron;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron; &tau;&omicron; &pi;&omicron;&sigma;ό, &alpha;&nu;ά&lambda;&omicron;&gamma;&alpha; &tau;&eta; &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ή &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;)</p>
+        <ul>
+            <li>έ&omega;&sigmaf; &tau;&omicron; &pi;&omicron;&sigma;ό &tau;&omega;&nu; 1.000 &euro; &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&eta;&nu; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;ί&alpha; &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;&sigmaf;</li>
+        </ul>
+        <p><strong>&Epsilon;&tau;ή&sigma;&iota;&omicron; &mu;&iota;&kappa;&tau;ό &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&omicron;</strong></p>
+        <ul>
+            <li>&euro; 209,25</li>
+        </ul>
+        </div>
+        </div>

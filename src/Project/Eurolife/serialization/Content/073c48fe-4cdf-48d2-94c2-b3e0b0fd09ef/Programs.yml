@@ -1,0 +1,29 @@
+﻿---
+ID: "5353709d-4258-4b30-b07a-5355d61de473"
+Parent: "073c48fe-4cdf-48d2-94c2-b3e0b0fd09ef"
+Template: "15969015-aacf-41fe-b141-cfa5c1a0f658"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T202738Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082839Z

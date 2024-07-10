@@ -1,0 +1,18 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserHeadline.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserHeadline.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<span class="figures__text_l">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</span>
+<span class="figures__text_m">@Html.Sitecore().Field(Templates.HasTeaserLabel.Fields.Label)</span>
+<div class="figures__text_s">@Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)</div>

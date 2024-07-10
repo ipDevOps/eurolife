@@ -1,0 +1,18 @@
+﻿---
+ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+Parent: "9cc5098c-75e6-4195-aa50-06e1f46b5129"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Panels/_Panel/Content/PanelTitle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T083811Z

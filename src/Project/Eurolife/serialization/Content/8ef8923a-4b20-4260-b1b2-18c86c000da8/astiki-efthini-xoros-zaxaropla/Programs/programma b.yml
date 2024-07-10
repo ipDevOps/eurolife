@@ -1,0 +1,28 @@
+﻿---
+ID: "500584af-5662-4dd8-9fa5-becc9a13f633"
+Parent: "daea81f0-5331-491d-a637-0aad25ff19f9"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/astiki-efthini/_Local/panel-mikres-epixeiriseis-astiki-euthini/astiki-efthini-xoros-zaxaroplasteia/Programs/programma b"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190910T072705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Πρόγραμμα Β
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {2DC54170-736D-47A6-9E80-29EE24B616C0}
+        {BF553391-C090-4375-9107-EC2B30DE1DF7}
+        {36BEC7A9-9071-4027-B423-F1A3405AB86E}

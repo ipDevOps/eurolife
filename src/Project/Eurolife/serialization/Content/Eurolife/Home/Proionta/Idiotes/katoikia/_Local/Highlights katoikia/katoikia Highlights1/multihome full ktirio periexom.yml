@@ -1,0 +1,71 @@
+﻿---
+ID: "1e26f46f-9ba0-415f-969e-b0881a676060"
+Parent: "3c76ad9a-81bf-4e8e-9206-6f426d03b220"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/Highlights katoikia/katoikia Highlights1/multihome full ktirio periexomeno1
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T083127Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Multihome Ολοκληρωμένο
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        &Pi;&rho;ό&sigma;&theta;&epsilon;&tau;&epsilon;&sigmaf; &Kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf; &Pi;&epsilon;&rho;&iota;&epsilon;&chi;&omicron;&mu;έ&nu;&omicron;&upsilon;</div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>&Pi;&rho;&omicron;&sigma;&omega;&rho;&iota;&nu;ή &kappa;&alpha;&tau;&omicron;&iota;&kappa;ί&alpha;, έ&xi;&omicron;&delta;&alpha; &amp; &zeta;&eta;&mu;ί&epsilon;&sigmaf; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;ά&sigmaf;</li>
+            <li>&Alpha;&lambda;&lambda;&omicron;ί&omega;&sigma;&eta; &tau;&rho;&omicron;&phi;ί&mu;&omega;&nu;</li>
+            <li>&Beta;&rho;&alpha;&chi;&upsilon;&kappa;ύ&kappa;&lambda;&omega;&mu;&alpha; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&iota;&kappa;ώ&nu; &mu;&eta;&chi;&alpha;&nu;ώ&nu;&gt;</li>
+            <li>&Tau;&upsilon;&chi;&alpha;ί&alpha; &zeta;&eta;&mu;&iota;ά &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ώ&nu; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;ώ&nu;</li>
+            <li>&Pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ό &alpha;&tau;ύ&chi;&eta;&mu;&alpha;</li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        &Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta;</div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>&Omicron;&iota;&kappa;&omicron;&gamma;&epsilon;&nu;&epsilon;&iota;&alpha;&kappa;ή &Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta;</li>
+            <li>&Alpha;&sigma;&tau;&iota;&kappa;ή &epsilon;&upsilon;&theta;ύ&nu;&eta; &alpha;&pi;ό &delta;&iota;&alpha;&rho;&rho;&omicron;ή &nu;&epsilon;&rho;ώ&nu;</li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <strong></strong>
+        <div class="contentgroup__left">
+        <div class="contentgroup__title"> &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info"> &Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf;</div>
+        </div>
+        <ul>
+            <li>&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; ά&mu;&epsilon;&sigma;&eta;&sigmaf; &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;&sigmaf;</li>
+            <li>&Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;&epsilon;&upsilon;&tau;&iota;&kappa;ή &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &beta;&omicron;ή&theta;&epsilon;&iota;&alpha;&sigmaf;</li>
+            <li>&Nu;&omicron;&mu;&iota;&kappa;ή &pi;&rho;&omicron;&sigma;&tau;ά&sigma;ί&alpha;</li>
+        </ul>

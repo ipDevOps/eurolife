@@ -1,0 +1,64 @@
+﻿@using Sitecore
+@using Sitecore.Data.Items
+@using Sitecore.Resources.Media
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+
+
+<section class="hero-simple m-b-112 relator">
+
+  <div class="hero-simple__contents">
+    <div class="center--760 center relator">
+      <h1 class="h2 m-b-16">@Html.Sitecore().Field("Title")</h1>
+      <p class=" m-b-64">@Html.Sitecore().Field("Summary")</p>
+
+      @{
+        <a class="btn btn--ghost btn--play" data-fancybox="hero-video" href="@Html.Sitecore().Field("VideoURL", new { DisableWebEdit = true })">
+          @Html.Sitecore().Dictionary("/EurobankHealthTool/Landing/Hero CTA", "Hero CTA")
+          <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+            <path fill="#fff" fill-rule="nonzero" d="M30 57C15.088 57 3 44.912 3 30S15.088 3 30 3s27 12.088 27 27-12.088 27-27 27zm0-2c13.807 0 25-11.193 25-25S43.807 5 30 5 5 16.193 5 30s11.193 25 25 25zm-6-14.93L38.266 30 24 19.93v20.14zM22 42V18a1 1 0 0 1 1.577-.817l17 12a1 1 0 0 1 0 1.634l-17 12A1 1 0 0 1 22 42z" />
+          </svg>
+        </a>
+      }
+
+
+    </div>
+  </div>
+
+
+
+  @{
+    var currentItem = Sitecore.Context.Item;
+    var desktopImageUrl = string.Empty;
+    var mobileImageUrl = string.Empty;
+
+    Sitecore.Data.Fields.ImageField desktopImageField = currentItem.Fields["DesktopImage"];
+
+    if (desktopImageField?.MediaItem != null)
+    {
+      var image = new MediaItem(desktopImageField.MediaItem);
+      desktopImageUrl = StringUtil.EnsurePrefix('/', MediaManager.GetMediaUrl(image));
+    }
+
+    Sitecore.Data.Fields.ImageField mobileImageField = currentItem.Fields["MobileImage"];
+
+    if (mobileImageField?.MediaItem != null)
+    {
+      var image = new MediaItem(mobileImageField.MediaItem);
+      mobileImageUrl = StringUtil.EnsurePrefix('/', MediaManager.GetMediaUrl(image));
+    }
+
+  }
+
+
+  <picture>
+    <source media="(min-width: 900px)" srcset="@desktopImageUrl">
+    <source srcset="@mobileImageUrl">
+    <img src="@desktopImageUrl" alt="@Html.Sitecore().Field("Title")">
+  </picture>
+
+
+
+</section>

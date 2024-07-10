@@ -1,0 +1,25 @@
+﻿---
+ID: "ef87739e-162a-4705-a0ec-052fbf761d56"
+Parent: "1a46b834-01f1-4cf9-a127-004a199c91cd"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/_Local/Highlights"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190927T081711Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T105333Z

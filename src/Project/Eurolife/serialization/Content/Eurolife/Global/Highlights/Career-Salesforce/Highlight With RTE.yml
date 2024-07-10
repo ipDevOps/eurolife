@@ -1,0 +1,30 @@
+﻿---
+ID: "0228b0b9-a511-4cd8-b3e1-22c3fa96d325"
+Parent: "cfecbd00-e7dd-4708-a43b-469ccbe2f844"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Global/Highlights/Career-Salesforce/Highlight With RTE"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191013T202824Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: test
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <p>- Ό&lambda;&omicron;&iota; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; έ&chi;&omicron;&upsilon;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &gamma;&iota;&alpha; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &epsilon;&iota;&sigma;&omicron;&delta;ή&mu;&alpha;&tau;&omicron;&sigmaf; &kappa;&alpha;&iota; &kappa;&alpha;&rho;&iota;έ&rho;&alpha;&sigmaf;
+        </p>
+        <p>- &Eta; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;&alpha; &epsilon;ί&nu;&alpha;&iota; έ&nu;&alpha; &beta;ή&mu;&alpha; &pi;&rho;&omicron;&sigmaf; &tau;&omicron; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron;, &sigma;&epsilon; &kappa;ά&theta;&epsilon; &epsilon;&pi;ί&pi;&epsilon;&delta;&omicron;
+        </p>
+        <p>- &Eta; &epsilon;&upsilon;&theta;ύ&nu;&eta; &tau;&omega;&nu; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;ά&tau;&omega;&nu; &epsilon;ί&nu;&alpha;&iota; &delta;&iota;&kappa;ή &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &kappa;&alpha;&nu;&epsilon;&nu;ό&sigmaf; ά&lambda;&lambda;&omicron;&upsilon;</p>
+        <p>- &Tau;&omicron; ά&tau;&omicron;&mu;&omicron; &pi;&rho;&omicron;&omicron;&delta;&epsilon;ύ&epsilon;&iota; ό&tau;&alpha;&nu; &pi;&rho;&omicron;&omicron;&delta;&epsilon;ύ&epsilon;&iota; &eta; &omicron;&mu;ά&delta;&alpha;</p>

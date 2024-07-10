@@ -1,0 +1,14 @@
+﻿---
+ID: "cf69bf50-9338-4015-bd6c-4c7e0548a840"
+Parent: "8aef3bad-abbb-42ac-b5ac-5bde9da54757"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/Pricing Docs/2020/02
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200212T090954Z

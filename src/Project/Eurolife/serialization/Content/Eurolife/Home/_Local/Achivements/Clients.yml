@@ -1,0 +1,31 @@
+﻿---
+ID: "f596846f-89a1-4e2e-bcc5-982698ed41c2"
+Parent: "7aa0aa02-a4c4-4b4a-afdf-43dea2e27b48"
+Template: "4c28a5e8-92a3-480d-8b55-fbf0b9edfd2f"
+Path: /sitecore/content/Eurolife/Home/_Local/Achivements/Clients
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf;
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: εκατ.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 450
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190821T085141Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{AE79C71B-8BBF-42B9-97BD-AC8EB2011EA4}" />

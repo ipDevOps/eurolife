@@ -1,0 +1,77 @@
+﻿---
+ID: "03f5c0b6-86c3-4270-956e-3fe54e363d37"
+Parent: "290d63db-48f1-40c0-95aa-58a8b61da9a6"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/14/59/gia-7i-xronia-pragmatopoiithikan-oi-brabeyseis-diktyou-synergaton-tis-eurolife-erb-asfalistikis"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{053C3AA4-48B5-47AC-8899-4FD964460944}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T145904Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Για 7η χρονιά πραγματοποιήθηκαν οι βραβεύσεις δικτύου συνεργατών της Eurolife ERB Ασφαλιστικής
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p><strong>&Eta; &chi;&rho;ή&sigma;&eta; &epsilon;&tau;&alpha;&iota;&rho;&iota;&kappa;&omicron;ύ &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omicron;&upsilon;, &omega;&sigmaf; έ&pi;&alpha;&theta;&lambda;&omicron;</strong></p>
+        <p>&Tau;&eta;&nu; &epsilon;&tau;ή&sigma;&iota;&alpha; &tau;&epsilon;&lambda;&epsilon;&tau;ή &epsilon;&pi;&iota;&beta;&rho;ά&beta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &tau;&omicron;&upsilon; &delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &mu;&epsilon; &chi;&rho;ή&sigma;&eta; &epsilon;&tau;&alpha;&iota;&rho;&iota;&kappa;&omicron;ύ &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omicron;&upsilon; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&epsilon; &pi;&rho;ό&sigma;&phi;&alpha;&tau;&alpha; &eta; Eurolife ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &tau;&eta;&sigmaf; &omicron;&lambda;&omicron;&kappa;&lambda;ή&rho;&omega;&sigma;&eta;&sigmaf; &tau;&omicron;&upsilon; &delta;&iota;&alpha;&gamma;&omega;&nu;&iota;&sigma;&mu;&omicron;ύ &pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &gamma;&iota;&alpha; &tau;&omicron; 2017. &Pi;&rho;ό&kappa;&epsilon;&iota;&tau;&alpha;&iota; &gamma;&iota;&alpha; &tau;&omicron;&nu; 7o &kappa;&alpha;&tau;ά &sigma;&epsilon;&iota;&rho;ά &delta;&iota;&alpha;&gamma;&omega;&nu;&iota;&sigma;&mu;ό, &pi;&omicron;&upsilon; &sigma;&tau;ό&chi;&omicron; έ&chi;&epsilon;&iota; &tau;&eta;&nu; &epsilon;&pi;&iota;&beta;&rho;ά&beta;&epsilon;&upsilon;&sigma;&eta; &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf;, &pi;&omicron;&upsilon; &pi;έ&tau;&upsilon;&chi;&alpha;&nu; &kappa;&alpha;&tau;ά &tau;&eta; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &tau;&eta;&sigmaf; &chi;&rho;&omicron;&nu;&iota;ά&sigmaf; &alpha;ύ&xi;&eta;&sigma;&eta; &tau;&eta;&sigmaf; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &tau;ό&sigma;&omicron; &sigma;&tau;&iota;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&iota;&sigmaf; &Zeta;&omega;ή&sigmaf;, ό&sigma;&omicron; &kappa;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;έ&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&iota;&sigmaf;.</p>
+        <p>&Tau;&omicron; έ&pi;&alpha;&theta;&lambda;&omicron; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &nu;&iota;&kappa;&eta;&tau;έ&sigmaf; ή&tau;&alpha;&nu; &eta; &chi;&rho;ή&sigma;&eta; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&omega;&nu; &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omega;&nu; &pi;ό&lambda;&eta;&sigmaf; &mu;&epsilon; &sigma;ή&mu;&alpha;&nu;&sigma;&eta; Eurolife ERB, &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&nu;&tau;&alpha;&sigmaf; ά&nu;&epsilon;&sigma;&eta; &kappa;&alpha;&iota; &epsilon;&upsilon;&kappa;&omicron;&lambda;ί&alpha; &sigma;&tau;&eta; &mu;&epsilon;&tau;&alpha;&kappa;ί&nu;&eta;&sigma;&eta;. &Sigma;&tau;&eta; &phi;&epsilon;&tau;&iota;&nu;ή &tau;&epsilon;&lambda;&epsilon;&tau;ή &delta;ό&theta;&eta;&kappa;&alpha;&nu; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ά 12 &alpha;&upsilon;&tau;&omicron;&kappa;ί&nu;&eta;&tau;&alpha; (3 Mercedes A-Class &kappa;&alpha;&iota; 9 Toyota Aygo), &epsilon;&pi;&iota;&beta;&rho;&alpha;&beta;&epsilon;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;ή &tau;&omicron;&upsilon; &delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; &sigma;&tau;&eta; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ή &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;.</p>
+        <p>&Tau;&alpha; &beta;&rho;&alpha;&beta;&epsilon;ί&alpha; &sigma;&tau;&omicron;&upsilon;&sigmaf; &nu;&iota;&kappa;&eta;&tau;έ&sigmaf; &pi;&alpha;&rho;έ&delta;&omega;&sigma;&epsilon; &omicron; &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &kappa;&alpha;&iota; &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB &kappa;. &Alpha;&lambda;έ&xi;&alpha;&nu;&delta;&rho;&omicron;&sigmaf; &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon;, &epsilon;&nu;ώ &sigma;&tau;&eta;&nu; &omicron;&mu;&iota;&lambda;ί&alpha; &tau;&omicron;&upsilon; &omicron; &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &kappa;&alpha;&iota; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf;, &kappa;. &Nu;. &Delta;&epsilon;&lambda;έ&nu;&delta;&alpha;&sigmaf; &tau;ό&nu;&iota;&sigma;&epsilon;: &laquo;&Tau;&omicron; 2017 &alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&epsilon; &alpha;&kappa;ό&mu;&eta; &mu;ί&alpha; &epsilon;&xi;&alpha;&iota;&rho;&epsilon;&tau;&iota;&kappa;ή &chi;&rho;&omicron;&nu;&iota;ά &gamma;&iota;&alpha; &tau;&omicron;&nu; Ό&mu;&iota;&lambda;&omicron; &kappa;&alpha;&iota; &eta; &sigma;&upsilon;&nu;&epsilon;&iota;&sigma;&phi;&omicron;&rho;ά &tau;&omicron;&upsilon; &delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; ή&tau;&alpha;&nu; &kappa;&alpha;&theta;&omicron;&rho;&iota;&sigma;&tau;&iota;&kappa;ή &kappa;&alpha;&iota; &alpha;&upsilon;&xi;&alpha;&nu;ό&mu;&epsilon;&nu;&eta;, &kappa;&alpha;&theta;ώ&sigmaf; &alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&alpha;&nu; &tau;&omicron; 43% &tau;&eta;&sigmaf; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ή&sigmaf; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;, &mu;&epsilon; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ά &alpha;&pi;&omicron;&tau;&epsilon;&lambda;έ&sigma;&mu;&alpha;&tau;&alpha; &tau;ό&sigma;&omicron; &sigma;&tau;&eta; &Zeta;&omega;ή ό&sigma;&omicron; &kappa;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;έ&sigmaf; &Alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&epsilon;&sigmaf;&raquo;.</p>
+        <p>&Omicron;&iota; &nu;&iota;&kappa;&eta;&tau;έ&sigmaf; &tau;&omicron;&upsilon; &delta;&iota;&alpha;&gamma;&omega;&nu;&iota;&sigma;&mu;&omicron;ύ &gamma;&iota;&alpha; &tau;&omicron; 2017 &epsilon;ί&nu;&alpha;&iota;:</p>
+        <p><span style="text-decoration: underline;"><strong>&Gamma;&Epsilon;&Nu;&Iota;&Kappa;&Omicron;&Sigma; &Delta;&Iota;&Alpha;&Gamma;&Omega;&Nu;&Iota;&Sigma;&Mu;&Omicron;&Sigma; &Zeta;&Omega;&Eta;&Sigma;</strong></span></p>
+        <ol>
+            <li><strong>VICTORY PROMISE A.E.</strong></li>
+            <li><strong>3P LIFE INSURANCE ADVISORS</strong></li>
+            <li><strong>&Psi;&Iota;&Mu;&Alpha;&Rho;&Alpha;&Sigma; &Pi;&Rho;&Alpha;&Kappa;&Tau;&Omicron;&Rho;&Epsilon;&Iota;&Omicron; &Alpha;&Sigma;&Phi;&Alpha;&Lambda;&Iota;&Sigma;&Epsilon;&Omega;&Nu; &Epsilon;&Pi;&Epsilon; (&Pi;&Alpha;&Rho;&Omicron;&Nu;)</strong></li>
+            <li><strong>&Sigma;&Epsilon;Ϊ&Phi; &Pi;&Lambda;&Alpha;&Sigma; &Mu;&Epsilon;&Sigma;&Iota;&Tau;&Epsilon;&Sigma; &Alpha;&Sigma;&Phi;&Alpha;&Lambda;&Iota;&Sigma;&Epsilon;&Sigma;&Omega;&Nu; &Alpha;.&Epsilon;.</strong></li>
+            <li><strong>&Mu;&Epsilon;&Gamma;&Kappa;&Alpha; &Iota;&Nu;&Sigma;&Omicron;&Upsilon;&Rho;&Alpha;&Nu;&Sigma; &Mu;&Pi;&Rho;&Omicron;&Kappa;&Epsilon;&Rho;&Sigma; &Alpha;.&Epsilon; <br />
+            &kappa;&alpha;&iota;<br />
+            LIFE PLAN EE</strong></li>
+        </ol>
+        <p><strong><span style="text-decoration: underline;">&Delta;&Iota;&Alpha;&Gamma;&Omega;&Nu;&Iota;&Sigma;&Mu;&Omicron;&Sigma; &Gamma;&Epsilon;&Nu;&Iota;&Kappa;&Omega;&Nu; &Alpha;&Sigma;&Phi;&Alpha;&Lambda;&Iota;&Sigma;&Epsilon;&Omega;&Nu;</span></strong></p>
+        <ol>
+            <li><strong>&Alpha;&Phi;&Omicron;&Iota; &Gamma;. &Kappa;&Omicron;&Lambda;&Tau;&Sigma;&Iota;&Delta;&Alpha; &Omicron;.&Epsilon;.</strong></li>
+            <li><strong>MONEY MARKET A.E.</strong></li>
+            <li><strong>&Kappa;. &amp; X &Kappa;&Alpha;&Rho;&Upsilon;&Pi;&Iota;&Delta;&Eta; &Omicron;.&Epsilon;.</strong></li>
+            <li><strong>&Mu;&Epsilon;&Gamma;&Kappa;&Alpha; &Iota;&Nu;&Sigma;&Omicron;&Upsilon;&Rho;&Alpha;&Nu;&Sigma; &Mu;&Pi;&Rho;&Omicron;&Kappa;&Epsilon;&Rho;&Sigma; &Alpha;.&Epsilon;.</strong></li>
+            <li><strong>3&Rho; INSURANCE BROKERS I.K.E</strong></li>
+        </ol>
+        <p><strong><span style="text-decoration: underline;">&Delta;&Iota;&Alpha;&Gamma;&Omega;&Nu;&Iota;&Sigma;&Mu;&Omicron;&Sigma; &Zeta;&Omega;&Eta;&Sigma; &Epsilon;&Kappa;&Tau;&Omicron;&Sigma; &Alpha;&Tau;&Tau;&Iota;&Kappa;&Eta;&Sigma;</span></strong></p>
+        <ol>
+            <li><strong>&Pi;&Alpha;&Pi;&Alpha;&Delta;&Alpha;&Kappa;&Eta; &ndash; &Kappa;&Alpha;&Rho;&Alpha;&Gamma;&Iota;&Alpha;&Nu;&Nu;&Eta; M.</strong></li>
+        </ol>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{053C3AA4-48B5-47AC-8899-4FD964460944}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Για 7η χρονιά πραγματοποιήθηκαν οι βραβεύσεις δικτύου συνεργατών της Eurolife ERB Ασφαλιστικής
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20180416T135900Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Για 7η χρονιά πραγματοποιήθηκαν οι βραβεύσεις δικτύου συνεργατών της Eurolife ERB Ασφαλιστικής

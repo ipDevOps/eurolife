@@ -1,0 +1,30 @@
+﻿---
+ID: "ddae3345-a8bc-45e6-aaf3-5772c9fa4e31"
+Parent: "0c97f573-9bad-4b42-aefb-0b7b9f68914b"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Aftokinito/Ti prepei na kano se periptosi pou xreiasto nomiki prostasia
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι πρέπει να κάνω σε περίπτωση που χρειαστώ νομική προστασία;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094648Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Alpha;&rho;&chi;&iota;&kappa;ά, &mu;&alpha;&sigmaf; &epsilon;&nu;&eta;&mu;&epsilon;&rho;ώ&nu;&epsilon;&tau;&epsilon; &gamma;&iota;&alpha; &tau;&omicron; &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό. &Tau;&eta;&lambda;&epsilon;&phi;&omega;&nu;&epsilon;ί&tau;&epsilon; &sigma;&tau;&eta;&nu; Resolute &Alpha;.&Epsilon;., &sigma;&tau;&omicron; 210 67 16 060 &kappa;&alpha;&iota; &mu;&alpha;&sigmaf; &alpha;&nu;&alpha;&phi;έ&rho;&epsilon;&tau;&epsilon;: </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Tau;&omicron;&nu; &alpha;&rho;&iota;&theta;&mu;ό &tau;&omicron;&upsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&alpha;&sigmaf; </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Tau;&omicron; &omicron;&nu;&omicron;&mu;&alpha;&tau;&epsilon;&pi;ώ&nu;&upsilon;&mu;ό &sigma;&alpha;&sigmaf; </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Tau;&iota; έ&chi;&epsilon;&iota; &sigma;&upsilon;&mu;&beta;&epsilon;ί </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Eta; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta; &kappa;ά&theta;&epsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &Pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta;&sigmaf; &gamma;ί&nu;&epsilon;&tau;&alpha;&iota; &alpha;&pi;ό &tau;&eta;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; Resolute &Alpha;.&Epsilon;., &mu;&epsilon; &tau;&eta;&nu; &omicron;&pi;&omicron;ί&alpha; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &gamma;&iota;&alpha; &tau;&eta;&nu; &pi;&alpha;&rho;&omicron;&chi;ή &tau;&omega;&nu; &kappa;&alpha;&lambda;ύ&psi;&epsilon;&omega;&nu; &Nu;&omicron;&mu;&iota;&kappa;ή&sigmaf; &Pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;&sigmaf;.</span><br class="Apple-interchange-newline" />
+        </p>

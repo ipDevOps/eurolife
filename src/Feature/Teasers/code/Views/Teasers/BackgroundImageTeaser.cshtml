@@ -1,0 +1,69 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserImage.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserImage.ID),
+        AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+        Model.Item?.ID,
+        Model.Rendering.Item?.ID)
+  return;
+
+}
+
+@{
+  var contained = RenderingContext.Current.Rendering.GetContainerClass();
+  var alignment = RenderingContext.Current.Rendering.GetAlignmentClass();
+}
+
+<section class="hero-plain m-b-112 relator bread-overlays bread-light  @contained @alignment">
+
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    <div class="hero-contents--plain">
+      <div class="center--1700 center relator">
+        <h1 class="h3 m-b-8">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h1>
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <p>@Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)</p>
+        }
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class = "btn--dark btn btn--default m-t-24" })
+        }
+      </div>
+    </div>
+
+    if (Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      @Html.Sitecore().ImageField(Templates.HasTeaserImage.Fields.Image)
+      @Html.Sitecore().ImageField(Templates.HasTeaserImageMobile.Fields.Image)
+    }
+    else
+    {
+      if (Model.Item.FieldHasValue(Templates.HasTeaserImage.Fields.Image))
+      {
+        var imageUrl = Model.Item.ImageUrl(Templates.HasTeaserImage.Fields.Image);
+
+        <picture>
+          <source media="(min-width: 900px)" srcset="@imageUrl">
+
+          @if (Model.Item.FieldHasValue(Templates.HasTeaserImageMobile.Fields.Image))
+          {
+            var imageUrlMobile = Model.Item.ImageUrl(Templates.HasTeaserImageMobile.Fields.Image);
+            <source srcset="@imageUrlMobile">
+          }
+
+          <img src="@imageUrl" alt="">
+        </picture>
+
+      }
+    }
+  }
+</section>    

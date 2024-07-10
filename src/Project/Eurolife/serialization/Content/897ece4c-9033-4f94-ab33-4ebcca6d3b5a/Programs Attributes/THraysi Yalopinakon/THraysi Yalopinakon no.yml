@@ -1,0 +1,18 @@
+﻿---
+ID: "3f49722a-12f0-47ff-b1d0-d3bddaccd577"
+Parent: "311e4c27-756c-4950-ad99-b7a879557afe"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/periexomeno/Programs Attributes/THraysi Yalopinakon/THraysi Yalopinakon no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T085636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

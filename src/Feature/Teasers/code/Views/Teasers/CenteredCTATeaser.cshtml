@@ -1,0 +1,38 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserHeadline.ID) ?? true)
+{
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserHeadline.ID),
+          AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+          Model.Item?.ID,
+          Model.Rendering.Item?.ID)
+  return;
+}
+
+<section class="t-c bg-life-insurance center--1100 center p-t-64 p-b-64 m-b-112">
+  <h1 class="h3 m-b-24 color-life-insurance">
+    @Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)
+  </h1>
+
+  @if (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <div class="center--480 center m-b-48 color-life-insurance">
+      @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+    </div>
+  }
+
+  @if (Model.Item.DescendsFrom(Templates.HasTeaserCTA.ID))
+  {
+
+    if (Model.Item.FieldHasValue(Templates.HasTeaserCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class = "btn btn--default btn--dark" })
+    }
+  }
+</section>
+
+

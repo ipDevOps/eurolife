@@ -1,0 +1,70 @@
+/*------------------------------------*\
+  #STYLES
+\*------------------------------------*/
+@import "base/fonts.scss";
+@import "base/variables.scss";
+@import "base/mixins.scss";
+@import "base/base.scss";
+@import "base/headings.scss";
+@import "base/utility.scss";
+@import "base/inputs.scss";
+
+@import "base-components/intro.scss";
+@import "base-components/sticky.scss";
+@import "base-components/accordion.scss";
+@import "base-components/zigzag.scss";
+@import "base-components/slick.scss";
+@import "base-components/triplettes.scss";
+@import "base-components/leadership.scss";
+@import "base-components/teaser.scss";
+@import "base-components/timeline.scss";
+@import "base-components/figures.scss";
+@import "base-components/new-cta.scss";
+@import "base-components/lists.scss";
+@import "base-components/droplists.scss";
+@import "base-components/gallery.scss";
+@import "base-components/prenext.scss";
+@import "base-components/tabs.scss";
+@import "base-components/partners.scss";
+@import "base-components/form.scss";
+@import "base-components/tooltip.scss";
+@import "base-components/glossary.scss";
+@import "base-components/select2.scss";
+@import "base-components/anchorlist.scss";
+@import "base-components/breadcrumb.scss";
+@import "base-components/hero.scss";
+@import "base-components/product.scss";
+@import "base-components/people.scss";
+@import "base-components/career.scss";
+@import "base-components/contact.scss";
+@import "base-components/over-image.scss";
+@import "base-components/material.scss";
+@import "base-components/benefits.scss";
+@import "base-components/home.scss";
+@import "base-components/statistics.scss";
+@import "base-components/search.scss";
+@import "base-components/well.scss";
+@import "base-components/datepicker.scss";
+@import "base-components/404.scss";
+@import "base-components/news.scss";
+@import "base-components/blog.scss";
+@import "base-components/eurolist.scss";
+@import "base-components/chartsComponent.scss";
+@import "base/_fixes.scss";
+@import "base/_ie.scss";
+
+@import "tools/_health-breadcrumb.scss";
+@import "tools/_tool-utility.scss";
+@import "tools/_suggestions.scss";
+@import "tools/_extra-suggestions.scss";
+@import "tools/_range";
+@import "tools/_eurobanktool";
+
+@import "layout/header.scss";
+@import "layout/footer.scss";
+
+@import "base-components/home-redesign/dropmenu.scss";
+@import "base-components/home-redesign/products.scss";
+@import "base-components/home-redesign/blog.scss";
+@import "base-components/home-redesign/news.scss";
+@import "base-components/home-redesign/social-wall.scss";

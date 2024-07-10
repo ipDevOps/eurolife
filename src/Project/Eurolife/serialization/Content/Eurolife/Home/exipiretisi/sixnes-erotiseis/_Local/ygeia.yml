@@ -1,0 +1,21 @@
+﻿---
+ID: "0f3dd575-b3db-4cdf-bb6f-4382e295fe32"
+Parent: "3aae9479-94ce-4687-939f-3cc089d0d59c"
+Template: "be41d8d0-15b8-4fb4-b7a5-f34a3fc054e1"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sixnes-erotiseis/_Local/ygeia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T111832Z
+    - ID: "5160eade-b54a-4c64-b1dd-6f4eb7339f76"
+      Hint: UIHeaderTitle
+      Value: Υγεία
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

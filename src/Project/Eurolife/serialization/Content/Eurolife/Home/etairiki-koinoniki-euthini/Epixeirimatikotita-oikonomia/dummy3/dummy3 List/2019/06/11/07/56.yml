@@ -1,0 +1,14 @@
+﻿---
+ID: "b1378eb8-9723-4fd5-9db9-51ce11fbb8fa"
+Parent: "29dec044-ad17-493e-a24d-2815bdf6a3ad"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/dummy3/dummy3 List/2019/06/11/07/56"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T075630Z

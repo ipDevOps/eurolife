@@ -1,0 +1,18 @@
+﻿---
+ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+Parent: "3e243f30-b85c-466f-a3e0-2bc4a7ec8b2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/PageContent/_HasPageImageContent/Page Header/DesktopImage
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T125443Z

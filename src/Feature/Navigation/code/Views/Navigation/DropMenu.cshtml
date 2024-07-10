@@ -1,0 +1,88 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Navigation
+@using Wedia.Foundation.Dictionary.Extensions
+@using Sitecore.Data
+@using System.Linq
+@model List<Wedia.Feature.Navigation.Models.DropMenuCategory>
+
+
+<section class="center center--1100 m-t-112 m-b-112">
+  <div class="dropmenu js-dropmenu">
+    @foreach (var vm in Model.Select((value, index) => new { value, index }))
+    {
+      bool hasSubItems = vm.value.SubItems.Count > 0 ? true : false;
+      bool hasSubMenu = false;
+      var categoryLinkUrl = "javascript:;";
+      string categoryLinkTarget = string.Empty;
+
+      if (vm.value.Category.FieldHasValue(Templates.Link.Fields.Link))
+      {
+        categoryLinkUrl = vm.value.Category.LinkFieldUrl(Templates.Link.Fields.Link);
+        var categoryTarget = vm.value.Category.LinkFieldOptions(Templates.Link.Fields.Link, Wedia.Foundation.SitecoreExtensions.Extensions.LinkFieldOption.Target);
+        if (!string.IsNullOrEmpty(categoryTarget))
+        {
+          categoryLinkTarget = $"target={categoryTarget}";
+        }        
+      }
+
+      if (hasSubItems || vm.value.Category.FieldHasValue(Templates.HasDropMenuCategory.Fields.MenuDescription))
+      {
+        hasSubMenu = true;
+      }
+
+      <div class="dropmenu__item @(hasSubMenu ? "has-submenu" : null)" @(hasSubMenu ? $"data-menu=menu_{vm.index}" : string.Empty)>
+        <a href="@categoryLinkUrl" @categoryLinkTarget></a>
+        <div class="icon">
+          @Html.Sitecore().ImageField(Templates.LinkMenuItem.Fields.Icon, vm.value.Category, 0, 100)
+        </div>
+        <h4 class="title">@Html.Sitecore().Field(Templates.HasDropMenuCategory.Fields.Title.ToString(), vm.value.Category)</h4>
+      </div>
+      if (hasSubMenu)
+      {
+        <div class="dropmenu__panel" data-menu="menu_@vm.index">         
+          <div class="menu-products__personal">
+            @if (vm.value.Category.FieldHasValue(Templates.HasDropMenuCategory.Fields.MenuTitle) || Sitecore.Context.PageMode.IsExperienceEditor)
+            {
+              <h3 class="h5">@Html.Sitecore().Field(Templates.HasDropMenuCategory.Fields.MenuTitle.ToString(), vm.value.Category)</h3>
+            }
+
+            @if (vm.value.Category.FieldHasValue(Templates.HasDropMenuCategory.Fields.MenuDescription))
+            {
+              <div class="flex-spread__half c-t-c">
+                @Html.Sitecore().Field(Templates.HasDropMenuCategory.Fields.MenuDescription.ToString(), vm.value.Category)
+              </div>
+            }
+
+            @if (hasSubItems)
+            {
+              <ul>
+                @foreach(var subitem in vm.value.SubItems)
+                {
+                  var subitemLinkUrl = "javascript:;";
+                  string subitemLinkTarget = string.Empty;
+
+                  if (subitem.FieldHasValue(Templates.Link.Fields.Link))
+                  {
+                    subitemLinkUrl = subitem.LinkFieldUrl(Templates.Link.Fields.Link);
+                    var subitemTarget = subitem.LinkFieldOptions(Templates.Link.Fields.Link, Wedia.Foundation.SitecoreExtensions.Extensions.LinkFieldOption.Target);
+                    if(!string.IsNullOrEmpty(subitemTarget))
+                    {
+                      subitemLinkTarget = $"target={subitemTarget}";
+                    }
+                  }
+
+                  <li>
+                    <a href="@subitemLinkUrl" @subitemLinkTarget class="@subitem.Field(Templates.LinkMenuItem.Fields.Class)">
+                      @Html.Sitecore().ImageField(Templates.LinkMenuItem.Fields.Icon, subitem, 0, 100)
+                      <span>@Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle.ToString(), subitem)</span>
+                    </a>
+                </li>
+                }                
+              </ul>
+            }
+          </div>
+        </div>      
+      }
+    }
+  </div>
+</section>

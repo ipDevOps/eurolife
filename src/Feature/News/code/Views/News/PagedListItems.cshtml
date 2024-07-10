@@ -1,0 +1,33 @@
+﻿@using Wedia.Feature.News
+@using Wedia.Feature.News.Models
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model NewsPageResults
+
+
+@foreach (var result in Model.Results.Results)
+{
+  <article>
+
+    @if (result.Item.FieldHasValue(Templates.NewsArticle.Fields.DesktopImage))
+    {
+      @Html.Sitecore().ImageField(Templates.NewsArticle.Fields.DesktopImage,
+        result.Item,
+        0,
+        400,
+        null,
+        true)
+    }
+
+    <div class="list__article__group">
+      <time>@Html.Sitecore().Field(Templates.NewsArticle.Fields.Date, result.Item, new { format = "d MMM yyyy", DisableWebEdit = true })</time>
+      <h2 class="h6 m-b-16">
+        @Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, result.Item)
+      </h2>
+      <div class="list__article__text">
+        @Html.Sitecore().Field(Templates.NewsArticle.Fields.Summary, result.Item)
+      </div>
+      <a href="@result.Item.Url()" class="link-plain">@Html.Sitecore().Dictionary("/News/News List/View More", "View More")</a>
+    </div>
+  </article>
+}

@@ -1,0 +1,53 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Navigation
+@model Wedia.Feature.Navigation.Models.NavigationItems
+
+@{
+  if (Model?.NavItems == null || !Model.NavItems.Any())
+  {
+    return;
+  }
+}
+
+<ul class="nav-main__list">
+  @foreach (var item in Model.NavItems)
+  {
+    @RenderSubMenu(item)
+  }
+</ul>
+
+
+@helper  RenderSubMenu(Wedia.Feature.Navigation.Models.NavigationItem navItem)
+{
+bool active = false;
+bool hasChildren = navItem.Children != null && navItem.Children.NavItems.Any() && navItem.ShowChildren ? true : false;
+string liClass = hasChildren ? "sublisted" : string.Empty;
+
+if (Request.Url.AbsoluteUri.Contains(navItem.Url))
+{
+  liClass += " active";
+}
+
+    <li class="@liClass">
+      <a href="@navItem.Url" target="@navItem.Target">          
+        @navItem.Item.Field(Templates.Navigable.Fields.NavigationTitle)
+        @{
+          if (hasChildren)
+          {
+            <span class="opener"></span> 
+          }
+        }
+      </a>
+      @{ 
+          if(hasChildren)
+          {
+              <ul class="sublist">
+                    @foreach(var subItem in navItem.Children.NavItems)
+                    {
+                      @RenderSubMenu(subItem)
+                    }
+              </ul>
+          }
+      }
+    </li>
+}

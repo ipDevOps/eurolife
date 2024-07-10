@@ -1,0 +1,24 @@
+﻿---
+ID: "e24ee195-6a6f-49d5-ab66-f1c5f4190b86"
+Parent: "1013016b-840b-4024-9565-775144e4fccf"
+Template: "296d6535-40da-4099-9c0f-c21724a22a2c"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New Investment Plan"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T150317Z
+    - ID: "49f97460-3f80-4654-a453-a9c2069c45d9"
+      Hint: Description
+      Value: Συνήθως η σχέση ανάμεσα στην ενδεχόμενη απόδοση μιας επένδυσης και το ρίσκο που αυτή συνεπάγεται...
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d255187d-6894-46a2-b8b8-878b5e2b920b"
+      Hint: Title
+      Value: My investment Plan

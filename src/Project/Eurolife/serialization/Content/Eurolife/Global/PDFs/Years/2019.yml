@@ -1,0 +1,14 @@
+﻿---
+ID: "ca05c8d4-182e-4eeb-adbb-0ba9b1620a14"
+Parent: "1194ed00-f848-40ca-a57e-22aef619802d"
+Template: "80ea3c96-2cca-4d69-8824-4b24e9770cbb"
+Path: /sitecore/content/Eurolife/Global/PDFs/Years/2019
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T145050Z

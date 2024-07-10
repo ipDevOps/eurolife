@@ -1,0 +1,30 @@
+/*------------------------------------*\
+  #NTRO
+\*------------------------------------*/
+
+.intro{
+  .flexify{
+    justify-content: space-between;
+    @include breakpoint-rev(700){
+      flex-direction: column;
+    }
+  }
+}
+.intro-cta{
+  @include breakpoint-rev(700) {
+    margin-top:24px;
+  }
+}
+
+//intro in basic pages with icons
+
+.iconed-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.iconed-header__icon{
+  flex-basis: 190px;
+  max-width: 190px;
+}

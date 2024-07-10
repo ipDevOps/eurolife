@@ -1,0 +1,32 @@
+﻿---
+ID: "052e4731-a029-4063-bbbd-807d9343cd3e"
+Parent: "77bbb7eb-686d-4cd2-86ca-d7bcd3fc738e"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Identity/HeaderCustomerCare/LoginRegister
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T145356Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Σύνδεση
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T145350Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

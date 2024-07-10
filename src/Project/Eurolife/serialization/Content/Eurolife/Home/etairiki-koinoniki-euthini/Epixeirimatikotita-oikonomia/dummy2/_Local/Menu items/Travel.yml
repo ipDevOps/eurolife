@@ -1,0 +1,37 @@
+﻿---
+ID: "79ef02c1-fdc2-4054-ac2b-cd49d01b7569"
+Parent: "76009309-7d16-459a-93eb-d6fc21688d87"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/dummy2/_Local/Menu items/Travel"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T195239Z
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{990D2EF1-D5C7-4EA6-990A-21B7E4D71318}" querystring="" target="" text="" title="" class="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/Research" linktype="internal" />
+    - ID: "b8c12c18-dcef-4edf-a030-50a4a55bedac"
+      Hint: DividerBefore
+      Type: Checkbox
+      Value: 1
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ταξίδια Ευαισθητοποίησης

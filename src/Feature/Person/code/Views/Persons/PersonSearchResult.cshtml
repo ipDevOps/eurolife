@@ -1,0 +1,52 @@
+﻿@using Wedia.Feature.Person
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Foundation.Indexing.Models.ISearchResult
+<div class="media">
+  <div class="media-body ">
+    <div>
+      <span class="label label-info">@Model.ContentType</span>
+      <span class="label label-default">@Model.Item.Field(Templates.Person.Fields.Title)</span>
+    </div>
+    <h2 class="media-title">
+      <a href="@Model.Url">@Html.Raw(Model.Title)</a>
+    </h2>
+    @if (!string.IsNullOrWhiteSpace(Model.Description))
+    {
+      @Html.Raw(Model.Description)
+    }
+    <ul class="nav nav-pills">
+      @if (Model.Item.FieldHasValue(Templates.HasPersonContact.Fields.Telephone))
+      {
+        <li>
+          <a href="tel:@Model.Item[Templates.HasPersonContact.Fields.Telephone]">
+            <i class="fa fa-phone"></i> @Model.Item.Field(Templates.HasPersonContact.Fields.Telephone)
+          </a>
+        </li>
+      }
+      @if (Model.Item.FieldHasValue(Templates.HasPersonContact.Fields.Mobile))
+      {
+        <li>
+          <a href="tel:@Model.Item[Templates.HasPersonContact.Fields.Mobile]">
+            <i class="fa fa-mobile"></i> @Model.Item.Field(Templates.HasPersonContact.Fields.Mobile)
+          </a>
+        </li>
+      }
+      @if (Model.Item.FieldHasValue(Templates.HasPersonContact.Fields.Email))
+      {
+        <li>
+          <a href="mailto:@Model.Item[Templates.HasPersonContact.Fields.Email]">
+            <i class="fa fa-envelope"></i> @Model.Item.Field(Templates.HasPersonContact.Fields.Email)
+          </a>
+        </li>
+      }
+    </ul>
+  </div>
+  @if (Model.Item.FieldHasValue(Templates.HasPersonImage.Fields.Image))
+  {
+    <div class="media-left">
+      <a href="@Model.Url">
+        @Html.Sitecore().ImageField(Templates.HasPersonImage.Fields.Image, Model.Item, mw: 150)
+      </a>
+    </div>
+  }
+</div>

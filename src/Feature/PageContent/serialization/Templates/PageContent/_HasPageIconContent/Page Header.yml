@@ -1,0 +1,18 @@
+﻿---
+ID: "e0bea36d-1030-434e-ac68-5daa92fb08f2"
+Parent: "a5a87e16-7a80-47f8-ad2b-c27dca24eb46"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/PageContent/_HasPageIconContent/Page Header
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T125443Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,43 @@
+﻿---
+ID: "9781a3f3-a1b1-4084-8ff6-fef39118816b"
+Parent: "743c31b7-387c-4383-bdff-f51a28ba4fed"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2019/12/03/15/27/190207eseis-perpatate-swsta"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152750Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Εσείς, περπατάτε σωστά;
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F5595893-93CA-43C1-A382-A5CEA55D9393}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p></p><p>Περπατάμε όλη μας τη ζωή. Είναι δυνατόν να μην το κάνουμε σωστά; Και όμως, αν και από μωρά μαθαίνουμε πώς να περπατάμε, συνήθως δεν μαθαίνουμε ποιος είναι ο σωστός τρόπος, τόσο για να αποφεύγουμε τους τραυματισμούς, όσο και για να μετατρέψουμε αυτήν την καθημερινή συνήθεια σε άσκηση. Άλλωστε, το περπάτημα είναι ένας από τους ασφαλέστερους τρόπους άσκησης και έχει σημαντικά<a href="https://www.as-milisoume.gr/el/Articles/180706-perpathma-ofelh-gia-thn-ygeia"> οφέλη για την υγεία μας</a>.</p>Παρόλα αυτά, είναι ίσως από τις πιο παραμελημένες μορφές άσκησης. Σκεφτείτε απλά πόσο έχει αντικαταστήσει το αυτοκίνητο το περπάτημα στην καθημερινότητα, με αποτέλεσμα να περπατάμε όλο και λιγότερο.&nbsp;<p>Δείτε παρακάτω μερικά tips για σωστό περπάτημα και κάντε το πρώτο βήμα!</p><p style="text-align: center;"><iframe data-rid-id="141673" width="600" height="950" frameborder="0" src="https://www.riddle.com/showcase/176944/list"></iframe></p><p>Και επειδή το συναίσθημα του να θέτεις στόχους και να τους πετυχαίνεις δεν συγκρίνεται, η <strong>εφαρμογή Walk to Win της Eurolife ERB </strong>σας βοηθά να καταγράφετε και να παρακολουθείτε την πρόοδό σας, από την οθόνη του κινητού σας! Μόλις φτάσετε τον επιθυμητό στόχο, σας επιβραβεύει μειώνοντας τα ασφάλιστρά σας!</p><p></p><p style="text-align: center;"><a href="https://walktowin.eurolife.gr/?utm_source=article1&amp;utm_medium=banner&amp;utm_campaign=walktowin&amp;utm_content=cta"><img alt="" src="~/media/2A09F2C9AD8D417AA5C9D9BDBCEB2510.png" height="250" width="728" /></a></p><p style="text-align: center;"></p><p style="text-align: center;"><a href="https://itunes.apple.com/us/app/eurolife-erb-walk-to-win/id1394175352?utm_source=article1&amp;utm_medium=banner&amp;utm_campaign=walktowin&amp;utm_content=appstore"><img alt="" src="~/media/45F515546661465A8A54639F45B9581C.png" style="width: 173px; height: 60px;" /></a>&nbsp; &nbsp;<a href="https://play.google.com/store/apps/details?id=gr.eurolife.walktowin? utm_source=article1&amp;utm_medium=banner&amp;utm_campaign=walktowin&amp;utm_content=googleplay"><img alt="" src="~/media/2D610F16CDC04BE88058FC1A86C55D58.png" style="width: 203px; height: 60px;" /></a></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        Το περπάτημα αποτελεί βασικό μέσο μεταφοράς των ανθρώπων. Όμως, αποδεδειγμένα, <a href="https://www.as-milisoume.gr/el/Articles/160808%20einai-to-20lepto-perpathma-kalh-gymanstikh">το 20λεπτο περπάτημα είναι και μια πολύ καλή γυμναστική</a>. Αρκεί να το κάνουμε σωστά.
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{0E2A261B-8820-4698-BE8B-1647D401266B}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Εσείς, περπατάτε σωστά;
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20190207T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{5333A4BC-00DF-469D-B222-D1D4460C2C8E}"

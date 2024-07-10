@@ -1,0 +1,43 @@
+﻿---
+ID: "007924dc-a6c7-4e21-94f7-7e5518a99506"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/181203asfaleia-periexomenou-shmantiko"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152938Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Γιατί είναι σημαντική η ασφάλεια περιεχομένου για κάθε σπίτι;
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Τις περισσότερες φορές, η αποτίμηση των πραγμάτων που έχουμε σπίτι μας γίνεται μετά από κάποια κλοπή ή καταστροφή, όταν πια καλούμαστε να τα αντικαταστήσουμε. Αλήθεια, εσύ γνωρίζεις την συνολική αξία των αντικειμένων που έχεις σπίτι σου;</p><p style="text-align: justify;">Με τη βοήθεια του infographic που ακολουθεί θα μπορέσεις να αποκτήσεις μια καλύτερη εικόνα για τον βασικό εξοπλισμό ενός ελληνικού νοικοκυριού και το ελάχιστο κόστος– σε σχέση με το ποσό που θα πρέπει να διαθέσεις σε περίπτωση που χρειαστεί να αντικαταστήσεις το περιεχόμενο της κατοικίας σου- μιας ασφάλισης περιεχομένου κατοικίας που σε καλύπτει για παν ενδεχόμενο.</p><div style="text-align: justify;"><a href="https://www.eurolife.gr/el/Products/Home/Home/sweet_home_smart" target="_blank"><img src="~/media/C98F3E7AF5644F03B0BA7B95069E81A5.jpg" alt="infogr_AsMilisoume_Katoikia_02" width="800" height="6579" /></a></div>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <div style="text-align: justify;">Ξέρεις πόσο κοστίζει να αντικαταστήσεις το παλιό σου ψυγείο, συμπεριλαμβανομένου του περιεχομένου του; Μάθε την πραγματική αξία του περιεχομένου του σπιτιού σου και το πώς μπορείς να το προστατέψεις με μια ασφάλιση περιεχομένου, σήμερα!</div>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{95A675A8-887F-4BE7-B818-E87BADC4D1FA}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Γιατί είναι σημαντική η ασφάλεια περιεχομένου για κάθε σπίτι;
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180312T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

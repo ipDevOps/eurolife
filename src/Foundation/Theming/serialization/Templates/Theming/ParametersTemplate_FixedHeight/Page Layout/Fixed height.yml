@@ -1,0 +1,18 @@
+﻿---
+ID: "43df3ad6-57ec-448f-9cf5-a66da1e4debe"
+Parent: "e0dd4886-3d0f-4b54-bd3e-086b72a2f317"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_FixedHeight/Page Layout/Fixed height
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Checkbox
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T145911Z

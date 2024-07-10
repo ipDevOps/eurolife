@@ -1,0 +1,36 @@
+﻿---
+ID: "bf28aa5c-d111-4785-93ee-99d425d076eb"
+Parent: "4be1492c-dc19-41e8-9ba3-cb95fafa4925"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Eurolife/Content Types/Site Root
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/window_earth.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {D7A6241C-2C98-4F02-BB03-B4D024C7A278}
+    {320FE7A9-7186-4AAC-9E01-8850E18506CC}
+    {8C150565-3782-4332-9878-176440496AEA}
+    {2DBF252E-E4E9-4B48-B8A5-DA740CC4888F}
+    {560F1E67-CEB6-4F56-8DA2-194C08043713}
+    {32DE8364-F720-4473-A323-6473C20944F1}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{AA9C2BD6-7C77-4C6B-8371-F9E24B5FC76A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T112030Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

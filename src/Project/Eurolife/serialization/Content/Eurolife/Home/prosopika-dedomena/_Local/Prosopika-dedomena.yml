@@ -1,0 +1,56 @@
+﻿---
+ID: "4cd1ebad-2c26-4d55-b844-94f47cb3c0f3"
+Parent: "0524e650-59f4-44df-a208-e5a6eb32cf7c"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: "/sitecore/content/Eurolife/Home/prosopika-dedomena/_Local/Prosopika-dedomena"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191012T125012Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {46469C94-FFA9-450E-A960-8DD148D4FB94}
+        {4015A680-8081-4328-AEEF-360B18CCE0F8}
+        {9AEB4F7E-92B6-4F09-8654-6DFCA5B74CAC}
+        {EEC9A8DC-C2E0-4535-AB7B-C4D97526B568}
+        {ED309881-1D25-4AC2-A733-FCDD4C6991EE}
+        {E328C2F2-8D10-4D01-92FD-AD1B27C264BC}
+        {082E53D1-EB43-4CAC-8661-A0C1AA72C6A3}
+        {D42F8B8A-BC34-4E39-8F8C-0593C8219DD8}
+        {99CCB937-C270-47FA-8CB4-C3A06A777D56}
+        {7A4CABFF-1C91-4851-80E6-B55A7F66E181}
+        {95E440EA-7891-459E-A75A-F4CCBB1D2398}
+        {91C7E831-5756-442F-87A7-FBDD10BD4310}
+        {163C8279-9551-4554-A941-7889E3178471}
+        {0BFD06C9-566C-485C-8887-D9260A63949C}
+        {9FA3F9F5-3DCC-4A8E-9EF6-A5F406E83D7C}
+        {4BE907CB-7C71-4733-B870-6C26057246FD}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T080516Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

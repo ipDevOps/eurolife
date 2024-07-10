@@ -1,0 +1,37 @@
+﻿---
+ID: "d2b81da3-0626-409b-8bb2-83b36070629c"
+Parent: "631cd107-0069-472c-bd15-80edebe44c72"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/Highlights mikres epixeiriseis/katoikia Highlights/Empistosyni Ypallilon"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T212903Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Εμπιστοσύνη Υπαλλήλων
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-0ff68dd4-7fff-9589-d35b-70106bc2023b" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-66c6476b-7fff-f6af-f724-df6147e92b92" style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&tau;&alpha;&iota; &eta; &chi;&rho;&eta;&mu;&alpha;&tau;&iota;&kappa;ή &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &omega;&sigmaf; &alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&mu;&alpha; &tau;&eta;&sigmaf; &kappa;&alpha;&tau;ά&chi;&rho;&eta;&sigma;&eta;&sigmaf; &epsilon;&kappa; &mu;έ&rho;&omicron;&upsilon;&sigmaf; &tau;&omega;&nu; &upsilon;&pi;&alpha;&lambda;&lambda;ή&lambda;&omega;&nu; &tau;&eta;&sigmaf; &epsilon;&mu;&pi;&iota;&sigma;&tau;&omicron;&sigma;ύ&nu;&eta;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &pi;&rho;&omicron;&sigmaf; &tau;&omicron; &pi;&rho;ό&sigma;&omega;&pi;ό &tau;&omicron;&upsilon;&sigmaf;, &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &epsilon;&kappa;&delta;&eta;&lambda;&omega;&theta;&epsilon;ί &mu;&epsilon; &kappa;&lambda;&omicron;&pi;ή &chi;&rho;&eta;&mu;ά&tau;&omega;&nu;, &pi;&lambda;&alpha;&sigma;&tau;&omicron;&gamma;&rho;ά&phi;&eta;&sigma;&eta; &epsilon;&gamma;&gamma;&rho;ά&phi;&omega;&nu;, &kappa;&lambda;&pi;.</span></span></span></li>
+        </ul>
+        </div>
+        </div>

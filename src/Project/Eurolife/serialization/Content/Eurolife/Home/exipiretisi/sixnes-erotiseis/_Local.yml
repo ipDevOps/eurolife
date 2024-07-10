@@ -1,0 +1,19 @@
+﻿---
+ID: "3aae9479-94ce-4687-939f-3cc089d0d59c"
+Parent: "d75df390-1bd5-47c6-b31f-9fade555508e"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sixnes-erotiseis/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T080538Z

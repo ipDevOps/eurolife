@@ -1,0 +1,14 @@
+﻿---
+ID: "d0e28bcf-6ba1-4241-9c81-fc2847656168"
+Parent: "9eefb89b-d424-4f62-96e9-e47c8b9ae7ab"
+Template: "9eefb89b-d424-4f62-96e9-e47c8b9ae7ab"
+Path: /sitecore/templates/Foundation/SitecoreExtensions/ParametersTemplate_QueryableDatasourceRendering/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T140843Z

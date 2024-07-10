@@ -1,0 +1,51 @@
+﻿---
+ID: "abaa155f-24e6-4326-9c3b-5e98df5e784c"
+Parent: "67b6b3d0-a7c0-4c9a-ae14-28d8a83d33b3"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local/Toolkit PDFs"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T134034Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {C25AEAF8-61D9-4F3B-A6B0-143A9F8E2424}
+        {D63473C6-14BE-4A4B-A34B-C098D4677A11}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T074656Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {2B87C416-F4C9-4942-B109-F0952DEE07E3}
+        {8737530C-DD1B-4782-9226-2FBD7A873EEA}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα

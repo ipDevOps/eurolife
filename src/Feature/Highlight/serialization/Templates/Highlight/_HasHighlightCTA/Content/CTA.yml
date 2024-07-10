@@ -1,0 +1,18 @@
+﻿---
+ID: "678ca6e6-b6f0-4bb1-b09e-972ad0d9c5c4"
+Parent: "7b32af92-7749-4676-898a-91319a507d64"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Highlight/_HasHighlightCTA/Content/CTA
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T083112Z

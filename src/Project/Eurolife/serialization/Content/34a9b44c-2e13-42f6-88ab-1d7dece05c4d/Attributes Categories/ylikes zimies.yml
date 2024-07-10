@@ -1,0 +1,65 @@
+﻿---
+ID: "f8e15fb0-9693-4f9b-a113-fca9c6907213"
+Parent: "8b80325f-22bd-42c9-b80f-806d117bb3d1"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio/Attributes Categories/ylikes zimies"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 0
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {0E350A0C-93E6-46B6-9B43-1E8D70FEB7D6}
+        {8B3F7F53-A37A-49C6-B946-AE9A5A361874}
+        {BFA7345C-D362-4236-984A-1D65FD87964A}
+        {E7EF9DAE-3EE4-4440-B5CC-7F4E561231D0}
+        {A6EBDAFD-309A-4689-A7CE-85329AD730F7}
+        {3A8A9287-7F54-4DAF-A8D2-C3AE80A9FB47}
+        {3E9B72B4-9B80-47F9-B9D0-7EE4E1358982}
+        {38A3F5FC-F643-4EC9-BD19-30F0D0CBBF31}
+        {BA476096-7426-4985-ADC6-CB0E31B4C26E}
+        {3F7249D5-7AD9-48F3-9316-2EF06154A69E}
+        {E3837BC6-6645-474A-B8D7-8A6B851445CB}
+        {0BA59AAD-8E31-4E4E-938C-9C0B91FF597D}
+        {9A5E680A-AD28-4B5A-844D-1982416DE239}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203049Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Υλικές ζημιές
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082718Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

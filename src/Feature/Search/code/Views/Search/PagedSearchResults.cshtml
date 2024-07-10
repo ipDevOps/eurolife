@@ -1,0 +1,25 @@
+﻿@using Wedia.Foundation.Dictionary.Extensions
+@model Wedia.Feature.Search.Models.SearchResultsViewModel
+@{
+  var url = $"/api/feature/search/ajaxsearch?query={Model.Query}";
+}
+
+<section class="list center center--1100 m-b-112 p-t-110">
+  @Html.Partial("../Search/SearchResults", Model.Results)
+
+  @if (Model.Page < Model.TotalPagesCount - 1)
+  {
+    <div class="t-c m-t-112">
+      <span id="searchLoadMoreBtn"
+            aria-label="@Html.Sitecore().DictionaryField("/Search/Paged Search Results/Load More","Load More")"
+            role="button"
+            class="btn btn--ghost-rev btn--default"
+            data-page="@Model.Page"
+            data-url="@url"
+            data-results-on-page="@Model.ResultsOnPage">
+        @Html.Sitecore().DictionaryField("/Search/Paged Search Results/Load More", "Load More")
+      </span>
+    </div>
+  }
+</section>
+

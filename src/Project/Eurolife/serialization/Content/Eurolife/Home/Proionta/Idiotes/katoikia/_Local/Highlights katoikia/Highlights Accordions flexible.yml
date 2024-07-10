@@ -1,0 +1,29 @@
+﻿---
+ID: "bc93191a-1cd9-4092-bc05-bc236e72268a"
+Parent: "b0490970-9609-43c7-85ab-95d65334b6f5"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/Highlights katoikia/Highlights Accordions flexible
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T084751Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T110517Z

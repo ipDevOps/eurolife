@@ -1,0 +1,14 @@
+﻿---
+ID: "0c3d129b-1eb2-4bbe-ada8-59a1e6f04946"
+Parent: "7e9dc118-7324-4071-9f01-23c10c5d9177"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Eurolife/Page Types/EurobankHealthTool
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20201027T140804:637394044847098281Z"

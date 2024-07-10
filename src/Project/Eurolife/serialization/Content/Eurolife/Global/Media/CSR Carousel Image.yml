@@ -1,0 +1,39 @@
+﻿---
+ID: "e834e2f8-e170-4880-a9f9-695cbd97f5a5"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Path: /sitecore/content/Eurolife/Global/Media/CSR Carousel Image
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediaid="{4B48D87B-E463-42DD-B0F2-F45C382F6204}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T121237Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{E7088082-A118-422D-86EF-19D553D3D47F}" />
+    - ID: "20faf759-601d-41e5-b2ce-cb23be133c32"
+      Hint: MediaDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T105503Z
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: ΠΑΤΜΟΣ

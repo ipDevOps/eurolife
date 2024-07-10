@@ -1,0 +1,18 @@
+﻿---
+ID: "ed3b3ea0-31e2-4d8a-af0d-2f3ab6e45e30"
+Parent: "ba0ad8c8-e730-4c06-8d9b-49e003581867"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Programs Attributes/proskrousi-oximatos-trenou/proskrousi-oximatos-trenou-no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T205144Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

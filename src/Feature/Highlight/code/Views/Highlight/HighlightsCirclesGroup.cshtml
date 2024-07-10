@@ -1,0 +1,52 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.HighlightsGroup.ID) ?? true)
+    {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightsGroup.ID),
+        AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+      return;
+    }
+
+}
+
+<section class="bg-life-insurance t-c m-b-112">
+  @if (Model.Item.FieldHasValue(Templates.HighlightMain.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <h1 class="h3 p-t-110 m-b-64">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title)</h1>
+  }
+
+  @if (Model.Item.FieldHasValue(Templates.HighlightMain.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <p class="m-b-48 t-c center center--650">
+      @Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary)
+    </p>
+  }
+
+
+
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    <div class="center--920 center benefits p-b-64">
+      @foreach (var item in Model.Item.GetMultiListValueItems(Templates.HighlightsGroup.Fields.Highlights))
+      {
+        using (Html.BeginEditFrame(item.ID.ToString(), ""))
+        {
+          <div class="benefits__item">
+            <div class="benefits__icon">
+              <img src="@item.ImageUrl(Templates.HasHighlightIcon.Fields.Icon)"
+                   alt="@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title, item, new { DisableWebEdit = true })" />
+            </div>
+            <div class="benefits__title">
+              @Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary, item)
+            </div>
+          </div>
+        }
+      }
+    </div>
+  }
+
+</section>

@@ -1,0 +1,39 @@
+﻿---
+ID: "08d78e48-ac01-47b8-9e8b-d456161c428c"
+Parent: "20016e82-d6ba-4e33-a1ca-59b15002f45a"
+Template: "636714d5-1e6d-4cdc-9a1a-9db4e41c199f"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Family Members List/Son
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201221T104539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "914dac4d-527a-4440-a014-55e7ac76499e"
+      Hint: Key
+      Value: son
+    - ID: "abbb94ba-d620-428b-8187-839c5df8d354"
+      Hint: Image
+      Value: |
+        <image mediaid="{DCD66029-2CB9-40C3-ADDB-A81BD6AB50C9}" />
+    - ID: "b3b537a3-31d9-447f-89c4-413fb43c287e"
+      Hint: Title
+      Value: Γιός
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201221T104536Z

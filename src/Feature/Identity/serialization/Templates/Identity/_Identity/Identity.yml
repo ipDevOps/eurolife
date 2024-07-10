@@ -1,0 +1,18 @@
+﻿---
+ID: "f7b1fc70-b04a-435c-b034-c703e7746d7a"
+Parent: "d7a6241c-2c98-4f02-bb03-b4d024c7a278"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Identity/_Identity/Identity
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T130646Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,51 @@
+﻿---
+ID: "b45a78ae-ea4b-46ef-bb8c-56e6ce21e312"
+Parent: "e89522b1-acef-4163-8e80-6abdfe38a15b"
+Template: "52f74fb9-cfb4-4fdd-8388-6a693d21a2d7"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Highlights/Vechile Highlights/Agile Programs
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T131326Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: |
+        <image mediaid="{53641EB1-A0C2-460A-B756-F7F56052C3BF}" />
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Ευελιξία χρονικής κάλυψης 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: Μπορείτε να επιλέξετε 3μηνη, 6μηνη, ή 12μηνη ασφάλιση για το όχημά σας.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T105329Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: |
+        <image mediaid="{69B1F9AF-9A4E-4226-BC5B-965EE9B28BFD}" />
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Έκπτωση στα ασφάλιστρα της ανανέωσης
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: |
+        Για κάθε 12μηνη περίοδο που ολοκληρώνεται χωρίς ζημιά, έχετε έκπτωση στα ασφάλιστρα της επόμενης περιόδου
+        

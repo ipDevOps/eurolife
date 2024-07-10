@@ -1,0 +1,75 @@
+﻿---
+ID: "3cb3e7da-ddbd-4b28-873e-b9c31fe679f5"
+Parent: "16351d16-de59-4f85-b750-07e16e068026"
+Template: "ce1d7e61-0867-4d85-8661-ebea1d8b48ea"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Dioikitiki-Omada/Paris-Nikou"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6730F5A3-1185-430C-9741-EC6A3F11A1D6}"
+              p:before="*"
+              s:id="{FFE84079-A9DA-410E-A281-0ED31C52FE96}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191116T155916Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Πάρης Νίκου
+    - ID: "3a28c78d-3c5e-4d7b-837b-9f511fb70d80"
+      Hint: PersonBody
+      Value: |
+        &Omicron; &kappa;. &Nu;ί&kappa;&omicron;&upsilon; έ&chi;&epsilon;&iota; &tau;&eta; &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; Chief of Staff &sigma;&tau;&eta; Eurolife ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &alpha;&pi;ό &tau;&omicron;&nu; &Iota;&omicron;ύ&nu;&iota;&omicron; &tau;&omicron;&upsilon; 2017. &Pi;&rho;&iota;&nu; &alpha;&pi;ό &tau;&eta; &theta;έ&sigma;&eta; &alpha;&upsilon;&tau;ή, &kappa;&alpha;&tau;&epsilon;ί&chi;&epsilon; &tau;&eta; &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Alpha;&nu;&theta;&rho;ώ&pi;&iota;&nu;&omicron;&upsilon; &Delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;&omicron;ύ &kappa;&alpha;&iota; &Delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta;&sigmaf; &Pi;&omicron;&iota;ό&tau;&eta;&tau;&alpha;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &alpha;&pi;ό &tau;&omicron; &Sigma;&epsilon;&pi;&tau;έ&mu;&beta;&rho;&iota;&omicron; &tau;&omicron;&upsilon; 2014. &Eta; &pi;&omicron;&rho;&epsilon;ί&alpha; &tau;&omicron;&upsilon; &sigma;&tau;&eta;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &xi;&epsilon;&kappa;ί&nu;&eta;&sigma;&epsilon; &tau;&omicron; 2007 &omega;&sigmaf; &upsilon;&pi;&epsilon;&upsilon;&theta;ύ&nu;&omicron;&upsilon; &gamma;&iota;&alpha; &tau;&eta;&nu; &beta;&epsilon;&lambda;&tau;&iota;&sigma;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&omega;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;&iota;ώ&nu; &kappa;&alpha;&iota; &tau;&eta;&nu; &alpha;ύ&xi;&eta;&sigma;&eta; &tau;&eta;&sigmaf; &alpha;&pi;&omicron;&delta;&omicron;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha;&sigmaf; &sigma;&epsilon; ό&lambda;&omicron; &tau;&omicron; &epsilon;ύ&rho;&omicron;&sigmaf; &tau;&omega;&nu; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;&eta;&sigma;&iota;&alpha;&kappa;ώ&nu; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&tau;ή&tau;&omega;&nu;. <br />
+        <br />
+        &Epsilon;ί&nu;&alpha;&iota; &pi;&tau;&upsilon;&chi;&iota;&omicron;ύ&chi;&omicron;&sigmaf; MSc in Quality &amp; Reliability &tau;&eta;&sigmaf; &Sigma;&chi;&omicron;&lambda;ή&sigmaf; Warwick Manufacturing Group &tau;&omicron;&upsilon; &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;&eta;&mu;ί&omicron;&upsilon; &tau;&omicron;&upsilon; Warwick &kappa;&alpha;&iota; BSc &Delta;&iota;&omicron;ί&kappa;&eta;&sigma;&eta;&sigmaf; &Epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&omega;&nu; &mu;&epsilon; &epsilon;&xi;&epsilon;&iota;&delta;ί&kappa;&epsilon;&upsilon;&sigma;&eta; &sigma;&tau;&eta;&nu; &Omicron;&rho;&gamma;&alpha;&nu;&omega;&sigma;&iota;&alpha;&kappa;ή &Sigma;&upsilon;&mu;&pi;&epsilon;&rho;&iota;&phi;&omicron;&rho;ά &alpha;&pi;ό &tau;&omicron; American College of Greece Deree.<br />
+        <br />
+        &Sigma;&tau;&omicron; &pi;&alpha;&rho;&epsilon;&lambda;&theta;ό&nu;, έ&chi;&epsilon;&iota; &delta;&iota;&alpha;&tau;&epsilon;&lambda;έ&sigma;&epsilon;&iota; &kappa;&alpha;&theta;&eta;&gamma;&eta;&tau;ή&sigmaf; &Alpha;&nu;&theta;&rho;&omega;&pi;ί&nu;&omicron;&upsilon; &Delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;&omicron;ύ &kappa;&alpha;&iota; έ&chi;&epsilon;&iota; &epsilon;&rho;&gamma;&alpha;&sigma;&tau;&epsilon;ί &tau;ό&sigma;&omicron; &sigma;&tau;&eta; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta; &alpha;&nu;&theta;&rho;&omega;&pi;ί&nu;&omega;&nu; &pi;ό&rho;&omega;&nu; ό&sigma;&omicron; &kappa;&alpha;&iota; &sigma;&tau;&eta; &beta;&epsilon;&lambda;&tau;ί&omega;&sigma;&eta; &tau;&omega;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;&iota;ώ&nu; &sigma;&epsilon; &mu;&epsilon;&gamma;ά&lambda;&epsilon;&sigmaf; &pi;&omicron;&lambda;&upsilon;&epsilon;&theta;&nu;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; &tau;&eta;&lambda;&epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;&iota;ώ&nu; &kappa;&alpha;&iota; &epsilon;&mu;&pi;&omicron;&rho;ί&omicron;&upsilon; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;.
+    - ID: "47e95858-efcc-4862-8a26-3905105ece5b"
+      Hint: PersonQuote
+      Value: Πιστεύουμε ότι η επιτυχία του Ομίλου μας βασίζεται στους Ανθρώπους μας. Με γνώμονα τη ρήση του Ηράκλειτου «σε έναν κύκλο, κάθε σημείο είναι ταυτόχρονα και αρχή και τέλος», σκοπός μας είναι η αδιάλειπτη επίτευξη όλων των μελλοντικών μας στόχων.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Πάρης Νίκου
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Πάρης Νίκου
+    - ID: "a212c93a-7c83-4fed-bc5a-5b035baeff50"
+      Hint: PersonImage
+      Value: |
+        <image mediaid="{0939D0B7-896A-468A-ABFE-66CF9B9A67A7}"></image>
+    - ID: "e57a5fee-e68d-4d37-ac1f-edc51e551121"
+      Hint: PersonPosition
+      Value: Chief of Staff
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Πάρης Νίκου

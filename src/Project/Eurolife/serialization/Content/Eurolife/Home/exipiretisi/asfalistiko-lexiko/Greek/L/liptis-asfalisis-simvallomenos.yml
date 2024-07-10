@@ -1,0 +1,24 @@
+﻿---
+ID: "d2ba9f15-95a1-4d02-938a-a639b1e4b3f6"
+Parent: "6351568b-8d03-44f4-8c61-528f39c5909e"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/L/liptis-asfalisis-simvallomenos"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Λήπτης της Ασφάλισης ή Συμβαλλόμενος
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072448Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Είναι το φυσικό ή νομικό πρόσωπο που συνάπτει την ασφάλιση με την ασφαλιστική εταιρεία. Ο συμβαλλόμενος μπορεί να είναι διαφορετικό πρόσωπο από τον ασφαλιζόμενο, αρκεί να υπάρχει μεταξύ τους συγγενική, επαγγελματική ή άλλη σχέση που δικαιολογεί το ασφαλιστικό ενδιαφέρον του συμβαλλόμενου για το συγκεκριμένο πρόσωπο.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

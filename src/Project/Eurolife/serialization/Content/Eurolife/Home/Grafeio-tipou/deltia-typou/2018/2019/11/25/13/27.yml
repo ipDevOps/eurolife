@@ -1,0 +1,18 @@
+﻿---
+ID: "b1427255-66e1-4b41-b886-74602f040275"
+Parent: "129d12b5-bf41-4801-bc79-dfdeb0608bf9"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/13/27"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T132750Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

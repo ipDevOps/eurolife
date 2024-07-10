@@ -1,0 +1,18 @@
+﻿---
+ID: "13fcc47f-0fbd-4699-b0d6-c50694d00031"
+Parent: "63e945e2-7112-4a2b-8b67-e800224a9b76"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/periodiko-sxedia/sindromi-allilegiis/2019/08/06/13/06"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T130639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,41 @@
+﻿---
+ID: "7c1ba37a-c05d-44d6-816b-c18c7b6b8470"
+Parent: "73047f68-664e-4419-9728-afbf28ce3a49"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/xrisima-eggrafa/_Local/eggrafa vasikon pliroforion ygeia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T105253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {0858C220-DE7E-41FC-BA04-C7243892F84F}
+        {D64DB8B7-BE43-4A6C-82F1-56DD61D02EE3}
+        {F1BD514D-7A66-49DE-A705-EB30C9D65F06}
+        {38CBB9CA-04F9-4862-A854-839526A0EBE9}
+        {73ABE2EA-D4AD-4F07-BFE5-B06F4155A363}
+        {03AB402F-E3BB-4182-91B1-CB97489E5845}
+        {67A1C723-2C00-4B93-AEDD-502BF32F2D36}
+        {8F4A82D9-48E4-4938-A74E-E336C79AA27A}
+        {E4EFB598-0B24-469B-AA32-9963F4A7DDAD}
+        {6A68FB44-F7FF-4939-A4CB-2BA7264E521F}
+        {7BE9842B-ED41-4AC1-BEFF-200D73FB790D}
+        {6B91BFE4-C536-4AA5-9E5B-E3CB92A99FEC}
+        {DCE5B341-C318-44CA-A82A-9D9AF320EFDD}
+        {A70EE058-68D6-48C0-B9DF-388606122325}
+        {C4B3F649-78F7-420A-8A9F-F665ACA28685}
+        {6DFF127B-1878-4141-9C41-24EFFBFAB93B}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Έγγραφα Πληροφοριών Προϊόντων - Υγεία"

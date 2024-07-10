@@ -1,0 +1,43 @@
+﻿---
+ID: "fdb477df-98d1-4263-b789-11ff95fe1d97"
+Parent: "6e2406b6-c461-4e1a-89b3-4d59b7eb4fc8"
+Template: "b18ad3fe-e9dc-4bc5-96e7-10e14ebb4d37"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Products List/30503
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T155427Z
+    - ID: "408df9e1-54d8-49fa-abe1-d5b248a58339"
+      Hint: Amount
+      Value: "{EE07C564-5134-4288-A867-12D6CBE33A6D}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "914dac4d-527a-4440-a014-55e7ac76499e"
+      Hint: Key
+      Value: 30503
+    - ID: "a3e59159-d02d-47b0-bce6-864f5e4ba62c"
+      Hint: Hospitalization
+      Value: "{DDDC3A3D-49B7-47BE-85ED-4BEA9DCBEC2A}"
+    - ID: "b3b537a3-31d9-447f-89c4-413fb43c287e"
+      Hint: Title
+      Value: T30503
+    - ID: "f0f82592-9e76-4738-a37e-d511bb7514fb"
+      Hint: AdditonalProductKey
+      Value: 10130
+    - ID: "fbd28dd6-53b1-4362-8ec5-5389128283f2"
+      Hint: DependentMembersProductKey
+      Value: 30503
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T155423Z

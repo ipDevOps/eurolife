@@ -1,0 +1,33 @@
+﻿---
+ID: "1058e7e7-6e4d-40e6-a125-fd2cb7fbb2da"
+Parent: "b556bf20-61fd-46cd-a20a-652bb0b9e514"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: /sitecore/content/Eurolife/Global/Links/Header Top Menu/Career/sinergates poliseon
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T104143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B6521D92-8B82-4FC2-A5C7-8137C32D487E}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Συνεργάτες Πωλήσεων

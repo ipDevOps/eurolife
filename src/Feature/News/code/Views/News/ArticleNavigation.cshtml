@@ -1,0 +1,95 @@
+﻿@using Wedia.Feature.News.Models
+@using Wedia.Feature.News
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model ArticleNavigation
+@{
+  var hasSiblings = Model.PreviousItem != null && Model.NextItem != null;
+  var mediaUrlOptions = new Sitecore.Resources.Media.MediaUrlOptions
+  {
+    Width = Contants.ImageDimensions.LandingBannerWidth,
+    //Height = Contants.ImageDimensions.LandingBannerHeight
+  };
+
+  var mobileMediaUrlOptions = new Sitecore.Resources.Media.MediaUrlOptions
+  {
+    Width = Contants.ImageDimensions.LandingBannerResponsiveWidth,
+    //Height = Contants.ImageDimensions.LandingBannerResponsiveHeight
+  };
+}
+@if (Model.PreviousItem != null || Model.NextItem != null)
+{
+  <section class="m-t-112 siblings-wrap @( hasSiblings ? "sibling-wrap--solo" : "" )">
+    <div class="center--1100 center siblings">
+      @if (Model.PreviousItem != null)
+      {
+        <div class="siblings__prev siblings__hover">
+          <div class="siblings__label">Προηγούμενο</div>
+          <h3 class="siblings__title h6">
+            <a href="@Model.PreviousItem.Url()">
+              <svg class="siblings__prev__arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+              <path fill="#485294" d="M0,16.009c0,0.267,0.109,0.522,0.293,0.714l9.898,9.999c0.392,0.396,1.024,0.395,1.414,0c0.392-0.394,0.392-1.034,0-1.428l-8.192-8.275H31c0.552,0,1-0.452,1-1.01s-0.448-1.011-1-1.011H3.414l8.191-8.274c0.392-0.394,0.391-1.034,0-1.429c-0.391-0.394-1.023-0.394-1.414,0l-9.898,10C0.105,15.483,0.003,15.744,0,16.009z" />
+
+
+
+
+
+
+
+              </svg>
+              <span>
+                @Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, Model.PreviousItem, new { DisableWebEdit = true })
+              </span>
+            </a>
+          </h3>
+
+          @{
+              var prevDesktopImage = Model.PreviousItem.ImageUrl(Templates.NewsArticle.Fields.DesktopImage, mediaUrlOptions);
+              var prevMobileImage = Model.PreviousItem.ImageUrl(Templates.NewsArticle.Fields.MobileImage, mobileMediaUrlOptions);
+          }
+
+          @if (prevDesktopImage != null || prevMobileImage != null)
+          {
+            <picture>
+              <source media="(min-width: 900px)" srcset="@prevDesktopImage">
+              <source srcset="@prevMobileImage">
+              <img src="@prevDesktopImage" alt="">
+            </picture>
+          }
+
+        </div>
+              }
+
+      @if (Model.NextItem != null)
+      {
+        <div class="siblings__next siblings__hover">
+          <div class="siblings__label">Επόμενο</div>
+          <h3 class="siblings__title h6">
+            <a href="@Model.NextItem.Url()">
+              <span>
+                @Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, Model.NextItem, new { DisableWebEdit = true })
+              </span>
+              <svg class="siblings__next__arrow" enable-background="new 0 0 32 32" height="32px" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <path fill="#485294" clip-rule="evenodd" d="M32,16.009c0-0.267-0.11-0.522-0.293-0.714  l-9.899-9.999c-0.391-0.395-1.024-0.394-1.414,0c-0.391,0.394-0.391,1.034,0,1.428l8.193,8.275H1c-0.552,0-1,0.452-1,1.01  s0.448,1.01,1,1.01h27.586l-8.192,8.275c-0.391,0.394-0.39,1.034,0,1.428c0.391,0.394,1.024,0.394,1.414,0l9.899-9.999  C31.894,16.534,31.997,16.274,32,16.009z" fill="#121313" fill-rule="evenodd" />
+
+            </svg>
+            </a>
+          </h3>
+
+          @{
+              var nextDesktopImage = Model.NextItem.ImageUrl(Templates.NewsArticle.Fields.DesktopImage, mediaUrlOptions);
+              var nextMobileImage = Model.NextItem.ImageUrl(Templates.NewsArticle.Fields.MobileImage, mobileMediaUrlOptions);
+          }
+
+          @if (nextDesktopImage != null || nextMobileImage != null)
+          {
+            <picture>
+              <source media="(min-width: 900px)" srcset="@nextDesktopImage">
+              <source srcset="@nextMobileImage">
+              <img src="@nextDesktopImage" alt="">
+            </picture>
+          }
+        </div>
+              }
+    </div>
+  </section>
+}

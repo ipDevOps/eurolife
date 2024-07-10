@@ -1,0 +1,40 @@
+﻿---
+ID: "6acf694a-c800-4e34-91d0-3419763dbac7"
+Parent: "401f1e3c-91c6-4fd7-96b0-a0e3d4d34f21"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: /sitecore/content/Eurolife/Global/Links/Main Menu/Products Menu/Personal Insurance/Savings
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T084235Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{0FD8DB1C-135F-4162-B735-DF7A06AB2317}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{93065255-7C52-4E59-9B8C-ED0E47522791}" querystring="" target="" text="" anchor="" url="/Eurolife/Home/Proionta/Idiotes/apotamieusi" title="" class="" linktype="internal" />
+    - ID: "b8c12c18-dcef-4edf-a030-50a4a55bedac"
+      Hint: DividerBefore
+      Type: Checkbox
+      Value: 1
+    - ID: "d7bd8d43-de42-4bde-8e7e-ddfce607a9c6"
+      Hint: Class
+      Value: teal
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Αποταμίευση

@@ -1,0 +1,18 @@
+﻿---
+ID: "5ad4501a-1d80-40a7-97a5-1d4e35e20807"
+Parent: "b44d0fdc-b81a-49e2-8d0c-fd1e0c00435b"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Programs Attributes/THraysi kathreuton kai esoterikon gialinon epifaneion/THraysi kathreuton kai esoterikon gialinon epifaneion no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073327Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

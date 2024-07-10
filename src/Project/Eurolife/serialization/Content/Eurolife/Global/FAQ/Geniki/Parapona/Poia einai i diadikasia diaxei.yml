@@ -1,0 +1,26 @@
+﻿---
+ID: "ee256ba4-0e83-4fcf-8d9b-05d542deac38"
+Parent: "5c4643d2-b6af-4de0-b393-e7ca9ecd4d64"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Parapona/Poia einai i diadikasia diaxeirisis paraponon
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Ποια είναι η διαδικασία διαχείρισης παραπόνων;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T090348Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&alpha;&sigmaf; &sigma;&tau;έ&lambda;&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; έ&gamma;&gamma;&rho;&alpha;&phi;&eta; &alpha;&pi;ά&nu;&tau;&eta;&sigma;ή &mu;&alpha;&sigmaf; &tau;&omicron; &sigma;&upsilon;&nu;&tau;&omicron;&mu;ό&tau;&epsilon;&rho;&omicron; &delta;&upsilon;&nu;&alpha;&tau;ό&nu; &kappa;&alpha;&iota; &pi;ά&nu;&tau;&omega;&sigmaf; &epsilon;&nu;&tau;ό&sigmaf; &chi;&rho;&omicron;&nu;&iota;&kappa;&omicron;ύ &delta;&iota;&alpha;&sigma;&tau;ή&mu;&alpha;&tau;&omicron;&sigmaf; &pi;&omicron;&upsilon;, &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&alpha; &omicron;&rho;&iota;&zeta;ό&mu;&epsilon;&nu;&alpha; &sigma;&tau;&eta;&nu; &Pi;&rho;ά&xi;&eta; &tau;&eta;&sigmaf; &Epsilon;&kappa;&tau;&epsilon;&lambda;&epsilon;&sigma;&tau;&iota;&kappa;ή&sigmaf; &Epsilon;&pi;&iota;&tau;&rho;&omicron;&pi;ή&sigmaf; &tau;&eta;&sigmaf; &Tau;&rho;ά&pi;&epsilon;&zeta;&alpha;&sigmaf; &tau;&eta;&sigmaf; &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf; &mu;&epsilon; &alpha;&rho;. 3/8.1.2013, &delta;&epsilon;&nu; &theta;&alpha; &upsilon;&pi;&epsilon;&rho;&beta;&alpha;ί&nu;&epsilon;&iota; &tau;&iota;&sigmaf; 50 &eta;&mu;&epsilon;&rho;&omicron;&lambda;&omicron;&gamma;&iota;&alpha;&kappa;έ&sigmaf; &eta;&mu;έ&rho;&epsilon;&sigmaf;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&tau;ό&chi;&omicron;&sigmaf; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &mu;&eta;&nu; &upsilon;&pi;&epsilon;&rho;&beta;&alpha;ί&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&iota;&sigmaf; 30 &eta;&mu;&epsilon;&rho;&omicron;&lambda;&omicron;&gamma;&iota;&alpha;&kappa;έ&sigmaf; &eta;&mu;έ&rho;&epsilon;&sigmaf;.</span></p>

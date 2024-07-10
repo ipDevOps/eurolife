@@ -1,0 +1,32 @@
+﻿---
+ID: "f5f9764d-36b7-44aa-841e-b714fa61e2f3"
+Parent: "9f3bebab-2e57-42ff-9f94-a3673d7fa9e9"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/EurolifeCalculatorTool/Common/Buttons/Next
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T154654Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: ΕΠΟΜΕΝΟ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T154649Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

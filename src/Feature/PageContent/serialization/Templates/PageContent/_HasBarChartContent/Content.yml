@@ -1,0 +1,18 @@
+﻿---
+ID: "bc75502e-346d-402a-b908-8df5be80f375"
+Parent: "7678d65d-4ec6-4784-a8b1-234a58304bdf"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/PageContent/_HasBarChartContent/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T141023Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

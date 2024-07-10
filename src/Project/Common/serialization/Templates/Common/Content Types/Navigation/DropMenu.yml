@@ -1,0 +1,18 @@
+﻿---
+ID: "c6803ac4-7eea-4c9b-9cf3-161187e828e9"
+Parent: "11d9ba3a-2d6e-4045-89ef-eb400dba6793"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/Common/Content Types/Navigation/DropMenu
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210203T082512Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

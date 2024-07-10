@@ -1,0 +1,14 @@
+﻿---
+ID: "6058db6b-d86f-44a4-b3bf-4629b9ae196d"
+Parent: "d85d93d2-dd29-433b-af66-89b6304bd363"
+Template: "aecd2696-8934-4c05-9acb-a6f72644e86c"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/calculation-tool/Products List"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T105820Z

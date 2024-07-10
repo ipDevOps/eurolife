@@ -1,0 +1,21 @@
+﻿---
+ID: "7a3fdb71-1229-47d3-be7f-961195ff3935"
+Parent: "37af5162-e643-43d4-8ef9-5200215fdb26"
+Template: "52f74fb9-cfb4-4fdd-8388-6a693d21a2d7"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-oximatos/_Local/Highlights claims/vima2-icon"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T174321Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Ανάθεση σε ειδικό για εξέταση
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

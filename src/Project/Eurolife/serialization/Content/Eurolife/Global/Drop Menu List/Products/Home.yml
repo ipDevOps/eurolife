@@ -1,0 +1,29 @@
+﻿---
+ID: "b5dc8ec3-a9b3-43bf-8f6f-84718e3fa927"
+Parent: "ddd6c315-2c15-46a1-9d20-8cef194fc256"
+Template: "7d36d3d3-f756-40c0-9245-9a2104401189"
+Path: /sitecore/content/Eurolife/Global/Drop Menu List/Products/Home
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210204T120436Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{0FD8DB1C-135F-4162-B735-DF7A06AB2317}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{58E9AE0F-8D5C-4BFA-AF3F-B534D837F51E}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Κατοικία

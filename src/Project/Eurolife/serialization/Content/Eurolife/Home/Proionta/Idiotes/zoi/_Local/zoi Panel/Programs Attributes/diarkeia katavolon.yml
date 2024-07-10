@@ -1,0 +1,21 @@
+﻿---
+ID: "49fa7809-98f3-461e-be64-e98e7c012e17"
+Parent: "897ee526-3b11-47de-8ca3-7e088d71ec02"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Programs Attributes/diarkeia katavolon
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Διάρκεια καταβολών ασφαλίστρων
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T203320Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

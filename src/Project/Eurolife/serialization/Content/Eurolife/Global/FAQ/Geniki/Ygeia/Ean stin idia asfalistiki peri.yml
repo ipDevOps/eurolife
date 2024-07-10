@@ -1,0 +1,25 @@
+﻿---
+ID: "b6a62117-8236-4b29-8f0d-6546410750cb"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Ean stin idia asfalistiki periodo xreiastei na nosileyto parapano apo mia fores
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Εάν στην ίδια ασφαλιστική περίοδο χρειαστεί να νοσηλευτώ παράπάνω από μία φορές για το ίδιο περιστατικό, τι ισχύει για την εφαρμογή του εκπιπτόμενου ποσού (απαλλαγή) και του ορίου κάλυψης που προσφέρει το συμβόλαιό μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T095326Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Iota;&sigma;&chi;ύ&epsilon;&iota; ό,&tau;&iota; &pi;&rho;&omicron;&beta;&lambda;έ&pi;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; ό&rho;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;&omicron;ύ &sigma;&alpha;&sigmaf; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf;.</span>

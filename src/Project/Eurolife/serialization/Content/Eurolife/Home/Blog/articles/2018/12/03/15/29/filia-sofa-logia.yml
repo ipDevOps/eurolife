@@ -1,0 +1,43 @@
+﻿---
+ID: "287cbf08-8eb7-47ac-aeef-5b09d9edda61"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/filia-sofa-logia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152942Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Σοφά λόγια γύρω από τη φιλία
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Αλήθεια; Εσείς πότε είδατε τελευταία φορά τον καλύτερό σας φίλο; Εάν η απάντησή σας σας έκανε να νιώσετε άσχημα γιατί το διάστημα είναι αρκετά μεγάλο αρκεί να πούμε ότι πολλές φορές οι ανάγκες της καθημερινότητας μας κρατάνε μακριά από αγαπημένες ασχολίες και αγαπημένους φίλους. Άλλωστε, θα έχετε παρατηρήσει ότι με το πέρασμα του χρόνου <a href="http://www.as-milisoume.gr/el/Articles/filoi-pou-xanontai">κάποιοι φίλοι έμειναν και άλλοι χάθηκαν.</a> Αυτό συμβαίνει γιατί στις μέρες μας είναι λίγες οι φιλίες που βασίζονται σε γερά θεμέλια και δεν αποτελούν εφήμερες σχέσεις. Επίσης, πολλοί από εμάς τείνουμε να αφιερώνουμε λιγότερο χρόνο με τους πραγματικούς μας φίλους και να αφιερώνουμε όλη μας την ενέργεια στην απόκτηση νέων, ιντερνετικών «φίλων».</p><p style="text-align: justify;">Όμως, <a href="http://www.as-milisoume.gr/el/Articles/h-filia-kanei-kalo-sthn-ygeia">οι πραγματικοί φίλοι μας κάνουν καλό</a>, τόσο σε επίπεδο ψυχικής όσο και σωματικής υγείας. Και αυτό γιατί στέκονται δίπλα μας και στα καλά και στα άσχημα, είναι εκεί όταν τους χρειαζόμαστε και μπορούν να καταλάβουν, ακόμα κι αν αυτό που λέμε δεν βγάζει κανένα απολύτως νόημα.</p><p style="text-align: justify;">Δείτε μερικά σοφά λόγια που ειπώθηκαν για τη φιλία και πείτε μας ποιο από αυτά πιστεύετε ότι περιγράφει καλύτερα για εσάς τις δικές σας φιλίες:</p><iframe data-rid-id="141673" width="640" height="600" frameborder="0" src="https://www.riddle.com/showcase/146302/rankedlist" title="List &lt;p style=">Αλήθεια; Εσείς πότε είδατε τελευταία φορά τον καλύτερό σας φίλο; Εάν η απάντησή σας σας έκανε να νιώσετε άσχημα γιατί το διάστημα είναι αρκετά μεγάλο αρκεί να πούμε ότι πολλές φορές οι ανάγκες της καθημερινότητας μας κρατάνε μακριά από αγαπημένες ασχολίες και αγαπημένους φίλους. Άλλωστε, θα έχετε παρατηρήσει ότι με το πέρασμα του χρόνου &amp;amp;amp;amp;amp;lt;a href="http://www.as-milisoume.gr/el/Articles/filoi-pou-xanontai"&amp;amp;amp;amp;amp;gt;κάποιοι φίλοι έμειναν και άλλοι χάθηκαν.&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt; Αυτό συμβαίνει γιατί στις μέρες μας είναι λίγες οι φιλίες που βασίζονται σε γερά θεμέλια και δεν αποτελούν εφήμερες σχέσεις. Επίσης, πολλοί από εμάς τείνουμε να αφιερώνουμε λιγότερο χρόνο με τους πραγματικούς μας φίλους και να αφιερώνουμε όλη μας την ενέργεια στην απόκτηση νέων, ιντερνετικών «φίλων».&amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;p style="text-align: justify;"&amp;amp;amp;amp;amp;gt;Όμως, &amp;amp;amp;amp;amp;lt;a href="http://www.as-milisoume.gr/el/Articles/h-filia-kanei-kalo-sthn-ygeia"&amp;amp;amp;amp;amp;gt;οι πραγματικοί φίλοι μας κάνουν καλό&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt;, τόσο σε επίπεδο ψυχικής όσο και σωματικής υγείας. Και αυτό γιατί στέκονται δίπλα μας και στα καλά και στα άσχημα, είναι εκεί όταν τους χρειαζόμαστε και μπορούν να καταλάβουν, ακόμα κι αν αυτό που λέμε δεν βγάζει κανένα απολύτως νόημα.&amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;p style="text-align: justify;"&amp;amp;amp;amp;amp;gt;Δείτε μερικά σοφά λόγια που ειπώθηκαν για τη φιλία και πείτε μας ποιο από αυτά πιστεύετε ότι περιγράφει καλύτερα για εσάς τις δικές σας φιλίες:&amp;amp;amp;amp;amp;lt;/p&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/h3&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/section&amp;amp;amp;amp;amp;gt;</iframe><p style="padding-left: 20px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-size: 80%; max-width: 95%; width: 640px; margin: 0px auto; padding-top: 10px; text-align: left;"><a href="https://www.riddle.com" style="color: inherit;" rel="nofollow" target="blank">Δημιουργός Καταλόγου</a> - της Riddle</p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">Δείξε μου το φίλο σου να σου πω ποιος είσαι λέει μια παροιμία, υπογραμμίζοντας ότι οι καρδιακοί φίλοι μας είναι κομμάτι της προσωπικότητάς μας. Εκτός όμως από παροιμίες για τη φιλία έχουν γραφτεί πολλά σοφά λόγια τα οποία μπορούν να αποτελέσουν έμπνευση για την καθημερινότητά μας.</p><div style="text-align: justify;"></div>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{1CE752F3-713A-4761-9C0C-C7CEFCA036A5}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Σοφά λόγια γύρω από τη φιλία
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180330T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

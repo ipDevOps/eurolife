@@ -1,0 +1,25 @@
+﻿---
+ID: "3073a4d2-4b99-4018-a3ae-3fd17825c4b8"
+Parent: "5eddf21e-7af1-45b9-8483-80d14798047d"
+Template: "15969015-aacf-41fe-b141-cfa5c1a0f658"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/periexomeno/Programs Attributes"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T202740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T081930Z

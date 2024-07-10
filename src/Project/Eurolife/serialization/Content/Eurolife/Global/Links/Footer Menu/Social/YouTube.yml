@@ -1,0 +1,53 @@
+﻿---
+ID: "19155892-1afa-4b1d-8ec6-bc134b06299b"
+Parent: "cd586cc0-02f0-49e5-b173-b26c9e691573"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: /sitecore/content/Eurolife/Global/Links/Footer Menu/Social/YouTube
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T143832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.youtube.com/user/EurolifeERB" anchor="" target="" />
+    - ID: "d7bd8d43-de42-4bde-8e7e-ddfce607a9c6"
+      Hint: Class
+      Value: footer__social__yt
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Youtube
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T144637Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: footer__social__yt
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" linktype="external" url="http://eurolife.gr" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: YouTube

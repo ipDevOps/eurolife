@@ -1,0 +1,18 @@
+﻿---
+ID: "fb913005-ca30-40bd-a094-6fc901077c68"
+Parent: "e54beff8-5a4c-47fe-ab94-8fc47e9f7ad9"
+Template: "80ea3c96-2cca-4d69-8824-4b24e9770cbb"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/zoi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T123038Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,33 @@
+﻿---
+ID: "311c31cf-055e-4202-95e4-1295441776a2"
+Parent: "3a777b43-a696-49ea-b258-c0083985129c"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores/Athens/PATAZIOY SMARAGDA"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T115209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΠΑΤΑΖΙΟΥ ΣΜΑΡΑΓΔΑ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6938854903
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2106854354
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: smartakis02@gmail.com
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: ΚΟΝΙΤΣΗΣ 200, 15233, ΧΑΛΑΝΔΡΙ

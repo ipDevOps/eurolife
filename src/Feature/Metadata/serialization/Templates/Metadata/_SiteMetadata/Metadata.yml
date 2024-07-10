@@ -1,0 +1,18 @@
+﻿---
+ID: "aca12039-b5a3-4bcf-8a03-8dd8f856d18c"
+Parent: "320fe7a9-7186-4aac-9e01-8850e18506cc"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Metadata/_SiteMetadata/Metadata
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T142648Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,24 @@
+﻿---
+ID: "71d96c18-1c7f-4f32-a554-cd4590387a7b"
+Parent: "4b7596c8-23c9-4807-97e7-0741d519bf43"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/O/orio-efthinis-etaireias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Όριο Ευθύνης Εταιρείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072849Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το ποσό μέχρι του οποίου ευθύνεται η εταιρεία να καταβάλλει αποζημίωση.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

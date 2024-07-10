@@ -1,0 +1,41 @@
+﻿---
+ID: "f6692107-0d5d-49ce-899d-e95818153517"
+Parent: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia/Gia poies ergasies parexei prosfora i Symbouleytiki Ypiresia Boitheias
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Για ποιες εργασίες παρέχει προσφορά η Συμβουλευτική Υπηρεσία Βοήθειας;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T085459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Eta; &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;&epsilon;&upsilon;&tau;&iota;&kappa;ή &Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &Beta;&omicron;ή&theta;&epsilon;&iota;&alpha;&sigmaf; &pi;&alpha;&rho;έ&chi;&epsilon;&iota; &pi;&rho;&omicron;&sigma;&phi;&omicron;&rho;ά &kappa;ό&sigma;&tau;&omicron;&upsilon;&sigmaf; &gamma;&iota;&alpha; &tau;&iota;&sigmaf; &epsilon;&rho;&gamma;&alpha;&sigma;ί&epsilon;&sigmaf;:</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- &Alpha;&lambda;&omicron;&upsilon;&mu;ί&nu;&iota;&alpha; &kappa;&alpha;&iota; &sigma;&iota;&delta;&eta;&rho;&omicron;&kappa;&alpha;&tau;&alpha;&sigma;&kappa;&epsilon;&upsilon;έ&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Delta;ά&pi;&epsilon;&delta;&alpha; (&kappa;&epsilon;&rho;&alpha;&mu;&iota;&kappa;ά, &xi;ύ&lambda;&iota;&nu;&alpha;, &mu;ά&rho;&mu;&alpha;&rho;&alpha;)</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Epsilon;&gamma;&kappa;&alpha;&tau;ά&sigma;&tau;&alpha;&sigma;&eta; &kappa;&epsilon;&rho;&alpha;&iota;ώ&nu; &tau;&eta;&lambda;&epsilon;ό&rho;&alpha;&sigma;&eta;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Epsilon;&lambda;&alpha;&iota;&omicron;&chi;&rho;&omega;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Epsilon;&nu;&omicron;&iota;&kappa;ί&alpha;&sigma;&eta; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;ώ&nu; ή&chi;&omicron;&upsilon; &kappa;&alpha;&iota; &epsilon;&iota;&kappa;ό&nu;&alpha;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&upsilon;έ&sigmaf; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ώ&nu; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;ώ&nu; &kappa;&alpha;&iota; &omicron;&iota;&kappa;&iota;&alpha;&kappa;ώ&nu; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;ώ&nu;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&lambda;&omicron;&gamma;&iota;&kappa;ά</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Theta;έ&rho;&mu;&alpha;&nu;&sigma;&eta; &kappa;&alpha;&iota; &psi;ύ&xi;&eta;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Kappa;&alpha;&theta;&alpha;&rho;&iota;&sigma;&mu;&omicron;ύ&sigmaf; &kappa;&tau;&iota;&rho;ί&omega;&nu;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Kappa;&lambda;&epsilon;&iota;&delta;&alpha;&rho;&iota;έ&sigmaf; &kappa;&alpha;&iota; &sigma;&upsilon;&sigma;&tau;ή&mu;&alpha;&tau;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;&epsilon;ί&alpha;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Kappa;&rho;ύ&sigma;&tau;&alpha;&lambda;&lambda;&alpha; &kappa;&alpha;&iota; &kappa;&alpha;&theta;&rho;έ&phi;&tau;&epsilon;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Mu;&omicron;&nu;ώ&sigma;&epsilon;&iota;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Xi;&upsilon;&lambda;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;έ&sigmaf; &epsilon;&rho;&gamma;&alpha;&sigma;ί&epsilon;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Omicron;&iota;&kappa;&omicron;&delta;&omicron;&mu;&iota;&kappa;έ&sigmaf; &epsilon;&rho;&gamma;&alpha;&sigma;ί&epsilon;&sigmaf;</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Upsilon;&delta;&rho;&alpha;&upsilon;&lambda;&iota;&kappa;ά</span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;"><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- </span>&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &phi;ύ&lambda;&alpha;&xi;&eta;&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&omega;&nu;</span></p>

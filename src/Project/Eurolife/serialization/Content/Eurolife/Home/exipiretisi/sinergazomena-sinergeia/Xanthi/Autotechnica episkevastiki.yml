@@ -1,0 +1,30 @@
+﻿---
+ID: "a1e4ef7b-2105-45f3-a4da-446263024394"
+Parent: "a6f247a0-f05d-4fa3-96b5-b377e8fc3704"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia/Xanthi/Autotechnica episkevastiki"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191211T100648Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: AUTOTECHNICA ΕΠΙΣΚΕΥΑΣΤΙΚΗ
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2541083708
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: sofiafesatidoy@gmail.com
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: "3ο ΧΛΜ Ξάνθης - Καβάλας, Ξάνθη, Τ.Κ. 67131"

@@ -1,0 +1,46 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation;
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserImage.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserImage.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+@{ 
+    var fontColor = !string.IsNullOrEmpty(RenderingContext.Current.Rendering.GetFontColorClass()) ?
+      RenderingContext.Current.Rendering.GetFontColorClass() : "color-health";
+}
+
+<div class="zigzag__item m-b-64 relator">
+  @if (Model.Item.FieldHasValue(Templates.HasTeaserImage.Fields.Image) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <div class="zigzag__image">
+      @Html.Sitecore().ImageField(Templates.HasTeaserImage.Fields.Image)
+    </div>
+  }
+  <div class="zigzag__info">
+    <h2 class="h2 @fontColor m-b-8">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h2>
+    <div class="zigzag__text m-b-48">
+      @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+    </div>
+    <div>
+      @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class = "btn btn--default btn--dark" })
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+

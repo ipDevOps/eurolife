@@ -1,0 +1,28 @@
+﻿---
+ID: "4df67883-aef8-41f1-a45d-ed303a07caab"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Path: /sitecore/content/Eurolife/Global/Media/patmos1
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediaid="{117FE963-41E4-4372-992B-E66CF37851B0}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T094011Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: WFH
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: WFH

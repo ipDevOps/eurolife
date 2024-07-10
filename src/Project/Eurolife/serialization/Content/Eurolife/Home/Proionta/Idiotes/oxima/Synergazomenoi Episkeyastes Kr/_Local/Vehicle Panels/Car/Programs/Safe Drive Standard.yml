@@ -1,0 +1,52 @@
+﻿---
+ID: "367cda11-e946-4cce-ae96-ba6fc15809a2"
+Parent: "bda1d07a-a83e-4f90-beb0-536dbbb9b18e"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Car/Programs/Safe Drive Standard
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134646Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Safe Drive Standard
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {7F9EC80B-AB62-4209-893F-CAE0DD069023}
+        {ABA31789-59DE-4B13-BEFD-5E12B522D2E0}
+        {2A24AA10-7437-4354-B4D9-B8FEC86D8A42}
+        {96DA5DA4-F0C9-47DB-AD43-E19BB0F080DB}
+        {157333D1-E188-4AB1-A5D7-6A0A7E48FFEF}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital2
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

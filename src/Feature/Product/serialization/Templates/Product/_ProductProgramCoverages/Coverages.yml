@@ -1,0 +1,18 @@
+﻿---
+ID: "04419f68-b61b-4f41-b3c4-24fbe606ed1e"
+Parent: "6dd3a03c-17fb-4b41-b192-7bce6142e474"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Product/_ProductProgramCoverages/Coverages
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T135636Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,43 @@
+﻿---
+ID: "c6a7f36e-9a56-4f06-8468-d15f51d14047"
+Parent: "8e185d6e-0e26-4290-8780-2f83501940ed"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Health Panel/Programs Attributes/extra care
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1543892b-a690-4e90-a05f-c496fee76c18"
+      Hint: PanelsIsCheckbox
+      Type: Checkbox
+      Value: 1
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Παροχή “Extra Care” για ειδικές τιμές και εκπτώσεις (Για υπηρεσίες υγείας σε δίκτυο οφθαλμιάτρων, οδοντιάτρων, φυσιοθεραπευτών και λογοθεραπευτών)
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T091129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Τύπος Προγράμματος
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T100648Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

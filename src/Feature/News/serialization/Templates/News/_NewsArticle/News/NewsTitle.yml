@@ -1,0 +1,18 @@
+﻿---
+ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+Parent: "77b61468-4a76-4680-8e2b-4817d2d02101"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/News/_NewsArticle/News/NewsTitle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T093729Z

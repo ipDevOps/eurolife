@@ -1,0 +1,36 @@
+﻿---
+ID: "766c59cc-6b65-465a-b40e-447bb2665d55"
+Parent: "f2be096d-911f-4409-8a98-9ee16cb8b283"
+Template: "a8c5bbba-095f-4bb4-be7b-5c0f9ab5d52d"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T110941Z
+    - ID: "31ab8cde-f32c-4a92-8a57-294a965b0e14"
+      Hint: Link
+      Value: |
+        <link text="ΣΥΜΒΟΥΛΕΥΤΕΙΤΕ ΜΑΣ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F2BE096D-911F-4409-8A98-9EE16CB8B283}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6bb917ea-140d-401a-a482-65b49b3feba0"
+      Hint: Description
+      Value: Η ακριβής ασφαλιστική ηλικία ενδέχεται να επηρεάσει τα τελικά ασφάλιστρα. Ως επάγγελμα θεωρείται για τους γονείς “Ιδιωτικός υπάλληλος” και για τέκνα άνω των 18 φοιτητές. Για βρέφη κάτω των 3 μηνών παρακαλώ απευθύνθείτε στον ασφαλιστικό σας σύμβουλο.
+    - ID: "dc2a0960-b571-4e51-b935-5b70cba9dc0f"
+      Hint: CTA
+      Value: |
+        <link text="Tηλέφωνο υποστήριξης: 210 9304800" linktype="external" url="tel:+302109304800" anchor="" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T155014Z

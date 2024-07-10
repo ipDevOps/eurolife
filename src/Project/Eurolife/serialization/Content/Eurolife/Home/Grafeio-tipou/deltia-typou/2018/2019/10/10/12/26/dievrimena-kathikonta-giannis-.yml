@@ -1,0 +1,55 @@
+﻿---
+ID: "9a03240e-70c1-41c9-a66e-af1c835e3adc"
+Parent: "fe451f5f-f21b-4c0b-a3e1-d5a2ee000ba0"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/10/10/12/26/dievrimena-kathikonta-giannis-vasilatos"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{46FF54EB-EA0C-47FB-8CBF-F01197BF1147}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T122615Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "Eurolife ERB: Διευρυμένα καθήκοντα για τον κ. Γιάννη Βασιλάτο"
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <strong id="docs-internal-guid-9b7ff00b-7fff-2180-d381-1a06b92933b9"></strong>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Tau;&alpha; &nu;έ&alpha; &delta;&iota;&epsilon;&upsilon;&rho;&upsilon;&mu;έ&nu;&alpha; &kappa;&alpha;&theta;ή&kappa;&omicron;&nu;&tau;&alpha; &tau;&omicron;&upsilon; &kappa;. &Gamma;&iota;ά&nu;&nu;&eta; &Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&upsilon; &alpha;&nu;&alpha;&kappa;&omicron;ί&nu;&omega;&sigma;&epsilon; &sigma;ή&mu;&epsilon;&rho;&alpha; &omicron; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό&sigmaf; Ό&mu;&iota;&lambda;&omicron;&sigmaf; </span><a href="https://www.eurolife.gr/" style="text-decoration: none;"><span style="background-color: #ffffff; text-decoration: none; color: #003399;">Eurolife ERB</span></a><span style="background-color: #ffffff; text-decoration: none; color: #000000;">, &epsilon;&nu;&omicron;&pi;&omicron;&iota;ώ&nu;&tau;&alpha;&sigmaf; &kappa;ά&tau;&omega; &alpha;&pi;ό &mu;&iota;&alpha; &kappa;&omicron;&iota;&nu;ή &omicron;&rho;&gamma;&alpha;&nu;&omega;&tau;&iota;&kappa;ή &delta;&omicron;&mu;ή &tau;&iota;&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;έ&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&sigma;&epsilon;&iota;&sigmaf; Technology &amp; Growth &kappa;&alpha;&iota; Digital Transformation. &Omicron; &kappa;. &Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&sigmaf; &omicron;&rho;ί&sigma;&tau;&eta;&kappa;&epsilon; &epsilon;&pi;&iota;&kappa;&epsilon;&phi;&alpha;&lambda;ή&sigmaf; &tau;&eta;&sigmaf; &nu;έ&alpha;&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;ή&sigmaf; &Delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta;&sigmaf;, Digital Transformation &amp; Growth, &omega;&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf;, Chief Digital Transformation &amp; Growth Officer.</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Alpha;&pi;ό &tau;&eta; &nu;έ&alpha; &tau;&omicron;&upsilon; &theta;έ&sigma;&eta;, &omicron; &kappa;. &Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&sigmaf;, &mu;&epsilon; &tau;&eta;&nu; &pi;&omicron;&lambda;&upsilon;&epsilon;&tau;ή &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &kappa;&alpha;&iota; &tau;&eta; &epsilon;&upsilon;&rho;&epsilon;ί&alpha; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &tau;&omicron;&upsilon;, &theta;&alpha; &sigma;&upsilon;&nu;&epsilon;&iota;&sigma;&phi;έ&rho;&epsilon;&iota; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ά &kappa;&alpha;&iota; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ά &sigma;&tau;&omicron;&nu; &psi;&eta;&phi;&iota;&alpha;&kappa;ό &mu;&epsilon;&tau;&alpha;&sigma;&chi;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;ό &kappa;&alpha;&iota; &tau;&eta;&nu; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &tau;&omicron;&upsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Eta; &nu;έ&alpha; &Gamma;&epsilon;&nu;&iota;&kappa;ή &Delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta;, &pi;&alpha;&rho;&alpha;&kappa;&omicron;&lambda;&omicron;&upsilon;&theta;ώ&nu;&tau;&alpha;&sigmaf; &tau;&iota;&sigmaf; &epsilon;&xi;&epsilon;&lambda;ί&xi;&epsilon;&iota;&sigmaf; &sigma;&tau;&eta; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&eta; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha;, έ&chi;&epsilon;&iota; &omega;&sigmaf; &sigma;&tau;ό&chi;&omicron; &tau;&eta;&nu; &alpha;&nu;&alpha;&beta;ά&theta;&mu;&iota;&sigma;&eta; &tau;&omega;&nu; &pi;&rho;&omicron;ϊό&nu;&tau;&omega;&nu; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;, &pi;&rho;&omicron;&sigmaf; ό&phi;&epsilon;&lambda;&omicron;&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu;, &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &kappa;&alpha;&iota; &tau;&omega;&nu; &epsilon;&rho;&gamma;&alpha;&zeta;&omicron;&mu;έ&nu;&omega;&nu; &tau;&eta;&sigmaf;.</span></p>
+        <br class="Apple-interchange-newline" />
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: Τα νέα διευρυμένα καθήκοντα του κ. Γιάννη Βασιλάτου ανακοίνωσε σήμερα ο Ασφαλιστικός Όμιλος Eurolife ERB, ενοποιώντας κάτω από μια κοινή οργανωτική δομή τις Γενικές Διευθύνσεις Technology & Growth και Digital Transformation.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: "Eurolife ERB: Διευρυμένα καθήκοντα για τον κ. Γιάννη Βασιλάτο"
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: "Eurolife ERB: Διευρυμένα καθήκοντα για τον κ. Γιάννη Βασιλάτο"

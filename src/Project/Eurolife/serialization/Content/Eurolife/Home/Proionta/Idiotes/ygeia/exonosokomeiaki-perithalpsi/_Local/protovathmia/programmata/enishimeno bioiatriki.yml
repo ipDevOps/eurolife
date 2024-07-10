@@ -1,0 +1,36 @@
+﻿---
+ID: "68bbcad5-e50a-4fdb-8d08-0064e57e3cf2"
+Parent: "f5598966-104a-47da-8d0d-19921a51a38b"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/exonosokomeiaki-perithalpsi/_Local/protovathmia/programmata/enishimeno bioiatriki"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T130152Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Ενισχυμένο Βιοϊατρική
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {ACF805CF-CE25-4338-B9D5-F246CCB52926}
+        {B4B73D6F-6EAA-4B57-BF4D-B131BC3E254E}
+        {DA508B30-8C2C-4B0D-A0B7-F708AA8467F6}
+        {8C32A23A-7FA8-432A-A66C-7E1B2303F52B}
+        {719F95FB-2F31-4E79-913D-BC86419C074A}
+        {F7BEC7E3-1CBB-4DA0-8342-8D64A1EBDA4B}
+        {4A2AFA71-5B52-4948-9555-9B1169321F5E}
+        {9025C3B9-A39A-4D3B-94E9-DA3D13DFE4A3}
+        {8FBCB2A1-6BEC-4C75-9B0A-0E15516744C4}
+        {EA297B93-FEAD-43C3-B813-46647EF32443}
+        {8EEBBFEF-0FE5-458F-9F41-90B39768487F}

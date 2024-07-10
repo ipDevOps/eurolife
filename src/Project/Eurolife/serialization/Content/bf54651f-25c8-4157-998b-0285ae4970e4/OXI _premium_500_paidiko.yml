@@ -1,0 +1,44 @@
+﻿---
+ID: "54bdc1cd-ef0b-491f-bc5b-9a8f4e93fe3e"
+Parent: "bf54651f-25c8-4157-998b-0285ae4970e4"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Asfalisi-Touristikon-Monadon/_Local/Health Panel/Programs Attributes/eggiisi_parohon/OXI _premium_500_paidiko"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190909T123159Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Ετήσια διάρκεια προγράμματος με δυνατότητα ανανέωσης στη λήξη του για μια ασφαλιστική περίοδο κάθε φορά, με τους ίδιους όρους και παροχές.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Όχι
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T115306Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: |
+        Όχι
+        

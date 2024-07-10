@@ -1,0 +1,23 @@
+﻿---
+ID: "54787aad-0721-4414-9b95-26b19f7faa60"
+Parent: "340a7ce1-04ea-4572-bc4a-6d8e9a448be7"
+Template: "340a7ce1-04ea-4572-bc4a-6d8e9a448be7"
+Path: /sitecore/templates/Project/Common/Content Types/Navigation/DropMenu/Drop Menu Category/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{7D36D3D3-F756-40C0-9245-9A2104401189}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210203T082926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

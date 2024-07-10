@@ -1,0 +1,25 @@
+﻿---
+ID: "a3220c57-bfd6-48e3-9716-1314a67916c0"
+Parent: "a8f4494b-50bc-4e6f-a1ee-f2ad1fc69d19"
+Template: "aacf7182-8b54-4b5c-8957-aa1369d879c9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/_Local/Teasers"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T111245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T135239Z

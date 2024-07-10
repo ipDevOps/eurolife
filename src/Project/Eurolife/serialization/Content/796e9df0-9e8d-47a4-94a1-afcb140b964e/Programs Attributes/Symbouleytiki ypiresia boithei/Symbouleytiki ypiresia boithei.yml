@@ -1,0 +1,18 @@
+﻿---
+ID: "d3e15198-d177-44f9-b12e-ce833e6566ee"
+Parent: "9bc46f30-efd7-4195-af94-e29f00080621"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs Attributes/Symbouleytiki ypiresia boitheias/Symbouleytiki ypiresia boitheias no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T092300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

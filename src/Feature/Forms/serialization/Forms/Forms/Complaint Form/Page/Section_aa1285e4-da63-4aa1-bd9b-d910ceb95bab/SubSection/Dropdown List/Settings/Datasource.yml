@@ -1,0 +1,18 @@
+﻿---
+ID: "c4338390-f7e1-40d7-8ead-15762ebcf3c7"
+Parent: "8ca485d8-7951-4642-ba95-562563c63a67"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/Complaint Form/Page/Section/SubSection/Dropdown List/Settings/Datasource
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T131438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

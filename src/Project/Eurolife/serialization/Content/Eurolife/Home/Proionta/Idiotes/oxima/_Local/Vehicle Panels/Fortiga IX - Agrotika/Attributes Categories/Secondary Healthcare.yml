@@ -1,0 +1,47 @@
+﻿---
+ID: "d571b501-97b6-46a8-b75e-b301b0935ab6"
+Parent: "a855eb8f-8c26-4f5d-8d02-9937af6984ba"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Vehicle Panels/Fortiga IX - Agrotika/Attributes Categories/Secondary Healthcare"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {4F9E6B9A-225C-4C69-8AE0-218989FC3FDA}
+        {7C9A13C2-A46A-452C-AD93-4A9F381649F2}
+        {B5BF72C7-0791-4D75-AFE3-F928B56F86FB}
+        {6345CDB9-F864-4B85-B115-08E694A1BFAB}
+        {B2D8FA2E-B7A4-4D9F-9C0B-7CEB7042EA72}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

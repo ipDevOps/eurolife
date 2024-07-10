@@ -1,0 +1,26 @@
+﻿---
+ID: "e672ab06-68ed-493c-995a-3426fdfa9326"
+Parent: "b681509c-0f75-478f-8593-dda2ed6c7734"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/G/genika-diaxeiristika-exoda"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Γενικά Διαχειριστικά Έξοδα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T141444Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: |
+        Έξοδα της ασφαλιστικής εταιρείας, στα οποία δεν συμπεριλαμβάνονται οι φόροι και οι προμήθειες.
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

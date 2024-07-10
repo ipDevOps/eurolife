@@ -1,0 +1,30 @@
+﻿---
+ID: "9111d58b-a754-4498-81ee-06a344178014"
+Parent: "b7dcc304-a3d4-4426-b9ee-e1b9a09eccfe"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Teasers/Teaser Numbers
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/chart_bubble.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {248FD29E-E583-4A75-8CEB-0A8508D82EBC}
+    {85BB73D4-978F-4B24-AFC4-243058868D0C}
+    {94FCF2F1-3CCA-4D44-87FC-4400397C7AAE}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T134233Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,44 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Feature.Teasers.Models.DynamicTeaserModel
+@{
+  var elements = Model.Items.ToList();
+}
+<section class="home-products m-b-112">
+  <div class="center center--1100">
+    @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+    {
+      if ((Model.Item.FieldHasValue(Templates.HasTeaserHeadline.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor))
+      {
+        <h1 class="h4 t-c">
+          @Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)
+        </h1>
+      }
+
+      if ((Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor))
+      {
+        <p class="m-b-48 t-c">
+          @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+        </p>
+      }
+
+      <div class="home-products__grid list-axis">
+        <div class="flex-item item-1">
+          @Html.Sitecore().DynamicPlaceholder($"teaser-placeholder-1")
+        </div>
+
+        <div class="flex-wrapper">
+          @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+          {
+            for (var i = 1; i < elements.Count; i++)
+            {
+              <div class="flex-item item-@(i+1)">
+                @Html.Sitecore().DynamicPlaceholder($"teaser-placeholder-{i + 1}")
+              </div>
+            }
+          }
+        </div>
+      </div>
+    }
+  </div>  
+</section>

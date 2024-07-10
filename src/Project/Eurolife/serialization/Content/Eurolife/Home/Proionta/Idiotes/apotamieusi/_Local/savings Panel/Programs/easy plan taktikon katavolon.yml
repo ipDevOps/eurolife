@@ -1,0 +1,41 @@
+﻿---
+ID: "daac1621-39cd-4624-b175-6ef5ac7d8ef3"
+Parent: "b193f7ba-c80e-46c1-a697-7efb214b0578"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs/easy plan taktikon katavolon
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T121110Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Easy Plan τακτικών καταβολών
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {003E9A7B-AA6F-49AD-8BA7-600BA53554FB}
+        {E713F323-6C63-4BD6-A8F2-22D8620F1144}
+        {14B5549E-AAD7-4363-98E8-E1DC41B28CC8}
+        {9996562F-C89A-436A-8F2A-4A978D335ED9}
+        {15045752-E5CC-45F1-A122-542A6D256599}
+        {7D66A010-100B-4149-B777-B588D7715CBF}
+        {175E931D-BFCA-4D32-A052-2ADEFC2D9A25}
+        {C0275E64-6DD1-40D2-A73D-4F0CC0BE6FDD}
+        {029937D1-2719-4BEA-9561-4B3DA2775AB7}
+        {B9800013-5CC2-4FB9-AFC6-FF99A58E0A7B}
+        {C71C95D4-BC7F-447A-AC58-014DBE51D47B}
+        {78AB0FA4-AE59-40BA-9846-8F44BC1ADC0A}
+        {80DE3EC4-44DA-418C-8CE1-C22CDD73D9BF}
+        {08D4E7EF-0479-4974-9CE6-E6AE65A55502}
+        {6F4F694C-9BFF-4F64-A353-1DDDC9808198}
+        {9119CDA9-B6AB-4607-8C14-2696D6D4E10B}

@@ -1,0 +1,47 @@
+﻿---
+ID: "b23f25c5-ea3f-4bc8-9d7d-1fc7ea1e8a4b"
+Parent: "a1447807-e626-4683-a833-f68ce5e905f1"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/FAQ Group
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T104352Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T141017Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

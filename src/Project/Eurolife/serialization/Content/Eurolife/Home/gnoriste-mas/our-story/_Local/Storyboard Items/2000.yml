@@ -1,0 +1,48 @@
+﻿---
+ID: "3cbfddd0-bdb9-418c-b801-c2789932d665"
+Parent: "a2bb8e7b-3841-49b7-b028-29a09d6ddcd9"
+Template: "537eda0b-cad9-414a-a01f-33356d9305ab"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local/Storyboard Items/2000"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19e2ddeb-92cb-4aeb-876c-040437f0f4bf"
+      Hint: StoryboardItemBgClass
+      Value: "{7F898357-3B13-4BEC-802E-7EF58D50F030}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ca468a9d-b4bc-4c66-b9b2-a3b7db1793a5"
+      Hint: StoryboardItemImage
+      Value: |
+        <image mediaid="{0358718A-7AEB-47C2-83D3-2C78D1B038FB}" />
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2000
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: &Xi;&epsilon;&kappa;&iota;&nu;ή&sigma;&alpha;&mu;&epsilon; &alpha;&pi;ό &tau;&omicron; &chi;ώ&rho;&omicron; &tau;&omicron;&upsilon; bancassurance, &sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &epsilon;&iota;&delta;&iota;&kappa;ά &tau;&rho;&alpha;&pi;&epsilon;&zeta;&omicron;&alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &Tau;&rho;ά&pi;&epsilon;&zeta;&alpha;&sigmaf; Eurobank.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110910Z
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2000
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

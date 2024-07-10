@@ -1,0 +1,32 @@
+﻿---
+ID: "a3ea086e-df1d-4bea-baee-b7a1c8591d57"
+Parent: "5cb3fcb3-428a-464f-a76c-fe4f0c888823"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Identity/Newsletter/Textbox Label
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T080642Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Εγγραφή στο newsletter
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T125242Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

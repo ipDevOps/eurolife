@@ -1,0 +1,48 @@
+﻿---
+ID: "bbdcecd0-e6a1-4fc9-a9df-b820bedf39fd"
+Parent: "a0c50348-eeaa-4b85-8b2b-a5c37b4b3b35"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-oximatos/_Local/Claims Highlights Group"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 238
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {8FDEF16D-5189-4C8F-AC1E-687D16F20F23}
+        {6906153C-1103-4034-B005-E18B552E4854}
+        {0C942704-64B4-46A9-802A-0134CE9A0F40}
+        {3A9FB731-A020-49E8-90AE-42349090FA37}
+        {4A3B7FC1-495D-4A68-866F-E14A8D8C25A3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190911T140517Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Διαδικασία Αποζημίωσης Οχήματος
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T105632Z

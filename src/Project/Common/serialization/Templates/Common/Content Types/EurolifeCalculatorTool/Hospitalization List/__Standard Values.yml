@@ -1,0 +1,23 @@
+﻿---
+ID: "a9b64c56-0c95-4e4e-ab44-9e23ab334259"
+Parent: "1b192805-9ffa-4a86-ab02-f2ea0fb2918b"
+Template: "1b192805-9ffa-4a86-ab02-f2ea0fb2918b"
+Path: /sitecore/templates/Project/Common/Content Types/EurolifeCalculatorTool/Hospitalization List/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{D6965262-7267-47F5-B0FE-1EAA023F5F3D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T153014Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,42 @@
+﻿---
+ID: "54e8c350-27db-41db-9573-94ebdff801b1"
+Parent: "19237a28-adfa-47a1-854c-b7108da7ec2b"
+Template: "747540fb-addf-4d07-8c37-323669e1f244"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/diatrofi/_Local/New EurobankListGroup/diatrofi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T114702Z
+    - ID: "4d3186ea-2a6b-4673-8a57-494637f5b4d5"
+      Hint: EurobankListCategory
+      Value: Κατηγορία
+    - ID: "5ad97c33-c017-47b4-9816-213126cfc29a"
+      Hint: EurobankListImage
+      Value: |
+        <image mediaid="{20C40E09-8D0F-4BAB-A00D-C149EE1F8A59}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6fae2385-76b1-4209-9218-fa40357eb804"
+      Hint: EurobankListDate
+      Value: 20201102T114700Z
+    - ID: "94ded248-7fda-43f9-964a-2eda95bdbc2e"
+      Hint: EurobankListLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8C9DFCD5-D2B6-47DE-B9A4-21691658BB7C}" />
+    - ID: "b177421c-4751-4b76-bd99-e3568b6e4e51"
+      Hint: EurobankListSummary
+      Value: yuyuyuyu
+    - ID: "c3b8ff12-1ecb-4e20-bea4-bba9edbcc899"
+      Hint: EurobankListCategoryLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{373D831E-9C31-47DA-888C-986DD57B7E45}" />
+    - ID: "d22c0e38-20a0-473c-b815-2c702f14ce4f"
+      Hint: EurobankListTitle
+      Value: Ειμαι ο τίτλος

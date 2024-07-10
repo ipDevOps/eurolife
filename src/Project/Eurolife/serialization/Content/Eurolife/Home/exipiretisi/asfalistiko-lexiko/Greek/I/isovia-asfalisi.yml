@@ -1,0 +1,24 @@
+﻿---
+ID: "424fbd33-178d-4b34-be12-b079a907d6d8"
+Parent: "e646acd3-6b07-44d7-b073-9186a7ee34f9"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/I/isovia-asfalisi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ισόβια Ασφάλιση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072248Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Ασφάλιση του κλάδου ζωής που προβλέπει την καταβολή του ασφαλισμένου κεφαλαίου στους δικαιούχους σε περίπτωση απώλειας ζωής του ασφαλισμένου, οποτεδήποτε και αν συμβεί. Τα ασφάλιστρα πληρώνονται ισόβια ή για ορισμένη χρονική διάρκεια.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,41 @@
+﻿---
+ID: "592f9693-6107-4652-9c3b-51129322516a"
+Parent: "1013016b-840b-4024-9565-775144e4fccf"
+Template: "2a9f943d-6a09-43dc-9917-fc5552aac173"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New Blog Articles Slider"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0dce0b72-ae72-4430-939b-61236df4a2b1"
+      Hint: Articles
+      Type: TreelistEx
+      Value: |
+        {FDCB67F8-6E35-4E51-A849-A05C88F8337C}
+        {A5A1FD8D-AD71-49F1-90BD-F0A2CB5649CE}
+        {EF540E7A-FE5E-4C1A-ADFE-7389106043D6}
+        {448DAD09-91FA-4792-8B82-3F28FB3525A2}
+        {B1E4D3E5-5331-4C43-AC30-69B33CEA7A92}
+        {63CD6C6E-A6C1-4462-98F3-33D37D8F77C5}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T085555Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "bea35f1d-57fb-4b62-8771-0fca5e26de39"
+      Hint: Title
+      Value: Η γνώση είναι δύναμη
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: |
+        {FBBB1BFF-0332-4A65-B8E9-5A935F3E5136}
+        {0C149C26-4890-4254-9E2D-8A38A5A8295A}
+        {5333A4BC-00DF-469D-B222-D1D4460C2C8E}
+    - ID: "ef564f63-ac66-4ac2-985f-cf03483e18fe"
+      Hint: SubTitle
+      Value: Ενημερώσου για το πώς μπορείς να προστατεύσεις ό,τι έχει αξία για σένα, κάθε στιγμή της ζωής σου.

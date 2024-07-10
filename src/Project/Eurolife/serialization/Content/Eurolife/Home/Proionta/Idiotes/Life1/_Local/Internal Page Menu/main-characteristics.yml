@@ -1,0 +1,25 @@
+﻿---
+ID: "a868ab1c-8def-47d6-9c5e-64e1bbd53f06"
+Parent: "d33e7e41-4d58-431a-a0d7-b20413a657e7"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/Life1/_Local/Internal Page Menu/main-characteristics"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T111510Z
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="Κύρια Χαρακτηρικά" linktype="internal" url="" anchor="" title="Κύρια Χαρακτηρικά" class="" querystring="" target="" id="" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: "main-characteristics"

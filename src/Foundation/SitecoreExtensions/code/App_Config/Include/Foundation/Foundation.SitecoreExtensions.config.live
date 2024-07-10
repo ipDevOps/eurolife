@@ -1,0 +1,55 @@
+<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/" xmlns:set="http://www.sitecore.net/xmlconfig/set/">
+  <sitecore>
+    <linkManager>
+      <providers>
+        <add name="sitecore">
+          <patch:attribute name="type">Wedia.Foundation.SitecoreExtensions.Buckets.BucketLinkManager, Wedia.Foundation.SitecoreExtensions</patch:attribute>
+        </add>
+      </providers>
+    </linkManager>
+    <pipelines>
+      <httpRequestBegin>
+        <processor patch:after="*[@type='Sitecore.Pipelines.HttpRequest.LanguageResolver, Sitecore.Kernel']"
+                   type="Wedia.Foundation.SitecoreExtensions.Infrastructure.Pipelines.CountryLanguageEnforcer,Wedia.Foundation.SitecoreExtensions"/>
+
+
+        <processor patch:after="processor[@type='Sitecore.Pipelines.HttpRequest.ItemResolver, Sitecore.Kernel']"
+                   type="Wedia.Foundation.SitecoreExtensions.Buckets.BucketItemResolver, Wedia.Foundation.SitecoreExtensions" />
+
+        <processor
+               patch:after="processor[@type='Sitecore.Pipelines.HttpRequest.ItemResolver, Sitecore.Kernel']"
+               type="Wedia.Foundation.SitecoreExtensions.Sitemap.Sitemap, Wedia.Foundation.SitecoreExtensions">
+        </processor>
+      </httpRequestBegin>
+
+      <preprocessRequest>
+        <processor patch:instead="processor[@type='Sitecore.Pipelines.PreprocessRequest.FilterUrlExtensions, Sitecore.Kernel']"
+                   type="Sitecore.Pipelines.PreprocessRequest.FilterUrlExtensions, Sitecore.Kernel">
+          <param desc="Allowed extensions (comma separated)">aspx, ashx, asmx, xml</param>
+          <param desc="Blocked extensions (comma separated)">*</param>
+          <param desc="Blocked extensions that stream files (comma separated)">*</param>
+          <param desc="Blocked extensions that do not stream files (comma separated)"></param>
+        </processor>
+      </preprocessRequest>
+
+    </pipelines>
+    <settings>
+      <setting name="Media.RequestExtension" set:value="" />
+      <setting name="Media.RequestProtection.SharedSecret" set:value="CA972DAE5E21D2D65C945DD21D489" />
+
+      <!--Add comma seperated Template item ids to exclude those items from sitemap.xml-->
+      <setting name="ExcludeSitecoreItemsByTemplatesInSitemap" value="{A096D891-6565-4505-8AD8-D497FD1B8776}" />
+      <!--Add 
+            2 means consider Language Embedding = Always
+            1 means consider Language Embedding = AsNeeded
+            0 means consider Language Embedding = Never
+            -->
+      <setting name="LanguageEmbedForSitemap" value="1" />
+
+      <setting name="FormActions.SalesforceApiUrl" set:value="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" />
+      <setting name="LifeWebApi.User" set:value="WBToolAuth" />
+      <setting name="LifeWebApi.Password" set:value="AdwRG@cSF7" />
+      <setting name="LifeWebApi.Domain" set:value="Eurolifeweb" />
+    </settings>
+  </sitecore>
+</configuration>

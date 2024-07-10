@@ -1,0 +1,28 @@
+﻿---
+ID: "6d34a11b-5b75-46bc-8d04-98f2e192a5b1"
+Parent: "ffa6014e-b925-4db4-8c1f-fa917bda2290"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_HasContainerWithDynamicPlaceholder
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {8CA06D6A-B353-44E8-BC31-B528C7306971}
+    {31A73DD1-2DA0-4FC3-B5E2-BA7DB565E0A1}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4F6ED6D9-E55C-4D02-B1E7-9EEF39EF7353}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T091508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

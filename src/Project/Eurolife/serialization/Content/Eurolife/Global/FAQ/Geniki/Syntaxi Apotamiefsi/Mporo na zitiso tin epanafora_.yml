@@ -1,0 +1,25 @@
+﻿---
+ID: "33cad068-2216-4d08-9853-9b53b0cefcd4"
+Parent: "d10e7aa5-46da-4413-abd4-f375605924a4"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Syntaxi Apotamiefsi/Mporo na zitiso tin epanafora tou Symbolaiou mou se isxy
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Μπορώ να ζητήσω την επαναφορά του Συμβολαίου μου σε ισχύ;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T091605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Nu;&alpha;&iota;, &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &alpha;&iota;&tau;&eta;&theta;&epsilon;ί&tau;&epsilon; &tau;&eta;&nu; &epsilon;&pi;&alpha;&nu;&alpha;&phi;&omicron;&rho;ά &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&alpha;&sigmaf; &mu;έ&sigma;&alpha; &sigma;&tau;&eta;&nu; &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &epsilon;&nu;ό&sigmaf; έ&tau;&omicron;&upsilon;&sigmaf; &alpha;&pi;ό &tau;&eta;&nu; &eta;&mu;&epsilon;&rho;&omicron;&mu;&eta;&nu;ί&alpha; &alpha;&kappa;ύ&rho;&omega;&sigma;ή&sigmaf; &tau;&omicron;&upsilon;. &Pi;&rho;&omicron;ϋ&pi;ό&theta;&epsilon;&sigma;&eta; &epsilon;ί&nu;&alpha;&iota; &tau;&omicron; &alpha;ί&tau;&eta;&mu;&alpha; &nu;&alpha; &gamma;ί&nu;&epsilon;&iota; &alpha;&pi;&omicron;&delta;&epsilon;&kappa;&tau;ό &alpha;&pi;ό &tau;&eta;&nu; &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &kappa;&alpha;&iota; &nu;&alpha; έ&chi;&epsilon;&iota; &epsilon;&xi;&omicron;&phi;&lambda;&eta;&theta;&epsilon;ί &tau;&omicron; &sigma;ύ&nu;&omicron;&lambda;&omicron; &tau;&omega;&nu; &omicron;&phi;&epsilon;&iota;&lambda;&omicron;&mu;έ&nu;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu;.</span>

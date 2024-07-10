@@ -1,0 +1,54 @@
+﻿---
+ID: "65f11d60-4b69-4500-b758-fe8ba8074d33"
+Parent: "0d51e54c-6b05-45c8-8163-09a9a269db17"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/Teasers/Why Choose Us-about"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        Φροντίζουμε ώστε η προστασία αυτών που έχουν αξία για εσάς
+        να είναι μια επένδυση που αποδίδει
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Γιατί να μας επιλέξετε
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T132459Z
+    - ID: "2b28dcca-4258-4f5d-a795-b475333909cb"
+      Hint: Active
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{FA1AD068-E55F-4F35-91BE-0D38BF14F7FC}" querystring="" target="" text="ΔΕΙΤΕ ΠΕΡΙΣΣΟΤΕΡΑ" url="/Eurolife/Home/gnoriste-mas/giati-na-mas-epilexete" title="" class="" linktype="internal" />
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        Φροντίζουμε ώστε η προστασία αυτών που έχουν αξία για εσάς
+        να είναι μια επένδυση που αποδίδει
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Γιατί να μας επιλέξετε
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T125716Z
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 

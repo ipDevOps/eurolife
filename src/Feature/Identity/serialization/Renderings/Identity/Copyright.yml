@@ -1,0 +1,18 @@
+﻿---
+ID: "42fb3dff-05d2-45d4-b920-3d771dbb813d"
+Parent: "ac309cca-4100-46bb-a028-e8ead8e42733"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Identity/Copyright
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Identity/Copyright.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T074432Z

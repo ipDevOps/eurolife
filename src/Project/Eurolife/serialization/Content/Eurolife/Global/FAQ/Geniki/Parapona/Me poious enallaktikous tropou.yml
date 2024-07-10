@@ -1,0 +1,25 @@
+﻿---
+ID: "f24a50a7-8899-4f49-a4f6-cc48b451f010"
+Parent: "5c4643d2-b6af-4de0-b393-e7ca9ecd4d64"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Parapona/Me poious enallaktikous tropous mporo na ypoballo to parapono mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Mε ποιούς εναλλακτικούς τρόπους μπορώ να υποβάλλω το παράπονό μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T090323Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &mu;&alpha;&sigmaf; &beta;&omicron;&eta;&theta;ή&sigma;&epsilon;&tau;&epsilon; &nu;&alpha; &beta;&epsilon;&lambda;&tau;&iota;&omega;&theta;&omicron;ύ&mu;&epsilon; &sigma;&tau;έ&lambda;&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &gamma;&rho;&alpha;&pi;&tau;ά &tau;&omicron; &pi;&alpha;&rho;ά&pi;&omicron;&nu;ό &sigma;&alpha;&sigmaf; &gamma;&iota;&alpha; &omicron;&tau;&iota;&delta;ή&pi;&omicron;&tau;&epsilon; &delta;&epsilon;&nu; &sigma;&alpha;&sigmaf; &iota;&kappa;&alpha;&nu;&omicron;&pi;&omicron;ί&eta;&sigma;&epsilon; &sigma;&tau;&omicron; email complaints@eurolife.gr, ή &mu;&pi;&alpha;ί&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&tau;&omicron; Eurolife Connect &kappa;&alpha;&iota; &sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;ώ&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta; &phi;ό&rho;&mu;&alpha; &upsilon;&pi;&omicron;&beta;&omicron;&lambda;ή&sigmaf; &pi;&alpha;&rho;&alpha;&pi;ό&nu;&omicron;&upsilon; &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &upsilon;&pi;&omicron;&beta;ά&lambda;&epsilon;&tau;&epsilon; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ά.</span>

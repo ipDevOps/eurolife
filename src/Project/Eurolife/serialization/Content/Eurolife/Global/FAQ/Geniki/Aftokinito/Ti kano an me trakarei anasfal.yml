@@ -1,0 +1,26 @@
+﻿---
+ID: "622dee02-63cf-4a12-b42a-59f5c1a6e18c"
+Parent: "0c97f573-9bad-4b42-aefb-0b7b9f68914b"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Aftokinito/Ti kano an me trakarei anasfalisto oxima
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι κάνω αν με τρακάρει ανασφάλιστο όχημα;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094047Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Epsilon;ά&nu; &tau;&omicron; &alpha;&upsilon;&tau;&omicron;&kappa;ί&nu;&eta;&tau;ό &sigma;&alpha;&sigmaf; έ&chi;&epsilon;&iota; &zeta;&eta;&mu;&iota;έ&sigmaf;, &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &lambda;ά&beta;&epsilon;&tau;&epsilon; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta; έ&omega;&sigmaf; &tau;&omicron; &pi;&omicron;&sigma;ό &pi;&omicron;&upsilon; &alpha;&nu;&alpha;&gamma;&rho;ά&phi;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&omicron; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;ό &sigma;&alpha;&sigmaf;, &epsilon;&phi;ό&sigma;&omicron;&nu; &omicron; &omicron;&delta;&eta;&gamma;ό&sigmaf; &tau;&omicron;&upsilon; &alpha;&nu;&alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&omicron;&upsilon; &omicron;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&epsilon;&tau;&alpha;&iota; &epsilon;&xi; &omicron;&lambda;&omicron;&kappa;&lambda;ή&rho;&omicron;&upsilon; &gamma;&iota;&alpha; &tau;&omicron; &alpha;&tau;ύ&chi;&eta;&mu;&alpha;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&eta; &pi;&rho;&omicron;ϋ&pi;ό&theta;&epsilon;&sigma;&eta; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &kappa;&alpha;&lambda;έ&sigma;&epsilon;&tau;&epsilon; &epsilon;&pi;ί &tau;ό&pi;&omicron;&upsilon; &tau;&eta;&nu; &Tau;&rho;&omicron;&chi;&alpha;ί&alpha; &gamma;&iota;&alpha; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&gamma;&rho;ά&psi;&epsilon;&iota; &tau;&omicron; &sigma;&upsilon;&mu;&beta;ά&nu;.</span></p>

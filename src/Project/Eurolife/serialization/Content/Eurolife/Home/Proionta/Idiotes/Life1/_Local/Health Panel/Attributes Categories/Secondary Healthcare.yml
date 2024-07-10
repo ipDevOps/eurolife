@@ -1,0 +1,48 @@
+﻿---
+ID: "1572f09b-5601-40f9-a4f2-bdc58a646c4f"
+Parent: "a2d09074-918c-48f8-bd8f-a0af5e738e6f"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/Life1/_Local/Health Panel/Attributes Categories/Secondary Healthcare
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {1E316EB4-42DF-489E-A557-5094C36ED039}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090316Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

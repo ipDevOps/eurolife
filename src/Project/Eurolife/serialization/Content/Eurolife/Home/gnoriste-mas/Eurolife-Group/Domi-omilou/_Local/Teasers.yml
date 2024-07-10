@@ -1,0 +1,14 @@
+﻿---
+ID: "82ac4de4-d484-4f0a-85cb-420252039335"
+Parent: "39d5fb53-043f-45cd-a668-56958af61eff"
+Template: "aacf7182-8b54-4b5c-8957-aa1369d879c9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Domi-omilou/_Local/Teasers"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T110225Z

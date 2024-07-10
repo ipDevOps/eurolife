@@ -1,0 +1,29 @@
+﻿---
+ID: "db295912-e918-4387-b171-1527e6ea23d9"
+Parent: "17ad85d6-945b-4ede-9793-6f6acf06af8f"
+Template: "15969015-aacf-41fe-b141-cfa5c1a0f658"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/stolos/_Local/panel mikres epixeiriseis astiki euthini/astiki efthini xoros katastimaton/Programs"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T122406Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085016Z

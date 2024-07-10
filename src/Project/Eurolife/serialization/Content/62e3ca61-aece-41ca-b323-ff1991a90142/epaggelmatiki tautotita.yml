@@ -1,0 +1,30 @@
+﻿---
+ID: "ca8259b1-e26b-4051-adee-ffe4ea96710e"
+Parent: "62e3ca61-aece-41ca-b323-ff1991a90142"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/asfalistikoi sinergates/epaggelmatiki tautotita"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Επαγγελματική “ταυτότητα”
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <ul>
+            <li>&Mu;&epsilon; &tau;&eta; Eurolife ERB &sigma;&tau;&omicron; &pi;&lambda;&epsilon;&upsilon;&rho;ό &sigma;&alpha;&sigmaf;</li>
+            <li>&Mu;&epsilon; &xi;&epsilon;&kappa;ά&theta;&alpha;&rho;&omicron; &alpha;&pi;&omicron;&tau;ύ&pi;&omega;&mu;&alpha; &sigma;&tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &ndash; &epsilon;&pi;&eta;&rho;&epsilon;ά&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &theta;&epsilon;&tau;&iota;&kappa;ά &tau;&eta; &zeta;&omega;ή &tau;&omega;&nu; &alpha;&nu;&theta;&rho;ώ&pi;&omega;&nu;</li>
+            <li>&Mu;&epsilon; &pi;&alpha;&rho;&omicron;&chi;ή &lambda;ύ&sigma;&epsilon;&omega;&nu; &sigma;&epsilon; &upsilon;&pi;&alpha;&rho;&kappa;&tau;έ&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &mu;έ&sigma;&alpha; &alpha;&pi;ό &mu;&iota;&alpha; &mu;&alpha;&kappa;&rho;&omicron;&chi;&rho;ό&nu;&iota;&alpha; &sigma;&chi;έ&sigma;&eta; &pi;&omicron;&upsilon; &sigma;&tau;&eta;&rho;ί&zeta;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&eta; &sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ή</li>
+            <li>&Mu;&epsilon; &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha; &sigma;&tau;&eta;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ή &delta;&omicron;&upsilon;&lambda;&epsilon;&iota;ά &kappa;&alpha;&iota; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;</li>
+        </ul>

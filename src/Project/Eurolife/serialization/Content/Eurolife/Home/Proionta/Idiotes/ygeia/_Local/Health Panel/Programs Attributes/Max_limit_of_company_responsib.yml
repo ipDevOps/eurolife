@@ -1,0 +1,39 @@
+﻿---
+ID: "82bc50b5-b707-4205-a202-2ca476cc2c02"
+Parent: "8e185d6e-0e26-4290-8780-2f83501940ed"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Health Panel/Programs Attributes/Max_limit_of_company_responsibility
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Ανώτατο όριο ευθύνης της εταιρείας ανά ασφαλιστική περίοδο, ανά περιστατικό νοσηλείας (Ανά ασφαλιστική περίοδο και ανά περιστατικό νοσηλείας).
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Ανώτατο όριο ευθύνης της εταιρείας ανά ασφαλιστική περίοδο, ανά περιστατικό νοσηλείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T100913Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

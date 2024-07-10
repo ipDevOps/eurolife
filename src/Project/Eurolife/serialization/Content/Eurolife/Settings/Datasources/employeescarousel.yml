@@ -1,0 +1,24 @@
+﻿---
+ID: "b5b86ade-8ddb-4f9c-bf92-8519d6793c07"
+Parent: "89e25dc8-85f3-421d-b41e-9d5e3e40f8a5"
+Template: "15d489c4-ebf5-4f3b-bd82-d2e846ab73e4"
+Path: /sitecore/content/Eurolife/Settings/Datasources/employeescarousel
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190523T110330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "da14e9ad-1ce9-4f02-9f5e-23519c650c91"
+      Hint: DatasourceTemplate
+      Value: "{3F3D2D4E-2F16-4ADC-97AD-7598E53D83B3}"
+    - ID: "ed070a1e-0115-4dbb-8685-df0c5bf846fa"
+      Hint: DatasourceLocation
+      Value: "{1AD270CF-7EDE-46B5-B9AB-3AB4D043F299}"

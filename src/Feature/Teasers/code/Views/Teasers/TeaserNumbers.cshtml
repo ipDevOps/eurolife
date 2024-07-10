@@ -1,0 +1,62 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserHeadline.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserHeadline.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<section class="figures center center--1100 m-b-112">
+  <div class="figures__inner">
+    <div class="figure__cell figure__cell--1">
+      <h1 class="h4 m-b-8 p-t-16">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h1>
+      <div class="figure__cell__intro">
+        @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+      </div>
+      <div class="figure__cell--padded figure__numbers-vertical">
+        <div class="figures__text figures__text--dark m-b-48">
+          @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-1")
+        </div>
+        <div class="figures__text figures__text--dark">
+          @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-2")
+        </div>
+      </div>
+    </div>
+    <div class="figure__cell figure__cell--2">
+      @Html.Sitecore().ImageField(Templates.HasTeaserImage.Fields.Image)
+    </div>
+    <div class="figure__cell figure__cell--3">
+      <div class="figures__text figures__text--light m-b-48">
+        @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-3")
+      </div>
+      <div class="figures__text figures__text--light">
+        @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-4")
+      </div>
+    </div>
+    <div class="figure__cell figure__cell--4">
+      <div class="figures__text figures__text--dark">
+        @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-5")
+      </div>
+      <div class="figures__text figures__text--dark">
+        @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-7")
+      </div>
+      <div class="figures__text figures__text--dark">
+        @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-6")
+      </div>
+      <div class="figures__text figures__text--dark">
+
+      </div>
+    </div>
+  </div>
+
+  <div class="figures__undertext">
+    @Html.Sitecore().DynamicPlaceholder($"numbers-teaser-placeholder-8")
+  </div>
+</section>

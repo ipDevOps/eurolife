@@ -1,0 +1,25 @@
+﻿---
+ID: "253fe092-5438-4de5-bea8-b5a2c5d0306e"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Tha exei isxy to symbolaio mou an xreiastei na metoikiso monima sto exoteriko
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Θα έχει ισχύ το συμβόλαιό μου αν χρειαστεί να µετοικίσω µόνιµα στο εξωτερικό ή αν χρειαστεί να παραµείνω στο εξωτερικό για µεγάλο χρονικό διάστηµα;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Delta;&upsilon;&sigma;&tau;&upsilon;&chi;ώ&sigmaf; &delta;&epsilon;&nu; &mu;&pi;&omicron;&rho;&omicron;ύ&mu;&epsilon; &nu;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&omicron;&upsilon;&mu;&epsilon; &mu;ό&nu;&iota;&mu;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&tau;&omicron;ί&kappa;&omicron;&upsilon;&sigmaf; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;&omicron;ύ.</span>

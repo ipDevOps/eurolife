@@ -1,0 +1,53 @@
+﻿---
+ID: "c0694cc4-9953-4d7f-99de-cf1bbd538fdc"
+Parent: "c30b80f8-6d15-460f-ad29-b45d49901bbb"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia/Athens/AUTOMOTIVO AEBE CHALANDRI"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T150848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65fc9b13-4667-4c78-b222-428faf91b1a7"
+      Hint: Fax
+      Value: 2106618185
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: "AUTOMOTIVO ΑΕΒΕ, PEUGEOT - RENAULT - DACIA"
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2106817447
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: sales6@automotivo.gr
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Λ. Κηφισίας 278, Χαλάνδρι, Τ.Κ. 15232
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T075650Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: AUTOMOTIVO ΑΕΒΕ Εξουσιοδοτημένο Peugeot, Chevrolet & Γενικό Συνεργείο
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 210 6618686 / 210 6048083
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Καστοριάς 15, Γέρακας

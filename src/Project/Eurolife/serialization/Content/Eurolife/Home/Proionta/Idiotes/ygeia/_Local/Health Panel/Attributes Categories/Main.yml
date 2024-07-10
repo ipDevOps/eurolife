@@ -1,0 +1,62 @@
+﻿---
+ID: "6deec115-2361-4fb5-ba71-d5f814415502"
+Parent: "ebe7e39d-5cb1-48b5-86ed-f0715b68b2da"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Health Panel/Attributes Categories/Main
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {0CCD88B1-3A0A-4293-8329-09CE2B26E031}
+        {49B7E51D-5FCD-4F8C-B3B7-8632591488A5}
+        {719F3D85-1663-4A09-BB5A-4F5DE7B3D31B}
+        {B06DF319-534A-45FD-935D-6764B10D141C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090248Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Main
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {73BD172B-6322-41D6-AE26-5F66B5BD1000}
+        {719F3D85-1663-4A09-BB5A-4F5DE7B3D31B}
+        {B06DF319-534A-45FD-935D-6764B10D141C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102327Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Main

@@ -1,0 +1,18 @@
+﻿---
+ID: "b3b8ddcf-385e-44ab-a929-e6dc62b94de8"
+Parent: "ff0d89a3-ac9f-4335-885a-efd19deeee6a"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio/Programs Attributes/ptosi-aeroskafous/ptosi-aeroskafous-no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T205229Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

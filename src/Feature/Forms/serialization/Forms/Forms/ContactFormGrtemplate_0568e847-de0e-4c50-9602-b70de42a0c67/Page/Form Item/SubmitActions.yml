@@ -1,0 +1,18 @@
+﻿---
+ID: "b06eddc5-8707-4a3d-ab80-5bc3fba2fcc1"
+Parent: "b3df74ac-ddfb-4de5-a7dd-80d7215c377a"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/Forms/ContactFormGrtemplate/Page/Form Item/SubmitActions
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190930T200030Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

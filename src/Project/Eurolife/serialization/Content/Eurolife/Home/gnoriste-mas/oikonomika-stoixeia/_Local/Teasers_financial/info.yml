@@ -1,0 +1,48 @@
+﻿---
+ID: "071a0cfb-43aa-4942-9a3e-b2662a37f299"
+Parent: "f115720a-f614-4577-b165-79b0a42a0c9e"
+Template: "07ddcb5b-c85d-4daf-907e-bec9f628b3e5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/oikonomika-stoixeia/_Local/Teasers_financial/info"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span style="background-color: #ffffff; text-align: start; letter-spacing: normal; color: #1f497d;"><em style="color: #222222; background-color: #ffffff; text-align: start; letter-spacing: normal;"><span style="color: #1f497d;">* Ποσά &nbsp;αφορούν αθροιστικά ασφαλιστικές αποζημιώσεις ζωής και γενικών, &nbsp;καθώς και πληρωμές&nbsp; εγγυημένων κεφαλαίων και αξιών εξαγοράς, ασφαλιστηρίων ζωής σε Ελλάδα και Ρουμανία</span></em></span>
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: 
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T120412Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: κέρδη προ φόρων
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: εκατ
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 81
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T135710Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

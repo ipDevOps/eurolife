@@ -1,0 +1,50 @@
+﻿---
+ID: "73a779b4-19c5-432b-8b6a-9568837772f3"
+Parent: "705d23bd-0a1f-4556-913d-95d5ed9f9357"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Fortiga IX - Agrotika/Attributes Categories/Secondary Healthcare"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {DB019B1B-5E1C-4224-9963-7D647F4C8D5E}
+        {7C9A13C2-A46A-452C-AD93-4A9F381649F2}
+        {4F9E6B9A-225C-4C69-8AE0-218989FC3FDA}
+        {B5BF72C7-0791-4D75-AFE3-F928B56F86FB}
+        {6345CDB9-F864-4B85-B115-08E694A1BFAB}
+        {B2D8FA2E-B7A4-4D9F-9C0B-7CEB7042EA72}
+        {9904519D-41D1-43BA-A249-69E01F570D1E}
+        {5FB98D06-B2B1-4994-B29C-139F4849F234}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

@@ -1,0 +1,29 @@
+﻿---
+ID: "68b77450-a1af-44dc-93a1-a5d84b9310d8"
+Parent: "0ae3a4fd-3593-475a-b785-2c38ebdef4f9"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Highlights
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T131252Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T110625Z

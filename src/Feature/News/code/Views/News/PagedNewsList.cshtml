@@ -1,0 +1,32 @@
+﻿@using Wedia.Feature.News
+@using Wedia.Feature.News.Models
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model NewsPageResults
+
+@if (Model?.Results?.Results == null || !Model.Results.Results.Any())
+{
+  @Html.Sitecore().Dictionary("/News/News List/No Results", "No Results");
+  return;
+}
+
+@{ 
+    var currentItem = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.Item;
+}
+
+<section class="center center--1100 m-b-112 m-t-112">
+  <div id="news-list" class="list-grid">
+    @Html.Partial("../News/PagedListItems", Model)
+  </div>
+  @if (Model.Results.TotalNumberOfResults > Model.Results.Results.Count())
+  {
+    <div class="t-c m-t-48">
+      <span id="newsLoadMoreBtn"
+            data-root-item="@currentItem.ID"
+            data-page="@Model.Page"
+            data-results-on-page="@Model.ResultsOnPage"
+            class="btn btn--ghost-rev btn--default">@Html.Sitecore().Dictionary("/News/News List/View More", "View More")</span>
+    </div>
+   }
+
+</section>

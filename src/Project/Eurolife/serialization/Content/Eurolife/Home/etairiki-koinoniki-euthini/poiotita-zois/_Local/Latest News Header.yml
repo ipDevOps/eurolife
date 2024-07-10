@@ -1,0 +1,24 @@
+﻿---
+ID: "ae1fa6fb-d110-4853-a99e-f9399a8ee5f2"
+Parent: "7463fc34-8a6d-43d8-b1aa-e5890c463873"
+Template: "be41d8d0-15b8-4fb4-b7a5-f34a3fc054e1"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/_Local/Latest News Header"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T104814Z
+    - ID: "5160eade-b54a-4c64-b1dd-6f4eb7339f76"
+      Hint: UIHeaderTitle
+      Value: Πρόσφατες δραστηριότητες του +πράττουμε  για ένα καλύτερο αύριο
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d532b85-dadf-4513-8e22-adec9a80bdda"
+      Hint: UIHeaderSummary
+      Value: 

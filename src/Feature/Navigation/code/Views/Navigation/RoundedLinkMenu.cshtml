@@ -1,0 +1,59 @@
+﻿@using Wedia.Feature.Navigation
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Feature.Navigation.Models.NavigationItems
+
+@{
+  if (Model?.NavItems == null)
+  {
+    return;
+  }
+}
+
+<section class="center center--1700 m-b-84 rounded-menu">
+  <div id="fix-2" class="sticky-pending">
+    <ul class="center center--1100 anchorlist">
+      @foreach (var item in Model.NavItems.Select((value, i) => new { i, value }))
+      {
+
+        var activeClass = string.Empty;
+
+        if (item.value.IsActive)
+        {
+          if (item.i == 0 && Request.Url.AbsolutePath == item.value.Url)
+          {
+            activeClass = "achorlist__active js-stop-observer";
+          }
+          else if (item.i > 0)
+          {
+            activeClass = "achorlist__active js-stop-observer";
+          }
+        }
+
+        if (item.value.Item.Fields[Templates.LinkMenuItem.Fields.DividerBefore].IsChecked())
+        {
+          activeClass += "divider-left";
+        }
+
+        <li>
+          @using (Html.BeginEditFrame(item.value.Item.ID.ToString(), ""))
+          {
+            <a href="@item.value.Url" target="@item.value.Target" class="@activeClass">
+              @if (!string.IsNullOrWhiteSpace(item.value.Item[Templates.LinkMenuItem.Fields.Icon]))
+              {
+                <span class="@item.value.Item[Templates.LinkMenuItem.Fields.Icon]"></span>
+              }
+              else
+              {
+                @Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, item.value.Item)
+              }
+            </a>
+          }
+
+        </li>
+
+      }
+    </ul>
+  </div>
+  <div id="after-sticky-2" class="after-sticky"></div>
+</section>
+

@@ -1,0 +1,70 @@
+﻿---
+ID: "5411f802-e353-431f-8b8e-862275fe4ebe"
+Parent: "2bb88d51-eae0-4aa1-ac42-d14ab7f3d866"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/Economical Reports
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Sigma;&upsilon;&nu;&omicron;&pi;&tau;&iota;&kappa;ά &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &sigma;&tau;&omicron;&iota;&chi;&epsilon;ί&alpha;, &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;έ&sigmaf; &kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &Epsilon;&kappa;&theta;έ&sigma;&epsilon;&iota;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Οικονομικά Στοιχεία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T122206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="Οικονομικά Στοιχεία" linktype="external" url="http://#" anchor="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{3B090C83-81C2-4283-A2A0-CA7352081AA1}" ></image>
+    - ID: "f51dd24c-64be-4832-9f98-e03f9e84fa63"
+      Hint: TeaserDownloadCTA
+      Value: |
+        <link text="Financial Report 2019" linktype="external" url="http://#" anchor="" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-5a64783f-7fff-6b2b-02f3-c82b2acbde41" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&upsilon;&nu;&omicron;&pi;&tau;&iota;&kappa;ά &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &sigma;&tau;&omicron;&iota;&chi;&epsilon;ί&alpha;, &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;έ&sigmaf; &kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &Epsilon;&kappa;&theta;έ&sigma;&epsilon;&iota;&sigmaf;.</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Οικονομικά Στοιχεία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T110229Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{E573F7B0-63C7-4E31-8C92-EC4EF7F97A74}" querystring="" linktype="internal" text="Αναλυτικά οικονομικά στοιχεία" anchor="" url="/Eurolife/Home/gnoriste-mas/oikonomika-stoixeia" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>
+    - ID: "f51dd24c-64be-4832-9f98-e03f9e84fa63"
+      Hint: TeaserDownloadCTA
+      Value: |
+        <link id="{2B87C416-F4C9-4942-B109-F0952DEE07E3}" querystring="" linktype="internal" text="Financial Report 2018" anchor="" url="/Eurolife/Global/PDFs/PDFFFF" title="" class="" target="" />

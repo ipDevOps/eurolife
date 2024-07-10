@@ -1,0 +1,24 @@
+﻿---
+ID: "88d5dd4f-1210-4102-b585-08cc135d8e22"
+Parent: "747538c9-f9be-4630-8403-3bedd169836a"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/M/monimi-oliki-anapiria"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Μόνιμη Ολική Αναπηρία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072652Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: "Όταν ο Ασφαλισμένος έχει υποστεί τουλάχιστον μία από τις παρακάτω αποκλειστικά αναφερόμενες περιπτώσεις: Ολική και μόνιμη απώλεια χρήσης δύο άκρων ή δύο οφθαλμών ή ενός άκρου και ενός οφθαλμού, μόνιμη και ολική παράλυση ή εγκεφαλική βλάβη, δηλαδή μόνιμη και ολική έκπτωση των πνευματικών λειτουργιών ή αισθητικοκινητική τετραπληγία."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,52 @@
+﻿---
+ID: "281f8be0-df81-47e6-96e9-82824c9ab091"
+Parent: "9051db15-3ac6-4351-b22e-12f52a31ece7"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Car/Attributes Categories/Secondary Healthcare
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {5AE6BF75-0FE2-4D71-94D4-FE0C240D8E59}
+        {A710D2B8-932E-4953-B195-A0697F4998EA}
+        {11332F3A-7E64-4141-AF3F-AF80C06F6905}
+        {898537B5-49A4-4BF7-BC9C-3FE8DABE74D0}
+        {6A1983E1-2823-446E-8B15-2925F17450B3}
+        {1F72085A-BAEC-41EC-90CC-15A668BB3954}
+        {96C3A28E-3690-4AF8-BC37-1A4F09ED208A}
+        {0335B65F-BAAC-4015-9357-EBA1724FBD35}
+        {FE5B368B-0369-498A-84ED-C8B165582DC3}
+        {05395DFB-F365-4613-85C0-E6E3A8D4BF79}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

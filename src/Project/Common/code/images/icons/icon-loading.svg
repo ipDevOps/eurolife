@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Loader/Small</title>
+    <defs>
+        <path d="M17,4 C15.8954305,4 15,3.1045695 15,2 C15,0.8954305 15.8954305,0 17,0 C26.3888407,0 34,7.61115925 34,17 C34,26.3888407 26.3888407,34 17,34 C7.71496475,34 0.151333941,26.5499852 0.00197152601,17.2781851 C-0.0155247118,16.1737584 0.865392603,15.2640463 1.96981931,15.2462861 C3.07424602,15.228526 3.9839582,16.1094433 4.00171833,17.21387 C4.1157133,24.30273 9.89986917,30 17,30 C24.1797017,30 30,24.1797017 30,17 C30,9.82029825 24.1797017,4 17,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Loader/Small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Loader" fill-rule="nonzero"></g>
+        <g id="Group" mask="url(#mask-2)" fill="#EF3340">
+            <g id="Color">
+                <rect id="Color/Corporate_Red" x="0" y="0" width="34" height="34"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

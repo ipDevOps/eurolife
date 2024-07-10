@@ -1,0 +1,43 @@
+﻿---
+ID: "0a7a801d-e688-4e54-b435-bdc13072cae4"
+Parent: "66ffcef7-c95f-450a-ba1f-decfde90a999"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/Highlights katoikia/Highlights Accordions flexible/periexomeno new/memonomene loipes kalipseis periexomeno
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T142915Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Μεμονωμένες λοιπές καλύψεις
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>&Epsilon;&pi;έ&kappa;&tau;&alpha;&sigma;&eta; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &sigma;&epsilon; &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&alpha; &sigma;&tau;&omicron; ύ&pi;&alpha;&iota;&theta;&rho;&omicron; ή &epsilon;&nu;&tau;ό&sigmaf; &beta;&omicron;ή&theta;&eta;&tau;&iota;&kappa;ώ&nu; &kappa;&tau;&iota;&sigma;&mu;ά&tau;&omega;&nu;, ό&pi;&omega;&sigmaf; έ&pi;&iota;&pi;&lambda;&alpha; &kappa;ή&pi;&omicron;&upsilon; &kappa;&alpha;&iota; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&alpha; &kappa;&eta;&pi;&omicron;&upsilon;&rho;&iota;&kappa;ή&sigmaf;</li>
+            <li>&Kappa;&alpha;&theta;ί&zeta;&eta;&sigma;&eta; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&omicron;&lambda;ί&sigma;&theta;&eta;&sigma;&eta; &epsilon;&delta;ά&phi;&omicron;&upsilon;&sigmaf;</li>
+            <li>&Sigma;&epsilon;&iota;&sigma;&mu;ό&sigmaf;</li>
+        </ul>
+        </div>
+        </div>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>
+        </p>

@@ -1,0 +1,47 @@
+﻿---
+ID: "231afc1f-803f-47e5-b9c2-f58f8f3e1a52"
+Parent: "179faee3-b0a4-4e6e-bdbd-8882369f5870"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Home/prosopika-dedomena/Koini-enimerosi-ton-Etaireion-pros-Olous/_Local/Menu-prosopika-dedomena-simmetoxon-pros-olous/koini enimrosi ton etairion pros olous"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T140624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AF7B55FA-B327-4B4A-854D-2259CF57722F}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value:  Κοινή ενημέρωση των Εταιρειών προς Όλους
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T085602Z
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" linktype="javascript" url="#customer" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: I a client

@@ -1,0 +1,18 @@
+﻿---
+ID: "449406a3-be3d-4b82-846c-c2411da372e8"
+Parent: "d6965262-7267-47f5-b0fe-1eaa023f5f3d"
+Template: "d6965262-7267-47f5-b0fe-1eaa023f5f3d"
+Path: /sitecore/templates/Project/Common/Content Types/EurolifeCalculatorTool/Hospitalization/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T153035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

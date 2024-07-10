@@ -1,0 +1,49 @@
+﻿---
+ID: "8737530c-dd1b-4782-9226-2fbd7a873eea"
+Parent: "09475790-230a-4164-89f1-a782a81498de"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: /sitecore/content/Eurolife/Global/PDFs/PDFf
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T084758Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: PDFf
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20faf759-601d-41e5-b2ce-cb23be133c32"
+      Hint: MediaDescription
+      Value: test2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T134242Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: TEst
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: 

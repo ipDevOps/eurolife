@@ -1,0 +1,18 @@
+﻿---
+ID: "9b0c74f9-1c86-4bed-abe1-d04cbb4ee4d8"
+Parent: "cb46fc83-8b2f-49a6-b9b9-4639b4407191"
+Template: "4199becf-21aa-4aaa-a99d-7a64cae7fd94"
+Path: /sitecore/content/Eurolife/Home/exipiretisi/_Local/Highlights Teaser
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190724T083816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

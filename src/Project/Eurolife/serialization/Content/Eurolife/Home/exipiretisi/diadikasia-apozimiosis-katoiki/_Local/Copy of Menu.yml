@@ -1,0 +1,25 @@
+﻿---
+ID: "679d8bb3-b7e7-4d3e-848a-1e1bdac5b569"
+Parent: "1f872af8-059e-40bf-8f07-0f9937539fe6"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-katoikias/_Local/Copy of Menu"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T140619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T085541Z

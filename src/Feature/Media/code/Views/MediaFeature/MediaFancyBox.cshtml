@@ -1,0 +1,70 @@
+﻿@using Wedia.Feature.Media
+@using Wedia.Feature.Media.Repositories
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Resources.Media
+@model Sitecore.Mvc.Presentation.RenderingModel
+@if (!Model?.Item?.DescendsFrom(Templates.HasMediaSelector.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasMediaSelector.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+  return;
+}
+
+@{
+  var elements = MediaRepository.Get(Model.Item).ToArray();
+}
+
+@if (elements != null && elements.Any())
+{   
+  <div class="center center--1100 flex-spread m-t-112">
+    <h1 class="h3 m-b-48">
+      @Html.Sitecore().Dictionary("/Media/FancyBox/Title", "Gallery")
+    </h1>
+    <div class="gallery__controls">
+      <span class="gallery-prev">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+          <defs><path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z" /></defs>
+          <use fill="#003B4D" fill-rule="nonzero" transform="rotate(-180 29.99 30)" xlink:href="#a" />
+        </svg>
+      </span>
+      <span class="gallery-next">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+          <defs><path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z" /></defs>
+          <use fill="#003B4D" fill-rule="nonzero" xlink:href="#a" />
+        </svg>
+      </span>
+    </div>
+  </div>
+
+  <section class="gallery m-b-112">
+    <div class="js-gallery">
+      @foreach (var element in elements)
+      {
+        var field = element.Item.DescendsFrom(Templates.HasMediaVideo.ID) ? Templates.HasMedia.Fields.Thumbnail : Templates.HasMediaImage.Fields.Image;
+        var image = element.Item.ImageUrl(field);
+        var options = new MediaUrlOptions { Height = 458, Width = 652 };
+        var thumb = element.Item.ImageUrl(field, options);
+        var description = element.Item.Fields[Templates.HasMedia.Fields.Description];
+        var title = element.Item.Fields[Templates.HasMedia.Fields.Title];
+        var label = element.Item.Fields[Templates.HasMedia.Fields.Label];
+
+        var videoUrl = string.Empty;
+
+        if (element.Item.DescendsFrom(Templates.HasMediaVideo.ID))
+        {
+          videoUrl = element.Item.LinkFieldUrl(Templates.HasMediaVideo.Fields.VideoLink);
+        }
+
+
+        <a data-fancybox="gallery" data-caption="@description"
+           href="@(!string.IsNullOrEmpty(videoUrl) ? videoUrl : image)"
+           class="@(!string.IsNullOrEmpty(videoUrl) ? "gallery__video" : null)">
+          <img src="@thumb" alt="@title" />
+        </a>
+      }
+      <div></div>
+    </div>
+  </section>
+} 

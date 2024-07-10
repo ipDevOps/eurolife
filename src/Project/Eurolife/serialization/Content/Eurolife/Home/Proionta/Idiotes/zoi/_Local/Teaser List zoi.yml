@@ -1,0 +1,41 @@
+﻿---
+ID: "e9fae61d-b9f3-4773-bd73-4f20ebc9c527"
+Parent: "99d992f2-f236-45ef-aa64-2e8d50161818"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/Teaser List zoi
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;&pi;&iota;&lambda;έ&xi;&tau;&epsilon; &tau;&eta;&nu; &pi;&rho;ό&tau;&alpha;&sigma;&eta; &mu;&alpha;&sigmaf;, &pi;&omicron;&upsilon; &tau;&alpha;&iota;&rho;&iota;ά&zeta;&epsilon;&iota; &sigma;&epsilon; &epsilon;&sigma;ά&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &sigma;&alpha;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ολοκληρωμένες Λύσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T095722Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T132913Z
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3

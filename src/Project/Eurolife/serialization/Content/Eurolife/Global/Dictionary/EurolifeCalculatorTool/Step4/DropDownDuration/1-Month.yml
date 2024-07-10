@@ -1,0 +1,32 @@
+﻿---
+ID: "2ae6a719-3085-42bb-903a-d8a57d77507d"
+Parent: "2aa45545-d0e3-4461-b38b-7d62411056c5"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: "/sitecore/content/Eurolife/Global/Dictionary/EurolifeCalculatorTool/Step4/DropDownDuration/1-Month"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210115T110726Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Μηνιαία διάρκεια
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210115T110719Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

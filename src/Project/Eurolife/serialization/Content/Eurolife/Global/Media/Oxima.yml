@@ -1,0 +1,39 @@
+﻿---
+ID: "8d136384-c8de-4943-8e19-f271d949e4a6"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Path: /sitecore/content/Eurolife/Global/Media/Oxima
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediapath="" alt="Habitat-004-wide" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{F7B912DF-DC26-43AC-A1AB-C0EBEEB59AE1}" />
+    - ID: "20faf759-601d-41e5-b2ce-cb23be133c32"
+      Hint: MediaDescription
+      Value: Καλυφθείτε με 24ωρη οδική βοήθεια και φροντίδα ατυχήματος AutoAssist
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T134832Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: OXHMATA
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "661c186c-f966-466b-8aaf-5fb32600711b"
+      Hint: Url
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E8F41762-5E51-4ED5-9345-5C208FD960CA}" />
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Safe Drive Standard
+    - ID: "de984d10-9f28-4135-b53f-fe8b5de19c55"
+      Hint: MediaThumbnail
+      Value: |
+        <image mediaid="{690C5379-E161-4AE3-B975-E603D8AA13DD}" />

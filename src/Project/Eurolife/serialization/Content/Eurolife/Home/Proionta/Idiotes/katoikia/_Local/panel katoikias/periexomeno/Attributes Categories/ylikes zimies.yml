@@ -1,0 +1,66 @@
+﻿---
+ID: "48f772ee-350d-4fc9-8ec6-370b4c06c81e"
+Parent: "325fddca-e189-4058-9410-12ff38d0e36f"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Attributes Categories/ylikes zimies
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 0
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {F03699C5-B343-4524-A41B-ED56EE00C7FC}
+        {C4B68996-0CE6-4A1E-9614-62BCFCD0A686}
+        {81D0AB4D-49A7-49C3-95C7-7B63D0708002}
+        {A1F2E310-2F69-424E-9B8B-DB5B39A00E92}
+        {A8454992-D499-4EE1-917C-F00DA851380E}
+        {E66542FD-39CF-4C06-86C3-3547064F6D09}
+        {89412936-6FAE-4FAA-89AF-603162F2945E}
+        {1AE729A3-3A74-4AC1-A92D-56B5328345B7}
+        {A3B76501-1B4F-4B62-A339-EDD6459B4C59}
+        {6E927BE3-924A-4F36-A84B-3439CF06722C}
+        {836B48F1-8B00-4A46-B555-A556603EE179}
+        {3FF97B95-5BEF-4841-BC65-8AA9098ED885}
+        {9C1A1FB0-F16D-4759-B569-C6F94B9499BF}
+        {44FD95FE-A324-4F5A-8E10-1CEC38E92262}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203049Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Υλικές Ζημιές
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082718Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

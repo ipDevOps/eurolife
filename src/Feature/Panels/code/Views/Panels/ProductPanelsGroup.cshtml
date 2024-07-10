@@ -1,0 +1,11 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Panels.Models
+@using Wedia.Feature.Panels
+@using Sitecore.Data.Items
+@using Newtonsoft.Json
+@model Wedia.Feature.Panels.Models.PanelsGroup
+
+<app-panel-group :panels-group="@JsonConvert.SerializeObject(Model)"></app-panel-group>
+
+
+@Html.Partial("./PanelControls")

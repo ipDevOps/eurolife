@@ -1,0 +1,37 @@
+﻿---
+ID: "62857717-4d5a-412d-9a96-cb938a337226"
+Parent: "1c648d40-511f-4a69-b48f-91ec074e0d98"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/_Local/Teaser List/Dioikitika-Stelechi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&alpha;&theta;&epsilon;&rho;ά &sigma;&tau;&iota;&sigmaf; &iota;&kappa;&alpha;&nu;ό&tau;&eta;&tau;&epsilon;&sigmaf; &kappa;&alpha;&iota; &tau;&eta;&nu; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &tau;&omicron;&upsilon;&nbsp;<span id="docs-internal-guid-2e452306-7fff-6f11-c928-8073b146b2ca" style="background-color: transparent; text-decoration: none; color: #000000;">&alpha;&nu;&theta;&rho;ώ&pi;&iota;&nu;&omicron;&upsilon;</span> &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;&omicron;ύ &mu;&alpha;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Διοικητικά Στελέχη
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T194935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{61850B0F-3E61-4CE6-8CBB-4206B50B5853}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" url="/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi" title="" class="" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{1955E26D-8493-4C25-9243-3B34A4801F4F}" />
+    - ID: "f51dd24c-64be-4832-9f98-e03f9e84fa63"
+      Hint: TeaserDownloadCTA
+      Value: |
+        <link id="{61850B0F-3E61-4CE6-8CBB-4206B50B5853}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" url="/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi" title="" class="" linktype="internal" />

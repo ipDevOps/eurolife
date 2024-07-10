@@ -1,0 +1,56 @@
+﻿---
+ID: "aa076d83-f870-41cf-a5a8-f3c55f27271f"
+Parent: "c30b80f8-6d15-460f-ad29-b45d49901bbb"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia/Athens/PAPASTATHIS I STOLIDAKIS D OE"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T150904Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΠΑΠΑΣΤΑΘΗΣ Ι. – ΣΤΟΛΙΔΑΚΗΣ Δ. ΟΕ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6972 098328
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 210 2801000
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: info@autorefinish.gr
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Αιγίνης 4, Μεταμόρφωση, 14451, ΑΤΤΙΚΗΣ
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T075914Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΠΑΠΑΣΤΑΘΗΣ Ι. – ΣΤΟΛΙΔΑΚΗΣ Δ. ΟΕ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6972 098328 / 6945 255817
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 210 2801000
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value:  Αιγίνης 4, Μεταμόρφωση, 14451, Μεταμόρφωση

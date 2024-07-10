@@ -1,0 +1,98 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.TeaserBoardItem.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.TeaserBoardItem.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+@{
+  var fontColor = !string.IsNullOrEmpty(RenderingContext.Current.Rendering.GetFontColorClass()) ?
+    RenderingContext.Current.Rendering.GetFontColorClass() : "color-health";
+}
+
+
+<article class="home-products__item @fontColor">
+  <div class="item--inner">
+
+    @if (Model.Item.FieldHasValue(Templates.HasTeaserImage.Fields.Image) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="item-image">
+        @Html.Sitecore().ImageField(Templates.HasTeaserImage.Fields.Image, 0, 500)
+      </div>
+    }
+
+    <div class="item">
+      <div>
+        <div class="icon">
+          @if (Model.Item.FieldHasValue(Templates.HasTeaserIcon.Fields.Icon) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            @Html.Sitecore().ImageField(Templates.HasTeaserIcon.Fields.Icon)
+          }
+
+          @if (Model.Item.FieldHasValue(Templates.HasTeaserLabel.Fields.Label) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <div class="list-axis__tag">
+              @Html.Sitecore().Field(Templates.HasTeaserLabel.Fields.Label)
+            </div>
+          }
+        </div>
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserTitle.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <h2 class="m-t-24">
+            @Html.Sitecore().Field(Templates.HasTeaserTitle.Fields.Title)
+          </h2>
+        }
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserSubTitle.Fields.SubTitle) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <h4 class="h4 product-subtitle">
+            @Html.Sitecore().Field(Templates.HasTeaserSubTitle.Fields.SubTitle)
+          </h4>
+        }
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserDescription.Fields.Description) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <p class="m-t-16 product-paragraph">
+            @Html.Sitecore().Field(Templates.HasTeaserDescription.Fields.Description)
+          </p>
+        }
+      </div>
+
+      @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class = "btn btn--default btn--dark  m-t-24" })
+    </div>
+
+    @if (Model.Item.FieldHasValue(Templates.HasTeaserTitle_2.Fields.Title_2) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="item">
+        <div>
+          @if (Model.Item.FieldHasValue(Templates.HasTeaserTitle_2.Fields.Title_2) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <h2 class="m-t-24">
+              @Html.Sitecore().Field(Templates.HasTeaserTitle_2.Fields.Title_2)
+            </h2>
+          }
+
+          @if (Model.Item.FieldHasValue(Templates.HasTeaserDescription_2.Fields.Description_2) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <p class="m-t-16 product-paragraph">
+              @Html.Sitecore().Field(Templates.HasTeaserDescription_2.Fields.Description_2)
+            </p>
+          }
+        </div>
+
+        @Html.Sitecore().Field(Templates.HasTeaserCTA_2.Fields.CTA_2, new { @class = "btn btn--default btn--dark product-button" })
+      </div>
+    }
+  </div>
+</article>

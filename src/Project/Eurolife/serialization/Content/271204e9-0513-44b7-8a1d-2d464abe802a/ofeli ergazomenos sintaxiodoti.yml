@@ -1,0 +1,89 @@
+﻿---
+ID: "0bb930fa-81d2-411a-b4ee-dff4bc2cc72d"
+Parent: "271204e9-0513-44b7-8a1d-2d464abe802a"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/sintaxiodotika/_Local/omadiki asfalisi ofeli/ofeli ergazomenos sintaxiodotika"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 750
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191002T141220Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Ποια είναι τα οφέλη για τον εργαζόμενο; 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <ul>
+            <li>&Sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;ώ&nu;&omicron;&upsilon;&nu; &tau;&iota;&sigmaf; &pi;&alpha;&rho;&omicron;&chi;έ&sigmaf; &tau;&eta;&sigmaf; &Kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &Alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &epsilon;&pi;&iota;&tau;&rho;έ&pi;&omicron;&upsilon;&nu; &tau;&eta; &delta;&iota;&alpha;&tau;ή&rho;&eta;&sigma;&eta; &tau;&omicron;&upsilon; &beta;&iota;&omicron;&tau;&iota;&kappa;&omicron;ύ &tau;&omicron;&upsilon; &epsilon;&pi;&iota;&pi;έ&delta;&omicron;&upsilon; &kappa;&alpha;&iota; &mu;&epsilon;&tau;ά &tau;&eta; &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;ό&tau;&eta;&sigma;&eta;.</li>
+            <li>&Mu;&epsilon;&iota;ώ&nu;&omicron;&upsilon;&nu; &tau;&omicron; ά&gamma;&chi;&omicron;&sigmaf; &pi;&omicron;&upsilon; &pi;&rho;&omicron;&kappa;&alpha;&lambda;&epsilon;ί &eta; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ή &alpha;&beta;&epsilon;&beta;&alpha;&iota;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&omicron;ύ&nu; &theta;&epsilon;&tau;&iota;&kappa;ά &sigma;&tau;&omicron;&nu; &omicron;&iota;&kappa;&omicron;&gamma;&epsilon;&nu;&epsilon;&iota;&alpha;&kappa;ό &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ό &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;&alpha;&tau;&iota;&sigma;&mu;ό.</li>
+            <li>H &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &tau;&eta;&sigmaf; &pi;&alpha;&rho;&omicron;&chi;ή&sigmaf; &phi;&omicron;&rho;&omicron;&lambda;&omicron;&gamma;&epsilon;ί&tau;&alpha;&iota; &alpha;&upsilon;&tau;&omicron;&tau;&epsilon;&lambda;ώ&sigmaf; (&Nu;. 4172/2013 ά&rho;&theta;&rho;&omicron; 15&omicron;).</li>
+        </ul>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T083851Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: PAOKARA
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        test
+        </div>
+        <div class="contentgroup__info">
+        test
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>fdsdf</li>
+            <li>sdfsdf</li>
+            <li>sdfsdf</li>
+            <li>sdfsdf</li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        sdfdsfsd
+        </div>
+        <div class="contentgroup__info">
+        sdfsdf
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>sdfsdfs</li>
+            <li>sdfdsf</li>
+            <li>sdfsdf</li>
+            <li>sdfsdf</li>
+        </ul>
+        </div>
+        </div>
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: PAOKARA

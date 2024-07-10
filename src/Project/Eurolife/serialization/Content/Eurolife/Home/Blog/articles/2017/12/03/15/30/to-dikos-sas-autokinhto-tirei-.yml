@@ -1,0 +1,42 @@
+﻿---
+ID: "47a7e8b8-934a-4d1d-a349-da07e050267f"
+Parent: "de2279bd-6282-44e4-a5e8-36053afd3cd8"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2017/12/03/15/30/to-dikos-sas-autokinhto-tirei-ta-eurwpaika-prwtypa-rypwn"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T153058Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Το δικό σας αυτοκίνητο τηρεί τα ευρωπαϊκά πρότυπα ρύπων; 
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F33C1248-D401-4C0C-93BA-235A7C9D9FC9}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <div style="text-align: justify;">Από το 1992, που οι καταλυτικοί μετατροπείς έγιναν υποχρεωτικοί για όλα τα αυτοκίνητα στην Ευρώπη, τα πρότυπα εκπομπής ρύπων έχουν γίνει πολύ πιο αυστηρά για όλα τα οχήματα. Και η προσπάθεια αποδίδει: <strong>σήμερα χρειάζονται περίπου 50 νέα αυτοκίνητα για να παράξουν τους ρύπους</strong> <strong>που παρήγαγε ένα μόνο αυτοκίνητο </strong>τη δεκαετία του 1970!&nbsp;</div><div style="text-align: justify;"></div><div style="text-align: justify;">Παρακάτω, παρουσιάζονται τα όρια για την εκπομπή ρύπων σύμφωνα με τα νέα πρότυπα της EE (Euro 6), για κάθε κατηγορία κινητήρα:&nbsp;</div><div style="text-align: justify;"></div><div style="text-align: justify;">Τι ισχύει για τα ντίζελ αυτοκίνητα;</div><div style="text-align: justify;"></div><ul>    <li style="text-align: justify;">Μονοξείδιο του άνθρακα (CO): 0,5 γρ./χλμ.</li>    <li style="text-align: justify;">Αιωρούμενα σωματίδια (PM): 0,005 γρ./χλμ.</li>    <li style="text-align: justify;">Οξείδια του αζώτου (NOx): 0,08 γρ./χλμ.</li>    <li style="text-align: justify;">Συνδυασμένες εκπομπές υδρογονανθράκων και&nbsp;</li>    <li style="text-align: justify;">οξειδίων του αζώτου (HC+NOx): 0,17 γρ./χλμ.</li></ul><p style="text-align: justify;"><strong>Τι ισχύει για τα βενζινοκίνητα αυτοκίνητα;</strong></p><div style="text-align: justify;">Στα βενζινοκίνητα αυτοκίνητα δεν θα υπάρξει μείωση στους ρύπους σε σχέση με το προηγούμενο πρότυπο (Euro5), αφού το νέο πρότυπο Euro6 ισχύει μόνο για τους ρύπους των ντίζελ.&nbsp;</div><div style="text-align: justify;"></div><div style="text-align: justify;">Οπότε τα όρια για τα βενζινοκίνητα αυτοκίνητα είναι:</div><ul>    <li style="text-align: justify;">CO: 1.0 γρ./χλμ.</li>    <li style="text-align: justify;">THC (τετραϋδροκανναβινόλη): 0.10 γρ./χλμ</li>    <li style="text-align: justify;">NMHC (υδρογονάνθρακες εκτός μεθανίου): 0.068 γρ./χλμ</li>    <li style="text-align: justify;">NOx: 0.06 γρ./χλμ.</li>    <li style="text-align: justify;">PM: 0.005 γρ./χλμ.&nbsp;</li></ul><div style="text-align: justify;">Βάσει των κανονισμών της ΕΕ, οι κατά τόπους Αρχές θα πρέπει να καταστρώσουν σχέδια μείωσης των επικίνδυνων εκπομπών ρύπων και να δημιουργήσουν «ζώνες καθαρού αέρα». Η Γαλλία και η Βρετανία, για παράδειγμα, προσπαθούν ήδη να κινηθούν προς αυτό το στόχο εφαρμόζοντας «δακτυλίους» σε επιβαρυμένες αστικές περιοχές, οι οποίοι επιτρέπουν την είσοδο των πιο ρυπογόνων οχημάτων μόνο σε συγκεκριμένες ώρες ή ημέρες ή επιβάλλουν στα οχήματα αυτά να καταβάλουν κάποιο αντίτιμο για να περάσουν.&nbsp;</div><div style="text-align: justify;"></div><div style="text-align: justify;">Αξίζει να σημειωθεί, ότι <strong>τα παραπάνω όρια θα περιορίζονται όλο και περισσότερο</strong> μέσα στα επόμενα χρόνια, ενώ ο στόχος της ΕΕ είναι να απαγορευτούν εντελώς οι πωλήσεις νέων βενζινοκίνητων και ντίζελ οχημάτων μέχρι το 2040, με στόχο την ακόμα μεγαλύτερη βελτίωση της ποιότητας του αέρα που αναπνέουμε.</div><div style="text-align: justify;"></div><strong><div style="text-align: justify;"><strong>Είναι το αυτοκίνητό μου «καθαρό»;</strong></div></strong><div style="text-align: justify;"></div><div style="text-align: justify;">Με βάση τον παρακάτω πίνακα και την ημερομηνία κατασκευής του αυτοκινήτου σας, μπορείτε να έχετε μια πρώτη εικόνα σε σχέση με το ποια ευρωπαϊκά πρότυπα εκπομπών ρύπων καλύπτει. Για να βεβαιωθείτε, ωστόσο, καλό θα είναι να επικοινωνήσετε απευθείας με τον κατασκευαστή του.</div><p style="text-align: justify;"><span style="text-decoration: underline;"><strong>Πρότυπο</strong></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="text-decoration: underline;"><strong>Ημερομηνία κατασκευής</strong></span></p><div style="text-align: justify;">Euro 1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 Ιουλίου 1992&nbsp;</div><div style="text-align: justify;">Euro 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 January 1996&nbsp;</div><div style="text-align: justify;">Euro 3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 January 2000&nbsp;</div><div style="text-align: justify;">Euro 4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 January 2005&nbsp;</div><div style="text-align: justify;">Euro 5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 September 2009&nbsp;</div><div style="text-align: justify;">Euro 6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1 September 2014&nbsp;</div><div style="text-align: justify;"></div>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: Η Ευρωπαϊκή Ένωση, στην προσπάθειά της να βελτιώσει την ποιότητα του αέρα που αναπνέουμε όλοι, επιβάλλει, εδώ και 25 χρόνια, ολοένα και πιο αυστηρά στάνταρντ στα όρια εκπομπής ρύπων για τα αυτοκίνητα που κυκλοφορούν στις ευρωπαϊκές πόλεις. Το να γνωρίζετε αν το αυτοκίνητό σας (είτε είναι βενζινοκίνητο είτε ντίζελ) ανταποκρίνεται στα ευρωπαϊκά πρότυπα εκπομπής ρύπων είναι σήμερα πιο σημαντικό από ποτέ.
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{ADF6C022-3F09-46C0-A6FE-1E83C0374BD2}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Το δικό σας αυτοκίνητο τηρεί τα ευρωπαϊκά πρότυπα ρύπων; 
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20171218T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{FBBB1BFF-0332-4A65-B8E9-5A935F3E5136}"

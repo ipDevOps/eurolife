@@ -1,0 +1,18 @@
+﻿---
+ID: "976cb687-ac4d-4eb3-b617-3fb9c14638d0"
+Parent: "1390fb94-7b36-4d12-b6e3-0e0c34bf40c4"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Blog/Article
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200123T153603Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

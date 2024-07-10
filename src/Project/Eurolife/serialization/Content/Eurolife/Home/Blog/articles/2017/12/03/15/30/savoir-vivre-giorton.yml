@@ -1,0 +1,42 @@
+﻿---
+ID: "aedd93aa-4dc2-4d26-be02-898ff7b183d3"
+Parent: "de2279bd-6282-44e4-a5e8-36053afd3cd8"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2017/12/03/15/30/savoir-vivre-giorton"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T153055Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "Trivia: Το Savoir Vivre των γιορτών. Πόσο καλός προσκεκλημένος είσαι;"
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p>Το να είσαι προσκεκλημένος σε ένα πάρτι, ένα ρεβεγιόν ή ένα τραπέζι δεν είναι όσο εύκολο νομίζεις. Μπορεί να μην έχεις να κάνεις την προετοιμασία που έχει ένας οικοδεσπότης, μπορείς όμως σίγουρα να φροντίσεις να μην επιβαρύνεις αυτόν που σε καλεί, ώστε να περάσουν όλοι… Καλές Γιορτές!</p><div class="riddle_target" data-rid-id="135972" data-fg="#1486CD" data-bg="#FFFFFF" style="margin: 0px auto; max-width: 100%; width: 640px;" data-auto-scroll="true"><iframe style="width: 100%; height: 550px; border: 1px solid #cfcfcf;" src="https://www.riddle.com/a/135972?">&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h2&amp;amp;amp;gt;Το Savoir Vivre των Γιορτών: Πόσο καλός προσκεκλημένος είσαι;&amp;amp;amp;lt;/h2&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;Με αφορμή τα άφθονα γιορτινά καλέσματα, απάντησε σε μερικές ερωτήσεις και δες πόσο καλά γνωρίζεις τους κανόνες καλής συμπεριφοράς… για προσκεκλημένους!&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h2&amp;amp;amp;gt;Όταν σε καλούν σε ένα ρεβεγιόν ή τραπέζι ενημερώνεις για το εάν θα πας μία ημέρα πριν.&amp;amp;amp;lt;/h2&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Συνήθως, πηγαίνεις λίγο νωρίτερα στο κάλεσμα για να βοηθήσεις τον οικοδεσπότη με την προετοιμασία.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Όταν σε καλούν κάπου και ειδικά τις γιορτές αποφεύγεις να πηγαίνεις χωρίς δώρο.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Αν η πρόσκληση απευθύνεται μόνο σε εσένα δεν θα προσκαλέσεις και τον/την συνοδό σου.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Εάν προκύψει κάτι τελευταία στιγμή και δεν μπορείς να πας, δεν ειδοποιείς.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Πάντα ειδοποιείς εγκαίρως τον οικοδεσπότη για τροφικές αλλεργίες/δυσανεξίες.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Εάν δεν σου αρέσει η γιορτινή διακόσμηση του σπιτιού στο οποίο είσαι καλεσμένος/η λες ελεύθερα τη γνώμη σου.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Εφόσον βρίσκεσαι μεταξύ φίλων μπορείς να πιείς ανεξέλεγκτα.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Ακόμα και αν νυστάξεις αμέσως μετά το φαγητό δεν φεύγεις εάν δεν έχει ολοκληρωθεί το γεύμα.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Εάν δεις ότι κάποιος φίλος έχει πιει παραπάνω τον συνοδεύεις ως το σπίτι ή φροντίζεις να φτάσει σε αυτό με ασφάλεια.&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h2&amp;amp;amp;gt;Μάλλον σε ενδιαφέρει περισσότερο το φαγητό από το να μην στεναχωρήσεις τον οικοδεσπότη.&amp;amp;amp;lt;/h2&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;Μην ξεχνάς! Λίγη καλή θέληση και ένας καλός προγραμματισμός μπορούν αμέσως να σε βγάλουν από τη μαύρη λίστα.&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;Καλές Γιορτές! :santa:&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Χρειάζεσαι ένα φρεσκάρισμα στον τομέα του Savoir Vivre!&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;Ευχόμαστε τα πολλά καλέσματα φέτος τις γιορτές να σε γεμίσουν νέες εμπειρίες και να σε βοηθήσουν να εξασκηθείς, ώστε να γίνεις ο τέλειος καλεσμένος.&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;&amp;amp;amp;lt;br&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;Καλές Γιορτές! :santa:&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;&amp;amp;amp;lt;section&amp;amp;amp;gt;&amp;amp;amp;lt;h3&amp;amp;amp;gt;Είσαι η χαρά κάθε οικοδεσπότη!&amp;amp;amp;lt;/h3&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;&amp;amp;amp;lt;p&amp;amp;amp;gt;Είναι λογικό τα καλέσματα να πέφτουνε βροχή, ιδιαίτερα τώρα τις γιορτές. Καλά να περάσεις και... Καλές Γιορτές! :santa:&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/p&amp;amp;amp;gt;&amp;amp;amp;lt;/section&amp;amp;amp;gt;</iframe></div><p style="padding-left: 20px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-size: 80%; max-width: 95%; width: 640px; margin: 0px auto; padding-top: 10px; text-align: left;"><a href="https://www.riddle.com" style="color: inherit;" target="blank">Δημιουργός Κουίζ</a> - παρέχεται από Riddle</p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: "Πιστεύεις ότι είσαι ο προσκεκλημένος που οι φίλοι και οι γνωστοί αγαπούν να καλούν; Απάντησε στις ερωτήσεις του trivia, δες πόσο καλά γνωρίζεις το savoir vivre των γιορτών και απόλαυσε τα γιορτινά καλέσματα!"
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{D6E57E68-D482-4B11-B866-83BA1F426C35}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: "Trivia: Το Savoir Vivre των γιορτών. Πόσο καλός προσκεκλημένος είσαι;"
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20171226T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

@@ -1,0 +1,25 @@
+﻿---
+ID: "f67257cf-93a2-44e0-a324-bbd0b9024137"
+Parent: "2643efa0-e644-4107-8d1e-f6a390e0cd51"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Car/Programs Attributes/Taxidiotiki Boitheia/Taxidiotiki Boitheia yes
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T140437Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Παρέχεται βοήθεια στον ασφαλισμένο και την οικογένειά του, σε κάθε μετακίνηση μεγαλύτερη των 25 χλμ από τον τόπο κατοικίας του για περιστατικά όπως τραυματισμό ή ασθένεια, απώλεια αποσκευών ή διακοπή του ταξιδιού του λόγω έκτακτου γεγονότος.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1

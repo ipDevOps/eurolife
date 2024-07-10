@@ -1,0 +1,25 @@
+﻿---
+ID: "061e7143-08de-4561-b2d2-46c087098ffc"
+Parent: "1f872af8-059e-40bf-8f07-0f9937539fe6"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-katoikias/_Local/igeia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Πως θα Αποζημιωθείτε;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T151954Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="Διαδικασία Αποζημιώσης" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{507AA49F-7956-42C6-99EB-51860FF6B65B}" />

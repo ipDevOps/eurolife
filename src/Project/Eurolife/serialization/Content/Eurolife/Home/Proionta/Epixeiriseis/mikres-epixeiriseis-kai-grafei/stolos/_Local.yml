@@ -1,0 +1,14 @@
+﻿---
+ID: "7f7f6ae5-11be-4c4d-9fc4-0623ebd86a49"
+Parent: "d24fdfb7-0866-4d32-a12a-22cf84574b2e"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/stolos/_Local"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104442Z

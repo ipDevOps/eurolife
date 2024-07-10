@@ -1,0 +1,24 @@
+﻿---
+ID: "0dce0b72-ae72-4430-939b-61236df4a2b1"
+Parent: "8bc6a1d3-ef6b-4a50-abe6-c7fd2a6f95fd"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Blog/_HasArticles/Content/Articles
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "datasource={57ABE6E8-9793-4FC0-85FB-10364B59DC05}&allowmultipleselection=yes&includetemplatesforselection=Blog Post"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: TreelistEx
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210127T133940Z

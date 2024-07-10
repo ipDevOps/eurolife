@@ -1,0 +1,27 @@
+﻿---
+ID: "b9dfdd5a-6b89-4245-88fa-4e52913daaaf"
+Parent: "980319da-11d0-4e87-960f-3bedf12f17a2"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/_Local/Teaser List"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: "&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;&tau;&epsilon;ί&tau;&epsilon; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; &epsilon;ί&tau;&epsilon; ώ&sigmaf; &mu;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &omicron;&mu;ά&delta;&alpha;&sigmaf; &pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;, &epsilon;ί&tau;&epsilon; ώ&sigmaf; &alpha;&nu;έ&xi;&alpha;&rho;&tau;&eta;&tau;&omicron;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&eta;&sigmaf; - &mu;&epsilon;&sigma;ί&tau;&eta;&sigmaf;, &pi;&rho;&omicron;ώ&theta;ώ&nu;&tau;&alpha;&sigmaf; &tau;&alpha; &pi;&rho;&omicron;ϊ&omicron;&nu;&tau;&alpha; &mu;&alpha;&sigmaf; &sigma;&tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &sigma;&alpha;&sigmaf;."
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Συνεργαστείτε μαζί μας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T050150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 2

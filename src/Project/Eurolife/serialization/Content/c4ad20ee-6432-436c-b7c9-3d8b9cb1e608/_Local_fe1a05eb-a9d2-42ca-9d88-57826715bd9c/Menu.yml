@@ -1,0 +1,28 @@
+﻿---
+ID: "56f34616-4f99-4fbd-8b46-4269a8644822"
+Parent: "fe1a05eb-a9d2-42ca-9d88-57826715bd9c"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/dummy2/Research/_Local/Menu"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T200354Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T092254Z
+    - ID: "428f3a15-002b-4ebb-a9b5-cc021d99f648"
+      Hint: NavigationRootTitle
+      Value: Menu

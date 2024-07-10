@@ -1,0 +1,33 @@
+﻿---
+ID: "2e51db44-57c0-48f3-96e7-051d405b49ed"
+Parent: "d289856b-809a-4b15-9c8a-c0bacca5f2a3"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Global/Links/Header Top Menu/contact-us/anexartitoi asfalistikoi simvouloi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T104907Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{F504A856-2BE6-4D4A-83CE-9D3ED2123FBB}" querystring="" target="" text="" anchor="" title="" class="" url="/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores" linktype="internal" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ανεξάρτητοι ασφαλιστικοί πράκτορες

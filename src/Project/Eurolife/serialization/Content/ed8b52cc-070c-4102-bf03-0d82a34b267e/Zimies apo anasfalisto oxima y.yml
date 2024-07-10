@@ -1,0 +1,25 @@
+﻿---
+ID: "5da9c25f-5444-4470-bfe7-fb56c9e2e55e"
+Parent: "ed8b52cc-070c-4102-bf03-0d82a34b267e"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Fortiga IX - Agrotika/Programs Attributes/Zimies apo anasfalisto oxima/Zimies apo anasfalisto oxima yes"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T140538Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Αποζημιώνουμε τον ιδιοκτήτη του ασφαλισμένου οχήματος μέχρι το ποσό που αναγράφεται στο ασφαλιστήριό του, για ζημιές στο ασφαλισμένο όχημα που προκαλούνται από τη σύγκρουσή του με άλλο όχημα, το οποίο ευθύνεται εξ ολοκλήρου για το ατύχημα και είναι ανασφάλιστο τη στιγμή του ατυχήματος. 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1

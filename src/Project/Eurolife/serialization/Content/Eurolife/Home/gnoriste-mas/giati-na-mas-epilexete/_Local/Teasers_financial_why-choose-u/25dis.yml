@@ -1,0 +1,47 @@
+﻿---
+ID: "46671597-6f9c-4761-b420-d3de8b88857a"
+Parent: "35760872-07b2-4b6d-845f-b4d9efd92ab8"
+Template: "07ddcb5b-c85d-4daf-907e-bec9f628b3e5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/giati-na-mas-epilexete/_Local/Teasers_financial_why-choose-us/25dis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &epsilon;&kappa;&alpha;&tau;. &nu;έ&epsilon;&sigmaf; &epsilon;&pi;&epsilon;&nu;&delta;ύ&sigma;&epsilon;&iota;&sigmaf; &sigma;&epsilon; έ&rho;&gamma;&alpha; &upsilon;&pi;&omicron;&delta;&omicron;&mu;ή&sigmaf;
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: 
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: €2,5
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T120403Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: σε σύγκριση με το 2016
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: %
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: +103
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T135622Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

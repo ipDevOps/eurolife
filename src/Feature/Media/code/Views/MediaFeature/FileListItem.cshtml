@@ -1,0 +1,30 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Media
+@model Sitecore.Data.Items.Item
+
+<div class="list__item list__item--triple">
+  <div class="list__text">
+    <h4 class="list__title">@Model.Field(Templates.HasMedia.Fields.Title)</h4>
+    @if (Model.FieldHasValue(Templates.HasMedia.Fields.FirstPublisdDate))
+    {
+      <div class="list__body">
+        @Html.Sitecore().Field(Templates.HasMedia.Fields.FirstPublisdDate, Model, new { DisableWebEdit = true, format = "dd MMMM yyyy" })
+      </div>
+    }
+
+    @if (Model.FieldHasValue(Templates.HasMedia.Fields.PublishSource))
+    {
+      <div class="list__body">
+        @Html.Sitecore().Field(Templates.HasMedia.Fields.PublishSource, Model, new { DisableWebEdit = true })
+      </div>
+    }
+  </div>  
+  <div class="list__size">@Model.FileSize(Templates.MediaFile.Fields.File)</div>
+  <div class="list__download">
+    <a href="@Model.ImageUrl(Templates.MediaFile.Fields.File)"
+       aria-label="@Html.Sitecore().Field(Templates.HasMedia.Fields.Title, Model ,new { DisableWebEdit = true })"
+       role="button"
+       class="btn btn--dark btn--icon btn--icon-download"
+       download="true"></a>
+  </div>
+</div>

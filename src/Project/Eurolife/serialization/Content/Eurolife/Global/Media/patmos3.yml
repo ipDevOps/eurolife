@@ -1,0 +1,36 @@
+﻿---
+ID: "80b4005d-763b-4407-accb-a174ed18a07b"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "6dec0d88-0878-44d4-960b-d151edb81ae1"
+Path: /sitecore/content/Eurolife/Global/Media/patmos3
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediaid="{659D3633-0438-4BD3-BF7F-A84C39ECFE2B}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T094033Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: wfh2w
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66db8f07-eeb8-4b8b-9aa1-75146826ce42"
+      Hint: MediaVideoLink
+      Value: |
+        <link linktype="external" url="http://www.youtube.com" anchor="" target="" />
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: test
+    - ID: "de984d10-9f28-4135-b53f-fe8b5de19c55"
+      Hint: MediaThumbnail
+      Value: |
+        <image mediaid="{6FEE384C-0F7A-42A2-AA4D-E920D6BC974E}" />

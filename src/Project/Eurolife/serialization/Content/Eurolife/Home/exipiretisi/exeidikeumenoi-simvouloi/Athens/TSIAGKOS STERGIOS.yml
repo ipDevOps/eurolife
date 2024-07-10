@@ -1,0 +1,39 @@
+﻿---
+ID: "bfa47dfe-a750-4124-a36a-300ae088dee0"
+Parent: "4f003648-a4a6-4be6-b277-4aa891b1a217"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/exeidikeumenoi-simvouloi/Athens/TSIAGKOS STERGIOS"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T145150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65fc9b13-4667-4c78-b222-428faf91b1a7"
+      Hint: Fax
+      Value: 
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΤΣΙΑΓΚΟΣ ΣΤΕΡΓΙΟΣ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6972737700
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: stsiagos@eurolife.gr
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: ΤΣΙΑΓΚΟΣ ΣΤΕΡΓΙΟΣ
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: "ΠΑΝΕΠΙΣΤΗΜΙΟΥ  33-35 10564  ΑΘΗΝΑ"

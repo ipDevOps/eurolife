@@ -1,0 +1,39 @@
+﻿---
+ID: "0c149c26-4890-4254-9e2d-8a38a5a8295a"
+Parent: "fd08fa85-572b-446d-bd88-82176122bc81"
+Template: "3d204d86-3db9-4721-b8ad-d4aa7f0e6f6e"
+Path: "/sitecore/content/Eurolife/Home/Blog/Life-stages/Dimiourgw-oikogeneia"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T090027Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Δημιουργώ οικογένεια
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{674BA365-2AFE-4908-BE9C-6DA8659B3AEC}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Η δημιουργία οικογένειας αποτελεί ένα σημαντικό εγχείρημα της ζωής ενός ανθρώπου. Μπορείς να προστατέψεις κάθε απόφαση, σχεδιασμό και έκτακτη ανάγκη δική σου και κοντινού σου προσώπου.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{7DCD2F12-C5A2-44E8-840F-4C3849F2297C}" />
+    - ID: "e22449ae-462c-4573-9018-6fe278161aab"
+      Hint: Tag
+      Value: "#Dimiourgw-oikogeneia"

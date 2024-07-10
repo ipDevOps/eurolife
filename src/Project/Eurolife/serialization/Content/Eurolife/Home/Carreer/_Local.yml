@@ -1,0 +1,14 @@
+﻿---
+ID: "e5519e4c-68d2-48f7-ab5e-bbd7801be729"
+Parent: "24793570-ce2a-4a76-af1d-4411f733a482"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: /sitecore/content/Eurolife/Home/Carreer/_Local
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T115355Z

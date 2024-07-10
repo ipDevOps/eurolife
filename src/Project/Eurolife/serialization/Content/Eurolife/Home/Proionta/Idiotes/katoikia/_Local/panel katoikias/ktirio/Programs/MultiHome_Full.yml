@@ -1,0 +1,66 @@
+﻿---
+ID: "46b58c37-3fab-4156-83e1-12ca71df1c7c"
+Parent: "7c3b025d-23da-4202-bd70-2c71bc39e2f8"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio/Programs/MultiHome_Full
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203042Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: MultiHome Ολοκληρωμένο
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {EC02767F-ECE8-42F3-AB4A-EC754AE43E17}
+        {16AE395A-51E9-416C-9A78-5ED30DDF0F3C}
+        {18AAF17F-577B-4BAA-8028-F3CDE41EA824}
+        {A17175B9-89BD-412E-A746-BA702FA0AABC}
+        {B347EA44-83C9-40E7-87FD-F844AD7687D8}
+        {551270F3-9786-4B09-8E08-A17256E74C5E}
+        {6D8EF57F-FCB7-4C7E-8973-EF22B727BCAF}
+        {12C0A23B-24E8-44B4-9299-71985BFE0C55}
+        {3F569AB2-2EA0-4FD2-A7B1-D88262BAFBEA}
+        {2D9DBF7B-E7E3-4B3C-9877-D4A199953919}
+        {23C1A36C-69B8-4E04-8A23-FAFA121038DF}
+        {40E898B0-684C-4A41-8638-18D85DA08E1F}
+        {50435A7D-6E56-4105-9763-D13EB05B6479}
+        {5E796E99-2AB2-4760-9CCF-FB24599186D2}
+        {5EFCF35E-6DB8-43B8-AAB9-75E1594245AF}
+        {7377A448-5EAD-4CF7-8672-A735EE693244}
+        {28C16AA0-2899-4B1A-A253-C095CFEAF8CF}
+        {3A724F14-AFE5-4BD9-9F48-4CB7AFEDDC1B}
+        {6DD60BF4-D71F-4651-AAA8-AA82E9AFAC96}
+        {13964DEA-4F23-48B9-9A06-4A992D516470}
+        {7D05FF46-EF60-4CE8-945D-F81FC0B83FFB}
+        {67C22B42-B331-431B-B241-E73856A918A2}
+        {FDC74D3C-F243-4E2E-9007-EA01FCBE4569}
+        {B587C190-4576-47B2-A29B-17CAEE86CA70}
+        {FE739861-ABCE-48A6-83D6-08963731E324}
+        {ADFB87C2-7AA7-42D2-96D2-86984E023F2E}
+        {C937993D-D9AF-4511-975D-3843F3FEA592}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082929Z
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Save Drive Plus
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

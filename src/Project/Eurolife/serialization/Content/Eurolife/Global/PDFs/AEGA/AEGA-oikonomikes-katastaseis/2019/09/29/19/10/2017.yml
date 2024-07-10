@@ -1,0 +1,48 @@
+﻿---
+ID: "94d5db82-fa22-471e-8dda-dc0326599f71"
+Parent: "573093e6-c257-423f-bdcb-5dfbcac7dcb1"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEGA/AEGA-oikonomikes-katastaseis/2019/09/29/19/10/2017"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20190929T210000Z
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20191002T210000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T190958Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: Χρήση έως 31/12/2017
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Χρήση έως 31/12/2017
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediaid="{83F20A60-05FF-4C0E-9A5C-FF19F1A65E81}" src="-/media/83F20A6005FF4C0E9A5CFF19F1A65E81.ashx" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T050133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: New Doc

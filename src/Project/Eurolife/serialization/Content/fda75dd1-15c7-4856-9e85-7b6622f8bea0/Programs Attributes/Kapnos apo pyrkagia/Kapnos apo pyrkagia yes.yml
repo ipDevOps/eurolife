@@ -1,0 +1,22 @@
+﻿---
+ID: "95b91bf0-39d5-452a-8371-57d3712dd102"
+Parent: "b0d64d99-ec33-47af-b11e-d0b49a47e7e6"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio/Programs Attributes/Kapnos apo pyrkagia/Kapnos apo pyrkagia yes"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T085352Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1

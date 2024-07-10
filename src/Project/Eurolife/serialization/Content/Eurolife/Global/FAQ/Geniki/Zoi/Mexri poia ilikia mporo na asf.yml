@@ -1,0 +1,26 @@
+﻿---
+ID: "4aaf691e-a120-4d1e-8eb0-40c00b706b21"
+Parent: "b8974e04-bf06-4907-aa00-20c6064a842e"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Zoi/Mexri poia ilikia mporo na asfalisto
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Μέχρι ποια ηλικία μπορώ να ασφαλιστώ;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T084810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Alpha;&nu;ά&lambda;&omicron;&gamma;&alpha; &tau;&omicron; &pi;&rho;&omicron;ϊό&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf;, &upsilon;&pi;ά&rho;&chi;&omicron;&upsilon;&nu; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;έ&sigmaf; &eta;&lambda;&iota;&kappa;ί&epsilon;&sigmaf; &epsilon;&iota;&sigma;ό&delta;&omicron;&upsilon; &gamma;&iota;&alpha; &tau;&omicron;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron; &kappa;&alpha;&iota; &gamma;&iota;&alpha; &tau;&omicron;&nu; &alpha;&nu;&tau;&iota;&sigma;&upsilon;&mu;&beta;&alpha;&lambda;&lambda;ό&mu;&epsilon;&nu;&omicron;. &Gamma;&iota;&alpha; &pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha;, &mu;&pi;&omicron;&rho;&omicron;ύ&mu;&epsilon; &nu;&alpha; &alpha;&nu;&alpha;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; ό&tau;&iota; &sigma;&tau;&eta;&nu; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;ί&alpha; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omega;&nu; &zeta;&omega;ή&sigmaf;, &omicron;&iota; &eta;&lambda;&iota;&kappa;ί&epsilon;&sigmaf; &epsilon;&iota;&sigma;ό&delta;&omicron;&upsilon; &gamma;&iota;&alpha; &tau;&omicron;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron; &epsilon;ί&nu;&alpha;&iota; 0+ &kappa;&alpha;&iota; &gamma;&iota;&alpha; &tau;&omicron;&nu; &alpha;&nu;&tau;&iota;&sigma;&upsilon;&mu;&beta;&alpha;&lambda;&lambda;ό&mu;&epsilon;&nu;&omicron; 18. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Epsilon;&pi;&epsilon;&iota;&delta;ή &kappa;ά&theta;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &epsilon;ί&nu;&alpha;&iota; &mu;&omicron;&nu;&alpha;&delta;&iota;&kappa;ή &kappa;&alpha;&iota; &theta;έ&lambda;&omicron;&upsilon;&mu;&epsilon; &nu;&alpha; &sigma;&alpha;&sigmaf; &phi;&rho;&omicron;&nu;&tau;ί&sigma;&omicron;&upsilon;&mu;&epsilon; &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ά, &mu;&eta; &delta;&iota;&sigma;&tau;ά&sigma;&epsilon;&tau;&epsilon; &nu;&alpha; &alpha;&pi;&epsilon;&upsilon;&theta;&upsilon;&nu;&theta;&epsilon;ί&tau;&epsilon; &sigma;&tau;&omicron; &delta;ί&kappa;&tau;&upsilon;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &mu;&alpha;&sigmaf; ή &nu;&alpha; &kappa;&alpha;&lambda;έ&sigma;&epsilon;&tau;&epsilon; &tau;&omicron; &Kappa;έ&nu;&tau;&rho;&omicron; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu;, &sigma;&tau;&omicron; &tau;&eta;&lambda;έ&phi;&omega;&nu;&omicron; 210-9303800 (&epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή 7), &gamma;&iota;&alpha; &nu;&alpha; &sigma;&alpha;&sigmaf; &kappa;&alpha;&theta;&omicron;&delta;&eta;&gamma;ή&sigma;&omicron;&upsilon;&mu;&epsilon; &mu;&epsilon; &omicron;&tau;&iota;&delta;ή&pi;&omicron;&tau;&epsilon; &epsilon;&pi;&iota;&theta;&upsilon;&mu;&epsilon;ί&tau;&epsilon;.</span></p>

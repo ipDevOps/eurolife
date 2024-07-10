@@ -1,0 +1,25 @@
+﻿---
+ID: "8ebe59a0-579b-49df-9767-7db4c7e3e633"
+Parent: "27457690-0e5e-4ac3-808e-3002aaf7b676"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/Page-Teaser-List/emfaniseis-ston-typo"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εμφανίσεις στον Τύπο
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T132957Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{0F570532-CCBF-434F-84FE-60F8F5982EA2}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" title="" class="" url="/Eurolife/Home/Grafeio-tipou/Publicity" linktype="internal" />

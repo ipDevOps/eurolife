@@ -1,0 +1,18 @@
+﻿---
+ID: "a482407b-0397-4719-9d1c-f28b98d126b4"
+Parent: "d31897b9-7de7-4c59-8e08-6d40802dbac7"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEAZ/AEAZ-Oikonomikes-katastaseis/2019"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T131944Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

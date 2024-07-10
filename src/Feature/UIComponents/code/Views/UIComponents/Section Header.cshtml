@@ -1,0 +1,27 @@
+﻿@using Wedia.Feature.UIComponents
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasUIComponentsHeading.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasUIComponentsHeading.ID),
+        AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+        Model.Item?.ID,
+        Model.Rendering.Item?.ID)
+  return;
+}
+
+
+<section class="center center--1100 m-b-48 section-header-summary">
+  @if (Model.Item.FieldHasValue(Templates.HasUIComponentsHeading.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <h1 class="h4 t-c">@Html.Sitecore().Field(Templates.HasUIComponentsHeading.Fields.Title)</h1>
+  }
+
+  @if (Model.Item.FieldHasValue(Templates.HasUIComponentsHeading.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <div class="t-c m-b-32">@Html.Sitecore().Field(Templates.HasUIComponentsHeading.Fields.Summary)</div>
+  }
+</section>

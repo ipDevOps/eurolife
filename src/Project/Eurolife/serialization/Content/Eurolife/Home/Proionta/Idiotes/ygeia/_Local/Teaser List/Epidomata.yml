@@ -1,0 +1,54 @@
+﻿---
+ID: "1e20ac3b-293a-47e2-a485-5e18779ae198"
+Parent: "2757383f-fbd4-40ba-84cc-0b025ef0ae2a"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Teaser List/Epidomata
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-150"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Pi;&rho;&omicron;&sigma;&tau;&alpha;&tau;έ&psi;&tau;&epsilon; &tau;&eta;&nu; &upsilon;&gamma;&epsilon;ί&alpha; &sigma;&alpha;&sigmaf; &mu;&epsilon; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ή &epsilon;&xi;&alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &mu;έ&sigma;&omega; &mu;&epsilon;&tau;&rho;&eta;&tau;ώ&nu;, &epsilon;&phi;ά&pi;&alpha;&xi; &pi;&omicron;&sigma;&omicron;ύ ή &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &kappa;&alpha;&iota; &tau;&omicron; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;ό.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Επιδόματα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T103905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΑ ΕΠΙΔΟΜΑΤΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3C1C8FE0-0148-402A-ADE1-E34FE5F1DAEA}" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{A2996AB7-18C9-430C-BAE6-086782F00AC9}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Start Before
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

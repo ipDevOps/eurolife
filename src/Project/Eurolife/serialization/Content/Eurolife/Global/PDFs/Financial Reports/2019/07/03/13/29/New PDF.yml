@@ -1,0 +1,41 @@
+﻿---
+ID: "1f2450a2-9033-4410-a761-2e0b187c1f6a"
+Parent: "6d6f3901-4a97-4be0-9bda-80bf08b1176e"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: /sitecore/content/Eurolife/Global/PDFs/Financial Reports/2019/07/03/13/29/New PDF
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20190712T000000
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20190712T000000
+    - ID: "20faf759-601d-41e5-b2ce-cb23be133c32"
+      Hint: MediaDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T120225Z
+    - ID: "502ab0b3-d1f6-4079-a6f4-c91ea0cce9a1"
+      Hint: MediaPublishSource
+      Value: Documento
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: New PDF
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: 

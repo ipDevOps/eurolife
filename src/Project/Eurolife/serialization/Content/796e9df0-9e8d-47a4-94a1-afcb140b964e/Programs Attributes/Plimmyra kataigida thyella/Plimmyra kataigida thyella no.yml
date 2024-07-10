@@ -1,0 +1,18 @@
+﻿---
+ID: "fbc0bdcf-dbf7-4595-9d1f-2eb5174715c3"
+Parent: "51a0e68d-780e-4453-b40c-99c8c50a503d"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs Attributes/Plimmyra kataigida thyella/Plimmyra kataigida thyella no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T090542Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

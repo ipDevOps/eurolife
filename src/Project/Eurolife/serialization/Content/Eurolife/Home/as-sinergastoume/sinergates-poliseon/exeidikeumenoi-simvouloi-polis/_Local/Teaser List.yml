@@ -1,0 +1,28 @@
+﻿---
+ID: "c2e0575e-7b26-45e9-bf51-8b781c420c80"
+Parent: "88d37eb4-bc0e-4036-80f2-d343db31c4e7"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/Teaser List"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T050150Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3

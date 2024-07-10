@@ -1,0 +1,30 @@
+﻿---
+ID: "a533e408-735c-4479-8cdc-12be4ec94f31"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Ti prepei na kano se periptosi nosileias se mi symbeblimeno nosokomeio
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι πρέπει να κάνω σε περίπτωση νοσηλείας σε μη συμβεβλημένο νοσοκομείο;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &pi;&omicron;&upsilon; έ&chi;&epsilon;&tau;&epsilon; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;&upsilon;&tau;&epsilon;ί &sigma;&epsilon; &mu;&eta; &sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&omicron; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron; &kappa;&alpha;&iota; &kappa;&alpha;&tau;ά &sigma;&upsilon;&nu;έ&pi;&epsilon;&iota;&alpha; έ&chi;&epsilon;&tau;&epsilon; &epsilon;&pi;&iota;&beta;&alpha;&rho;&upsilon;&nu;&theta;&epsilon;ί &mu;&epsilon; ό&lambda;&alpha; &tau;&alpha; έ&xi;&omicron;&delta;&alpha; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf;, &theta;&alpha; &chi;&rho;&epsilon;&iota;&alpha;&sigma;&tau;&epsilon;ί, &tau;&omicron; &alpha;&rho;&gamma;ό&tau;&epsilon;&rho;&omicron; &epsilon;&nu;&tau;ό&sigmaf; 15 &eta;&mu;&epsilon;&rho;ώ&nu; &alpha;&pi;ό &tau;&eta;&nu; &eta;&mu;&epsilon;&rho;&omicron;&mu;&eta;&nu;ί&alpha; &epsilon;&xi;ό&delta;&omicron;&upsilon; &sigma;&alpha;&sigmaf;, &nu;&alpha; &mu;&alpha;&sigmaf; &pi;&rho;&omicron;&sigma;&kappa;&omicron;&mu;ί&sigma;&epsilon;&tau;&epsilon; ό&lambda;&alpha; &tau;&alpha; &pi;&rho;&omega;&tau;ό&tau;&upsilon;&pi;&alpha; &alpha;&pi;&omicron;&delta;&epsilon;&iota;&kappa;&tau;&iota;&kappa;ά &delta;&alpha;&pi;&alpha;&nu;ώ&nu;, &tau;&omicron; &iota;&alpha;&tau;&rho;&iota;&kappa;ό &iota;&sigma;&tau;&omicron;&rho;&iota;&kappa;ό &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf;, &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &tau;&omicron; &beta;&iota;&beta;&lambda;&iota;ά&rho;&iota;&omicron; &alpha;&sigma;&theta;&epsilon;&nu;&epsilon;ί&alpha;&sigmaf; &tau;&omicron;&upsilon; &kappa;ύ&rho;&iota;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ &phi;&omicron;&rho;έ&alpha;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Tau;&alpha; &pi;&rho;&omega;&tau;ό&tau;&upsilon;&pi;&alpha; &delta;&iota;&kappa;&alpha;&iota;&omicron;&lambda;&omicron;&gamma;&eta;&tau;&iota;&kappa;ά &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon;: </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- &Nu;&alpha; &tau;&alpha; &pi;&rho;&omicron;&sigma;&kappa;&omicron;&mu;ί&sigma;&epsilon;&tau;&epsilon; &sigma;&tau;&alpha; &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &mu;&alpha;&sigmaf;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- &Nu;&alpha; &tau;&alpha; &kappa;&alpha;&tau;&alpha;&theta;έ&sigma;&epsilon;&tau;&epsilon; &sigma;&epsilon; &kappa;&alpha;&tau;ά&sigma;&tau;&eta;&mu;&alpha; &tau;&omicron;&upsilon; &delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; Eurobank (&gamma;&iota;&alpha; &tau;&alpha; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;&alpha; &pi;&omicron;&upsilon; &epsilon;&kappa;&delta;ό&theta;&eta;&kappa;&alpha;&nu; &alpha;&pi;ό &tau;&eta;&nu; &Tau;&rho;ά&pi;&epsilon;&zeta;&alpha;). </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- &Nu;&alpha; &tau;&alpha; &alpha;&pi;&omicron;&sigma;&tau;&epsilon;ί&lambda;&epsilon;&tau;&epsilon; &tau;&alpha;&chi;&upsilon;&delta;&rho;&omicron;&mu;&iota;&kappa;ά. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">- &Nu;&alpha; &tau;&alpha; &alpha;&pi;&omicron;&sigma;&tau;&epsilon;ί&lambda;&epsilon;&tau;&epsilon; &mu;έ&sigma;&omega; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ &sigma;&alpha;&sigmaf; &sigma;&upsilon;&mu;&beta;&omicron;ύ&lambda;&omicron;&upsilon;.</span></p>

@@ -1,0 +1,21 @@
+﻿---
+ID: "13fa54e2-209f-4e12-9d26-e6ada02e5f21"
+Parent: "9513e981-81ca-4995-a429-c1cf0493ca5e"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/dummy3/_Local/Menu items/Region Adoptions"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T092219Z
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{8988B1B9-6A39-4F69-9D63-8BA288A1039F}" querystring="" linktype="internal" text="Region Adoptions" anchor="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/Region Adoptions" title="" class="" target="" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Region Adoptions

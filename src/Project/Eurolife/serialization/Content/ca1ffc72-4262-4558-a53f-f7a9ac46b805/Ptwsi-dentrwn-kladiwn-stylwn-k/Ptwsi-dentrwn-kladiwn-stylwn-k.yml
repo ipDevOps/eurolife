@@ -1,0 +1,18 @@
+﻿---
+ID: "817d219c-2b05-46fa-a765-044a4bd5ed4f"
+Parent: "a1f2e310-2f69-424e-9b8b-db5b39a00e92"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Programs Attributes/Ptwsi-dentrwn-kladiwn-stylwn-keraiwn/Ptwsi-dentrwn-kladiwn-stylwn-keraiwn-no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T205051Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

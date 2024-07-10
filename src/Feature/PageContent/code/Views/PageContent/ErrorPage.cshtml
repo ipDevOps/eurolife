@@ -1,0 +1,35 @@
+﻿@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation
+@using Wedia.Feature.PageContent
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageBodyContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageBodyContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+
+<section class="center center--760 m-t-112 m-b-112 t-c">
+  <div class='not-found-icon m-b-48'>
+    <img src="@Url.Content("~/images/404.svg")" alt="404" />
+  </div>
+  <h1 class="h3 t-c m-b-16">
+    @if (Sitecore.Context.PageMode.IsExperienceEditor || Html.Sitecore().HasValue(Templates.HasPageContent.Fields.Title.ToString()))
+    {
+      @Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)
+    }
+  </h1>
+  <div class="t-c">
+    @if (Sitecore.Context.PageMode.IsExperienceEditor || Html.Sitecore().HasValue(Templates.HasPageBodyContent.Fields.Body.ToString()))
+    {  
+      @Html.Sitecore().Field(Templates.HasPageBodyContent.Fields.Body)   
+    }
+  </div>
+</section>

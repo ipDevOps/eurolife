@@ -1,0 +1,19 @@
+﻿---
+ID: "4b0057ed-c0d2-4f26-a3f3-895b27f6deb0"
+Parent: "e6098bfb-fef9-46e3-858a-af3bf1b6c15a"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/_Local
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T081504Z

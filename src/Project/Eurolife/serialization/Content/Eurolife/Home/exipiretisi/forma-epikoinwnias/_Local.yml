@@ -1,0 +1,26 @@
+﻿---
+ID: "9155ca7d-c20e-4a09-a61e-13f78e3c6932"
+Parent: "b13c37fc-7395-4322-9d78-2da41051875d"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/forma-epikoinwnias/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{2C7F1576-9844-4119-8F1E-A4E70C4791B9}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190730T125932Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

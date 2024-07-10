@@ -1,0 +1,18 @@
+﻿---
+ID: "11d9ba3a-2d6e-4045-89ef-eb400dba6793"
+Parent: "267de061-4273-4f36-9c96-9dbda70c0e5d"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Project/Common/Content Types/Navigation
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T094211Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

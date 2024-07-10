@@ -1,0 +1,18 @@
+﻿---
+ID: "2c2fc956-dc75-4318-b20d-7a37f42d52bc"
+Parent: "a6d35f1e-4e20-4587-8700-af4b1ceb7ebc"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Media/PDFs/Products Usefull Docs/astiki euthini
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T212838Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

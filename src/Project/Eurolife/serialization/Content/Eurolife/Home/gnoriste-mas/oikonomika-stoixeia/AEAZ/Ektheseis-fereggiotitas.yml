@@ -1,0 +1,49 @@
+﻿---
+ID: "19f33e13-7bb0-4585-b14c-ded776a3b0da"
+Parent: "310d7daa-35ab-4976-a0a9-46499e232cd6"
+Template: "41277a6d-ff43-46db-af83-303b916940f5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/oikonomika-stoixeia/AEAZ/Ektheseis-fereggiotitas"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T095624Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: "{E0ED8A97-DA25-421E-8389-6BA287478EEF}"
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Εκθέσεις Φερεγγυότητας και Χρηματοοικονομικής Κατάστασης
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T134159Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: |
+        {FCAADED3-358B-47ED-B0E2-7330F18FF5C1}
+        {1DE0BAE1-CE71-4458-8F85-95027AAB6029}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Εκθέσεις Εσωτερικών Μεταβλητών Κεφαλαίων

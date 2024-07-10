@@ -1,0 +1,43 @@
+﻿---
+ID: "14c516b0-62bb-4dd3-9c0a-fd8a75bc9f0f"
+Parent: "af7b55fa-b327-4b4a-854d-2259cf57722f"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/prosopika-dedomena/Koini-enimerosi-ton-Etaireion-pros-Olous/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {89A59513-F418-4DAE-890B-0D0DDA79F62B}
+    {7753C4B8-FFB7-4EF8-8F62-85A28AE89E2C}
+    {4199BECF-21AA-4AAA-A99D-7A64CAE7FD94}
+    {62B2FB1B-FD79-403A-AED2-9D1F464A2E63}
+    {F8FF2EBE-AB6A-41AB-A0C9-30656F056DFA}
+    {2C7F1576-9844-4119-8F1E-A4E70C4791B9}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191017T093005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190612T142615Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,90 @@
+﻿---
+ID: "5c8416a1-83cd-45fd-b9a0-66beba93c334"
+Parent: "3c76ad9a-81bf-4e8e-9206-6f426d03b220"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/Highlights katoikia/katoikia Highlights1/Multihome euelikto1
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Multihome Ευέλικτο
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        <span id="docs-internal-guid-3d561b52-7fff-a5f9-0614-e4360e5994df" style="background-color: transparent; text-decoration: none; color: #000000;">&Nu;&epsilon;&rho;ά &kappa;&alpha;&iota; &kappa;&alpha;&iota;&rho;&iota;&kappa;ά &phi;&alpha;&iota;&nu;ό&mu;&epsilon;&nu;&alpha;</span></div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&lambda;&eta;&mu;&mu;ύ&rho;&alpha;, &theta;ύ&epsilon;&lambda;&lambda;&alpha;, &kappa;&alpha;&tau;&alpha;&iota;&gamma;ί&delta;&alpha;, &chi;&iota;ό&nu;&iota;, &beta;ά&rho;&omicron;&sigmaf; &chi;&iota;&omicron;&nu;&iota;&omicron;ύ, &chi;&alpha;&lambda;ά&zeta;&iota;, &pi;&alpha;&gamma;&epsilon;&tau;ό&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">&Delta;&iota;&alpha;&rho;&rho;&omicron;ή &nu;&epsilon;&rho;&omicron;ύ &alpha;&pi;ό &sigma;&omega;&lambda;&eta;&nu;ώ&sigma;&epsilon;&iota;&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &nu;&epsilon;&rho;&omicron;ύ</span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        &Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta;</div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&lambda;&eta;&mu;&mu;ύ&rho;&alpha;, &theta;ύ&epsilon;&lambda;&lambda;&alpha;, &kappa;&alpha;&tau;&alpha;&iota;&gamma;ί&delta;&alpha;, &chi;&iota;ό&nu;&iota;, &beta;ά&rho;&omicron;&sigmaf; &chi;&iota;&omicron;&nu;&iota;&omicron;ύ, &chi;&alpha;&lambda;ά&zeta;&iota;, &pi;&alpha;&gamma;&epsilon;&tau;ό&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">&Delta;&iota;&alpha;&rho;&rho;&omicron;ή &nu;&epsilon;&rho;&omicron;ύ &alpha;&pi;ό &sigma;&omega;&lambda;&eta;&nu;ώ&sigma;&epsilon;&iota;&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &nu;&epsilon;&rho;&omicron;ύ</span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        <strong id="docs-internal-guid-e47041e4-7fff-2900-f419-50fcf7baa06a"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Lambda;&omicron;&iota;&pi;έ&sigmaf; &kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf;&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">(&alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&eta; &pi;&rho;&omicron;ϋ&pi;ό&theta;&epsilon;&sigma;&eta; &nu;&alpha; έ&chi;&omicron;&upsilon;&nu; &epsilon;&pi;&iota;&lambda;&epsilon;&gamma;&epsilon;ί &omicron;&iota; &pi;&rho;&omicron;&alpha;&iota;&rho;&epsilon;&tau;&iota;&kappa;έ&sigmaf; &kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon; &Pi;&alpha;&kappa;έ&tau;&omicron;&upsilon; &Iota;')</span></p>
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&lambda;&eta;&mu;&mu;ύ&rho;&alpha;, &theta;ύ&epsilon;&lambda;&lambda;&alpha;, &kappa;&alpha;&tau;&alpha;&iota;&gamma;ί&delta;&alpha;, &chi;&iota;ό&nu;&iota;, &beta;ά&rho;&omicron;&sigmaf; &chi;&iota;&omicron;&nu;&iota;&omicron;ύ, &chi;&alpha;&lambda;ά&zeta;&iota;, &pi;&alpha;&gamma;&epsilon;&tau;ό&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">&Delta;&iota;&alpha;&rho;&rho;&omicron;ή &nu;&epsilon;&rho;&omicron;ύ &alpha;&pi;ό &sigma;&omega;&lambda;&eta;&nu;ώ&sigma;&epsilon;&iota;&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &nu;&epsilon;&rho;&omicron;ύ</span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>

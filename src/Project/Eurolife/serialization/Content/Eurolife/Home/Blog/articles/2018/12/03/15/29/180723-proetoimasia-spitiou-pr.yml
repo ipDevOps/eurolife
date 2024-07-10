@@ -1,0 +1,43 @@
+﻿---
+ID: "1b9ad803-77b0-49b7-bc08-13d8094060fa"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/180723-proetoimasia-spitiou-prin-fygoume-gia-diakopes"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152935Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Προετοιμασία σπιτιού πριν φύγετε για διακοπές. Πόσο έτοιμοι είστε;
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Όλοι έχουμε στο μυαλό μας μια λίστα με πράγματα που πρέπει να φροντίσουμε να κάνουμε πριν λείψουμε για μεγάλο χρονικό διάστημα από το σπίτι. Επειδή, όμως, σε όλους μας έχει τύχει να ξεχάσουμε και από κάτι, ετοιμάσαμε για εσάς την παρακάτω λίστα.</p><p style="text-align: justify;">Αφού τη διαβάσετε, μην ξεχάσετε ψηφίσετε ποια από τα tips θεωρείτε πιο σημαντικά, ώστε να τα αναδείξουμε!</p><iframe data-rid-id="155548" src="https://www.riddle.com/showcase/155548/rankedlist " title="List - Προετοιμασία σπιτιού πριν φύγετε για διακοπές. Πόσο έτοιμοι είστε;" width="600" height="600" frameborder="0"></iframe><p></p>https://www.riddle.com/showcase/155548/rankedlist
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style=""text-align: justify;"">Όλοι έχουμε στο μυαλό μας μια λίστα με πράγματα που πρέπει να φροντίσουμε να κάνουμε πριν λείψουμε για μεγάλο χρονικό διάστημα από το σπίτι.</p><p></p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{8C271A5D-F3CB-4FD5-89EE-0A644FB7EF68}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Προετοιμασία σπιτιού πριν φύγετε για διακοπές. Πόσο έτοιμοι είστε;
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180723T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

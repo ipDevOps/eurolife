@@ -1,0 +1,30 @@
+﻿---
+ID: "87b217b4-31fa-4658-95f3-804cd7445715"
+Parent: "b41ff29d-c897-4541-ada2-d202e49646ef"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Common/Teaser Placeholders/teaser-placeholder-3"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "teaser-placeholder-3"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {B0232A78-D597-4D32-8148-938A4B757C2E}
+    {794921F7-3FCA-48A3-9F5C-2823D0B59BA2}
+    {B88C4F62-C566-4B2C-8553-A621D20406EA}
+    {61F4AA1C-809B-4271-AB37-84921D5006BC}
+    {D1009CC0-A073-4EA5-99FD-389C097F0B4E}
+    {1BE547E4-8F8B-4717-A241-CB1D19631F1D}
+    {D82BD8C7-2FFC-4B8D-AE78-BE30CA6B3C95}
+    {DA6CC90F-61E1-4D55-877D-1837F580DFA0}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T122317Z

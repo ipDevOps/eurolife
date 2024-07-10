@@ -1,0 +1,53 @@
+﻿@using Sitecore
+@using Sitecore.Data.Items
+@using Sitecore.Resources.Media
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+
+
+<section class="hero-simple m-b-112 relator">
+
+  <div class="hero-simple__contents">
+    <div class="center--760 center relator">
+      <h1 class="h2 m-b-16">@Html.Sitecore().Field("Title")</h1>
+      <p class=" m-b-64">@Html.Sitecore().Field("Summary")</p>
+
+      @Html.Sitecore().Field("CTA", Model.Item, new { @class = "btn btn--ghost btn--default" })
+    </div>
+  </div>
+
+
+
+  @{ 
+      var currentItem = Sitecore.Context.Item;
+      var desktopImageUrl = string.Empty;
+      var mobileImageUrl = string.Empty;
+
+      Sitecore.Data.Fields.ImageField desktopImageField = currentItem.Fields["DesktopImage"];
+
+      if (desktopImageField?.MediaItem != null)
+      {
+        var image = new MediaItem(desktopImageField.MediaItem);
+        desktopImageUrl = StringUtil.EnsurePrefix('/', MediaManager.GetMediaUrl(image));
+      }
+
+      Sitecore.Data.Fields.ImageField mobileImageField = currentItem.Fields["MobileImage"];
+
+      if (mobileImageField?.MediaItem != null)
+      {
+        var image = new MediaItem(mobileImageField.MediaItem);
+        mobileImageUrl = StringUtil.EnsurePrefix('/', MediaManager.GetMediaUrl(image));
+      }
+
+  }
+
+
+  <picture>
+    <source media="(min-width: 900px)" srcset="@desktopImageUrl">
+    <source srcset="@mobileImageUrl">
+    <img src="@desktopImageUrl" alt="">
+  </picture>
+
+
+
+</section>

@@ -1,0 +1,72 @@
+﻿---
+ID: "9b556906-3407-49c5-b318-7317ed5dbef0"
+Parent: "631cd107-0069-472c-bd15-80edebe44c72"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/Highlights mikres epixeiriseis/katoikia Highlights/multihome full periexomeno"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T083127Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Multihome Ολοκληρωμένο
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        <span id="docs-internal-guid-3d561b52-7fff-a5f9-0614-e4360e5994df" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-a5d2db45-7fff-30dd-a8fb-cad74af5bbd7" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&rho;ό&sigma;&theta;&epsilon;&tau;&epsilon;&sigmaf; &Kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf; &Pi;&epsilon;&rho;&iota;&epsilon;&chi;&omicron;&mu;έ&nu;&omicron;&upsilon;</span></span></div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-f914687d-7fff-3ec9-507d-99942c2b475a" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&rho;&omicron;&sigma;&omega;&rho;&iota;&nu;ή &kappa;&alpha;&tau;&omicron;&iota;&kappa;ί&alpha;, έ&xi;&omicron;&delta;&alpha; &amp; &zeta;&eta;&mu;&iota;έ&sigmaf; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;ά&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-3eb36972-7fff-87c7-54a8-e0760da6e03a" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&lambda;&lambda;&omicron;ί&omega;&sigma;&eta; &tau;&rho;&omicron;&phi;ί&mu;&omega;&nu;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-b8a563c8-7fff-c734-dadf-8f931cbd46e2" style="background-color: transparent; text-decoration: none; color: #000000;">&Beta;&rho;&alpha;&chi;&upsilon;&kappa;ύ&kappa;&lambda;&omega;&mu;&alpha; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&iota;&kappa;ώ&nu; &mu;&eta;&chi;&alpha;&nu;ώ&nu;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-b8a563c8-7fff-c734-dadf-8f931cbd46e2" style="background-color: transparent; text-decoration: none; color: #000000;">&Tau;&upsilon;&chi;&alpha;ί&alpha; &zeta;&eta;&mu;&iota;ά &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ώ&nu; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;ώ&nu;
+            </span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-b8a563c8-7fff-c734-dadf-8f931cbd46e2" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ό &alpha;&tau;ύ&chi;&eta;&mu;&alpha;</span></span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        <span id="docs-internal-guid-3d561b52-7fff-a5f9-0614-e4360e5994df" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-a5d2db45-7fff-30dd-a8fb-cad74af5bbd7" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta;</span></span></div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-f914687d-7fff-3ec9-507d-99942c2b475a" style="background-color: transparent; text-decoration: none; color: #000000;">&Omicron;&iota;&kappa;&omicron;&gamma;&epsilon;&nu;&epsilon;&iota;&alpha;&kappa;ή &Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta;</span></span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-3eb36972-7fff-87c7-54a8-e0760da6e03a" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&sigma;&tau;&iota;&kappa;ή &epsilon;&upsilon;&theta;ύ&nu;&eta; &alpha;&pi;ό &delta;&iota;&alpha;&rho;&rho;&omicron;ή &nu;&epsilon;&rho;ώ&nu;</span></span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        <span id="docs-internal-guid-3d561b52-7fff-a5f9-0614-e4360e5994df" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-a5d2db45-7fff-30dd-a8fb-cad74af5bbd7" style="background-color: transparent; text-decoration: none; color: #000000;">&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf;</span></span></div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-3eb36972-7fff-87c7-54a8-e0760da6e03a" style="background-color: transparent; text-decoration: none; color: #000000;">&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha;&sigmaf; ά&mu;&epsilon;&sigma;&eta;&sigmaf; &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-b8a563c8-7fff-c734-dadf-8f931cbd46e2" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;&epsilon;&upsilon;&tau;&iota;&kappa;ή &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &beta;&omicron;ή&theta;&epsilon;&iota;&alpha;&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-b8a563c8-7fff-c734-dadf-8f931cbd46e2" style="background-color: transparent; text-decoration: none; color: #000000;">&Nu;&omicron;&mu;&iota;&kappa;ή &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;
+            </span></span></li>
+        </ul>
+        </div>
+        </div>

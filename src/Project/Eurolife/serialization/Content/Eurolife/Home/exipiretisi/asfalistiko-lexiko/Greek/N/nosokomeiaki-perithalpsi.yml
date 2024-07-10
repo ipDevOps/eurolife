@@ -1,0 +1,24 @@
+﻿---
+ID: "5f404516-199a-4f17-9aa2-f7414a7568b9"
+Parent: "5c1004d6-c9ac-4375-84f5-6e0bbbbeaafe"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/N/nosokomeiaki-perithalpsi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Νοσοκομειακή Περίθαλψη
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072749Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Καλύπτει τις δαπάνες που έγιναν στο νοσοκομείο. Για να αποζημιωθεί ο ασφαλισμένος, χρειάζεται να προσκομισθούν τα πρωτότυπα τιμολόγια. Ο ασφαλισμένος αποζημιώνεται για τις πραγματικές δαπάνες που πραγματοποίησε στο νοσοκομείο.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

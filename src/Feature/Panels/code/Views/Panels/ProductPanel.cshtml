@@ -1,0 +1,20 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Panels.Models
+@using Wedia.Feature.Panels
+@using Sitecore.Data.Items
+@using Newtonsoft.Json
+@model Panel
+
+<section id="panel" class="center center--1100 programs">
+  <h1 class="h4 m-b-8 t-c">
+    @Model.Title
+  </h1>
+
+  <p class="m-b-48 t-c center center--650">
+    @Model.Summary
+  </p>
+
+  <app-panel :panel="@JsonConvert.SerializeObject(Model)"></app-panel>
+
+  @Html.Partial("./PanelControls")
+</section>

@@ -1,0 +1,14 @@
+﻿---
+ID: "69b635fe-98e0-47e5-910b-7d372583b1d1"
+Parent: "37ea0c56-0ce6-4321-b4af-3a176a4d8ebd"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Ekpaideusi-politismos/mouseio-kikladikis-texnis/draseis/2019/06/11/07"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T072214Z

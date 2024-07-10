@@ -1,0 +1,24 @@
+﻿---
+ID: "6c4b02c1-2c78-4a15-877e-a0feed0f2d39"
+Parent: "89e25dc8-85f3-421d-b41e-9d5e3e40f8a5"
+Template: "15d489c4-ebf5-4f3b-bd82-d2e846ab73e4"
+Path: /sitecore/content/Eurolife/Settings/Datasources/searchsettings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T125806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "da14e9ad-1ce9-4f02-9f5e-23519c650c91"
+      Hint: DatasourceTemplate
+      Value: "{A25242D4-7C30-4962-951E-95921976D4C0}"
+    - ID: "ed070a1e-0115-4dbb-8685-df0c5bf846fa"
+      Hint: DatasourceLocation
+      Value: "{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}"

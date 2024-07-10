@@ -1,0 +1,18 @@
+﻿---
+ID: "1d3d389f-6bb6-4fdd-9ef9-32ee2d617cbb"
+Parent: "8722e508-0515-49bd-81a3-7841237948bc"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/periexomeno/Programs Attributes/Klopi xrimaton apo xrimatokibotio/Klopi xrimaton apo xrimatokibotio no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T093024Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,21 @@
+﻿---
+ID: "b9800013-5cc2-4fb9-afc6-ff99a58e0a7b"
+Parent: "f815c506-83b4-477c-a17d-b6da837af360"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs Attributes/texniko epitokio/2 mexri enarksi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T123915Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: 2,00% μέχρι την έναρξη της συνταξιοδότησης και 0,75% κατά τη διάρκεια καταβολής της σύνταξης

@@ -1,0 +1,57 @@
+﻿---
+ID: "8b7ca3fa-8eba-48ce-8ff0-8edd13c7dad1"
+Parent: "a1447807-e626-4683-a833-f68ce5e905f1"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/Docu
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T142832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {7BA67758-71E5-4344-B955-3C23DC092F57}
+        {E7B77D67-F6B0-450B-B9FD-333E8C9A9DF4}
+        {208A74E0-7836-4BC3-9D2B-981AA8A2B12C}
+        {BEC845F7-9248-476C-9138-F4A8F32BBFD0}
+        {55870D2F-66C3-4DFB-8D2E-B3137C78137D}
+        {98AA794E-336A-44D4-B5F1-435B8F8DA68E}
+        {F8ACC697-8EBD-45D4-A858-A99A8277546E}
+        {82F7F767-AB51-40AD-830B-97A2D2F07E76}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Βασικά Έγγραφα Πληροφοριών
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T140604Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {2B87C416-F4C9-4942-B109-F0952DEE07E3}
+        {8737530C-DD1B-4782-9226-2FBD7A873EEA}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα

@@ -1,0 +1,35 @@
+﻿---
+ID: "3d204d86-3db9-4721-b8ad-d4aa7f0e6f6e"
+Parent: "1a0bd310-1f2c-47f3-b5af-82cb0ad9b5d5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Eurolife/Page Types/Blog/Life Stage
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/plane.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {E5F4F03B-3264-4FB8-ACB9-1A24E024C9BA}
+    {AE8B3FD1-CD52-49C5-9CFD-FDE8B7D58751}
+    {68DC8ED7-3248-4897-B179-7516EA3ED3C3}
+    {6EA52919-2D4A-4347-B7C8-81C644BDF385}
+    {963F5D1D-DD7B-4BD4-8D67-B16730BE4EE5}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{7C72AB53-418D-4F33-9D3E-EACA39104E14}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T085523Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

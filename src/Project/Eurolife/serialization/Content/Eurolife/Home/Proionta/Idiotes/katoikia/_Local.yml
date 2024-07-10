@@ -1,0 +1,21 @@
+﻿---
+ID: "f857984f-7557-4ccb-8e79-2926d9392641"
+Parent: "58e9ae0f-8d5c-4bfa-af3f-b534d837f51e"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {62B2FB1B-FD79-403A-AED2-9D1F464A2E63}
+    {2C7F1576-9844-4119-8F1E-A4E70C4791B9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104442Z

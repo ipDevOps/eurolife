@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9A04B78A-2E9C-4F84-8549-9B44697A8A16}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wedia.Common.Website</RootNamespace>
+    <AssemblyName>Wedia.Common.Website</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.Mvc">
+      <Version>5.2.4</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNet.Razor" Version="3.2.4" />
+    <PackageReference Include="Microsoft.AspNet.WebApi">
+      <Version>5.2.6</Version>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNet.WebPages" Version="3.2.4" />
+    <PackageReference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Web.Infrastructure" Version="1.0.0.0" />
+    <PackageReference Include="Newtonsoft.Json">
+      <Version>11.0.2</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\js\app.js" />
+    <None Include="App_Config\Environment\Project\Common.Release.config.bck">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="App_Config\Environment\Project\Common.Dev.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="assets\js\components\PanelColumn.vue" />
+    <None Include="assets\js\components\CoveragesAccordion.vue" />
+    <Content Include="assets\js\components\PanelFilter.vue" />
+    <None Include="assets\js\components\PanelGrid.vue" />
+    <None Include="assets\js\components\PanelFilters.vue" />
+    <Content Include="assets\js\EventBus.js" />
+    <Content Include="assets\js\main.js" />
+    <Content Include="assets\styles\scss\base-components\404.scss" />
+    <Content Include="assets\styles\scss\base-components\datepicker.scss" />
+    <Content Include="assets\styles\scss\base-components\news.scss" />
+    <Content Include="assets\styles\scss\base-components\_accordion.scss" />
+    <Content Include="assets\styles\scss\base-components\_figures.scss" />
+    <Content Include="assets\styles\scss\base-components\_intro.scss" />
+    <Content Include="assets\styles\scss\base-components\_leadership.scss" />
+    <Content Include="assets\styles\scss\base-components\_slick.scss" />
+    <Content Include="assets\styles\scss\base-components\_sticky.scss" />
+    <Content Include="assets\styles\scss\base-components\_teaser.scss" />
+    <Content Include="assets\styles\scss\base-components\_timeline.scss" />
+    <Content Include="assets\styles\scss\base-components\_triplettes.scss" />
+    <Content Include="assets\styles\scss\base-components\_zigzag.scss" />
+    <Content Include="assets\styles\scss\base\_base.scss" />
+    <Content Include="assets\styles\scss\base\_fixes.scss" />
+    <Content Include="assets\styles\scss\base\_headings.scss" />
+    <Content Include="assets\styles\scss\base\_ie.scss" />
+    <Content Include="assets\styles\scss\base\_inputs.scss" />
+    <Content Include="assets\styles\scss\base\_mixins.scss" />
+    <Content Include="assets\styles\scss\base\_utility.scss" />
+    <Content Include="assets\styles\scss\base\_variables.scss" />
+    <Content Include="assets\styles\scss\layout\_footer.scss" />
+    <Content Include="assets\styles\scss\layout\_header.scss" />
+    <Content Include="assets\styles\scss\style.scss" />
+    <Content Include="css\fancybox.css" />
+    <Content Include="css\print.css" />
+    <Content Include="css\style.css" />
+    <Content Include="fonts\converted\Ubuntu-LightItalic\preview.html" />
+    <Content Include="fonts\converted\Ubuntu-LightItalic\styles.css" />
+    <Content Include="fonts\converted\Ubuntu-MediumItalic\preview.html" />
+    <Content Include="fonts\converted\Ubuntu-MediumItalic\styles.css" />
+    <Content Include="fonts\converted\Ubuntu-MediumItalic\Ubuntu-MediumItalic.svg" />
+    <Content Include="fonts\converted\Ubuntu-Medium\preview.html" />
+    <Content Include="fonts\converted\Ubuntu-Medium\styles.css" />
+    <Content Include="fonts\converted\Ubuntu-Regular\preview.html" />
+    <Content Include="fonts\converted\Ubuntu-Regular\styles.css" />
+    <Content Include="fonts\Ubuntu-Bold.svg" />
+    <Content Include="fonts\Ubuntu-BoldItalic.svg" />
+    <Content Include="fonts\Ubuntu-Italic.svg" />
+    <Content Include="fonts\Ubuntu-Light.svg" />
+    <Content Include="fonts\Ubuntu-LightItalic.svg" />
+    <Content Include="fonts\Ubuntu-Medium.svg" />
+    <Content Include="fonts\Ubuntu-MediumItalic.svg" />
+    <Content Include="fonts\Ubuntu-Regular.svg" />
+    <Content Include="icons\call-icon.svg" />
+    <Content Include="icons\car-with-bg.svg" />
+    <Content Include="icons\chat-icon.svg" />
+    <Content Include="icons\download.svg" />
+    <Content Include="icons\e-mail.svg" />
+    <Content Include="icons\fax.svg" />
+    <Content Include="icons\health-with-bg.svg" />
+    <Content Include="icons\house-with-bg.svg" />
+    <Content Include="icons\info.svg" />
+    <Content Include="icons\left.svg" />
+    <Content Include="icons\location.svg" />
+    <Content Include="icons\phone.svg" />
+    <Content Include="icons\quote.svg" />
+    <Content Include="icons\right-purple.svg" />
+    <Content Include="icons\right.svg" />
+    <Content Include="images\404.svg" />
+    <Content Include="images\arrow-right %281%29.svg" />
+    <Content Include="images\arrow-right.svg" />
+    <Content Include="images\article-teaser.jpg" />
+    <Content Include="images\car-shape.svg" />
+    <Content Include="images\csr-next-desktop.jpg" />
+    <Content Include="images\demo1.png" />
+    <Content Include="images\EurobankHealthTool\icon-child-white.svg" />
+    <Content Include="images\EurobankHealthTool\icon-couple-white.svg" />
+    <Content Include="images\EurobankHealthTool\icon-daughter.svg" />
+    <Content Include="images\EurobankHealthTool\icon-house-white.svg" />
+    <Content Include="images\EurobankHealthTool\icon-info.svg" />
+    <Content Include="images\EurobankHealthTool\icon-man-old.svg" />
+    <Content Include="images\EurobankHealthTool\icon-man-with-glasses.svg" />
+    <Content Include="images\EurobankHealthTool\icon-man-with-stache.svg" />
+    <Content Include="images\EurobankHealthTool\icon-man.svg" />
+    <Content Include="images\EurobankHealthTool\icon-person-white.svg" />
+    <Content Include="images\EurobankHealthTool\icon-son.svg" />
+    <Content Include="images\EurobankHealthTool\icon-woman.svg" />
+    <Content Include="images\eurolife-product-mobile.jpg" />
+    <Content Include="images\eurolife-product.jpg" />
+    <Content Include="images\facebook.svg" />
+    <Content Include="images\gallery1.jpg" />
+    <Content Include="images\gallery2.jpg" />
+    <Content Include="images\gallery3.jpg" />
+    <Content Include="images\gallery4.jpg" />
+    <Content Include="images\iconfinder_Arrow_backward_1063879.svg" />
+    <Content Include="images\iconfinder_Arrow_Forward_1063879.svg" />
+    <Content Include="images\icons\back-to-top.png" />
+    <Content Include="images\icons\check-blue.svg" />
+    <Content Include="images\icons\check-green.svg" />
+    <Content Include="images\icons\down.svg" />
+    <Content Include="images\icons\download.png" />
+    <Content Include="images\icons\health\microscope.svg" />
+    <Content Include="images\icons\health\program.svg" />
+    <Content Include="images\icons\health\stithoscope.svg" />
+    <Content Include="images\icons\home\Combined Shape 2.svg" />
+    <Content Include="images\icons\home\Combined Shape.svg" />
+    <Content Include="images\icons\home\flexibility.svg" />
+    <Content Include="images\icons\home\Group 20.svg" />
+    <Content Include="images\icons\home\pickup.svg" />
+    <Content Include="images\icons\home\support.svg" />
+    <Content Include="images\icons\icon-loading.svg" />
+    <Content Include="images\icons\info.svg" />
+    <Content Include="images\icons\left.svg" />
+    <Content Include="images\icons\Life\Combined Shape Copy 3.svg" />
+    <Content Include="images\icons\Life\Combined Shape.svg" />
+    <Content Include="images\icons\Life\Fill 10.svg" />
+    <Content Include="images\icons\Life\hourglass.svg" />
+    <Content Include="images\icons\Life\life-jacket.svg" />
+    <Content Include="images\icons\Life\shield.svg" />
+    <Content Include="images\icons\motor\accidentcare.svg" />
+    <Content Include="images\icons\motor\Combined Shape.svg" />
+    <Content Include="images\icons\motor\discount.svg" />
+    <Content Include="images\icons\motor\Group 20.svg" />
+    <Content Include="images\icons\motor\settlement.svg" />
+    <Content Include="images\icons\right.svg" />
+    <Content Include="images\leading-team-1.jpg" />
+    <Content Include="images\leading-team-2.jpg" />
+    <Content Include="images\leading-team-3.jpg" />
+    <Content Include="images\leading-team-4.jpg" />
+    <Content Include="images\leading-team-5.jpg" />
+    <Content Include="images\left-simple.svg" />
+    <Content Include="images\our-people-1.jpg" />
+    <Content Include="images\partner-icon.svg" />
+    <Content Include="images\quote-big.svg" />
+    <Content Include="images\right-simple.svg" />
+    <Content Include="images\section-1.jpg" />
+    <Content Include="images\section-2.jpg" />
+    <Content Include="images\section-356x352.jpg" />
+    <Content Include="images\section-356x413.jpg" />
+    <Content Include="images\section-356x424.jpg" />
+    <Content Include="images\section-356x483.jpg" />
+    <Content Include="images\service-demo.jpg" />
+    <Content Include="images\social-wall\facebook.svg" />
+    <Content Include="images\social-wall\linkedin.svg" />
+    <Content Include="images\social-wall\youtube.svg" />
+    <Content Include="images\teaser-demo.jpg" />
+    <Content Include="images\tholos.jpeg" />
+    <Content Include="images\tick.svg" />
+    <Content Include="images\trees-desktop.jpg" />
+    <Content Include="images\trees-mobile.jpg" />
+    <Content Include="images\trees.jpg" />
+    <Content Include="images\twitter.svg" />
+    <Content Include="images\up.svg" />
+    <Content Include="images\updates1.jpg" />
+    <Content Include="images\wedia-logo.svg" />
+    <Content Include="images\youtube.svg" />
+    <Content Include="js\app.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\vendor\bootstrap-datepicker.min.js" />
+    <Content Include="js\vendor\datepicker-el.js" />
+    <Content Include="js\vendor\jquery-3.4.1.min.js" />
+    <Content Include="js\vendor\jquery-3.4.1.slim.min.js" />
+    <Content Include="js\vendor\jquery-ui.min.js" />
+    <Content Include="js\vendor\jquery.fancybox.min.js" />
+    <Content Include="js\vendor\select2.full.min.js" />
+    <Content Include="js\vendor\slick.min.js" />
+    <Content Include="screens\health\T2-1 PRD Health - 768.png" />
+    <Content Include="screens\health\T2-2 PRD Health - Sticky menu.png" />
+    <Content Include="screens\health\T2-2 PRD Health.png" />
+    <Content Include="screens\Home\T2-1 PRD Home.png" />
+    <Content Include="screens\Home\T2-2 PRD Home.png" />
+    <Content Include="screens\Life.png" />
+    <Content Include="screens\Motor\T2-1 PRD Motor.png" />
+    <Content Include="screens\Motor\T2-2 PRD Motor.png" />
+    <Content Include="Views\Common\Sublayouts\Section.cshtml" />
+    <Content Include="Views\Common\Sublayouts\OneColumn.cshtml" />
+    <Content Include="fonts\converted\Ubuntu-MediumItalic\Ubuntu-MediumItalic.eot" />
+    <Content Include="fonts\converted\Ubuntu-MediumItalic\Ubuntu-MediumItalic.ttf" />
+    <Content Include="fonts\converted\Ubuntu-MediumItalic\Ubuntu-MediumItalic.woff" />
+    <Content Include="fonts\original\Ubuntu-Bold.ttf" />
+    <Content Include="fonts\original\Ubuntu-BoldItalic.ttf" />
+    <Content Include="fonts\original\Ubuntu-Italic.ttf" />
+    <Content Include="fonts\original\Ubuntu-Light.ttf" />
+    <Content Include="fonts\original\Ubuntu-LightItalic.ttf" />
+    <Content Include="fonts\original\Ubuntu-Medium.ttf" />
+    <Content Include="fonts\original\Ubuntu-MediumItalic.ttf" />
+    <Content Include="fonts\original\Ubuntu-Regular.ttf" />
+    <Content Include="fonts\Ubuntu-Bold.eot" />
+    <Content Include="fonts\Ubuntu-Bold.ttf" />
+    <Content Include="fonts\Ubuntu-Bold.woff" />
+    <Content Include="fonts\Ubuntu-BoldItalic.eot" />
+    <Content Include="fonts\Ubuntu-BoldItalic.ttf" />
+    <Content Include="fonts\Ubuntu-BoldItalic.woff" />
+    <Content Include="fonts\Ubuntu-Italic.eot" />
+    <Content Include="fonts\Ubuntu-Italic.ttf" />
+    <Content Include="fonts\Ubuntu-Italic.woff" />
+    <Content Include="fonts\Ubuntu-Light.eot" />
+    <Content Include="fonts\Ubuntu-Light.ttf" />
+    <Content Include="fonts\Ubuntu-Light.woff" />
+    <Content Include="fonts\Ubuntu-LightItalic.eot" />
+    <Content Include="fonts\Ubuntu-LightItalic.ttf" />
+    <Content Include="fonts\Ubuntu-LightItalic.woff" />
+    <Content Include="fonts\Ubuntu-Medium.eot" />
+    <Content Include="fonts\Ubuntu-Medium.ttf" />
+    <Content Include="fonts\Ubuntu-Medium.woff" />
+    <Content Include="fonts\Ubuntu-MediumItalic.eot" />
+    <Content Include="fonts\Ubuntu-MediumItalic.ttf" />
+    <Content Include="fonts\Ubuntu-MediumItalic.woff" />
+    <Content Include="fonts\Ubuntu-Regular.eot" />
+    <Content Include="fonts\Ubuntu-Regular.ttf" />
+    <Content Include="fonts\Ubuntu-Regular.woff" />
+    <Content Include="package.json" />
+    <Content Include="webpack.mix.js" />
+    <Content Include="assets\js\components\Panel.vue" />
+    <Content Include="assets\js\components\PanelGroup.vue" />
+    <None Include="assets\js\components\PanelItem.vue" />
+    <Content Include="images\iconfinder_Arrow_backward.svgz" />
+    <Content Include="fonts\Ubuntu-Bold.woff2" />
+    <Content Include="fonts\Ubuntu-BoldItalic.woff2" />
+    <Content Include="fonts\Ubuntu-Italic.woff2" />
+    <Content Include="fonts\Ubuntu-Light.woff2" />
+    <Content Include="fonts\Ubuntu-LightItalic.woff2" />
+    <Content Include="fonts\Ubuntu-Medium.woff2" />
+    <Content Include="fonts\Ubuntu-MediumItalic.woff2" />
+    <Content Include="fonts\Ubuntu-Regular.woff2" />
+    <Content Include="images\icons\home\.DS_Store" />
+    <Content Include="assets\styles\scss\base-components\career.scss" />
+    <Content Include="assets\styles\scss\base-components\_anchorlist.scss" />
+    <Content Include="assets\styles\scss\base-components\_benefits.scss" />
+    <Content Include="assets\styles\scss\base-components\_blog.scss" />
+    <Content Include="assets\styles\scss\base-components\_breadcrumb.scss" />
+    <Content Include="assets\styles\scss\base-components\_contact.scss" />
+    <Content Include="assets\styles\scss\base-components\_droplists.scss" />
+    <Content Include="assets\styles\scss\base-components\_fancybox.scss" />
+    <Content Include="assets\styles\scss\base-components\_form.scss" />
+    <Content Include="assets\styles\scss\base-components\_gallery.scss" />
+    <Content Include="assets\styles\scss\base-components\_glossary.scss" />
+    <Content Include="assets\styles\scss\base-components\_hero.scss" />
+    <Content Include="assets\styles\scss\base-components\_home.scss" />
+    <Content Include="assets\styles\scss\base-components\_lists.scss" />
+    <Content Include="assets\styles\scss\base-components\_material.scss" />
+    <Content Include="assets\styles\scss\base-components\_over-image.scss" />
+    <Content Include="assets\styles\scss\base-components\_partners.scss" />
+    <Content Include="assets\styles\scss\base-components\_people.scss" />
+    <Content Include="assets\styles\scss\base-components\_prenext.scss" />
+    <Content Include="assets\styles\scss\base-components\_product.scss" />
+    <Content Include="assets\styles\scss\base-components\_search.scss" />
+    <Content Include="assets\styles\scss\base-components\_select2.scss" />
+    <Content Include="assets\styles\scss\base-components\_statistics.scss" />
+    <Content Include="assets\styles\scss\base-components\_tabs.scss" />
+    <Content Include="assets\styles\scss\base-components\_tooltip.scss" />
+    <Content Include="assets\styles\scss\base-components\_well.scss" />
+    <Content Include="assets\styles\scss\base\_fonts.scss" />
+    <Content Include="assets\styles\scss\base-components\_new-cta.scss" />
+    <Content Include="assets\styles\scss\tools\_extra-suggestions.scss" />
+    <Content Include="assets\styles\scss\tools\_health-breadcrumb.scss" />
+    <Content Include="assets\styles\scss\tools\_radio-slider.scss" />
+    <Content Include="assets\styles\scss\tools\_range.scss" />
+    <Content Include="assets\styles\scss\tools\_suggestions.scss" />
+    <Content Include="assets\styles\scss\tools\_tool-utility.scss" />
+    <Content Include="assets\styles\scss\base-components\_eurolist.scss" />
+    <Content Include="assets\styles\scss\tools\_eurobanktool.scss" />
+    <Content Include="assets\styles\scss\base-components\chartsComponent.scss" />
+    <Content Include="assets\styles\scss\base-components\home-redesign\_blog.scss" />
+    <Content Include="assets\styles\scss\base-components\home-redesign\_dropmenu.scss" />
+    <Content Include="assets\styles\scss\base-components\home-redesign\_news.scss" />
+    <Content Include="assets\styles\scss\base-components\home-redesign\_products.scss" />
+    <Content Include="assets\styles\scss\base-components\home-redesign\_social-wall.scss" />
+    <None Include="Properties\PublishProfiles\Eurolife.pubxml" />
+    <Content Include="Views\Common\Sublayouts\ThreeColumn.cshtml" />
+    <Content Include="Views\Common\Sublayouts\Footer.cshtml" />
+    <Content Include="styles\componentscss\anchorlist.scss" />
+    <Content Include="styles\componentscss\breadcrumb.scss" />
+    <Content Include="styles\componentscss\hero.scss" />
+    <Content Include="styles\componentscss\product.scss" />
+    <Content Include="styles\scss\base-components\_accordion.scss" />
+    <Content Include="styles\scss\base-components\_droplists.scss" />
+    <Content Include="styles\scss\base-components\_fancybox.scss" />
+    <Content Include="styles\scss\base-components\_figures.scss" />
+    <Content Include="styles\scss\base-components\_gallery.scss" />
+    <Content Include="styles\scss\base-components\_intro.scss" />
+    <Content Include="styles\scss\base-components\_leadership.scss" />
+    <Content Include="styles\scss\base-components\_lists.scss" />
+    <Content Include="styles\scss\base-components\_partners.scss" />
+    <Content Include="styles\scss\base-components\_prenext.scss" />
+    <Content Include="styles\scss\base-components\_slick.scss" />
+    <Content Include="styles\scss\base-components\_sticky.scss" />
+    <Content Include="styles\scss\base-components\_tabs.scss" />
+    <Content Include="styles\scss\base-components\_teaser.scss" />
+    <Content Include="styles\scss\base-components\_timeline.scss" />
+    <Content Include="styles\scss\base-components\_triplettes.scss" />
+    <Content Include="styles\scss\base-components\_zigzag.scss" />
+    <Content Include="styles\scss\base\_base.scss" />
+    <Content Include="styles\scss\base\_headings.scss" />
+    <Content Include="styles\scss\base\_inputs.scss" />
+    <Content Include="styles\scss\base\_mixins.scss" />
+    <Content Include="styles\scss\base\_utility.scss" />
+    <Content Include="styles\scss\base\_variables.scss" />
+    <Content Include="styles\scss\layout\_footer.scss" />
+    <Content Include="styles\scss\layout\_header.scss" />
+    <Content Include="styles\scss\style.scss" />
+    <Content Include="styles\scss\base-components\_form.scss" />
+    <Content Include="styles\scss\base-components\_tooltip.scss" />
+    <Content Include="styles\scss\base-components\career.scss" />
+    <Content Include="styles\scss\base-components\_anchorlist.scss" />
+    <Content Include="styles\scss\base-components\_breadcrumb.scss" />
+    <Content Include="styles\scss\base-components\_contact.scss" />
+    <Content Include="styles\scss\base-components\_glossary.scss" />
+    <Content Include="styles\scss\base-components\_hero.scss" />
+    <Content Include="styles\scss\base-components\_material.scss" />
+    <Content Include="styles\scss\base-components\_over-image.scss" />
+    <Content Include="styles\scss\base-components\_people.scss" />
+    <Content Include="styles\scss\base-components\_product.scss" />
+    <Content Include="styles\scss\base-components\_select2.scss" />
+    <Content Include="styles\scss\base-components\_benefits.scss" />
+    <Content Include="styles\scss\base-components\_home.scss" />
+    <Content Include="styles\scss\base-components\_statistics.scss" />
+    <Content Include="Views\Common\Sublayouts\Header.cshtml" />
+    <Content Include="styles\scss\base-components\_ie.scss" />
+    <Content Include="Views\Common\Sublayouts\BlogDummy.cshtml" />
+    <Content Include="styles\scss\tools\_extra-suggestions.scss" />
+    <Content Include="styles\scss\tools\_health-breadcrumb.scss" />
+    <Content Include="styles\scss\tools\_radio-slider.scss" />
+    <Content Include="styles\scss\tools\_range.scss" />
+    <Content Include="styles\scss\tools\_suggestions.scss" />
+    <Content Include="styles\scss\tools\_tool-utility.scss" />
+    <None Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Views\web.config" />
+    <None Include="App_Config\Environment\Project\Common.Debug.config.bck" />
+    <Content Include="App_Config\Include\Project\Common.Website.config" />
+    <Content Include="App_Config\Include\Project\Common.Website.Serialization.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Foundation\SitecoreExtensions\code\Wedia.Foundation.SitecoreExtensions.csproj">
+      <Project>{08c1bfa2-583c-4102-a545-8c0e97bae265}</Project>
+      <Name>Wedia.Foundation.SitecoreExtensions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\New folder\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1808</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1942/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

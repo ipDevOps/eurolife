@@ -1,0 +1,14 @@
+﻿---
+ID: "e9c8cdaf-b3a4-4990-aeba-2dab62539c96"
+Parent: "8e0f7fc4-5c95-4537-a23f-d614abf6979e"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/Common/Section Columns
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T114109Z

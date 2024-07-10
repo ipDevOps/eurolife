@@ -1,0 +1,29 @@
+﻿---
+ID: "27c4cde4-c910-4d22-be09-4829134317e7"
+Parent: "15969015-aacf-41fe-b141-cfa5c1a0f658"
+Template: "15969015-aacf-41fe-b141-cfa5c1a0f658"
+Path: /sitecore/templates/Project/Common/Content Types/Panels/Panels Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F1E8AA8C-0ACB-4186-B3FB-448897CA0831}
+    {15969015-AACF-41FE-B141-CFA5C1A0F658}
+    {F9BE04CF-B18A-4CF7-9A9F-F757A73E44C1}
+    {8EBCBC5C-1D20-4406-8144-82AFB185E659}
+    {39D408E6-E9B8-491F-B351-9C27B520323B}
+    {E8DA73B3-8EDF-4CA3-9F9A-B3FB540EF441}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T044816Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,47 @@
+﻿---
+ID: "ea870a01-33c2-4a73-9cc4-5ebdaec7fd74"
+Parent: "33a06961-5549-4bc3-8b62-0c70e5bf118b"
+Template: "07ddcb5b-c85d-4daf-907e-bec9f628b3e5"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Mazi-epitigxanoume/_Local/Teasers_as_sinergastoume/asfalisi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ή&sigmaf; &pi;&epsilon;&rho;ί&theta;&alpha;&lambda;&psi;&eta;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron;&nu; &upsilon;&pi;ά&lambda;&lambda;&eta;&lambda;&omicron; &kappa;&alpha;&iota; &tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &tau;&omicron;&upsilon;
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: 
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T120407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: το 2017
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: εκατ.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 2
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T110329Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

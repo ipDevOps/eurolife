@@ -1,0 +1,30 @@
+﻿@using Wedia.Feature.Blog
+@using Wedia.Feature.Blog.Models
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model ArticlesList    
+
+@{
+  var currentItem = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.Item;
+}
+
+@if (Model.Articles != null && Model.Articles.Any())
+{
+  <section class="center center--1100 m-b-112 m-t-48"> 
+    <div id="articles-list" class="list-grid">      
+        @Html.Partial("_PagedListArticles", Model)              
+    </div>
+    
+    @if(Model.ShowLoadMore)
+    {
+      <div class="t-c m-t-48">
+         <span class="btn btn--ghost-rev btn--default"
+            id="articlesLoadMoreBtn"
+            data-root-item="@currentItem.ID"
+            data-page="@Model.Page"
+            data-results-on-page="@Model.ResultsOnPage">@Html.Sitecore().Dictionary("/Blog/Articles/LoadMore")</span>
+      </div>
+    }
+  </section>
+}

@@ -1,0 +1,142 @@
+/*------------------------------------*\
+  #BASE
+\*------------------------------------*/
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+
+    td{
+      padding: 10px;
+    }
+}
+
+.iframe iframe {
+  @include breakpoint(820) {
+    width: 810px;
+  }
+}
+
+p {
+  margin: 0 0 20px 0;
+}
+
+::selection {
+  background: #e8f9f7;
+  color: black;
+}
+
+::-moz-selection {
+  background: #e8f9f7;
+  color: black;
+}
+
+body{
+    margin:0;
+    color: $color-black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 1.6rem;
+    line-height:1.5;
+}
+
+html:not(.touch) { 
+    text-rendering: optimizeLegibility; 
+}
+html.touch { 
+    text-rendering: optimizeSpeed; 
+}
+
+html { 
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+    display: block;
+}
+
+svg{
+    max-width:100%;
+    height:auto;
+}
+
+a{
+    color:#030000;
+    text-decoration:none;
+}
+
+
+strong{
+    font-weight:700;
+}
+
+ul{
+    padding-left: 0;
+    margin:0;
+}
+li{
+    list-style-type: none !important;
+}
+
+figure{ 
+    margin:0;
+    max-width:100%; 
+}
+
+.text-main {
+  line-height: 1.7;
+  padding: 0;
+
+  @include breakpoint(700) {
+    padding: 0 80px;
+  }
+
+  h3 {
+    font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 48px;
+  }
+
+  ul {
+    padding-left: 30px;
+
+    li{
+      margin-bottom:24px;
+      p{
+        display:inline;
+      }
+    }
+
+    li:before {
+      @include breakpoint(820){
+        margin-left:-13px;
+        width:13px;
+      }
+      content: "";
+      width: 10px;
+      height: 2px;
+      background: red;
+      display: inline-block;
+      transform: translate(-20px, -5px);
+      margin-left: -10px;
+    }
+  }
+}

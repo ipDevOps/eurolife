@@ -1,0 +1,29 @@
+﻿---
+ID: "cf801813-b9ad-4a8c-a27b-651667c995e5"
+Parent: "bf8c4a0f-4853-4708-ad6b-29941715fd91"
+Template: "15969015-aacf-41fe-b141-cfa5c1a0f658"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/pronomia-prosopikou-affinities/_Local/omadiki asfalisi Panel/Attributes Categories"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T122240Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102211Z

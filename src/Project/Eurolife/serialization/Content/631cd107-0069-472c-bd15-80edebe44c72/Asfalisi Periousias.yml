@@ -1,0 +1,41 @@
+﻿---
+ID: "521c80e5-1e2e-448c-b220-6979f591b606"
+Parent: "631cd107-0069-472c-bd15-80edebe44c72"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/Highlights mikres epixeiriseis/katoikia Highlights/Asfalisi Periousias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Ασφάλιση Περιουσίας
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-0ff68dd4-7fff-9589-d35b-70106bc2023b" style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&tau;ί&rho;&iota;&alpha;</span></span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-4560b0df-7fff-b952-29ae-3ad73bd78fca" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&epsilon;&rho;&iota;&epsilon;&chi;ό&mu;&epsilon;&nu;&omicron;, &epsilon;&xi;&omicron;&pi;&lambda;&iota;&sigma;&mu;ό&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-0c6df0be-7fff-db60-f62b-487d4f348b49" style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;</span><span id="docs-internal-guid-0c6df0be-7fff-db60-f62b-487d4f348b49" style="background-color: transparent; text-decoration: none; color: #000000;">&mu;&pi;&omicron;&rho;&epsilon;ύ&mu;&alpha;&tau;&alpha;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-d2ff7ffd-7fff-01bf-3f73-00dfd0152499" style="background-color: transparent; text-decoration: none; color: #000000;">&Eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ό&sigmaf; &epsilon;&xi;&omicron;&pi;&lambda;&iota;&sigma;&mu;ό&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-85e7499a-7fff-2884-4aa2-0d36d6fddfff" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &kappa;&epsilon;&rho;&delta;ώ&nu;</span></span></li>
+        </ul>
+        </div>
+        </div>

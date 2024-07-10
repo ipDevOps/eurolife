@@ -1,0 +1,35 @@
+﻿---
+ID: "c410c01a-5cc4-4954-93af-8e3570ff6eb3"
+Parent: "6be6722c-9a7a-49a2-96d1-b0977ef3f35b"
+Template: "e4578522-04a6-4ee4-8d58-2776b57d2d1c"
+Path: /sitecore/system/Settings/Project/Themes/Common/Eurolife
+DB: master
+SharedFields:
+- ID: "3c4efd07-b7a6-459d-977a-10efc2754ba5"
+  Hint: JavaScript inline
+  Value: 
+- ID: "bae63ba4-2087-4625-b625-eea9bcd46075"
+  Hint: Css assets
+  Value: |
+    /css/style.css
+    /css/fancybox.css
+    
+- ID: "d7e7d647-0d97-4df7-a1ae-01253761a71b"
+  Hint: JavaScript assets
+  Value: |
+    /js/vendor/slick.min.js
+    /js/vendor/select2.full.min.js
+    /js/vendor/jquery.fancybox.min.js
+    /js/main.js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T145220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

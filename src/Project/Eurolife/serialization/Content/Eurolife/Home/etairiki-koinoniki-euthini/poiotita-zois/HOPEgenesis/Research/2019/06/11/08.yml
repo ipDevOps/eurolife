@@ -1,0 +1,14 @@
+﻿---
+ID: "730d1816-5a58-4099-8d9a-d3f523c32e71"
+Parent: "c940150b-b298-4a35-a649-b5f500a4e079"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/Research/2019/06/11/08"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T080339Z

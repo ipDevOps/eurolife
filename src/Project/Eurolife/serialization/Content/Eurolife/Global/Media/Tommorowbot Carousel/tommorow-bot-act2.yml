@@ -1,0 +1,22 @@
+﻿---
+ID: "2b47ad30-2333-422f-bb08-a4153fad9d02"
+Parent: "da398985-63f4-403b-9307-cafb23561466"
+Template: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Path: "/sitecore/content/Eurolife/Global/Media/Tommorowbot Carousel/tommorow-bot-act2"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediaid="{5ECBEFEC-F4BF-436A-9973-45A5EE28C936}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T123220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

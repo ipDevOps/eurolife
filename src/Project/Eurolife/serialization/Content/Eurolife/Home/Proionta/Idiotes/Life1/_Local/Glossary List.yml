@@ -1,0 +1,27 @@
+﻿---
+ID: "34e239e5-a658-4e73-96de-a0902f43b4fc"
+Parent: "882cd797-6ee0-49ed-84d7-1736fb01ff7d"
+Template: "029f90fa-6f63-4d1d-ba0e-de4ea54426de"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/Life1/_Local/Glossary List
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Glossaryyy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T143611Z
+    - ID: "58ae458f-3ad1-41d4-962d-d5b11002576d"
+      Hint: GlossaryItems
+      Type: TreelistEx
+      Value: |
+        {DF117CEF-1E58-4FAB-A17A-DC92F5BD3F32}
+        {DD931152-97C4-4677-8ED0-513D457BA3D8}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

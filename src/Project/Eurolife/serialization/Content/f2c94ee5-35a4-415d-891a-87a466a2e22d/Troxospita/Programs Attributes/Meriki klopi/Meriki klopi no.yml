@@ -1,0 +1,25 @@
+﻿---
+ID: "89e7679d-7f5e-400b-a357-de69d5323020"
+Parent: "487f6d77-7a31-4eec-974d-0f423a5b5ab1"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Troxospita/Programs Attributes/Meriki klopi/Meriki klopi no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T141133Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 0

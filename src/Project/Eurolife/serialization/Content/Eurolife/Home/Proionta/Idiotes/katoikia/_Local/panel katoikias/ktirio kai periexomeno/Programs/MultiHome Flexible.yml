@@ -1,0 +1,64 @@
+﻿---
+ID: "0c01e557-85ad-4a28-8071-f4804f8a7dc8"
+Parent: "7d5097cc-35c9-45c7-b3a3-55a6945d276d"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Programs/MultiHome Flexible
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: MultiHome Ευέλικτο
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {07E21891-A0FF-40A5-8FCF-704ADB20C6A6}
+        {12435E73-D7D3-4D94-8837-E4A77AF564FF}
+        {7A0243AC-543A-47C1-B772-6401EFC7C3E6}
+        {50D95265-9C2B-4589-BC24-B21E867E3386}
+        {6A1F6A6D-CBD4-424D-8D9A-CC6C2BD1318B}
+        {C9C8D0E0-8E24-46EE-A827-CA665EBFB160}
+        {18976EDB-9774-413C-AF82-18C3568A99F1}
+        {A4E2374E-83A9-496A-B0D4-286441BD4BEE}
+        {F8B89089-B5DD-4DED-9948-CE3A9BDDEC78}
+        {885682E8-A2A3-41D4-86BC-4FA1CFAFC2F7}
+        {5EB03BA3-8524-473B-9AB9-893E12F53A8D}
+        {C42B4307-B58A-4690-9E25-3D74D0DC00EE}
+        {70702A47-61A4-4EAD-A249-E5BC3AD88D63}
+        {64C0F01D-B06D-4782-9AEC-9CD0A8CC8BF7}
+        {CBE755B7-2BB7-4502-82B3-C0A78E03507E}
+        {5A4C7708-2BDD-4000-B6E6-938D3AABD534}
+        {06A8F2A0-0B14-42A1-9BF7-BB759A1AED1A}
+        {F202635F-3198-4D52-AD3D-3B6502F433DC}
+        {44B14A4C-7A6D-4422-9160-9FCBB10EA6F8}
+        {E39260A8-D471-4FE2-AFA1-608903DFF3F9}
+        {C7A58E27-84F3-4B61-BC89-A1E2AC1E5332}
+        {59A0AFC7-EB3F-4A0C-9E50-389C58428D7E}
+        {D79CDB0C-48F5-4A83-AB74-1411D0EFD057}
+        {08DDB494-9C51-40C7-BE26-B7E9A827C879}
+        {DAEA77DB-D450-44B3-831F-439236382B9F}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082857Z
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Safe Drive Standard
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

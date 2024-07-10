@@ -1,0 +1,25 @@
+﻿---
+ID: "f4fa449d-4f30-45ab-a0a2-3a725e5c3689"
+Parent: "4f16e554-536a-429d-a6ed-4a5330e8323e"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/Epimorfosi/_Local/Menu items"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191011T122019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T075853Z

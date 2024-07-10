@@ -1,0 +1,88 @@
+﻿---
+ID: "16351d16-de59-4f85-b750-07e16e068026"
+Parent: "25bcc0b2-b176-4483-8368-4ace4dddf0e4"
+Template: "9c9a7dda-cf32-4681-be2a-29662453aebc"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Dioikitiki-Omada"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{090F8187-E3EA-4A1A-8615-0D67786253BA}"
+              s:ds=""
+              s:par="Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D" />
+            <r
+              uid="{7F7FE3DC-5F21-436C-9185-F2F41F72E41F}"
+              s:ds="" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T102725Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Διοικητική Ομάδα
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "42567e83-db1f-4651-8385-842abd59aded"
+      Hint: MetaKeywords
+      Type: Treelist
+      Value: "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}"
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Διοικητική Ομάδα
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: |
+        Η Διοίκησή μας διαμορφώνει τη χάραξη της στρατηγικής μας και ορίζει τον τρόπο με τον οποίο λειτουργούμε και 
+        συμπεριφερόμαστε, τόσο απέναντι στους πελάτες μας, όσο και απέναντι στην κοινωνία.
+                        
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Διοικητική Ομάδα
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190807T103250Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Leadership Team
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Leadership Team

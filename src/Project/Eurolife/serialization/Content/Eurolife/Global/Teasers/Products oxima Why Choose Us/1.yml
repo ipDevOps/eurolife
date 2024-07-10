@@ -1,0 +1,47 @@
+﻿---
+ID: "10e2a10c-24a1-4a9a-b2b2-8746f68d3ea3"
+Parent: "1fa9a0fc-32d8-499e-aae5-843b07e01e04"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/Products oxima Why Choose Us/1
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-f3f27abe-7fff-147d-794c-41e05dddb7e4" style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&Alpha;&Theta;&Epsilon;&Tau;&Epsilon; &Pi;&Epsilon;&Rho;&Iota;&Sigma;&Sigma;&Omicron;&Tau;&Epsilon;&Rho;&Alpha;</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190807T150126Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-339b7870-7fff-f779-bf9a-d301d24d2e83" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-350d9643-7fff-cd7f-70e8-5919485a3417" style="background-color: #ffffff; text-decoration: none; color: #3c4043;">&Alpha;&nu;&alpha;&pi;&rho;&omicron;&sigma;&alpha;&rho;&mu;ό&zeta;&omicron;&upsilon;&mu;&epsilon; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά &tau;&omicron; &kappa;ό&sigma;&tau;&omicron;&sigmaf; &tau;&eta;&sigmaf; &kappa;ά&theta;&epsilon; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &mu;&epsilon; &sigma;&kappa;&omicron;&pi;ό &nu;&alpha; &pi;&alpha;&rho;έ&chi;&omicron;&upsilon;&mu;&epsilon; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron; ό&chi;&eta;&mu;&alpha; &sigma;&alpha;&sigmaf;</span></span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ανταγωνιστική τιμολόγηση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "2973b97b-99bd-44f2-b87d-195f5498a810"
+Parent: "5e966d14-5fb6-4863-8fe5-517479f42e17"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/We-Want-To-Hear-You/_Local"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T111543Z

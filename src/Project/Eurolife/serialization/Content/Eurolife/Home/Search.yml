@@ -1,0 +1,61 @@
+﻿---
+ID: "326c573a-97bd-4c81-abab-4178afe8b8d3"
+Parent: "f2be096d-911f-4409-8a98-9ee16cb8b283"
+Template: "2eef2965-9203-4a23-b2ab-259a44afc84b"
+Path: /sitecore/content/Eurolife/Home/Search
+DB: master
+SharedFields:
+- ID: "06104eff-818d-4a95-8bf6-fdce039dbd81"
+  Hint: Facets
+  Type: Treelist
+  Value: "{D4357C99-B074-4B24-B999-6CD3D3E90A8D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ce01372-9068-4424-8ec1-81005fbcfe3b"
+      Hint: SeoFollowLinks
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190823T050501Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Αποτελέσματα Αναζήτησης
+    - ID: "5ae7b7d1-eeaa-48fd-885b-7956a463d2c5"
+      Hint: SearchBoxTitle
+      Value: Αναζήτηση
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Αναζήτηση
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T124711Z
+    - ID: "5ae7b7d1-eeaa-48fd-885b-7956a463d2c5"
+      Hint: SearchBoxTitle
+      Value: Enter a text to search for...
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

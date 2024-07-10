@@ -1,0 +1,33 @@
+﻿---
+ID: "f4735344-6e94-48a6-823a-75849e37dcab"
+Parent: "8b80325f-22bd-42c9-b80f-806d117bb3d1"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio/Attributes Categories/klopi kai sxetikes zimies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {2F44791A-4FA0-497E-A56F-C893D68A0B90}
+        {A311CF12-8B94-4666-938D-2D00F440BA48}
+        {775F2128-C88F-410C-B4AB-258C06DB0759}
+        {41976E70-163F-4712-AB4C-8D142CFE992E}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Κλοπή και σχετικές ζημιές

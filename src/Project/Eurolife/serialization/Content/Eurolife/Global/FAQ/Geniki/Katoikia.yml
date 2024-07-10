@@ -1,0 +1,25 @@
+﻿---
+ID: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Parent: "9d1c814d-62d7-48ff-9591-a016d83d9f17"
+Template: "1bd8973a-c133-4bcb-87a3-d4ef07b7f098"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T092123Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T145904Z

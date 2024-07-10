@@ -1,0 +1,59 @@
+﻿@using Wedia.Feature.Glossary
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model IEnumerable<Wedia.Feature.Glossary.Models.GlossaryGroup>
+
+<div class="color-container">
+  <div class="center center--1700 m-b-112 anchorlist-narrow scroller">
+    @foreach (var rootGlossaryGroup in Model.Select((value, index) => new { value, index }))
+    {
+      foreach (var group in rootGlossaryGroup.value.Groups)
+      {
+        <a href="#@group.Item.ID.ToString()" class="tab tab--active">
+          @group.Title
+        </a>
+      }
+
+      if ((rootGlossaryGroup.index + 1) < Model.Count())
+      {
+        <span class="tab-separator"></span>
+      }
+    }
+  </div>
+  
+</div>
+
+<section class="center center--1100">
+
+  @foreach (var rootGlossaryGroup in Model)
+  {
+    foreach (var group in rootGlossaryGroup.Groups)
+    {
+
+      <h2 id="@group.Item.ID.ToString()">
+        @Html.Sitecore().Field(Templates.HasGlossaryTitle.Fields.Title, group.Item)
+      </h2> 
+
+      <ul class="m-b-48 accordion">
+        @foreach (var item in group.Items)
+        {
+          <li>
+            <input type="checkbox" name="panel" id="panel-@item.Item.ID">
+            <label for="panel-@item.Item.ID">
+              @Html.Sitecore().Field(Templates.HasGlossaryTitle.Fields.Title, item.Item)
+              <span class="accordion__state"></span>
+            </label>
+            <div class="accordion__content">
+              <div class="p-b-16">
+                @Html.Sitecore().Field(Templates.Glossary.Fields.Gloss, item.Item)
+              </div>
+            </div>
+          </li>
+        }
+      </ul>
+    }
+  }
+
+</section>
+
+
+

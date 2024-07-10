@@ -1,0 +1,21 @@
+﻿---
+ID: "df10de99-f5ae-474c-a6f3-4df2e22ed8f2"
+Parent: "41a74669-1f3f-4384-aecf-1d883be4d19b"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Navigation/Main Menu
+DB: master
+SharedFields:
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: MainMenu
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Wedia.Feature.Navigation.Controllers.NavigationController, Wedia.Feature.Navigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T115053Z

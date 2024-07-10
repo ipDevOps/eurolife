@@ -1,0 +1,60 @@
+﻿---
+ID: "c86a0e95-64a3-44d2-85f6-055b21ac3e45"
+Parent: "3c97d1e6-e6d2-41cd-b208-94013db07166"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Oikonomika-stoixeia/_Local/oikonomika stoixeia aeaz aeaga"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <strong id="docs-internal-guid-90b25edd-7fff-2416-3f74-acf2ba1350f9"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Delta;&epsilon;ί&tau;&epsilon; &tau;&alpha; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &sigma;&tau;&omicron;&iota;&chi;&epsilon;ί&alpha; &tau;&omega;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;&iota;ώ&nu; &mu;&alpha;&sigmaf;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; text-align: center;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&Epsilon;&Alpha;&Zeta;, &Alpha;&Epsilon;&Gamma;&Alpha;<br />
+        </span></p>
+        <br class="Apple-interchange-newline" />
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Θυγατρικές
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191001T203327Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{E573F7B0-63C7-4E31-8C92-EC4EF7F97A74}" querystring="" target="" text="ΔΕΙΤΕ ΠΕΡΙΣΣΟΤΕΡΑ" url="/Eurolife/Home/gnoriste-mas/oikonomika-stoixeia" title="" class="" linktype="internal" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Iota;&sigma;&chi;&upsilon;&rho;ή &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;&iota;&alpha;&kappa;ή &epsilon;&pi;ά&rho;&kappa;&epsilon;&iota;&alpha;,
+        &sigma;&tau;&alpha;&theta;&epsilon;&rho;ά &upsilon;&psi;&eta;&lambda;ή &kappa;&epsilon;&rho;&delta;&omicron;&phi;&omicron;&rho;ί&alpha;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ο Όμιλος Eurolife ERB
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T140444Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{C65D8F70-3364-489B-B8B5-71D02F602D95}" querystring="" target="" text="ΔΕΙΤΕ ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" url="/Eurolife/Home/gnoriste-mas/Eurolife-Group" title="" class="" linktype="internal" />

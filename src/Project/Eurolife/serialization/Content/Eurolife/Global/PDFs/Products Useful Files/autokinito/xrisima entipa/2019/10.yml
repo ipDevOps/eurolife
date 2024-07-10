@@ -1,0 +1,18 @@
+﻿---
+ID: "444e70e7-e089-425c-8379-3d4c19b71b34"
+Parent: "3c185e07-a43d-4233-affe-ac4a4399b562"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/autokinito/xrisima entipa/2019/10
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T122509Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

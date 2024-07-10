@@ -1,0 +1,18 @@
+﻿---
+ID: "1fc73c84-aea7-4c59-8d97-7038d9f29a91"
+Parent: "e6459f8b-a577-4582-bc6b-8686e1f2ec6d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Highlight/Copy of Media For Testing/Contact
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190910T091401Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

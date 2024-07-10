@@ -1,0 +1,21 @@
+﻿---
+ID: "8e6b3083-d517-4698-8a0f-91868cddffd4"
+Parent: "84c0f94a-e64e-4725-95d3-35c887d1a21d"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Blog/Newsletter/Subtitle
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200123T100954Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Κάνε την εγγραφή σου στο newsletter για να λαμβάνεις νέα για τα σημαντικά
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

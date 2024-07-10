@@ -1,0 +1,39 @@
+﻿---
+ID: "cb935f9e-55cb-4fe7-92cc-7d019ec4e922"
+Parent: "1ceb39c4-0d85-4fd5-8f5c-c956e3552fbb"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/pronomia-prosopikou-affinities/_Local/omadiki asfalisi Panel/Programs Attributes/thesi_nosileias"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Θέση Νοσηλείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T091129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Τύπος Προγράμματος
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T100648Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

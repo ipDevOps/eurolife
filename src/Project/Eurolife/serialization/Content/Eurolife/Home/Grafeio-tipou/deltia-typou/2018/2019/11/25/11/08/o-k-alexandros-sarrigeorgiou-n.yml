@@ -1,0 +1,67 @@
+﻿---
+ID: "4122a50e-7a06-4a4f-a702-e80312935916"
+Parent: "876e2dcb-e98e-4029-88fd-cbe707b2bc87"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/11/08/o-k-alexandros-sarrigeorgiou-neos-proedros-tis-enosis-asfalistikon-etairion-ellados-eaee"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{10B841F9-7C75-4F87-AC42-E31429E12B26}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T110803Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ο κ. Αλέξανδρος Σαρρηγεωργίου, Νέος Πρόεδρος της Ένωσης Ασφαλιστικών Εταιριών Ελλάδος (ΕΑΕΕ)
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p>&Gamma;&iota;&alpha; 3&eta; &phi;&omicron;&rho;ά &epsilon;&xi;&epsilon;&lambda;έ&gamma;&eta; &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;&omicron;ύ &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omicron;&upsilon; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &Epsilon;&tau;&alpha;&iota;&rho;&iota;ώ&nu; &omicron; &kappa;. &Alpha;&lambda;έ&xi;&alpha;&nu;&delta;&rho;&omicron;&sigmaf; &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon;, &mu;&epsilon;&tau;ά &alpha;&pi;ό &tau;&eta;&nu; &pi;&alpha;&rho;&alpha;ί&tau;&eta;&sigma;&eta; &tau;&omicron;&upsilon; &kappa;. &Delta;. &Mu;&alpha;&zeta;&alpha;&rho;ά&kappa;&eta; &alpha;&pi;ό &tau;&omicron; &alpha;&xi;ί&omega;&mu;&alpha; &tau;&omicron;&upsilon; &Pi;&rho;&omicron;έ&delta;&rho;&omicron;&upsilon; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &Epsilon;&tau;&alpha;&iota;&rho;&iota;ώ&nu; &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf; (&Epsilon;&Alpha;&Epsilon;&Epsilon;) &omega;&sigmaf; &alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&mu;&alpha; &tau;&eta;&sigmaf; &alpha;&nu;&alpha;&beta;ά&theta;&mu;&iota;&sigma;&eta;&sigmaf; &sigma;&tau;&omicron;&nu; ό&mu;&iota;&lambda;ό &tau;&omicron;&upsilon; &kappa;&alpha;&iota; &alpha;&pi;&omicron;&chi;ώ&rho;&eta;&sigma;&eta;&sigmaf; &tau;&omicron;&upsilon; &alpha;&pi;ό &tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;.<br />
+        <br />
+        &Omicron; &kappa;. &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &Delta;.&Sigma;. &kappa;&alpha;&iota; &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&eta; &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; &Pi;&rho;&omicron;έ&delta;&rho;&omicron;&upsilon;, &theta;&alpha; &sigma;&upsilon;&mu;&beta;ά&lambda;&lambda;&epsilon;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ά &sigma;&tau;&iota;&sigmaf; &sigma;&upsilon;&lambda;&lambda;&omicron;&gamma;&iota;&kappa;έ&sigmaf; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &mu;&epsilon; &beta;&alpha;&sigma;&iota;&kappa;ό &sigma;&tau;ό&chi;&omicron; &tau;&eta;&nu; &alpha;&nu;ά&delta;&epsilon;&iota;&xi;&eta; &tau;&omicron;&upsilon; &kappa;&lambda;ά&delta;&omicron;&upsilon; &omega;&sigmaf; &sigma;ύ&mu;&mu;&alpha;&chi;&omicron; &kappa;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&eta; &tau;&omega;&nu; &pi;&omicron;&lambda;&iota;&tau;ώ&nu; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &kappa;&rho;ά&tau;&omicron;&upsilon;&sigmaf;. <br />
+        <br />
+        &Omicron; &kappa;. &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon;, &alpha;&pi;ό &tau;&eta; &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; &Pi;&rho;&omicron;έ&delta;&rho;&omicron;&upsilon; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &delta;ή&lambda;&omega;&sigma;&epsilon; &mu;&epsilon; &alpha;&phi;&omicron;&rho;&mu;ή &tau;&eta;&nu; &epsilon;&kappa;&lambda;&omicron;&gamma;ή &tau;&omicron;&upsilon;: <em>&laquo;&Alpha;&iota;&sigma;&theta;ά&nu;&omicron;&mu;&alpha;&iota; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&eta; &chi;&alpha;&rho;ά &pi;&omicron;&upsilon; &gamma;&iota;&alpha; 3&eta; &phi;&omicron;&rho;ά &omicron; &kappa;&lambda;ά&delta;&omicron;&sigmaf; &mu;&epsilon; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;ύ&epsilon;&tau;&alpha;&iota; &gamma;&iota;&alpha; &tau;&omicron; &alpha;&xi;ί&omega;&mu;&alpha; &tau;&omicron;&upsilon; &Pi;&rho;&omicron;έ&delta;&rho;&omicron;&upsilon; &tau;&eta;&sigmaf; &Epsilon;&Alpha;&Epsilon;&Epsilon;. &Theta;&alpha; ή&theta;&epsilon;&lambda;&alpha; &nu;&alpha; &epsilon;&upsilon;&chi;&alpha;&rho;&iota;&sigma;&tau;ή&sigma;&omega; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&alpha; &tau;&omicron;&nu; &Delta;. &Mu;&alpha;&zeta;&alpha;&rho;ά&kappa;&eta; &gamma;&iota;&alpha; &tau;&eta; &theta;&epsilon;&tau;&iota;&kappa;ή &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;ή &sigma;&tau;&omicron; έ&rho;&gamma;&omicron; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &alpha;&pi;ό &tau;&eta; &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; &Pi;&rho;&omicron;έ&delta;&rho;&omicron;&upsilon; &kappa;&alpha;&iota; &nu;&alpha; &tau;&omicron;&upsilon; &epsilon;&upsilon;&chi;&eta;&theta;ώ &mu;&iota;&alpha; &epsilon;&pi;&iota;&tau;&upsilon;&chi;&eta;&mu;έ&nu;&eta; &sigma;&upsilon;&nu;έ&chi;&epsilon;&iota;&alpha; &sigma;&tau;&eta;&nu; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ή &tau;&omicron;&upsilon; &pi;&omicron;&rho;&epsilon;ί&alpha;. &Sigma;&epsilon; &mu;&iota;&alpha; &kappa;&omicron;&mu;&beta;&iota;&kappa;ή &kappa;&alpha;&mu;&pi;ή &gamma;&iota;&alpha; &tau;&eta;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;ί&alpha; &omicron; &kappa;&lambda;ά&delta;&omicron;&sigmaf; &tau;&eta;&sigmaf; &iota;&delta;&iota;&omega;&tau;&iota;&kappa;ή&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &mu;&pi;&omicron;&rho;&epsilon;ί &kappa;&alpha;&iota; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;ώ&sigma;&epsilon;&iota; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;&alpha;&tau;&iota;&kappa;ά &tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &pi;&rho;&omicron;&sigmaf; ό&phi;&epsilon;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;ί&alpha;&sigmaf;&raquo;</em>.</p>
+        <p>&Alpha;&pi;&omicron;&phi;&alpha;&sigma;ί&sigma;&tau;&eta;&kappa;&alpha;&nu; &epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu; &omicron;&iota; &epsilon;&xi;ή&sigmaf; &alpha;&lambda;&lambda;&alpha;&gamma;έ&sigmaf;:<br />
+        <br />
+        <strong>&Sigma;&tau;&omicron; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;ό &Sigma;&upsilon;&mu;&beta;&omicron;ύ&lambda;&iota;&omicron;</strong>: </p>
+        <ul>
+            <li>&Alpha;&nu;&tau;&iota;&pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &alpha;&nu;&alpha;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&iota; &omicron; &kappa;. &Pi;&alpha;&nu;&alpha;&gamma;&iota;ώ&tau;&eta;&sigmaf; &Delta;&eta;&mu;&eta;&tau;&rho;ί&omicron;&upsilon;, &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; Generali Hellas.</li>
+            <li>&Tau;&alpha;&mu;ί&alpha;&sigmaf;, &omicron; &kappa;. &Delta;&eta;&mu;ή&tau;&rho;&eta;&sigmaf; &Zeta;&omicron;&rho;&mu;&pi;ά&sigmaf;, &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &amp; &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &tau;&eta;&sigmaf; &Sigma;&upsilon;&nu;&epsilon;&tau;&alpha;&iota;&rho;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf;.</li>
+            <li>&Nu;έ&omicron; &mu;έ&lambda;&omicron;&sigmaf;, &omicron; &kappa;. &Kappa;&upsilon;&rho;&iota;ά&kappa;&omicron;&sigmaf; &Alpha;&pi;&omicron;&sigma;&tau;&omicron;&lambda;ί&delta;&eta;&sigmaf;, &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &kappa;&alpha;&iota; &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; Metlife &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf;. </li>
+        </ul>
+        <p><strong>&Sigma;&tau;&eta;&nu; &Epsilon;&kappa;&tau;&epsilon;&lambda;&epsilon;&sigma;&tau;&iota;&kappa;ή &Epsilon;&pi;&iota;&tau;&rho;&omicron;&pi;ή</strong>:</p>
+        <ul>
+            <li>&Nu;έ&omicron; &mu;έ&lambda;&omicron;&sigmaf; &omicron;&rho;ί&zeta;&epsilon;&tau;&alpha;&iota; &omicron; &kappa;. &Epsilon;&rho;&rho;ί&kappa;&omicron;&sigmaf; &Mu;&omicron;ά&tau;&sigma;&omicron;&sigmaf;, &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; AXA &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf;.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{10B841F9-7C75-4F87-AC42-E31429E12B26}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Ο κ. Αλέξανδρος Σαρρηγεωργίου, Νέος Πρόεδρος της Ένωσης Ασφαλιστικών Εταιριών Ελλάδος (ΕΑΕΕ)
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20180919T100800Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ο κ. Αλέξανδρος Σαρρηγεωργίου, Νέος Πρόεδρος της Ένωσης Ασφαλιστικών Εταιριών Ελλάδος (ΕΑΕΕ)

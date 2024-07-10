@@ -1,0 +1,24 @@
+﻿---
+ID: "09559ed0-8696-4289-8e92-a4c4afc52f1a"
+Parent: "b9762880-2127-4dac-a1ac-f393bffea1e6"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/E/eggiimeno-kefalaio-onomastiki-axia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Εγγυημένο Κεφάλαιο / Ονομαστική Αξία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T071558Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το ποσό που πληρώνεται σε περίπτωση απώλειας ζωής του ασφαλισμένου. Το ποσό αυτό μπορεί να μειωθεί λόγω δανείων ή οφειλής ασφαλίστρου.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

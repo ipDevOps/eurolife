@@ -1,0 +1,16 @@
+﻿@using Wedia.Feature.Identity
+@using Wedia.Feature.Identity.Repositories
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+  var identity = IdentityRepository.Get(Model.Item);
+  if (identity == null)
+  {
+    return;
+  }
+}
+
+<div class="footer__copy">   
+  Copyright @System.DateTime.Now.Year &copy; @Html.Sitecore().Field(Templates.Identity.Fields.Copyright, identity)
+</div>

@@ -1,0 +1,33 @@
+﻿@using Wedia.Feature.Blog
+@using Wedia.Feature.Blog.Models
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+
+@model  PromoSectionViewModel
+
+@{ 
+    var linkURL = Model.RenderingItem.FieldHasValue(Templates.HasPromo.Fields.CTA) ?
+      Model.RenderingItem.LinkFieldUrl(Templates.HasPromo.Fields.CTA) : string.Empty;
+}
+
+@if (Model != null && Model.RenderingItem.FieldHasValue(Templates.HasPromo.Fields.Title))
+{
+  <section class="blog-banner blog-banner--@Model.PromoColor center center--760">           
+      @Html.Sitecore().ImageField(Templates.HasPromo.Fields.Icon, Model.RenderingItem)
+
+    <a href="@linkURL">
+      @Html.Sitecore().Field(Templates.HasPromo.Fields.Title)
+    </a>
+
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="blog-banner__arrow" width="60" height="60" viewBox="0 0 60 60">
+      <defs>
+        <path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z"></path>
+      </defs>
+      <use fill="#003B4D" fill-rule="nonzero" xlink:href="#a"></use>
+    </svg>
+  </section>
+}
+
+

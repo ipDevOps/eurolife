@@ -1,0 +1,22 @@
+﻿---
+ID: "a638c47e-7d65-4ba6-9752-cbc37c3c3f5b"
+Parent: "656022c1-8078-4f68-9137-c72f916a5222"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Common/Toolkit Placeholders/toolkit-faq-group"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "toolkit-faq-group"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: "{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T125501Z

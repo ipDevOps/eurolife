@@ -1,0 +1,29 @@
+﻿---
+ID: "f6f33de7-3d32-4c79-849c-be7f5c7efc16"
+Parent: "3a07caac-6eb1-4d6d-94e3-71f19d9ae2b8"
+Template: "52f74fb9-cfb4-4fdd-8388-6a693d21a2d7"
+Path: /sitecore/content/Eurolife/Home/exipiretisi/_Local/Highlights/Highlights List/Health Care
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190730T135519Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: |
+        <image mediaid="{84C2CB5C-F525-41AA-B01C-1A98588D9DD8}" />
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Φροντίδα Υγείας
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "678ca6e6-b6f0-4bb1-b09e-972ad0d9c5c4"
+      Hint: CTA
+      Value: |
+        <link text="ΔΥΝΑΤΟΤΗΤΕΣ &amp; ΠΑΡΟΧΕΣ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{83120A6E-142D-4FDC-9122-90680D0D32B6}" />

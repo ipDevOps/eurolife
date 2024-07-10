@@ -1,0 +1,69 @@
+﻿---
+ID: "edf4b4a2-ccf0-46b3-9ec9-15ad30fdf2a6"
+Parent: "7c2de1d7-f470-4ad5-b992-f4c45e616ede"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2019/10/10/12/06/giannis-anastolopoulos-eurolife-erb"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1AB62D8B-9157-471E-8974-AFE1CC48AC0C}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{67DFF6BB-562B-4377-8739-E647F5C72F97}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T120604Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ο Γιάννης Αναστόπουλος στη Eurolife ERB
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <strong id="docs-internal-guid-5a904355-7fff-9c7a-ad57-10d1287ee66c"></strong>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt; text-align: justify;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Eta; </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">Eurolife ERB</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &epsilon;&nu;&delta;&upsilon;&nu;&alpha;&mu;ώ&nu;&epsilon;&iota; &sigma;&upsilon;&nu;&epsilon;&chi;ώ&sigmaf; &tau;&omicron; &alpha;&nu;&theta;&rho;ώ&pi;&iota;&nu;&omicron; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ό &tau;&eta;&sigmaf;, &kappa;&alpha;&lambda;&omega;&sigma;&omicron;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &nu;έ&alpha; &sigma;&tau;&epsilon;&lambda;έ&chi;&eta; &pi;&omicron;&upsilon; &epsilon;&nu;&iota;&sigma;&chi;ύ&omicron;&upsilon;&nu; &tau;&eta;&nu; &eta;&gamma;&epsilon;&tau;&iota;&kappa;ή &tau;&eta;&sigmaf; &theta;έ&sigma;&eta; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά. &Omicron; </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Gamma;&iota;ά&nu;&nu;&eta;&sigmaf; &Alpha;&nu;&alpha;&sigma;&tau;ό&pi;&omicron;&upsilon;&lambda;&omicron;&sigmaf;</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &epsilon;&nu;&tau;ά&chi;&theta;&eta;&kappa;&epsilon; &pi;&rho;ό&sigma;&phi;&alpha;&tau;&alpha; &sigma;&tau;&eta; </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Gamma;&epsilon;&nu;&iota;&kappa;ή &Delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &kappa;&alpha;&iota; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf;</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;, &alpha;&nu;&alpha;&lambda;&alpha;&mu;&beta;ά&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &kappa;&alpha;&theta;ή&kappa;&omicron;&nu;&tau;&alpha; </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή &Alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;&sigmaf; &kappa;&alpha;&iota; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &tau;&omicron;&upsilon; Career Sales Force</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;"> &tau;&eta;&sigmaf; Eurolife ERB.</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt; text-align: justify;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Alpha;&pi;ό &tau;&eta; &theta;έ&sigma;&eta; &alpha;&upsilon;&tau;ή, &omicron; &Gamma;&iota;ά&nu;&nu;&eta;&sigmaf; &Alpha;&nu;&alpha;&sigma;&tau;ό&pi;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &theta;&alpha; &sigma;&upsilon;&mu;&beta;ά&lambda;&lambda;&epsilon;&iota; &sigma;&tau;&eta;&nu; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &tau;&eta;&sigmaf; &upsilon;&pi;ά&rho;&chi;&omicron;&upsilon;&sigma;&alpha;&sigmaf; &omicron;&mu;ά&delta;&alpha;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &sigma;&upsilon;&mu;&beta;&omicron;ύ&lambda;&omega;&nu; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;, &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&eta; &delta;&iota;&epsilon;ύ&rho;&upsilon;&nu;&sigma;&eta; &alpha;&upsilon;&tau;ή&sigmaf;, &mu;&epsilon; έ&mu;&phi;&alpha;&sigma;&eta; &sigma;&epsilon; &nu;έ&omicron;&upsilon;&sigmaf; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;ί&epsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;έ&sigmaf; &pi;&omicron;&upsilon; &theta;&alpha; &mu;&pi;&omicron;&rho;έ&sigma;&omicron;&upsilon;&nu; &nu;&alpha; &alpha;&nu;&alpha;&delta;&epsilon;ί&xi;&omicron;&upsilon;&nu; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &tau;&omicron; &rho;ό&lambda;&omicron; &tau;&eta;&sigmaf; Eurolife ERB &kappa;&alpha;&iota; &tau;&eta;&sigmaf; &iota;&delta;&iota;&omega;&tau;&iota;&kappa;ή&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &sigma;&tau;&omicron;&nu; Έ&lambda;&lambda;&eta;&nu;&alpha; &kappa;&alpha;&tau;&alpha;&nu;&alpha;&lambda;&omega;&tau;ή.</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt; text-align: justify;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Omicron; &Gamma;&iota;ά&nu;&nu;&eta;&sigmaf; &Alpha;&nu;&alpha;&sigma;&tau;ό&pi;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; 20&epsilon;&tau;ή &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ή &pi;&omicron;&rho;&epsilon;ί&alpha; &sigma;&epsilon; &pi;&omicron;&lambda;&upsilon;&epsilon;&theta;&nu;&iota;&kappa;έ&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf;, έ&chi;&omicron;&nu;&tau;&alpha;&sigmaf; &alpha;&nu;&alpha;&lambda;ά&beta;&epsilon;&iota; &pi;&omicron;&iota;&kappa;ί&lambda;&epsilon;&sigmaf; &theta;έ&sigma;&epsilon;&iota;&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf;. &Tau;&alpha; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&alpha; &pi;έ&nu;&tau;&epsilon; &chi;&rho;ό&nu;&iota;&alpha; &kappa;&alpha;&tau;&epsilon;ί&chi;&epsilon; &tau;&eta; &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; Direct Sales Force.</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt; text-align: justify;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Omicron; </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Nu;ί&kappa;&omicron;&sigmaf; &Delta;&epsilon;&lambda;έ&nu;&delta;&alpha;&sigmaf;</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">, </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &amp; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">, &delta;ή&lambda;&omega;&sigma;&epsilon; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά &laquo;</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&kappa;&alpha;&lambda;&omega;&sigma;&omicron;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&eta; Eurolife ERB έ&nu;&alpha;&nu; έ&mu;&pi;&epsilon;&iota;&rho;&omicron; &kappa;&alpha;&iota; &tau;&alpha;&lambda;&alpha;&nu;&tau;&omicron;ύ&chi;&omicron; &sigma;&upsilon;&nu;ά&delta;&epsilon;&lambda;&phi;&omicron;, &tau;&omicron;&upsilon; &omicron;&pi;&omicron;ί&omicron;&upsilon; &eta; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;ή &theta;&alpha; &epsilon;ί&nu;&alpha;&iota; &kappa;&alpha;&theta;&omicron;&rho;&iota;&sigma;&tau;&iota;&kappa;ή &kappa;&alpha;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ή &gamma;&iota;&alpha; &tau;&eta;&nu; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;ή &mu;&alpha;&sigmaf;. &Epsilon;ί&nu;&alpha;&iota; &chi;&alpha;&rho;ά &mu;&alpha;&sigmaf; &nu;&alpha; έ&chi;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron;&nu; &Gamma;&iota;ά&nu;&nu;&eta; &Alpha;&nu;&alpha;&sigma;&tau;ό&pi;&omicron;&upsilon;&lambda;&omicron; &sigma;&tau;&omicron; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ό &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &epsilon;&upsilon;&chi;ό&mu;&alpha;&sigma;&tau;&epsilon; &kappa;ά&theta;&epsilon; &epsilon;&pi;&iota;&tau;&upsilon;&chi;ί&alpha; &sigma;&tau;&alpha; &nu;έ&alpha; &tau;&omicron;&upsilon; &kappa;&alpha;&theta;ή&kappa;&omicron;&nu;&tau;&alpha;</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&raquo;.</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 6pt; text-align: justify;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Eta; έ&nu;&tau;&alpha;&xi;&eta; &tau;&omicron;&upsilon; &Gamma;&iota;ά&nu;&nu;&eta; &Alpha;&nu;&alpha;&sigma;&tau;ό&pi;&omicron;&upsilon;&lambda;&omicron;&upsilon; &epsilon;&nu;&iota;&sigma;&chi;ύ&epsilon;&iota; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &tau;&eta;&nu; &omicron;&mu;ά&delta;&alpha; &pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &tau;&eta;&sigmaf; Eurolife ERB &mu;&epsilon; έ&nu;&alpha; έ&mu;&pi;&epsilon;&iota;&rho;&omicron; &sigma;&tau;έ&lambda;&epsilon;&chi;&omicron;&sigmaf; &pi;&omicron;&upsilon;, &mu;&epsilon; &tau;&eta;&nu; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &kappa;&alpha;&iota; &tau;&eta;&nu; &kappa;&alpha;&tau;ά&rho;&tau;&iota;&sigma;ή &tau;&omicron;&upsilon;, &theta;&alpha; &sigma;&upsilon;&mu;&beta;ά&lambda;&lambda;&epsilon;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ά &sigma;&tau;&eta;&nu; &epsilon;&nu;&delta;&upsilon;&nu;ά&mu;&omega;&sigma;&eta; &tau;&omicron;&upsilon; &pi;&omicron;&lambda;&upsilon;&kappa;&alpha;&nu;&alpha;&lambda;&iota;&kappa;&omicron;ύ &mu;&omicron;&nu;&tau;έ&lambda;&omicron;&upsilon; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;.</span></p>
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: Η Eurolife ERB ενδυναμώνει συνεχώς το ανθρώπινο δυναμικό της, καλωσορίζοντας νέα στελέχη που ενισχύουν την ηγετική της θέση στην ασφαλιστική αγορά.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Ο Γιάννης Αναστόπουλος στη Eurolife ERB
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20190618T210000Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ο Γιάννης Αναστόπουλος στη Eurolife ERB

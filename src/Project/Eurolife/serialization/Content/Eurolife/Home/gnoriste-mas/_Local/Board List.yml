@@ -1,0 +1,31 @@
+﻿---
+ID: "cdd239ff-fc05-4c30-ac9e-86e677a6c23d"
+Parent: "1013016b-840b-4024-9565-775144e4fccf"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/Board List"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span style="background-color: rgb(248, 248, 248);">Υποστηρίζουμε εσάς<br /></span><span style="background-color: rgb(248, 248, 248);">που θέλετε να διεκδικείτε περισσότερα, κάθε ημέρα</span><span style="background-color: rgb(248, 248, 248);"><br /></span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Προγράμματα που καλύπτουν κάθε σας ανάγκη
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210202T150649Z
+    - ID: "2b28dcca-4258-4f5d-a795-b475333909cb"
+      Hint: Active
+      Value: 3
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3

@@ -1,0 +1,62 @@
+﻿---
+ID: "d798b800-0119-4e3e-87e7-a0ed7009e907"
+Parent: "7bbd7108-bcf6-43eb-9033-a47e0118775e"
+Template: "70dbea9e-f842-4f79-a111-dd9d803526ee"
+Path: /sitecore/content/Eurolife/Home/Blog/Products/Zwi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "038889d7-d183-49db-9087-92c16f9a22c9"
+      Hint: Title
+      Value: Άρθρα σχετικά με τη Ζωή
+    - ID: "23ef204d-df36-447d-9e7d-8862c8b6455f"
+      Hint: IconImage
+      Value: |
+        <image mediaid="{797C9290-7D5A-4F15-A33E-D43AFCC1E746}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T141001Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ζωή
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ζωή
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{674BA365-2AFE-4908-BE9C-6DA8659B3AEC}" />
+    - ID: "4a13a0c8-178b-49f7-9540-f4f677e737c4"
+      Hint: Subtitle
+      Value: Η γνώση είναι δύναμη
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7370c8ef-7e8e-4acb-9700-70114f1ba73d"
+      Hint: Selected Color
+      Value: "{1C81D96D-FFF9-4983-BB2F-B1E185B6E5AC}"
+    - ID: "7d7bc053-7804-4b84-a8ef-415610c803ff"
+      Hint: CTA
+      Value: |
+        <link linktype="internal" />
+    - ID: "846ea033-54e2-48ab-bd8e-5ca53d177000"
+      Hint: Icon
+      Value: |
+        <image mediaid="{797C9290-7D5A-4F15-A33E-D43AFCC1E746}" />
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Ένας οδηγός με συμβουλές και προτάσεις σε θέματα υγείας και ευεξίας που βελτιώνουν τον τρόπο που νιώθεις, ζεις και κινείσαι.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{7DCD2F12-C5A2-44E8-840F-4C3849F2297C}" />
+    - ID: "ddfe8a5b-f9fd-45c9-b096-9cfa4b68bfc2"
+      Hint: Title
+      Value: &Delta;&epsilon;ί&tau;&epsilon; ό&lambda;&alpha; &tau;&alpha; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &Zeta;&omega;ή&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB
+    - ID: "f6530655-a2e7-4874-9da1-ab4852e9a0db"
+      Hint: Color
+      Value: "{6ADEB5B7-13E8-45FE-A2B3-75C4910FA09F}"

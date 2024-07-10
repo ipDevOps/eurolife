@@ -1,0 +1,141 @@
+﻿.home-blog {
+  position: relative;
+
+  & + .home-blog {
+    margin-top: -44px;
+
+    @include breakpoint(820) {
+      margin-top: -82px;
+    }
+  }
+
+  .slick-slide {
+    margin: 0 8px;
+
+    &:hover {
+      box-shadow: none !important;
+      border-color: $color-black !important;
+    }
+  }
+
+  .list-grid {
+    margin: 0 -8px 24px;
+
+    .list__article__group {
+      height: 310px;
+    }
+  }
+
+  .slick-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+    svg {
+      width: 40px;
+
+      @include breakpoint(820) {
+        width: 80px;
+      }
+    }
+  }
+
+  .bprev {
+    left: 20px;
+
+    @include breakpoint-rev(540) {
+      display: none !important;
+    }
+
+    @include breakpoint(1140) {
+      left: -110px;
+    }
+
+    path {
+      fill: $color-health;
+    }
+  }
+
+  .bnext {
+    right: 20px;
+
+    @include breakpoint-rev(540) {
+      display: none !important;
+    }
+
+    @include breakpoint(1140) {
+      right: -110px;
+    }
+
+    path {
+      fill: $color-health;
+    }
+  }
+
+  &__tags {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    justify-items: center;
+
+    .tag {
+      border: 1px solid $color-black;
+      border-radius: 25px;
+      padding: 4px 16px;
+      display: inline-block;
+      font-weight: 500;
+      font-size: 14px;
+      margin: 12px 12px 0 0;
+    }
+  }
+
+  &__newsletter {
+    border-radius: 4px;
+    background-color: $color-base-grey;
+
+    .card-newsletter {
+      @include breakpoint(540) {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      form {
+        @include breakpoint(540) {
+          margin: 0 0 0 48px;
+        }
+
+        input[type=submit] {
+          @include breakpoint(920) {
+            margin: 0 0 0 24px;
+          }
+
+          padding: 12px 48px;
+        }
+      }
+
+      form > div {
+        @include breakpoint(920) {
+          display: flex;
+          flex-flow: row nowrap;
+          justify-content: space-between;
+          align-items: center;
+
+          > div {
+            padding: 0 24px;
+          }
+        }
+      }
+
+      svg {
+        display: block;
+        margin-right: 48px;
+      }
+    }
+
+    input[type=email] {
+      background: transparent;
+    }
+  }
+}

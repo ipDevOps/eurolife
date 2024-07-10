@@ -1,0 +1,108 @@
+﻿@using Wedia.Feature.EurolifeCalculatorTool.Models
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using System.Linq
+
+@model CalculatorToolPageViewModel
+
+<section class="center center--650 m-b-32 t-c">
+  <div class="target-group__icon target-group__icon--selected">
+    <img src="@Model.UserSelection.TargetGroup.Image">
+  </div>
+  <h1 class="m-b-8 tool-title">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/Title", "Title")</h1>
+</section>
+
+<section class="center center--650 m-b-32 ">
+  <div class="flex-spread flex-align-center relator">
+    <h2 class="h5 m-b-16">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/ParticipationAmount", "Participation Amount")</h2>
+
+    <!-- SVG BUTTON -->
+    <a href="#" class="js-toggle-modal explanation explanation--nomargin">
+      <?xml version="1.0" encoding="UTF-8" ?>
+      <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g id="Health-calculator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g id="1.4-Calculator_Tool-1440" transform="translate(-988.000000, -333.000000)" fill="#0046FE">
+            <g id="Content" transform="translate(406.000000, 331.000000)">
+              <g id="IconsRE/Actions/Info_Oval" transform="translate(580.000000, 0.000000)">
+                <path d="M12,2 C6.5,2 2,6.5 2,12 C2,17.5 6.5,22 12,22 C17.5,22 22,17.5 22,12 C22,6.5 17.5,2 12,2 Z M14,16 C14,17.1 13.1,18 12,18 C10.9,18 10,17.1 10,16 L10,13 C10,11.9 10.9,11 12,11 C13.1,11 14,11.9 14,13 L14,16 Z M12,10 C10.9,10 10,9.1 10,8 C10,6.9 10.9,6 12,6 C13.1,6 14,6.9 14,8 C14,9.1 13.1,10 12,10 Z" id="Icon"></path>
+              </g>
+            </g>
+          </g>
+        </g>
+      </svg>
+    </a>
+    <!-- SVG BUTTON -->
+  </div>
+
+  <div class="range-wrapper m-b-24">
+    <div class="range">
+      <input id="range" type="range" min="0" value="20" max="10000" data-index="20">
+    </div>
+
+    <ul class="range-labels">
+      @foreach (var item in Model.AvailableAmounts.Select((value, i) => new { i, value }))
+      {
+
+        int liIndex = item.i + 1;
+
+        <li class="@(item.i == 0 ? "active selected" : null)" data-value="@item.value.Key" data-liindex="@liIndex" data-guiid="@item.value.GuiId">@item.value.Title</li>
+      }
+    </ul>
+
+    <div class="note color-faded">
+      @Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/ParticipationInfo", "Participation info")
+    </div>
+  </div>
+
+  <h2 class="h5 m-b-16">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/HospitalizationTitle", "Hospitalization Title")</h2>
+
+  <div class="radio-bordered flexify m-b-64">
+    @foreach (var hospitalization in Model.AvailableHospitalizations)
+    {
+      <div class="radio-bordered__wrap">
+        <input type="radio" id="@hospitalization.Key" name="room-offer" checked="checked" data-guiid="@hospitalization.GuiId" data-title="@hospitalization.Title">
+        <label for="@hospitalization.Key">@hospitalization.Title</label>
+      </div>
+    }
+
+  </div>
+  <div class="actions__links-t-l m-b-64 t-r">
+    <a class="btn btn--dark btn--default" id="get-product" onclick="getOffer(this, arguments);">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Common/Buttons/Calculation", "Calculation")</a>
+  </div>
+
+</section>
+
+<!-- MODAL -->
+<div class="tool-modal js-tool-modal">
+  <div class="tool-modal__inner">
+    <!-- CLOSE BUTTON -->
+    <div class="tool-modal__close js-toggle-modal">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+        <defs>
+          <path id="search" d="M47.979 12.021a2.859 2.859 0 0 0-4.043 0L30 25.957 16.064 12.021a2.859 2.859 0 1 0-4.043 4.043L25.957 30 12.021 43.936a2.859 2.859 0 1 0 4.043 4.043L30 34.043l13.936 13.936a2.859 2.859 0 1 0 4.043-4.043L34.043 30l13.936-13.936a2.859 2.859 0 0 0 0-4.043z"></path>
+        </defs>
+        <use fill="#383b38" fill-rule="nonzero" xlink:href="#search"></use>
+      </svg>
+    </div>
+    <!-- CLOSE BUTTON -->
+    <!-- CONTENT -->
+    <div class="tool__content tabs">
+      <!-- TAB HEADERS -->
+      <div class="tabs__headers">
+        <h3 class="js-tab active">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/ParticipationAmount", "Participation Amount")</h3>
+      </div>
+      <!-- TAB HEADERS -->
+      <!-- TAB CONTENT -->
+      <div class="tabs__tabs js-tabs">
+        <article class="innertab active">
+          <!-- RTE CONTENT -->
+          @Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/ParticipationTooltip", "Participation Tooltip")
+          <!-- RTE CONTENT -->
+        </article>
+      </div>
+      <!-- TAB CONTENT -->
+    </div>
+    <!-- CONTENT -->
+  </div>
+</div>
+<!-- MODAL -->

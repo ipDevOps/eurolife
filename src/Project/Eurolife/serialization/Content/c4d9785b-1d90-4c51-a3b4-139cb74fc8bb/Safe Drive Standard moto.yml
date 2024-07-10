@@ -1,0 +1,47 @@
+﻿---
+ID: "faa7637c-7d8e-4751-ba6b-8e24b51dcac0"
+Parent: "c4d9785b-1d90-4c51-a3b4-139cb74fc8bb"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/_Local/Highlights/Vechile Highlights/Safe Drive Standard moto
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T145102Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Safe Drive Standard
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-9f8654f6-7fff-e942-af04-73ca454c836f"></strong></span>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Nu;&omicron;&mu;&iota;&kappa;ή &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;</span></p>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&alpha;&rho;έ&chi;&omicron;&upsilon;&mu;&epsilon; &kappa;ά&lambda;&upsilon;&psi;&eta; &nu;&omicron;&mu;&iota;&kappa;ή&sigmaf; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;&sigmaf; &sigma;&tau;&omicron;&nu; &iota;&delta;&iota;&omicron;&kappa;&tau;ή&tau;&eta; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon; &omicron;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &delta;&iota;&epsilon;&kappa;&delta;ί&kappa;&eta;&sigma;&eta;&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf;, &upsilon;&pi;&epsilon;&rho;ά&sigma;&pi;&iota;&sigma;&eta;&sigmaf; &sigma;&epsilon; &pi;&omicron;&iota;&nu;&iota;&kappa;ά &delta;&iota;&kappa;&alpha;&sigma;&tau;ή&rho;&iota;&alpha;, &pi;&rho;&omicron;&sigma;&phi;&upsilon;&gamma;ή&sigmaf; &sigma;&tau;&iota;&sigmaf; &alpha;&rho;&mu;ό&delta;&iota;&epsilon;&sigmaf; &alpha;&rho;&chi;έ&sigmaf; &lambda;ό&gamma;&omega; &alpha;&phi;&alpha;ί&rho;&epsilon;&sigma;&eta;&sigmaf; ή &pi;&epsilon;&rho;&iota;&omicron;&rho;&iota;&sigma;&mu;&omicron;ύ &tau;&eta;&sigmaf; ά&delta;&epsilon;&iota;&alpha;&sigmaf; &kappa;&upsilon;&kappa;&lambda;&omicron;&phi;&omicron;&rho;ί&alpha;&sigmaf; ή &kappa;&alpha;&iota; &tau;&eta;&sigmaf; ά&delta;&epsilon;&iota;&alpha;&sigmaf; &omicron;&delta;ή&gamma;&eta;&sigma;&eta;&sigmaf;, &mu;έ&chi;&rho;&iota; &tau;&omicron;&upsilon; &pi;&omicron;&sigma;&omicron;ύ &tau;&omega;&nu; &euro;8.000.</span></p>
+            <span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">
+            </span></li>
+        </ul>
+        <ul>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-c4efb793-7fff-0e7c-6b02-213ab3c89b8f"></strong></span>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&nbsp;&Zeta;&eta;&mu;&iota;έ&sigmaf; &alpha;&pi;ό &alpha;&nu;&alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&omicron; ό&chi;&eta;&mu;&alpha;</span></p>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&pi;&omicron;&zeta;&eta;&mu;&iota;ώ&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron;&nu; &iota;&delta;&iota;&omicron;&kappa;&tau;ή&tau;&eta; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon; &omicron;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf; &mu;έ&chi;&rho;&iota; &tau;&omicron; &pi;&omicron;&sigma;ό &pi;&omicron;&upsilon; &alpha;&nu;&alpha;&gamma;&rho;ά&phi;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;ή&rho;&iota;ό &tau;&omicron;&upsilon;, &gamma;&iota;&alpha; &zeta;&eta;&mu;&iota;έ&sigmaf; &sigma;&tau;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron; ό&chi;&eta;&mu;&alpha; &pi;&omicron;&upsilon; &pi;&rho;&omicron;&kappa;&alpha;&lambda;&omicron;ύ&nu;&tau;&alpha;&iota; &alpha;&pi;ό &tau;&eta; &sigma;ύ&gamma;&kappa;&rho;&omicron;&upsilon;&sigma;ή &tau;&omicron;&upsilon; &mu;&epsilon; ά&lambda;&lambda;&omicron; ό&chi;&eta;&mu;&alpha;, &tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &epsilon;&upsilon;&theta;ύ&nu;&epsilon;&tau;&alpha;&iota; &epsilon;&xi; &omicron;&lambda;&omicron;&kappa;&lambda;ή&rho;&omicron;&upsilon; &gamma;&iota;&alpha; &tau;&omicron; &alpha;&tau;ύ&chi;&eta;&mu;&alpha; &kappa;&alpha;&iota; &epsilon;ί&nu;&alpha;&iota; &alpha;&nu;&alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&omicron; &tau;&eta; &sigma;&tau;&iota;&gamma;&mu;ή &tau;&omicron;&upsilon; &alpha;&tau;&upsilon;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf;.</span></p>
+            </li>
+        </ul>
+        </div>
+        </div>

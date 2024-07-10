@@ -1,0 +1,39 @@
+﻿---
+ID: "bbed9516-66a5-4392-b72b-18e051b05733"
+Parent: "ef87739e-162a-4705-a0ec-052fbf761d56"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/_Local/Highlights/Highlights Group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {1C9FFC3B-0630-435C-A439-78E0AC2A142C}
+        {2AE2F556-32B1-4350-86F6-61324FB43E57}
+        {7476B65E-4540-4ECC-BB9B-380215992EE5}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T121800Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {746DC933-2655-4920-B854-6138664571DC}
+        {71480F3E-C89F-4328-9E5E-750D2A76ACFD}
+        {76B1137C-D6E2-4399-B35E-E3D5CD8B1DC0}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T105829Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "c7a58e27-84f3-4b61-bc89-a1e2ac1e5332"
+Parent: "7bd7f018-a3fa-4e64-b2f1-6e6b50f935e1"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Programs Attributes/Astiki efthyni pros tritous apo pyrkagia i ekriksi/Astiki efthyni pros tritous apo pyrkagia i ekriksi no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

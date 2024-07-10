@@ -1,0 +1,18 @@
+﻿---
+ID: "9745d393-5553-4a6f-b6b7-d27a03365dda"
+Parent: "c3e1dd1e-33b6-4a5c-89ca-1f2ed6f9d8f1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Highlight/_HighlightsAccordionsGroup/Groups
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T105909Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

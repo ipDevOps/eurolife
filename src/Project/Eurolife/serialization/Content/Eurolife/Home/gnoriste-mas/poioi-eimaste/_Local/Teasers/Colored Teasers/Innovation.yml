@@ -1,0 +1,58 @@
+﻿---
+ID: "6bc516a4-e21b-432e-bf54-753877036093"
+Parent: "efe3ca13-f948-499f-90c3-0276ef151def"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/poioi-eimaste/_Local/Teasers/Colored Teasers/Innovation"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <strong id="docs-internal-guid-1fbcf5b8-7fff-8c99-d2a1-b19e95a0afb8"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">Είμαστε προσηλωμένοι στο σκοπό μας, ώστε να καταλαβαίνουμε τι είναι αυτό που χρειάζεστε περισσότερο, εκείνο που είναι το καλύτερο για εσάς.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">Είμαστε ευέλικτοι και προσαρμοζόμαστε κάθε ημέρα, δοκιμάζοντας νέες ιδέες που σας πηγαίνουν μπροστά.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">Τολμάμε να σκεφτόμαστε διαφορετικά. Καινοτομούμε και επενδύουμε σε έρευνα και ανάπτυξη, δημιουργώντας νέα προϊόντα και υπηρεσίες που αλλάζουν τον κλάδο της ασφάλισης.</span></p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Καινοτομούμε και προσαρμοζόμαστε, με φρέσκια αντίληψη
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T120416Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{9634FB7A-B79B-4208-95F2-B7EF50A64017}" ></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <b style="font-weight:normal;" id="docs-internal-guid-7ee1929e-7fff-c164-74aa-8d8dffb03079"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Είμαστε αισιόδοξοι και αυτό επηρεάζει το πώς σχεδιάζουμε και προσφέρουμε τα προϊόντα και τις υπηρεσίες μας. Ενεργούμε με ειλικρίνεια και διαφάνεια, εστιάζοντας πάντα εκεί που μπορούμε να κάνουμε τη μεγαλύτερη διαφορά.</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Κατανοούμε αυτά που χρειάζεστε κι έτσι γνωρίζουμε πώς να βελτιώνουμε τις εμπειρίες σας, με τρόπους που πραγματικά έχουν σημασία.</span></p><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Έτσι, συνεργαζόμαστε ουσιαστικά μαζί σας.</span></p></b><br class="Apple-interchange-newline" />
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Προοδεύουμε, με αισιοδοξία.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T105309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

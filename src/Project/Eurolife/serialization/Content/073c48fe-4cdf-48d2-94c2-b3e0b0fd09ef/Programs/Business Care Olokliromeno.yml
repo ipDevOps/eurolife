@@ -1,0 +1,65 @@
+﻿---
+ID: "b8547531-5395-4c6a-a6e7-e522a789859c"
+Parent: "5353709d-4258-4b30-b07a-5355d61de473"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs/Business Care Olokliromeno"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Business Care Ολοκληρωμένο
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {45D579AF-7961-4E3A-9255-F2EADA7A0B49}
+        {7A269761-F75E-4A53-A0DF-8FF40366F168}
+        {90949ECF-515B-4D44-89D4-482C8B359C59}
+        {19AB5850-E9F9-471B-81F9-3F55B6DB8603}
+        {006ECC53-046D-4233-A427-699E48D4DDAD}
+        {068D7CB2-8A50-4DAB-8179-28397EB36CE8}
+        {CBFF40B4-F6ED-415F-88C9-29B381CCEFA0}
+        {65B02B31-1908-4B22-8B0C-E52B4C4CEE98}
+        {3402A845-C775-4007-9AAD-A3A0ABAD601A}
+        {296B72B7-1C3F-4578-AC95-4075DE308DB9}
+        {B630F9A7-CF2D-48C1-8C92-311CB214D306}
+        {0019D71A-562F-41A6-87A0-C2E80615EC50}
+        {FA363A7E-8DC7-4467-8043-D36A18958937}
+        {93BA917F-C400-4A00-A217-4C426C0AFCCA}
+        {2475ADCF-7A32-4865-8D7E-4FE77977C929}
+        {5B2530D9-F876-4253-8A3C-88065690C273}
+        {0FE99AC5-BE11-41FF-863D-6A20B4B6D4E5}
+        {B5B05557-3B13-41A9-A098-58B1938BC637}
+        {269CAD3B-FCAE-4CB0-9F03-5A7408D85DE2}
+        {ACF84E24-43D8-496F-A043-91BE3B12C802}
+        {E383C0AF-6D0B-4177-9653-C4E9E33E5956}
+        {353C9AB4-3A1E-4550-9CC6-C7A0293E48E5}
+        {D00BAE7B-EDD9-4AF9-A1D5-B5C1608486C1}
+        {2C1E43E4-0FD4-4B21-BF74-099BB0D428AB}
+        {210B5169-20F5-4E1F-A2F1-11791040DADE}
+        {415C0B88-E489-4D82-8174-40EFDEFA7118}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082857Z
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Safe Drive Standard
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

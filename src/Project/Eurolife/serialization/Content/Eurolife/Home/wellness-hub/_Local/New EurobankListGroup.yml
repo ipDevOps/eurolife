@@ -1,0 +1,47 @@
+﻿---
+ID: "2d53e012-c1cc-4990-a3c8-1ef5f0e75b39"
+Parent: "fe7d3c9e-9a25-4834-8cc5-20b9a517776c"
+Template: "2eb5e7ef-b827-496f-93e3-d6e04920e2e9"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/_Local/New EurobankListGroup"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 137
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T114651Z
+    - ID: "53b43279-8c4f-4fb2-919d-b529fb741e18"
+      Hint: EurobankList
+      Type: TreelistEx
+      Value: |
+        {54E8C350-27DB-41DB-9573-94EBDFF801B1}
+        {D5E2F86D-B0E0-41CB-B3D9-50B4C536B927}
+        {91912836-B0A5-4A5F-B8A8-32A64BC77465}
+        {9BC854EE-7C65-45D2-A381-1F194D189F20}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6a6c3a91-bd74-4438-9789-b9a22780dd54"
+      Hint: Subtitle
+      Value: Αυτός είναι ένας υπότιτλος με μεγάλη σημασία περιεχομένου.
+    - ID: "a91447b2-714f-4af6-988f-cdf3c9f483e9"
+      Hint: Title
+      Value: Health Blog
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T114622Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

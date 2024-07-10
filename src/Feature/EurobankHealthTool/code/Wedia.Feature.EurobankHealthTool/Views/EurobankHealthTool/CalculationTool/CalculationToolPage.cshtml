@@ -1,0 +1,280 @@
+﻿@using Wedia.Feature.EurobankHealthTool.Models
+@using Sitecore.Mvc.Presentation
+@using Sitecore.Data.Items
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.EurobankHealthTool
+
+
+@model CalculationToolViewModel
+
+
+@{
+  Item cur = Sitecore.Context.Item;
+}
+
+
+<script type="text/javascript">
+  var excelData = @Html.Raw(Model.JsonExcelData);
+</script>
+
+
+<section class="bread-in-tool">
+  <ul>
+    <li>
+      <span id="bread-step-1" class="current">@Html.Sitecore().Dictionary("/EurobankHealthTool/Breadcrumbs/Step1 Breadcrumb", "Step1 Breadcrumb")</span>
+    </li>
+    <li>
+      <span id="bread-step-2">@Html.Sitecore().Dictionary("/EurobankHealthTool/Breadcrumbs/Step2 Breadcrumb", "Step2 Breadcrumb")</span>
+    </li>
+    <li>
+      <span id="bread-step-3">@Html.Sitecore().Dictionary("/EurobankHealthTool/Breadcrumbs/Step3 Breadcrumb", "Step3 Breadcrumb")</span>
+    </li>
+  </ul>
+</section>
+
+
+
+<section class="m-b-112 center--1100 center eurobanktool">
+
+  <div class="tool-step" id="step-1">
+
+    <section class="center center--650 m-b-48 t-c">
+      <h1 class="m-b-8 tool-title">@Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/Title", "Title")</h1>
+    </section>
+
+    <div class="target-group-wrap">
+
+      <div class="target-group radio-targeted">
+
+        <div class="target-group__item">
+          <input type="radio" id="me" name="target" value="me" data-birth="target-me">
+          <label for="me"></label>
+
+          <div class="target-group__icon">
+            <img src="/images/EurobankHealthTool/icon-person-white.svg" />
+          </div>
+
+          <h2 class="target-group__title t-c">
+            @Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/For Me Title", "For Me Title")
+          </h2>
+
+          <div class="target-group__desc t-c">
+            @Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/For Me Description", "For Me Description")
+          </div>
+
+          <div class="target-group__birth">
+            <input type="text" class="target-me" onkeyup="validateYear(this,arguments)" maxlength="4" pattern="^(19|20)\d{2}$">
+            <label>Έτος γέννησης</label>
+          </div>
+        </div>
+
+
+        <div class="target-group__item">
+          <input type="radio" id="child" name="target" value="child" data-birth="target-child">
+          <label for="child"></label>
+
+          <div class="target-group__icon">
+            <img src="/images/EurobankHealthTool/icon-child-white.svg" />
+          </div>
+
+          <h2 class="target-group__title t-c">
+            @Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/For My Child Title", "For My Child Title")
+          </h2>
+
+          <div class="target-group__desc t-c">
+            @Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/For My Child Description", "For My Child Description")
+          </div>
+
+          <div class="target-group__birth">
+            <input type="text" class="target-child" onkeyup="validateYear(this,arguments)" maxlength="4" pattern="^(19|20)\d{2}$">
+            <label>@Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/Birth Year", "Birth Year")</label>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+    <div class="error-message center center--650 t-c m-b-64 hidden" id="step-1-message">
+      @Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/Year Error", "Year Error")
+    </div>
+
+    <div class="t-r m-b-48">
+      <a class="btn btn--default btn--dark btn--inactive" id="go-to-step-2" data-nextstep="step-2" onclick="CalculatePrices(); ShowNextToolStep(this, arguments);">@Html.Sitecore().Dictionary("/EurobankHealthTool/Step1/Next Button", "Next Button")</a>
+    </div>
+  </div>
+
+
+
+
+  <div class="tool-step tool-step--inactive" id="step-2">
+
+    <section class="center center--650 m-b-32 t-c">
+      <h1 class="m-b-8 tool-title">@Html.Sitecore().Dictionary("/EurobankHealthTool/Step2/Title", "Title")</h1>
+    </section>
+
+
+    <div class="pick pick--extras m-b-64">
+
+      @if (Model.Products != null && Model.Products.Any())
+      {
+        foreach (var item in Model.Products)
+        {
+
+          <div class="pick__item">
+            <div class="pick__titles">
+              <h2 class="pick__title pick__main-title">
+                @item.Field(Templates.HasProductContent.Fields.Title)
+              </h2>
+              <div class="pick__radio">
+                <input type="radio" id="product-extra-@item.Field(Templates.HasProductContent.Fields.Code)" name="insurance-product-extra" value="" data-productSelected="@item.Field(Templates.HasProductContent.Fields.Code)" class="product-extra-radio" onclick="makeProgramSelection(this,arguments);validateRadio(this, arguments);SelectProgram(this, arguments);">
+                <label for="product-extra-@item.Field(Templates.HasProductContent.Fields.Code)"></label>
+              </div>
+            </div>
+
+            <div class="pick--extras__more">
+
+              <h4 class="pick__title pick__big-title">
+                <span id="pick-premium-@item.Field(Templates.HasProductContent.Fields.Code)"></span>
+                <span class="pick__next-to-price">
+                  @Html.Sitecore().Dictionary("/EurobankHealthTool/Step2/Product Subtitle", "Product Subtitle")
+                </span>
+              </h4>
+              <h3 class="pick__title pick__sup-title">
+                @Html.Sitecore().Dictionary("/EurobankHealthTool/Step2/Product Includes", "Product Includes")
+              </h3>
+              @item.Field(Templates.HasProductContent.Fields.Summary)
+            </div>
+
+          </div>
+
+        }
+      }
+
+    </div>
+
+    <div class="t-r m-b-48">
+      <a class="btn btn--default btn--dark btn--inactive" id="go-to-step-3" data-nextstep="step-3" onclick="ShowNextToolStep(this, arguments);">
+        @Html.Sitecore().Dictionary("/EurobankHealthTool/Step2/Next Button", "Next Button")
+      </a>
+    </div>
+  </div>
+
+  <div class="tool-step tool-step--inactive m-b-64" id="step-3">
+    <section class="center center--650 m-b-32 t-c">
+      <h1 class="m-b-8 tool-title">@Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Title", "Title")</h1>
+    </section>
+
+
+    @if (Model.Products != null && Model.Products.Any())
+    {
+      foreach (var item in Model.Products)
+      {
+        <div class="hidden js-picked-program" id="program-@item.Field(Templates.HasProductContent.Fields.Code)">
+
+          <div class="pick__item pick__item--selected m-b-24">
+            <div class="pick__head pick-on">
+              <div class="pick__titles">
+                <h3 class="pick__title pick__sup-title">
+                  @Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Product Title", "Product Title")
+                </h3>
+                <h2 class="pick__title pick__main-title p-r-50">
+                  @item.Field(Templates.HasProductContent.Fields.Title)
+                </h2>
+                <span class="js-pick-expander pick__expander" onclick="ExpandProgram(this, arguments);"><svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg"><path d="M82.6074,62.1072,52.6057,26.1052a6.2028,6.2028,0,0,0-9.2114,0L13.3926,62.1072a5.999,5.999,0,1,0,9.2114,7.6879L48,39.3246,73.396,69.7951a5.999,5.999,0,1,0,9.2114-7.6879Z" /></svg></span>
+              </div>
+
+              <div class="pick__seat">
+                <h3 class="pick__title pick__sup-title">
+                  @Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Position", "Position")
+                </h3>
+                <h4 class="pick__title pick__sec-title">
+                  @item.Field(Templates.HasProductContent.Fields.HospitalPosition)
+                </h4>
+              </div>
+
+              <div class="pick__exemption">
+                <h3 class="pick__title pick__sup-title">
+                  @Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Exemption", "Exemption")
+                </h3>
+                <h4 class="pick__title pick__sec-title">
+                  @item.Field(Templates.HasProductContent.Fields.ExemptionAmount)
+                </h4>
+              </div>
+
+              <div class="pick__premium">
+                <h3 class="pick__title pick__sup-title">
+                  @Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Total Amount", "Total Amount")
+                </h3>
+                <h4 class="pick__title pick__big-title">
+                  <span id="selected-premium-@item.Field(Templates.HasProductContent.Fields.Code)"></span>
+                </h4>
+              </div>
+
+            </div>
+
+            <div class="pick__body-expander">
+              <div class="pick__body">
+                <h3 class="h4">@Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Insured", "Insured")</h3>
+                <div class="pick__insured pick__insured--red m-b-32">
+                  <figure class="js-product-figure product-figure-me hidden">
+                    <img src="/images/EurobankHealthTool/icon-person-white.svg">
+                    <figcaption>@Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Person 1", "Person 1")<span class="current-age"></span></figcaption>
+                  </figure>
+                  <figure class="js-product-figure product-figure-child hidden">
+                    <img src="/images/EurobankHealthTool/icon-child-white.svg">
+                    <figcaption>@Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Person 2", "Person 2")<span class="current-age"></span></figcaption>
+                  </figure>
+                </div>
+
+                <h3 class="h4">@Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Coverages", "Coverages")</h3>
+
+                @item.Field(Templates.HasProductContent.Fields.FullDescription)
+              </div>
+            </div>
+          </div>
+
+          <div class="pick-disclaimer m-b-48">
+            @Html.Sitecore().Dictionary("/EurobankHealthTool/Step3/Disclaimer", "Disclaimer")
+          </div>
+
+          <div class="t-r m-b-64">
+            @Html.Sitecore().Field(Templates.HasProductContent.Fields.ToolCTALink, item, new { @class = "btn btn--default btn--dark", text = @Html.Sitecore().Field(Templates.HasProductContent.Fields.ToolCTATitle, item) })
+          </div>
+
+          <h3 class="m-b-16 tool-title">@item.Field(Templates.HasProductContent.Fields.PromoFirstTitle)</h3>
+          <div class="eurobank-banner m-b-64">
+
+            <div class="eurobank-banner__left">
+              <h3 class="h5 m-b-16">@item.Field(Templates.HasProductContent.Fields.PromoSecondTitle)</h3>
+              <div class="eurobank-banner__text">@item.Field(Templates.HasProductContent.Fields.PromoCTAText)</div>
+            </div>
+
+            @Html.Sitecore().Field(Templates.HasProductContent.Fields.PromoCTALink, item, new { @class = "btn btn--default btn--dark", text = @Html.Sitecore().Field(Templates.HasProductContent.Fields.PromoCTATitle, item) })
+
+          </div>
+
+        </div>
+
+      }
+    }
+
+
+  </div>
+
+
+
+
+</section>
+
+<section class="center center--920 m-b-112">
+  <div class=" tool-cta">
+    <div class="tool-cta__text color-faded">
+      @Html.Sitecore().Field("CTA Text", cur)
+    </div>
+
+    @Html.Sitecore().Field("CTA Link", cur, new { @class = "btn btn--default btn--light btn-no-split", text = @Html.Sitecore().Field("CTA Title", cur) })
+  </div>
+</section>
+

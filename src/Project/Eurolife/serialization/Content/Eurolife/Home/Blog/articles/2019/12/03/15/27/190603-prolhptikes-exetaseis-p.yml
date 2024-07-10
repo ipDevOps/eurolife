@@ -1,0 +1,42 @@
+﻿---
+ID: "bd51b553-561c-4a24-b155-d6e3e7966ef7"
+Parent: "743c31b7-387c-4383-bdff-f51a28ba4fed"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2019/12/03/15/27/190603-prolhptikes-exetaseis-pou-prepei-na-kanei-enas-antras"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152753Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Προληπτικές εξετάσεις που πρέπει να κάνει ένας άντρας σε κάθε ηλικία   
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F5595893-93CA-43C1-A382-A5CEA55D9393}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p>Ανεξάρτητα με την κατάσταση της υγείας σoυ, αλλά και την ηλικία σoυ,<strong> το ετήσιο τσεκάπ είναι ο μόνος τρόπος</strong> εάν θέλεις να μείνεις υγιής και να προλάβεις δυσάρεστες εκπλήξεις που θα σε ταλαιπωρήσουν. Έτσι λοιπόν, ακόμα κι αν νιώθεις ακμαίος καλό είναι να κάνεις έναν προληπτικό έλεγχο, ώστε να γνωρίζεις πώς τα πάει ο οργανισμός σου.</p><p style="text-align: left;">Το τσεκάπ δεν πρέπει να σε φοβίζει! Συνήθως πρόκειται για μία σειρά από απλές ιατρικές εξετάσεις που όμως μπορούν να δείξουν πολλά. Ποιες είναι αυτές;&nbsp;</p><p style="text-align: center;"><img alt="" src="~/media/D4681F7207634BF3A26C2C249DF37E5B.png" height="1722" width="800" /></p><p style="text-align: left;"></p><p style="text-align: left;">Εάν θέλεις να νιώθεις ασφαλής αλλά και σίγουρος ότι δεν θα ξεχάσεις πάλι τον<strong> ετήσιο προληπτικό έλεγχο</strong>, τότε επίλεξε ένα ασφαλιστικό πρόγραμμα υγείας, όπως <a href="https://www.eurolife.gr/el/Products/Health">τα προγράμματα υγείας της Eurolife ERB</a>. Άλλωστε, μία ασφάλεια υγείας είναι εξίσου σημαντική όσο κι ένα check up, καθώς προσφέρει άμεση πρόσβαση σε υπηρεσίες υγείας και είναι απαραίτητη σε μια δύσκολη στιγμή.</p><p style="text-align: left;"><a href="https://www.eurolife.gr/medicalc"><img alt="" src="~/media/11667E904B934846B1BC00BD370CA78C.png" height="120" width="719" /></a></p><p style="text-align: left;">Ακόμα κι αν αποφεύγεις τις επισκέψεις στους γιατρούς, όσο υγιής κι αν αισθάνεσαι,<strong> ο προληπτικός έλεγχος είναι ένα δώρο προς τον εαυτό σου</strong>, αφού είναι απαραίτητος για να γνωρίζεις το σώμα σου, τα πιθανά ζητήματα και τι πρέπει να αλλάξεις για να τα αντιμετωπίσεις έγκαιρα, πριν γίνουν προβλήματα.</p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: <p>Η πρόληψη είναι το κλειδί για την καλή υγεία. Δες ποιες είναι οι προληπτικές εξετάσεις που πρέπει να κάνουν οι άνδρες ανάλογα με την ηλικία τους.&nbsp;</p><div></div>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{0AE13F08-3568-46DD-8207-5663D255B761}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Προληπτικές εξετάσεις που πρέπει να κάνει ένας άντρας σε κάθε ηλικία   
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20190603T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{DB3B9DAC-197A-458D-8625-B6B9A7E808EB}"

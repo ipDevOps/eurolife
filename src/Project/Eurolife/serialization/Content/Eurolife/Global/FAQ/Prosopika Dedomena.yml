@@ -1,0 +1,29 @@
+﻿---
+ID: "57db528f-e583-424d-ad0b-aa1a72a6adf8"
+Parent: "d2715489-e157-404a-ae77-0db037bf0ad8"
+Template: "1bd8973a-c133-4bcb-87a3-d4ef07b7f098"
+Path: /sitecore/content/Eurolife/Global/FAQ/Prosopika Dedomena
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T092123Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T145904Z

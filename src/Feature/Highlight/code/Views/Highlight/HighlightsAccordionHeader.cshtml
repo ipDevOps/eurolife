@@ -1,0 +1,25 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HighlightMain.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightMain.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+}
+
+@if (Model.Item.FieldHasValue(Templates.HighlightMain.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+{
+  <h1 class="h4 m-b-16 t-c">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title)</h1>
+  <p class="m-b-48 t-c center center--650">
+    @Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary)
+  </p>
+}
+else
+{
+  <h1 class="h4 m-b-48 t-c">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title)</h1>
+}

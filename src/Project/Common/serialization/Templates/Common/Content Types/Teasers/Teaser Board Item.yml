@@ -1,0 +1,37 @@
+﻿---
+ID: "802f372f-af21-4045-9ba4-b5655427c966"
+Parent: "b7dcc304-a3d4-4426-b9ee-e1b9a09eccfe"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Teasers/Teaser Board Item
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/logviewer.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {94FCF2F1-3CCA-4D44-87FC-4400397C7AAE}
+    {40829EAB-1B5E-40D5-9FB5-8A1D934847AC}
+    {0A7BE377-3CD0-44CC-A191-224D9DBE25A0}
+    {505F405E-1E8C-4C03-85C8-385669B913B5}
+    {B3BF4D03-E66B-41E3-9E8C-F18D34974C4A}
+    {8E870768-9388-4428-91BE-0043044B7BEF}
+    {6E50FBEA-AF05-4901-8B4D-3308E1FF92C4}
+    {86C98A1C-5D99-414A-9A34-8D2E507F5FC2}
+    {18147DA2-5242-4FA0-9424-7F3D9C3C1CE5}
+    {5CF62D67-6B1C-45FC-8E42-90EF0E818CFB}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210202T124418Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

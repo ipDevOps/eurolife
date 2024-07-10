@@ -1,0 +1,18 @@
+﻿---
+ID: "ec6b6a12-ae01-4be7-adc6-a510d75778ef"
+Parent: "a8acfbd3-cd1d-40a7-8e94-b3ce18aacd6d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/PageContent/contact
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T114524Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

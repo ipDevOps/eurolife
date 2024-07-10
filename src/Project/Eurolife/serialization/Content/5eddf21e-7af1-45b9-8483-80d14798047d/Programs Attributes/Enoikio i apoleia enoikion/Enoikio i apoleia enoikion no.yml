@@ -1,0 +1,18 @@
+﻿---
+ID: "bedc8d55-46d6-4d4f-a7ff-167982c9e6c1"
+Parent: "7767965c-c203-43a0-84b8-7d74ea57dd5b"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/periexomeno/Programs Attributes/Enoikio i apoleia enoikion/Enoikio i apoleia enoikion no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T092017Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

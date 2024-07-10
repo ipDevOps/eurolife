@@ -1,0 +1,50 @@
+﻿---
+ID: "dd2f604f-b874-4a49-a432-b779eb629faf"
+Parent: "6316613a-2bcc-44ff-9b52-2444fe7f0853"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Vehicle Panels/Fortiga IX - Agrotika/Programs/Safe Drive Standard"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134646Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Safe Drive Standard
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {4B73F2BA-A107-4AEF-88A6-5B098441FD75}
+        {E4541D44-2696-42E3-BB4F-8CD64C77090D}
+        {7493E998-F3D1-483F-B5A7-9B9BF4735C05}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital2
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

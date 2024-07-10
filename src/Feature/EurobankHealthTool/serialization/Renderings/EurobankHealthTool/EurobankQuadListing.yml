@@ -1,0 +1,44 @@
+﻿---
+ID: "5c56d684-c340-4362-a07c-be860714ac61"
+Parent: "a1c4a7c1-6778-46db-93d7-4b139dc0d761"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/EurobankHealthTool/EurobankQuadListing
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/EurobankHealthTool/EurobankCategory/EurobankQuadListing.cshtml
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "site:eurobanklistgroup"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201029T211802Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "77593ad2-0761-4d3e-8e17-82a304029640"
+      Hint: Supports Local Datasource
+      Type: Checkbox
+      Value: 1
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T105959Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "77593ad2-0761-4d3e-8e17-82a304029640"
+      Hint: Supports Local Datasource
+      Type: Checkbox
+      Value: 1

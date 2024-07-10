@@ -1,0 +1,33 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Product
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.HasProductToolkit.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasProductToolkit.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+}
+
+<section id="toolkit" class="p-t-64 p-b-64 m-b-96 grey--bordered-area relator">
+    <h1 class="h4 m-b-8 t-c">@Html.Sitecore().Field(Templates.HasProductToolkit.Fields.Title)</h1>
+    <p class="m-b-48 t-c center center--650">
+        @Html.Sitecore().Field(Templates.HasProductToolkit.Fields.Subhead)
+    </p>
+    <div class="invisible anchor-200" id="tools"></div>
+
+    <div class="center center--1100">
+        <ul class="accordion">
+            @Html.Sitecore().Placeholder("toolkit-documents")
+            @Html.Sitecore().Placeholder("toolkit-faq-group")
+            @Html.Sitecore().Placeholder("toolkit-contact-transfer")
+            @Html.Sitecore().Placeholder("toolkit-glossary")
+            @Html.Sitecore().Placeholder("toolkit-how-it-works")
+        </ul>
+    </div>
+
+
+</section>

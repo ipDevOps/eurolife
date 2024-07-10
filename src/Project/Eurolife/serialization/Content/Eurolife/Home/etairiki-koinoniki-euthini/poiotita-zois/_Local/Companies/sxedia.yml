@@ -1,0 +1,32 @@
+﻿---
+ID: "c8c87c66-93ce-48bf-87cb-3de2d9872439"
+Parent: "423919d4-cf44-47f5-bcee-5d963a204a84"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/_Local/Companies/sxedia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ό έ&rho;&gamma;&omicron; &tau;&omicron;&upsilon; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;&omicron;ύ &delta;&rho;ό&mu;&omicron;&upsilon; &laquo;&Sigma;&chi;&epsilon;&delta;ί&alpha;&raquo;, &mu;&epsilon; &tau;&eta; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&omicron;&chi;ή ό&lambda;&omega;&nu; &tau;&omega;&nu; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omega;&nu; &sigma;&tau;&eta; &beta;ά&sigma;&eta; &sigma;&upsilon;&nu;&delta;&rho;&omicron;&mu;&eta;&tau;ώ&nu; &tau;&omicron;&upsilon;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Περιοδικό δρόμου σχεδία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T155535Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{F0EC7600-E9F6-40BD-AE1F-5F76ACE5FEF1}" querystring="" text="ΠΕΡΙΣΣΟΤΕΡΑ" linktype="internal" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/periodiko-sxedia" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{8CE52FC4-E012-40D6-9953-3A163BCC8A64}" />

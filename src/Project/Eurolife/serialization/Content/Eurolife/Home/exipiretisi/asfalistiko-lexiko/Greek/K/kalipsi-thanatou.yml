@@ -1,0 +1,24 @@
+﻿---
+ID: "970577e8-2033-4619-a89c-e16b5f227ad9"
+Parent: "29de4778-dfa9-485a-848d-5875251b5f01"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/K/kalipsi-thanatou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Κάλυψη Θανάτου
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072347Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το εγγυημένο κεφάλαιο, όπως αναφέρεται στο συμβόλαιο, πληρωτέο κατά την απώλεια ζωής του ασφαλισμένου.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

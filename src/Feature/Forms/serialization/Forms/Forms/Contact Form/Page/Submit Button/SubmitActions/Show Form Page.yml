@@ -1,0 +1,29 @@
+﻿---
+ID: "ab0f5f22-3779-4ab9-9aca-c63289169019"
+Parent: "7f647e0a-c8f9-4a99-a967-329e78525fde"
+Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
+Path: /sitecore/Forms/Contact Form/Page/Submit Button/SubmitActions/Show Form Page
+DB: master
+SharedFields:
+- ID: "5c796924-3f06-4d1f-8510-8ad9a4244477"
+  Hint: Parameters
+  Value: |
+    {"formPageId":"c3bddcb5-bfba-4c2f-912f-ab2e82bb6584"}
+- ID: "abc57b6d-5542-4ab9-a889-106225a032e6"
+  Hint: Submit Action
+  Value: "{1E0BC9A9-DC04-4894-8753-EFF004C393E5}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190625T140142Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

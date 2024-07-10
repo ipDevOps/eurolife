@@ -1,0 +1,14 @@
+﻿---
+ID: "3b707f29-e520-466f-a702-462fc4c1f502"
+Parent: "1fa2918a-5f34-4be8-a7e1-8680b4c9bbd9"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/Forms/Contact Form/Page/message-section/subject/Settings"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T130914Z

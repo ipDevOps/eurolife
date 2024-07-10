@@ -1,0 +1,44 @@
+﻿---
+ID: "5a70ad53-b4c6-460d-bb16-4cb2751d2059"
+Parent: "26b49c6f-02ab-4144-87dd-367c302f813e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/Teasers/Career Teasers/reasons to join/calendar
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/5A70AD53B4C6460DBB164CB2751D2059.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "afbd03cd-725d-4c76-9480-8a7591ce35f6"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1885
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T121508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,77 @@
+/*------------------------------------*\
+  #TRIPLETTES
+\*------------------------------------*/
+
+/*static tripletre -  single purple color, signified with life insurance color*/
+.triplette{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.triplette-item{
+  flex-basis:100%;
+  padding: 48px 32px;
+  margin-bottom:20px;
+
+  @include breakpoint(540){
+    flex-basis:49%;
+  }
+  @include breakpoint(820){
+    flex-basis:32%;
+  }
+}
+
+.triplette-item--static{
+  background-color: $color-life-insurance-soft;
+  font-size: 14px;
+
+  h3{
+    color: $color-life-insurance;
+  }
+
+  p{
+    margin:0;
+  }
+}
+
+/*link triplette extension - grey color base red on hover*/
+.triplette-item--linked{
+  background-color: #eee;
+  box-shadow:0 10px 30px 0 rgba(0, 0, 0, 0);
+  transition:color 200ms ease-in-out, background-color 300ms ease-in-out, box-shadow 400ms ease-in-out;
+
+}
+
+.triplette-item--linked__title {
+  color: $color-base;
+  transition: color 300ms ease-in-out;
+  &:after {
+    content: '';
+    width:25px;
+    height:15px;
+    display: inline-block;
+    margin-left: 10px;
+    transition: background-image 200ms ease-in-out;
+    background-image: url("data:image/svg+xml;utf8,<svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='24.333px' height='15.375px' viewBox='5.667 3.625 24.333 15.375' enable-background='new 5.667 3.625 24.333 15.375' xml:space='preserve'><g><g transform='translate(-1304.000000, -2494.000000)'><g transform='translate(-242.000000, 1908.000000)'><g transform='translate(1501.000000, 586.000000)'><path fill='%23EF3340' d='M75,11.396c0-0.186-0.112-0.432-0.226-0.551l-6.403-6.804c-0.299-0.309-0.783-0.345-1.132-0.031c-0.312,0.281-0.319,0.828-0.031,1.132l5.141,5.454H51.788c-0.442,0-0.8,0.357-0.8,0.801c0,0.442,0.358,0.8,0.8,0.8h20.561l-5.141,5.453c-0.288,0.305-0.268,0.838,0.031,1.132c0.315,0.311,0.838,0.283,1.132-0.031l6.403-6.804C74.963,11.762,74.997,11.584,75,11.396z'/></g></g></g></g></svg>");
+    background-repeat: no-repeat;
+  }
+}
+
+
+.no-touch{
+  .triplette-item--linked:hover{
+    color:#fff;
+    background-color: $color-base;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.18);
+
+    .triplette-item--linked__title {
+      color: #fff;
+      &:after {
+        background-image: url("data:image/svg+xml;utf8,<svg version='1.1' id='Layer_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='24.333px' height='15.375px' viewBox='5.667 3.625 24.333 15.375' enable-background='new 5.667 3.625 24.333 15.375' xml:space='preserve'><g><g transform='translate(-1304.000000, -2494.000000)'><g transform='translate(-242.000000, 1908.000000)'><g transform='translate(1501.000000, 586.000000)'><path fill='%23ffffff' d='M75,11.396c0-0.186-0.112-0.432-0.226-0.551l-6.403-6.804c-0.299-0.309-0.783-0.345-1.132-0.031c-0.312,0.281-0.319,0.828-0.031,1.132l5.141,5.454H51.788c-0.442,0-0.8,0.357-0.8,0.801c0,0.442,0.358,0.8,0.8,0.8h20.561l-5.141,5.453c-0.288,0.305-0.268,0.838,0.031,1.132c0.315,0.311,0.838,0.283,1.132-0.031l6.403-6.804C74.963,11.762,74.997,11.584,75,11.396z'/></g></g></g></g></svg>");
+      }
+    }
+
+  }
+
+}

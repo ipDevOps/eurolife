@@ -1,0 +1,81 @@
+﻿---
+ID: "bf4945cb-b383-4b34-8a55-eca9d8d7fa26"
+Parent: "abfc54c6-c967-4c06-807e-389a93c84489"
+Template: "f1e8aa8c-0acb-4186-b3fb-448897ca0831"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local/messaies epixeiriseis Panel/messaiesepixeiriseisPanel"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085100Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Όρια Ευθύνης Καλύψεων
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: |
+        {6CC76971-AD54-4F48-B7AE-211F528240AE}
+        {C1EEEB96-0A5F-46E4-9E21-E9AA02EDC349}
+        {AFA881CB-E854-4F40-AAB9-ABC3A22401E4}
+        {336EB823-78DD-44B8-B68A-9A601FE98285}
+        {F938E7C2-CA86-42C0-BC3E-04B5A85BCF84}
+        {2BD1CF68-082E-4475-9994-61AC1A9AF02D}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: "{75F9DF66-4916-486C-8A19-3D6CE3112FE4}"
+    - ID: "eaefde6c-1755-4c47-bc40-237d17a8ebe8"
+      Hint: PanelFilters
+      Type: Multilist
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: |
+        Χρησιμοποιήστε τους πίνακες για να συγκρίνετε τις καλύψεις και τα χαρακτηριστικά 
+        των προγραμμάτων υγείας και να επιλέξετε εκείνο που σας ταιριάζει περισσότερο.
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T051955Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Σύγκριση Προγραμμάτων
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: "{16C920D0-8B3F-4848-950C-751B5D598463}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: 
+    - ID: "eaefde6c-1755-4c47-bc40-237d17a8ebe8"
+      Hint: PanelFilters
+      Type: Multilist
+      Value: |
+        {719F3D85-1663-4A09-BB5A-4F5DE7B3D31B}
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {73BD172B-6322-41D6-AE26-5F66B5BD1000}

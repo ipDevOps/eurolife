@@ -1,0 +1,24 @@
+﻿---
+ID: "14b5549e-aad7-4363-98e8-e1dc41b28cc8"
+Parent: "9890193f-0987-4574-8ae2-e7faac6383a4"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs Attributes/paroxi/1eggiimeni sintaxi 2dinatotita epilogis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T122343Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Για χρονικό διάστημα 15 ετών. Εφόσον ο ασφαλισμένος είναι στη ζωή κατά το διάστημα αυτό
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Εγγυημένη σύνταξη από την ημερομηνία έναρξης της συνταξιοδότησης 

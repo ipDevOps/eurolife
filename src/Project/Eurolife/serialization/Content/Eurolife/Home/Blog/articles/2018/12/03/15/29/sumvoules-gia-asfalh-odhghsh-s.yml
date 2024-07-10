@@ -1,0 +1,42 @@
+﻿---
+ID: "2d89cd01-9e96-437e-977b-654fd3396caf"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/sumvoules-gia-asfalh-odhghsh-se-ethnikes-odous"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152947Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Συμβουλές για ασφαλή οδήγηση σε εθνικές οδούς 
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F33C1248-D401-4C0C-93BA-235A7C9D9FC9}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Η προετοιμασία για ένα ταξίδι δεν περιλαμβάνει μόνο το φτιάξιμο της βαλίτσας, το κλείσιμο των εισιτηρίων και την διαλογή των σημείων ενδιαφέροντος που θέλετε να επισκεφτείτε στον προορισμό σας. Για τον οδηγό η προετοιμασία περιλαμβάνει ακόμα ένα στάδιο, την ενημέρωση για ασφαλή οδήγηση, σε κάθε περίπτωση και παντός καιρού.</p><p style="text-align: justify;"><strong>Συμβουλές ασφαλούς οδήγησης σε αυτοκινητόδρομο: </strong></p><ul>    <li style="text-align: justify;"><strong>Δεν οδηγούμε μετά από κατανάλωση αλκοόλ</strong>.</li>    <li style="text-align: justify;">Αποφεύγουμε να οδηγήσουμε όταν νιώθουμε μεγάλη κόπωση ή είμαστε άυπνοι. </li>    <li style="text-align: justify;"><strong>Διατηρούμε τις αποστάσεις ασφαλείας</strong> από τα προπορευόμενα οχήματα.</li>    <li style="text-align: justify;"><strong>Τηρούμε τα όρια ταχύτητας.</strong></li>    <li style="text-align: justify;"><strong>Σε περίπτωση βροχής ή ομίχλης μειώνουμε την ταχύτητα</strong> και αυξάνουμε την απόσταση από τα άλλα οχήματα. <a href="http://www.as-milisoume.gr/el/Articles/odhgontas-se-asxhmes-kairikes-synthikes-ti-prepei-na-prosexete">Διαβάστε τις οδηγίες της Τροχαίας</a> για το τι πρέπει να προσέχουμε όταν οδηγούμε σε άσχημες καιρικές συνθήκες.</li>    <li style="text-align: justify;"><strong>Οδηγούμε με αυξημένη προσοχή </strong>σε τμήματα με κυκλοφοριακές ρυθμίσεις και τηρούμε απόλυτα τα όσα ορίζει η σχετική σήμανση.</li>    <li style="text-align: justify;"><strong>Κινούμαστε πάντα στη δεξιά λωρίδα</strong> και χρησιμοποιούμε την αριστερή μόνο για να προσπεράσουμε κάποιο άλλο όχημα.</li>    <li style="text-align: justify;"><strong>Τοποθετούμε τις αποσκευές στο πορτ μπαγκαζ</strong> και όχι στο πίσω ράφι του αυτοκινήτου, μειώνοντας την ορατότητα του οδηγού.</li>    <li style="text-align: justify;">Φροντίζουμε <strong>όλοι οι επιβάτες του αυτοκινήτου να φοράνε ζώνη.</strong> Επίσης, τα παιδιά πρέπει πάντοτε να κάθονται στο ειδικό καρεκλάκι αυτοκινήτου, ανάλογα με την ηλικία και τη σωματική τους διάπλαση.</li>    <li style="text-align: justify;">Όταν πλησιάζουμε τους Σταθμούς Διοδίων μειώνουμε ταχύτητα και σταματάμε ακινητοποιώντας τελείως το όχημά μας.</li></ul><p style="text-align: justify; line-height: 15pt; background: white;"><strong>Πώς οδηγούμε μέσα σε σήραγγες;</strong></p><ul>    <li style="text-align: justify;"><strong>Ανάβουμε πάντα τα «μεσαία» φώτα</strong> πριν την είσοδό μας στη σήραγγα. </li>    <li style="text-align: justify;"><strong>Διατηρούμε απόσταση ασφαλείας,</strong> τουλάχιστον 50μ. από το μπροστινό όχημα. </li>    <li style="text-align: justify;"><strong>Αποφεύγουμε τις άσκοπες αλλαγές λωρίδας. </strong></li>    <li style="text-align: justify;"><strong>Δεν κάνουμε ποτέ όπισθεν και δεν σταματάμε</strong> εντός της σήραγγας παρά μόνο σε έκτακτη ανάγκη. </li></ul><p style="text-align: justify;"><strong>Σημαντικές πληροφορίες: </strong></p><ul>    <li style="text-align: justify;">Σε περίπτωση έκτακτης ανάγκης <strong>ενημερώνουμε άμεσα το Κέντρο Διαχείρισης Κυκλοφορίας μέσω των SOS τηλεφώνων</strong> ή καλούμε το 1075 μέσω του κινητού μας. Το Κέντρο λειτουργεί 24 ώρες το 24ωρο, 365 ημέρες το χρόνο.</li>    <li style="text-align: justify;">Όταν καλέσουμε τον Αριθμό Έκτακτης Ανάγκης θα πρέπει να ενημερώσουμε τον χειριστή που θα λάβει το τηλεφώνημά μας σε ποιο σημείο του αυτοκινητόδρομου βρισκόμαστε, δίνοντας την κατεύθυνση (προς Αθήνα ή προς Θεσσαλονίκη) και την χιλιομετρική μας θέση. Εάν δεν γνωρίζουμε τη χιλιομετρική μας θέση δίνουμε το όνομα του προηγούμενου κόμβου ή όποιο άλλο χαρακτηριστικό μπορεί να βοηθήσει στον εντοπισμό μας, όπως αναφέρεται και στις οδηγίες ασφαλούς οδήγησης του Αυτοκινητόδρομου Αιγαίου.</li>    <li style="text-align: justify;">Η <strong>οδήγηση και η στάση στη Λωρίδα Έκτακτης Ανάγκης (ΛΕΑ) είναι επικίνδυνη</strong> τόσο για εσάς όσο και για το όχημά σας.</li>    <li style="text-align: justify;"><strong>Η χρήση της ΛΕΑ πρέπει να γίνεται μόνο σε περιπτώσεις έκτακτης ανάγκης.</strong></li></ul><p style="text-align: justify;">Τέλος, η μουσική είναι αναπόσπαστο κομμάτι της οδήγησης, ιδιαίτερα όταν πάμε εκδρομή. Όμως, αυτό που δεν γνωρίζουν οι περισσότεροι οδηγοί είναι ότι, κάποιες φορές, <a href="http://www.as-milisoume.gr/el/Articles/Pos-h-mousiki-epireazei-tin-ikanotita-sou-na-odighseis">η μουσική επηρεάζει την ικανότητά μας να οδηγήσουμε</a> σωστά και ασφαλώς. Απολαμβάνοντάς την λοιπόν με μέτρο, ενώ παράλληλα ακολουθείτε και τις παραπάνω συμβουλές είμαστε σίγουροι ότι θα έχετε ένα καλό, άνετο και ασφαλές ταξίδι!</p><p style="text-align: justify;">Πηγές: &nbsp;<a href="http://www.neaodos.gr/">http://www.neaodos.gr/</a> </p><p style="text-align: justify;"><a href="https://www.aegeanmotorway.gr/leitourgia-k-suntirisi/odhgw-ston-aftokinhtodromo">https://www.aegeanmotorway.gr/leitourgia-k-suntirisi/odhgw-ston-aftokinhtodromo</a></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: Η οδήγηση σε εθνικές οδούς και αυτοκινητόδρομους, ιδιαίτερα σε περιόδους αιχμής, όπως το τριήμερο της Καθαράς Δευτέρας, αποτελεί πρόκληση για τους περισσότερους οδηγούς. Δείτε μερικά tips και συμβουλές, «παντός καιρού», για ασφαλή οδήγηση.
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{20AB1508-1F3A-4A14-8885-FCD8DA001832}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Συμβουλές για ασφαλή οδήγηση σε εθνικές οδούς 
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180211T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{DB3B9DAC-197A-458D-8625-B6B9A7E808EB}"

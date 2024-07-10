@@ -1,0 +1,38 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation;
+@model Wedia.Feature.Teasers.Models.DynamicTeaserModel
+@{
+    var elements = Model.Items.ToList();
+
+    var contained = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.GetContainerClass();
+    var background = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.GetBackgroundClass();
+    var well = "";
+
+}
+
+<section id="three-column-teaser" class="m-t-112 m-b-112 @contained @background well">
+  <h1 class="h4 t-c">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h1>
+  <div class="m-b-48 center--650 center t-c">
+    @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+  </div>
+
+  <div class="center center--1100 triplette @Html.PlaceholderStyle()">
+    @for (var i = 0; i < elements.Count; i++)
+    {
+
+      @Html.Sitecore().DynamicPlaceholder($"teaser-placeholder-{i + 1}")
+
+    }
+  </div>
+
+  <div class="m-t-48 m-b-48 center--650 center t-c">
+    @if (Model.Item.FieldHasValue(Templates.HasTeaserCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, Model.Item, new { @class = "btn btn--ghost-rev btn--default" })
+    }
+  </div>
+</section>

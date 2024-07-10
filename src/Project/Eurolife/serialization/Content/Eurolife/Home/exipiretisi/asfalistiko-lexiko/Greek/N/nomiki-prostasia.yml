@@ -1,0 +1,24 @@
+﻿---
+ID: "dfb6c5df-e2b2-4faf-98aa-9ba5cff6f082"
+Parent: "5c1004d6-c9ac-4375-84f5-6e0bbbbeaafe"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/N/nomiki-prostasia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Νομική Προστασία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072729Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Καλύπτει τα έξοδα του ασφαλισμένου σε περίπτωση που εμπλακεί σε νομική διαδικασία π.χ. έξοδα δικηγόρων, δικαστικά έξοδα. Αφορά κυρίως στον κλάδο αυτοκινήτων.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

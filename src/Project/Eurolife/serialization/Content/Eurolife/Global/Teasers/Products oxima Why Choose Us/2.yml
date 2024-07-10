@@ -1,0 +1,42 @@
+﻿---
+ID: "c2f13ee6-4415-4e3d-9b56-91a61d835dbf"
+Parent: "1fa9a0fc-32d8-499e-aae5-843b07e01e04"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/Products oxima Why Choose Us/2
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: drggrd
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: rdgdrgrd
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190808T150133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-d509a864-7fff-8375-c032-b77e31d365ea" style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&alpha;&rho;έ&chi;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; 3 &mu;&eta;&nu;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &pi;&lambda;&eta;&rho;&omega;&mu;ή&sigmaf; &sigma;&epsilon; 12 ά&tau;&omicron;&kappa;&epsilon;&sigmaf; &delta;ό&sigma;&epsilon;&iota;&sigmaf;</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ευελιξία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

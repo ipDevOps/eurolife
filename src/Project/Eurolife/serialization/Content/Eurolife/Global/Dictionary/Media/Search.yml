@@ -1,0 +1,14 @@
+﻿---
+ID: "b5673b97-0e55-4caa-8bd8-de7523c0bfe3"
+Parent: "5913f13f-88dd-4b38-b7dd-7ffc114d3a2e"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Media/Search
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190702T101002Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "4ba95172-0987-4c25-a466-d72969596a1b"
+Parent: "d296f2a7-3aab-4191-8373-edc51228902f"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Fortiga IX - Agrotika/Programs Attributes/Fysikes katastrofes/Panel Row Item Value yes"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T140742Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Αποζημιώνουμε τον ιδιοκτήτη του ασφαλισμένου οχήματος για ζημιές στο ασφαλισμένο όχημα που προκαλούνται από πλημμύρα, θύελλα, καταιγίδα, χιόνι, χαλάζι, σεισμό, με απαλλαγή €400 και όριο απαλλαγής για ζημιές από χαλάζι €2.000.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1

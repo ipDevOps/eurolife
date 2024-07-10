@@ -1,0 +1,14 @@
+﻿---
+ID: "2fb2163d-81c6-430d-b4a5-15b61d3e3741"
+Parent: "1013016b-840b-4024-9565-775144e4fccf"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/Highlights"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T082205Z

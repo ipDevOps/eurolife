@@ -1,0 +1,42 @@
+﻿---
+ID: "86879f2a-0f21-4abe-a462-11d9ef2fe921"
+Parent: "4a803aa4-13c5-4a23-995e-f1b70ee704de"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2015/12/03/15/33/Eftixia-me-mia-kinisi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T153325Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ευτυχία με μια κίνηση
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p>Ο λόγος για την ευτυχία! Γιατί κανείς όμως δεν μας είπε μέχρι σήμερα πόσο εύκολο είναι να τη νιώσει κανείς, όποτε θέλει, εκεί που κάθεται, χωρίς καμία προσπάθεια; Σύμφωνα με τους επιστήμονες, για να νιώσουμε ευτυχισμένοι αρκεί να κάνουμε μια πολύ μικρή κίνηση, χρησιμοποιώντας ελάχιστους μυς του σώματός μας (hint: Βρίσκονται στο πρόσωπό μας). Περισσότερα στο βίντεο που ακολουθεί:</p><p></p><iframe width="560" height="315" src="//www.youtube.com/embed/5cysPPnZEhM" frameborder="0"></iframe>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: Ποιητές την έχουν υμνήσει, φιλόσοφοι έχουν προσπαθήσει να την εξηγήσουν και διάσημοι γκουρού την έχουν επιδιώξει.
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{8DDFF773-FD65-4C25-988B-6F5FD21DEB89}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Ευτυχία με μια κίνηση
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20150925T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{5333A4BC-00DF-469D-B222-D1D4460C2C8E}"

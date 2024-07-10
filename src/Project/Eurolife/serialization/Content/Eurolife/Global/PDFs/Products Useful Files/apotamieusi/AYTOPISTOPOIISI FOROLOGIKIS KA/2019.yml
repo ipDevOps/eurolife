@@ -1,0 +1,18 @@
+﻿---
+ID: "b9c7e711-d99d-4879-a31d-a7a97ba86bcb"
+Parent: "663737da-94ff-46ef-b066-4a14c80bc7e3"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/apotamieusi/AYTOPISTOPOIISI FOROLOGIKIS KATOIKIAS/2019
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T122741Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

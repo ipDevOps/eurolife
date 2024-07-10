@@ -1,0 +1,24 @@
+﻿---
+ID: "083497c2-7518-46bb-8569-ca4eaeeeba65"
+Parent: "b9762880-2127-4dac-a1ac-f393bffea1e6"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/E/eniaio-asfalistirio"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ενιαίο Ασφάλιστρο
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T071848Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το ενιαίο (εφάπαξ) ασφάλιστρο καταβάλλεται εξ΄ολοκλήρου κατά τη σύναψη της σύμβασης.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

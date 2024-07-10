@@ -1,0 +1,18 @@
+﻿---
+ID: "c3ec1422-e0b1-42ea-826d-9a5480a1ea14"
+Parent: "cd875870-44b6-4127-84f4-c36550083480"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/ygeia/sinergazomena simvevlimena/2019/10/22/12/45
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T124546Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,60 @@
+﻿---
+ID: "861ffa42-b99c-4b74-a8b8-b2a9d351c5a2"
+Parent: "cb46fc83-8b2f-49a6-b9b9-4639b4407191"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/exipiretisi/_Local/AlreadyClient
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Epsilon;ά&nu; έ&chi;&omicron;&upsilon;&mu;&epsilon; ή&delta;&eta; &sigma;&upsilon;&sigma;&tau;&eta;&theta;&epsilon;ί, &mu;&epsilon;&tau;&alpha;&phi;&epsilon;&rho;&theta;&epsilon;ί&tau;&epsilon; &sigma;&tau;&omicron; online portal <br />
+        &gamma;&iota;&alpha; &nu;&alpha; &delta;&epsilon;ί&tau;&epsilon; &tau;&alpha; &pi;ά&nu;&tau;&alpha; &gamma;&iota;&alpha; &tau;&eta; &sigma;&chi;έ&sigma;&eta; &sigma;&alpha;&sigmaf; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Έχετε ήδη συνδεθεί με το Eurolife Connect;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T140629Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link linktype="external" text="ΣΥΝΔΕΘΕΙΤΕ ΜΑΖΙ ΜΑΣ" url="https://connect.eurolife.gr/" anchor="" target="_blank" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{230F71CD-D1AA-4288-84BF-710051F59FCA}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span class="scWebEditInput scEnabledChrome" id="fld_861FFA42B99C4B74A8B8B2A9D351C5A2_015650F649A4401CB484B9410A78C8CA_en_1_3af841e632b641b4b5a58b27e53d1776_1980_edit" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Είστε ήδη πελάτης;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T090326Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="Σύνδεση στο my eurolife" linktype="external" url="https://something.com" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="Habitat-004-wide" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{71BC2865-797C-4F65-95D6-3CA4EBACD0D7}" />

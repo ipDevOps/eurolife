@@ -1,0 +1,52 @@
+﻿---
+ID: "2b83c3d2-6268-4455-a53d-7ea9ba9731f7"
+Parent: "1ad270cf-7ede-46b5-b9ab-3ab4d043f299"
+Template: "3f3d2d4e-2f16-4adc-97ad-7598e53d83b3"
+Path: /sitecore/content/Eurolife/Global/DIOIKITIKI OMADA
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T095401Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c5270f95-33aa-4da7-b3b7-0eea5dd1b4b1"
+      Hint: Persons
+      Type: TreelistEx
+      Value: |
+        {3F79105A-4BCC-433D-A62C-DCBA7319A7CB}
+        {60DF4870-0158-4921-A92A-2AD7183B7C06}
+        {19252993-67EE-4B2F-95F1-024ED758AD0C}
+        {780C881D-8282-400D-92FF-514905F9A74F}
+        {2FEE2A73-3BA1-4B05-9F61-ADF5090EEF11}
+        {01786DE3-1CE6-44F3-8B76-466A9CACF547}
+        {0F9A21A9-63C3-44F9-BC96-5848F9417269}
+        {45CE12E5-8FAC-4733-94C3-932953C40D5F}
+        {3CB3E7DA-DDBD-4B28-873E-B9C31FE679F5}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190807T103029Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c5270f95-33aa-4da7-b3b7-0eea5dd1b4b1"
+      Hint: Persons
+      Type: TreelistEx
+      Value: |
+        {20607879-52A0-4638-B69B-47979F8635F6}
+        {D5AE61DE-A3D8-4D64-B6B7-A103F48F5EC0}

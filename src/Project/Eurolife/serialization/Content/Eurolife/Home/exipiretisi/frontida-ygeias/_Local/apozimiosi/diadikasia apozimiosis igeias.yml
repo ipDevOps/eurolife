@@ -1,0 +1,29 @@
+﻿---
+ID: "1cd30745-86da-447d-9eed-8de5c81124f5"
+Parent: "feece8a4-2623-474b-93ae-9a7bb2e7b403"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/frontida-ygeias/_Local/apozimiosi/diadikasia apozimiosis igeias"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-450"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Διαδικασία Αποζημιώσης Υγείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T151954Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΑ ΒΗΜΑΤΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5E474167-7F0B-4187-8F62-703DA4804F50}" />

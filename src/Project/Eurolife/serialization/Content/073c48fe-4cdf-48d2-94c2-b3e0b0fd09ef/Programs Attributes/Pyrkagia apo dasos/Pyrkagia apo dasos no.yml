@@ -1,0 +1,18 @@
+﻿---
+ID: "be51cb72-050c-47de-a731-f0484ad4c8aa"
+Parent: "3dc7219a-ccbc-4b6e-92e5-39dfa3e89762"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs Attributes/Pyrkagia apo dasos/Pyrkagia apo dasos no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T085219Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

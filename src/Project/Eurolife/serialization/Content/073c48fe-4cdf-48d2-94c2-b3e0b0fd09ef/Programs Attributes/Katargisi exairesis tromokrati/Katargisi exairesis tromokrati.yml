@@ -1,0 +1,18 @@
+﻿---
+ID: "96e45f4c-b438-4b83-9d64-ef1709140b5f"
+Parent: "34af1df4-223f-49bb-8aa0-0e2975a54d43"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs Attributes/Katargisi exairesis tromokratikon energeion/Katargisi exairesis tromokratikon energeion no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T092414Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

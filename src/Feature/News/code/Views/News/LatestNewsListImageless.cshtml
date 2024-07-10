@@ -1,0 +1,27 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.News
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+
+<section class="list center center--1100 m-b-112">
+  @foreach (var item in Model)
+  {
+    <article class="list__item list__item--ghost list__item--double">
+      <div class="list--double__info">
+        <time>@Html.Sitecore().Field(Templates.NewsArticle.Fields.Date, item, new { format = "d MMM yyyy", DisableWebEdit = true })</time>
+        <h4 class="list__title">
+          @Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, item, new { DisableWebEdit = true })
+        </h4>
+      </div>
+      <div class="list__download">
+        <a href="@item.Url()" 
+           aria-label="@Html.Sitecore().Dictionary("/News/Latest News List Imageless/More Button", "More")" 
+           role="button" 
+           class="btn btn--ghost-rev btn--default">
+          @Html.Sitecore().Dictionary("/News/Latest News List Imageless/More Button", "More")
+        </a>
+      </div>
+    </article>   
+  }
+</section>

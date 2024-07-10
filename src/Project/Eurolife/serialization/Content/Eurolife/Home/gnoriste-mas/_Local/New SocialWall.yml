@@ -1,0 +1,49 @@
+﻿---
+ID: "f7f716dc-67d2-4f73-b113-ef0de47d9866"
+Parent: "1013016b-840b-4024-9565-775144e4fccf"
+Template: "b7ef6502-9906-4aae-9e44-dcccd740fb32"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New SocialWall"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05f53e1e-8c6d-466f-8e7b-c0148583d3d6"
+      Hint: Facebook
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F2BE096D-911F-4409-8A98-9EE16CB8B283}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210129T152254Z
+    - ID: "49f97460-3f80-4654-a453-a9c2069c45d9"
+      Hint: Description
+      Value: Στην οργάνωση και τη βελτίωση της καθημερινότητας, είμαστε δίπλα σας με συμβουλές, tips και αρθρογραφία από ειδικούς
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9563181d-8778-4c64-a61f-b4803dee187d"
+      Hint: "Image-3"
+      Value: |
+        <image mediaid="{BAAC716C-3750-491F-93BE-DA4DA71662A4}" ></image>
+    - ID: "9ad55576-3c4f-42e7-b617-b9ffe003e969"
+      Hint: LinkedIn
+      Value: 
+    - ID: "ab009181-46a0-4fb0-8d89-218fe421d122"
+      Hint: SubTitle
+      Value: sub here...
+    - ID: "d255187d-6894-46a2-b8b8-878b5e2b920b"
+      Hint: Title
+      Value: Social Wall
+    - ID: "dc058a43-5b55-42fc-939c-1dac80020e1d"
+      Hint: YouTube
+      Value: 
+    - ID: "ddd6b4ad-0cfa-4784-bc19-934ccda7048b"
+      Hint: "Image-1"
+      Value: |
+        <image mediaid="{3B090C83-81C2-4283-A2A0-CA7352081AA1}" ></image>
+    - ID: "efd6a708-e194-4557-9670-c9498bbf065a"
+      Hint: "Image-2"
+      Value: |
+        <image mediaid="{471C178F-B697-4FBE-B90E-FF0BF901A02E}" ></image>

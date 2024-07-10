@@ -1,0 +1,24 @@
+﻿---
+ID: "da398985-63f4-403b-9307-cafb23561466"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "99a565ea-edea-4761-aaf1-77f4d4b2768c"
+Path: /sitecore/content/Eurolife/Global/Media/Tommorowbot Carousel
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T123100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f10d132f-19e6-4524-b1ab-aec4f2a4931c"
+      Hint: MediaImage
+      Type: Multilist
+      Value: |
+        {0846547D-1666-4250-AFD6-6FBDB089C3F1}
+        {2B47AD30-2333-422F-BB08-A4153FAD9D02}

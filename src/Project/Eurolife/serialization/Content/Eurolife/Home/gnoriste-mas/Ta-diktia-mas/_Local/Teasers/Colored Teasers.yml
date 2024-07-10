@@ -1,0 +1,17 @@
+﻿---
+ID: "a423c98f-aa90-48ac-aeca-3d4fcbcf480c"
+Parent: "53582005-45d9-4961-8e0a-f4ec5f387402"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Ta-diktia-mas/_Local/Teasers/Colored Teasers"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Οι αξίες μας.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T105220Z

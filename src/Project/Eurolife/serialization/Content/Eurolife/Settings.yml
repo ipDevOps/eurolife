@@ -1,0 +1,18 @@
+﻿---
+ID: "c47fe4cd-96f0-4ff4-a6bc-37b0d53dab58"
+Parent: "fcaf89b5-45d2-4bd1-96c1-6a350572faee"
+Template: "84afb503-8cb7-44e1-bef1-ff918002894d"
+Path: /sitecore/content/Eurolife/Settings
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190521T114815Z

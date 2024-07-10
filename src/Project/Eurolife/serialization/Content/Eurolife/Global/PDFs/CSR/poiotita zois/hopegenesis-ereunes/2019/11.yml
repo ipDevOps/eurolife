@@ -1,0 +1,18 @@
+﻿---
+ID: "d99e19fa-91ef-4da1-b074-06f884ba3ea5"
+Parent: "547838f6-d167-4322-b5e3-5ff52efb5c90"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/CSR/poiotita zois/hopegenesis-ereunes/2019/11"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T113734Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

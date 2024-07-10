@@ -1,0 +1,24 @@
+﻿---
+ID: "108bd430-e33c-40ac-a8c2-4c63bc2d694a"
+Parent: "16fca268-89e5-4a8e-93f1-8d92f64e72e4"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEGA/AEGA-ektheseis-esoterikon-metavliton/2019/09/29/19/10/2015"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20191003T210000Z
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20190916T210000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T191027Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

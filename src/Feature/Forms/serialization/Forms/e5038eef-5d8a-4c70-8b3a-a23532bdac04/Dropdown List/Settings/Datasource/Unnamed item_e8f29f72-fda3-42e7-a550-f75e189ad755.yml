@@ -1,0 +1,29 @@
+﻿---
+ID: "e8f29f72-fda3-42e7-a550-f75e189ad755"
+Parent: "d13d3224-4c99-4586-9e80-fb4ce2cfc46d"
+Template: "b3bdfe59-6667-4432-b261-05d0e3f7fdf6"
+Path: "/sitecore/Forms/askisi-dikaiomaton/Page/Section/SubSection/Dropdown List/Settings/Datasource/Unnamed item"
+DB: master
+SharedFields:
+- ID: "3a07c171-9bca-464d-8670-c5703c6d3f11"
+  Hint: Value
+  Value: Δικαίωμα Περιορισμού της Επεξεργασίας
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Δικαίωμα Περιορισμού της Επεξεργασίας
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T142653Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

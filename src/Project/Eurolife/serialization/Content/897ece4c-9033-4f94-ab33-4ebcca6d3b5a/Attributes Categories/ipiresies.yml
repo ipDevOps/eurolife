@@ -1,0 +1,33 @@
+﻿---
+ID: "63814058-7f77-470d-91dd-abc6eb45971a"
+Parent: "74d76942-7aa0-4658-b41a-d57c64e7e90a"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/periexomeno/Attributes Categories/ipiresies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {4536951F-22DD-4039-A4ED-9839C6678DB0}
+        {705A7CD5-2E49-4DBD-90A4-61D968DA2659}
+        {90AF61A5-4578-4236-92BB-BFB9E578A05E}
+        {3D11D5C6-5387-4F17-AD2D-81C5E6E59D1A}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Υπηρεσίες

@@ -1,0 +1,22 @@
+﻿---
+ID: "5719432f-10f4-4c31-b5da-654c1277ce46"
+Parent: "1ad270cf-7ede-46b5-b9ab-3ab4d043f299"
+Template: "206cfb90-88ac-4c41-b8b6-96ef47fc22f1"
+Path: /sitecore/content/Eurolife/Global/Identity
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T105119Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

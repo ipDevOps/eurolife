@@ -1,0 +1,25 @@
+﻿---
+ID: "411bf30e-a85c-4943-99cc-76e1092f3b39"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Se poies xores mporo na kalyftho gia epeigousa iatriki boitheia
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Σε ποιες χώρες µπορώ να καλυφθώ για επείγουσα ιατρική βοήθεια;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T095128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &kappa;&alpha;&iota; &sigma;&epsilon; ό&lambda;&epsilon;&sigmaf; &tau;&iota;&sigmaf; &chi;ώ&rho;&epsilon;&sigmaf; &tau;&omicron;&upsilon; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;&omicron;ύ, &epsilon;&kappa;&tau;ό&sigmaf; &alpha;&pi;ό &tau;&eta;&nu; &Alpha;&lambda;&beta;&alpha;&nu;ί&alpha; &kappa;&alpha;&iota; &tau;&iota;&sigmaf; &chi;ώ&rho;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &pi;&rho;ώ&eta;&nu; &Sigma;&omicron;&beta;&iota;&epsilon;&tau;&iota;&kappa;ή&sigmaf; '&Epsilon;&nu;&omega;&sigma;&eta;&sigmaf;.</span>

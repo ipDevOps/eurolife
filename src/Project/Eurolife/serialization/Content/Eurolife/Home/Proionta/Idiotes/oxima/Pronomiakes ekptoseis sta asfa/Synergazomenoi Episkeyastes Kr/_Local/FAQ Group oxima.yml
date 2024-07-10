@@ -1,0 +1,56 @@
+﻿---
+ID: "5b33df4f-ae13-4b2d-9ca2-c47e1ac9a278"
+Parent: "2c04e8cb-2846-4f79-8973-ce1492762d72"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/FAQ Group oxima
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T133921Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {C03B4B60-6BDB-4C3D-A133-F1A2C01D2AF8}
+        {C7A9FC40-B4AB-49E1-A981-34DBF7497C36}
+        {BD3E8C43-2406-4DBB-8DB8-15C5DC85D170}
+        {8B7989D7-FBAD-4698-AE04-576E4882CED8}
+        {7EC1F568-6626-4373-A18B-921593078AF2}
+        {0CDBFB83-056E-49E9-AEE2-B55697B4AFAC}
+        {A07C9FD8-B8B2-40A8-B1CC-622A79F4783B}
+        {61892582-29A0-42FD-A583-91A0B6A5AD84}
+        {622DEE02-63CF-4A12-B42A-59F5C1A6E18C}
+        {911371BB-8E56-4EDD-AFC3-805A5C780A97}
+        {20148ED2-B626-4386-A7B7-AF4D7B7603D8}
+        {DDAE3345-A8BC-45E6-AAF3-5772C9FA4E31}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T141017Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,33 @@
+﻿---
+ID: "2e79dc43-26b2-4590-bc93-ee0f916e7ebc"
+Parent: "3a07caac-6eb1-4d6d-94e3-71f19d9ae2b8"
+Template: "52f74fb9-cfb4-4fdd-8388-6a693d21a2d7"
+Path: /sitecore/content/Eurolife/Home/exipiretisi/_Local/Highlights/Highlights List/frontida autokinitou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190730T135519Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: |
+        <image mediaid="{7EEC4C71-8C06-4B0B-B066-439399AB6A0E}" />
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Φροντίδα Οχήματος Autoassist
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "678ca6e6-b6f0-4bb1-b09e-972ad0d9c5c4"
+      Hint: CTA
+      Value: |
+        <link id="{368CA56D-2061-4C12-B71F-F8A0D417B72E}" querystring="" target="" text="ΥΠΗΡΕΣΕΙΣ &amp; ΣΥΝΕΡΓΕΙΑ" anchor="" title="" class="" url="/Eurolife/Home/exipiretisi/frontida-oximatos-autoassist" linktype="internal" />
+    - ID: "db34680e-d68f-40df-835d-41238824a281"
+      Hint: HighlightClass
+      Type: TreelistEx
+      Value: 

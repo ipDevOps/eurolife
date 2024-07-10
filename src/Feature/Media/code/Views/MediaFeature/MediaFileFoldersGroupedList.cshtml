@@ -1,0 +1,108 @@
+﻿@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Media.Models
+@using Wedia.Feature.Media
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model FileGroups
+@{
+  if (!Model?.Groups?.Any() ?? true)
+  {
+    @Html.PageEditorError(Html.Sitecore().Dictionary("/Media/Files Grouped List/Not Any Documents", "Not any Documents"))
+    return;
+  }
+
+  var activeParent = new FileGroup();
+  var activeSubgroup = new FileGroup();
+}
+
+<div class="color-container">
+  <div class="center center--1700 m-b-112 t-c js-scroll-items scroll-items">
+    @foreach (var parentCategory in Model.Groups)
+    {
+
+      if (parentCategory.IsActive)
+      {
+        activeParent = parentCategory;
+      }
+
+
+      using (Html.BeginEditFrame(parentCategory.Item.ID.ToString(), ""))
+      {
+        <a href="@($" {Sitecore.Mvc.Presentation.RenderingContext.Current.ContextItem.Url()}?group={parentCategory.Item.ID}")"
+           class="tab  @(parentCategory.IsActive ? " tab--active" : "" ) item">
+          @parentCategory.Item.Field(Templates.HasMediaGroupTitle.Fields.Title)
+        </a>
+      }
+
+    }
+  </div>
+</div>
+
+@if (activeParent != null && activeParent.SubGroups.Groups != null && activeParent.SubGroups.Groups.Any())
+{
+  <section>
+    <div class="center--1100 center">
+      <div class="droplist js-droplist">
+        @{
+          var listItems = string.Empty;
+        }
+        @foreach (var subGroup in activeParent.SubGroups.Groups)
+        {
+          if (subGroup.IsActive)
+          {
+            activeSubgroup = subGroup;
+            <label class="droplist-trigger"
+                   aria-label="@Html.Sitecore().Field(Templates.HasMediaGroupTitle.Fields.Title, subGroup.Item, new { DisableWebEdit = true})"
+                   role="button">
+              @subGroup.Item.Field(Templates.HasMediaGroupTitle.Fields.Title)
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+                <defs>
+                  <path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z"></path>
+                </defs>
+                <use fill="#003B4D" fill-rule="nonzero" transform="rotate(90 29.99 30)" xlink:href="#a"></use>
+              </svg>
+            </label>
+          }
+          else
+          {
+            listItems += $@"
+      <li>
+        <a href='{Sitecore.Mvc.Presentation.RenderingContext.Current.ContextItem.Url()}?group={subGroup.Item.ID}'>
+          {subGroup.Item.Fields[Templates.HasMediaGroupTitle.Fields.Title]?.Value}
+        </a>
+      </li>";
+          }
+        }
+        <div class="droplist__options">
+          <ul>
+            @Html.Raw(listItems)
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+}
+else
+{
+  activeSubgroup = activeParent;
+}
+
+@if (activeSubgroup.Files != null && activeSubgroup.Files.Results != null && activeSubgroup.Files.Results.Any())
+{
+  <div id="pdf-list" class="list center center--1100 m-b-112">
+    <div class="list__filters m-b-48">
+    </div>
+    @Html.Partial("../MediaFeature/MediaFileGroup", activeSubgroup)
+  </div>
+
+  if (activeSubgroup.Files.TotalNumberOfResults > activeSubgroup.Files.Results.Count()
+    && Sitecore.Mvc.Presentation.RenderingContext.Current.ContextItem.TemplateID != Templates.FinancialReports.ID)
+  {
+    <div><button id="loadMoreBtn" 
+                 data-group="@activeSubgroup.Item.ID" 
+                 data-page="@activeSubgroup.Page"
+                 data-results-on-page="@activeSubgroup.ResultsOnPage">Load  More</button></div>
+  }
+}
+
+

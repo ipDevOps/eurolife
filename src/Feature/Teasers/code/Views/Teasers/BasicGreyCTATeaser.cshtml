@@ -1,0 +1,30 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserHeadline.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserHeadline.ID),
+        AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+        Model.Item?.ID,
+        Model.Rendering.Item?.ID)
+  return;
+}
+
+<div class="list__item list__item--double">
+  @if (Model.Item.FieldHasValue(Templates.HasTeaserHeadline.Fields.Title))
+  {
+    <h4 class="list__title">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h4>
+  }  
+  @if (Model.Item.DescendsFrom(Templates.HasTeaserCTA.ID))
+  { 
+    if (Model.Item.FieldHasValue(Templates.HasTeaserCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="list__download">
+        @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class = "btn btn--default btn--dark" })
+      </div>      
+    }
+  }
+</div>

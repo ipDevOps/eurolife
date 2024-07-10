@@ -1,0 +1,49 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Person
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.Person.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.Person.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<div class="bread-overlays-no-shift relator">
+  @Html.Sitecore().Placeholder("page-layout-top")
+  <section class="center center--1100 p-t-110 leader">
+
+    @if (Model.Item.DescendsFrom(Templates.HasPersonImage.ID)
+    && (Model.Item.FieldHasValue(Templates.HasPersonImage.Fields.Image) || Sitecore.Context.PageMode.IsExperienceEditor))
+    {
+      <div class="leader__photo">
+        @Html.Sitecore().ImageField(Templates.HasPersonImage.Fields.Image, Wedia.Feature.Person.Constants.ImageDimensions.Profile.Height, Wedia.Feature.Person.Constants.ImageDimensions.Profile.Width)
+      </div>
+    }
+
+    <div class="leader__info">
+      @if (Html.Sitecore().HasValue(Templates.Person.Fields.Title.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+        <h1 class="leader__name">@Html.Sitecore().Field(Templates.Person.Fields.Title)</h1>
+      }
+
+      @if (Model.Item.DescendsFrom(Templates.HasPersonPosition.ID) 
+        && (Html.Sitecore().HasValue(Templates.HasPersonPosition.Fields.Position.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor))
+      {
+        <h2 class="leader__position">@Html.Sitecore().Field(Templates.HasPersonPosition.Fields.Position)</h2>
+      }
+
+      @if (Model.Item.DescendsFrom(Templates.HasPersonQuote.ID) 
+        && (Html.Sitecore().HasValue(Templates.HasPersonQuote.Fields.Quote.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor))
+      {
+        <div class="leader__quote">
+          @Html.Sitecore().Field(Templates.HasPersonQuote.Fields.Quote)
+        </div>
+      }
+    </div>
+  </section>
+</div>

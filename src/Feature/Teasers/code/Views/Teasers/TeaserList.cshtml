@@ -1,0 +1,51 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Feature.Teasers.Models.DynamicTeaserModel
+@{
+  var elements = Model.Items.ToList();
+}
+<section class="m-b-112 m-t-112 center--1100 center zigzag relator" id="zigzag">
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    if ((Model.Item.FieldHasValue(Templates.HasTeaserHeadline.Fields.Title) || !Sitecore.Context.PageMode.IsNormal) && (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary) || !Sitecore.Context.PageMode.IsNormal))
+    {
+      <h1 class="h4 m-b-8 t-c">
+        @Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)
+      </h1>
+      <p class="m-b-48 t-c center center--650">
+        @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+      </p>
+    }
+    else
+    {
+
+      if (Model.Item.FieldHasValue(Templates.HasTeaserHeadline.Fields.Title) || !Sitecore.Context.PageMode.IsNormal)
+      {
+      <h1 class="h4 m-b-48 t-c">
+        @Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)
+      </h1>
+      }
+
+
+      if (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary) || !Sitecore.Context.PageMode.IsNormal)
+      {
+      <p class="m-b-48 t-c center center--650">
+        @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+      </p>
+      }
+
+    }
+
+    using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+    {
+
+      for (var i = 0; i < elements.Count; i++)
+      {
+
+        @Html.Sitecore().DynamicPlaceholder($"teaser-placeholder-{i + 1}")
+      }
+    }
+  }
+
+
+</section>

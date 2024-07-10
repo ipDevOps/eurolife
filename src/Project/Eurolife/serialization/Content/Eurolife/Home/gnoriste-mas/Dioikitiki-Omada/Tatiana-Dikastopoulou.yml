@@ -1,0 +1,65 @@
+﻿---
+ID: "0f9a21a9-63c3-44f9-bc96-5848f9417269"
+Parent: "16351d16-de59-4f85-b750-07e16e068026"
+Template: "ce1d7e61-0867-4d85-8661-ebea1d8b48ea"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Dioikitiki-Omada/Tatiana-Dikastopoulou"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 197
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191116T155827Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Τατιάνα Δικαστοπούλου
+    - ID: "3a28c78d-3c5e-4d7b-837b-9f511fb70d80"
+      Hint: PersonBody
+      Value: |
+        &Eta; &kappa;. &Delta;&iota;&kappa;&alpha;&sigma;&tau;&omicron;&pi;&omicron;ύ&lambda;&omicron;&upsilon; &epsilon;&nu;&tau;ά&chi;&theta;&eta;&kappa;&epsilon; &sigma;&tau;&omicron; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ό &tau;&eta;&sigmaf; Eurolife ERB A&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &tau;&omicron; &Mu;ά&rho;&tau;&iota;&omicron; &tau;&omicron;&upsilon; 2010 &alpha;&nu;&alpha;&lambda;&alpha;&mu;&beta;ά&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta; &Delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta; Marketing &eta; &omicron;&pi;&omicron;ί&alpha; &sigma;&tau;&eta; &sigma;&upsilon;&nu;έ&chi;&epsilon;&iota;&alpha; &delta;&iota;&epsilon;&upsilon;&rho;ύ&nu;&theta;&eta;&kappa;&epsilon; &sigma;&upsilon;&mu;&pi;&epsilon;&rho;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &alpha;&rho;&mu;&omicron;&delta;&iota;ό&tau;&eta;&tau;&epsilon;&sigmaf; &pi;&omicron;&upsilon; &alpha;&phi;&omicron;&rho;&omicron;ύ&nu; &sigma;&tau;&eta;&nu; &Alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &Nu;έ&omega;&nu; &Epsilon;&rho;&gamma;&alpha;&sigma;&iota;ώ&nu;. &Pi;&alpha;&rho;ά&lambda;&lambda;&eta;&lambda;&alpha;, &epsilon;ί&nu;&alpha;&iota; &mu;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &Epsilon;&pi;&iota;&tau;&rho;&omicron;&pi;ή&sigmaf; &Delta;&iota;&epsilon;&theta;&nu;ώ&nu; &kappa;&alpha;&iota; &Delta;&eta;&mu;&omicron;&sigma;ί&omega;&nu; &Sigma;&chi;έ&sigma;&epsilon;&omega;&nu; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;&iota;ώ&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;&sigmaf;.<br />
+        &Epsilon;ί&nu;&alpha;&iota; &kappa;ά&tau;&omicron;&chi;&omicron;&sigmaf; BA &sigma;&tau;&omicron; Marketing Management &alpha;&pi;ό &tau;&omicron; &Alpha;&mu;&epsilon;&rho;&iota;&kappa;ά&nu;&iota;&kappa;&omicron; &Kappa;&omicron;&lambda;&lambda;έ&gamma;&iota;&omicron; &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf;. <br />
+        <br />
+        &Pi;&alpha;&rho;ά&lambda;&lambda;&eta;&lambda;&alpha;, &mu;&epsilon; &tau;&iota;&sigmaf; &sigma;&pi;&omicron;&upsilon;&delta;έ&sigmaf; &tau;&eta;&sigmaf; &sigma;&tau;&omicron; Deree &pi;&alpha;&rho;&alpha;&kappa;&omicron;&lambda;&omicron;ύ&theta;&eta;&sigma;&epsilon; &tau;&omicron; &Pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &Delta;&iota;&alpha;&phi;ή&mu;&iota;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &Epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf; &tau;&eta;&sigmaf; &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή&sigmaf; &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &Delta;&iota;&omicron;&iota;&kappa;ή&sigma;&epsilon;&omega;&sigmaf; &Epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&omega;&nu; &alpha;&pi;ό &tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &alpha;&pi;έ&kappa;&tau;&eta;&sigma;&epsilon; &tau;&omicron; &Delta;ί&pi;&lambda;&omega;&mu;&alpha; &Sigma;&tau;&epsilon;&lambda;&epsilon;&chi;ώ&nu; &Delta;&iota;&alpha;&phi;ή&mu;&iota;&sigma;&eta;&sigmaf;.<br />
+        <br />
+        Έ&chi;&epsilon;&iota; &epsilon;&rho;&gamma;&alpha;&sigma;&tau;&epsilon;ί &gamma;&iota;&alpha; &pi;&omicron;&lambda;&lambda;ά έ&tau;&eta; &sigma;&tau;&omicron;&nu; Ό&mu;&iota;&lambda;&omicron; Eurobank &sigma;&epsilon; &alpha;&nu;&tau;ί&sigma;&tau;&omicron;&iota;&chi;&epsilon;&sigmaf; &theta;έ&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&omicron; &Tau;&mu;ή&mu;&alpha; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &mu;&epsilon;&gamma;ά&lambda;&omega;&nu; &pi;&omicron;&lambda;&upsilon;&epsilon;&theta;&nu;&iota;&kappa;ώ&nu; &delta;&iota;&alpha;&phi;&eta;&mu;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &epsilon;&tau;&alpha;&iota;&rho;&iota;ώ&nu; έ&chi;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &epsilon;&upsilon;&theta;ύ&nu;&eta; &tau;&eta;&sigmaf; &tau;&eta; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ώ&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ώ&nu; &kappa;&alpha;&iota; &pi;&omicron;&lambda;&upsilon;&epsilon;&theta;&nu;&iota;&kappa;ώ&nu; &lambda;&omicron;&gamma;&alpha;&rho;&iota;&alpha;&sigma;&mu;ώ&nu;.
+    - ID: "47e95858-efcc-4862-8a26-3905105ece5b"
+      Hint: PersonQuote
+      Value: Σε έναν κόσμο που αλλάξει συνεχώς, οφείλουμε να αλλάζουμε κι εμείς, να εξελισσόμαστε, να πορευόμαστε παράλληλα με την κοινωνία και τους πελάτες μας φροντίζοντας να απομακρύνουμε όσο περισσότερο μπορούμε τα εμπόδια και να στεκόμαστε δίπλα τους για να έχουν τη δύναμη να προχωράνε μπροστά
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Τατιάνα Δικαστοπούλου
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Τατιάνα Δικαστοπούλου
+    - ID: "a212c93a-7c83-4fed-bc5a-5b035baeff50"
+      Hint: PersonImage
+      Value: |
+        <image mediaid="{BE2EECE5-1F60-426C-A871-48154CAAA985}" />
+    - ID: "e57a5fee-e68d-4d37-ac1f-edc51e551121"
+      Hint: PersonPosition
+      Value: Αναπληρωτής Γενικός Διευθυντής Marketing & Ανάπτυξης Εργασιών
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Τατιάνα Δικαστοπούλου

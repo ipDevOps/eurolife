@@ -1,0 +1,24 @@
+﻿---
+ID: "0af72ba8-ca5c-4602-b8fa-fc73be05d8cd"
+Parent: "1a95c35c-40e8-4741-b991-dfcb19622b09"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Programs Attributes/paroxi/katavoli kefalaiou prin ti liksi tis asfalisis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T211604Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Καταβολή κεφαλαίου στους δικαιούχους

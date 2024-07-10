@@ -1,0 +1,18 @@
+﻿---
+ID: "81809877-1c59-4460-86d1-012a94a7d04a"
+Parent: "f022e87f-dfe2-4586-82f9-299e6686c03c"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/epistrofi app/Teaser dummy
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T132508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

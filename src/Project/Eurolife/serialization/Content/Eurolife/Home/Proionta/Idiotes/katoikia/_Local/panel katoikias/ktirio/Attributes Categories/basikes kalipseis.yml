@@ -1,0 +1,33 @@
+﻿---
+ID: "39a8e9dd-a6cb-4ca9-8f73-2864021e6623"
+Parent: "c92a8f08-42cb-43be-bf27-2b9ea27ecad8"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio/Attributes Categories/basikes kalipseis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {DB366D3C-7C7F-4A99-BA45-A722BEEA05D4}
+        {8BB54EA1-B40C-4B61-87A6-300D8961C658}
+        {FCD3BF65-A487-4A4E-897A-AF689F20D76C}
+        {426FF228-F6AF-4D16-8814-976B3892BB4B}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T085022Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: sdafdsf

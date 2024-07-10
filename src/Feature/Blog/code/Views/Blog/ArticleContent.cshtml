@@ -1,0 +1,107 @@
+﻿@using Wedia.Feature.Blog
+@using Wedia.Feature.Blog.Models
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using System.Linq
+
+@model  ArticleViewModel
+
+@if (!Model?.RenderingItem?.DescendsFrom(Templates.BlogPost.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.BlogPost.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.RenderingItem?.ID,
+      Model.RenderingItem?.ID)
+  return;
+}
+
+@{
+  var url = Request.Url + Sitecore.Links.LinkManager.GetItemUrl(Model.RenderingItem);
+  var title = Html.Sitecore().Field(Templates.HasBlogContent.Fields.Title);
+}
+
+<article class="article_content">
+  <div class="center center--760 m-b-64 m-t-64 t-c">
+    @if (Html.Sitecore().HasValue(Templates.HasBlogContent.Fields.Title.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <h1 class="h2 m-b-16">@Html.Sitecore().Field(Templates.HasBlogContent.Fields.Title)</h1>
+    }
+
+    @if (Html.Sitecore().HasValue(Templates.HasBlogContent.Fields.Teaser.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="light">
+        @Html.Sitecore().Field(Templates.HasBlogContent.Fields.Teaser)
+      </div>
+    }
+  </div>
+
+  <div class="center center--1100 blog-content">
+
+    @if (Sitecore.Context.PageMode.IsExperienceEditor || Html.Sitecore().HasValue(Templates.HasBlogContent.Fields.Image.ToString()))
+    {
+      @Html.Sitecore().ImageField(Templates.HasBlogContent.Fields.Image, Model.RenderingItem,
+        0,
+        1460)
+    }
+
+    <div class="blog-content__body blog-content__health">
+      @Html.Sitecore().Field(Templates.HasBlogContent.Fields.MainContent)
+      @Html.Sitecore().Field(Templates.HasBlogContent.Fields.ContentPart2)
+    </div>
+  </div>
+
+  @Html.Sitecore().Placeholder("promo-section")
+
+  <div class="article__low center center--1100 m-t-64 m-b-64">
+
+    @if (Model.LifeStages != null || Model.Tags != null)
+    {
+      <ul class="article__tags">
+        @if (Model.Tags != null && Model.Tags.Any())
+        {
+          foreach (var tag in Model.Tags)
+          {
+            <li> <a href="@tag.URL" class="blog-tag @tag.Color--fill @tag.Color">@tag.Title</a></li>
+          }
+        }
+        @if (Model.LifeStages != null && Model.LifeStages.Any())
+        {
+          foreach (var lifeStage in Model.LifeStages)
+          {
+            <li><a href="@lifeStage.URL">@lifeStage.Hashtag</a></li>
+          }
+        }
+      </ul>
+    }
+
+    <ul class="article__sharing">
+      <li><b>@Html.Sitecore().Dictionary("/Blog/Article/Share")</b></li>
+      <li>
+        <a rel="nofollow noopener noreferrer" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=@url" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=545,width=560');return false;" target="_blank">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <path fill-rule="evenodd" fill="#999999" d="M13.986 7.864V5.796c0-.31.014-.55.043-.72.028-.17.093-.338.193-.503.1-.165.263-.28.487-.342.225-.064.523-.095.896-.095h2.033V0h-3.251c-1.881 0-3.232.454-4.054 1.361-.82.908-1.231 2.246-1.231 4.013v2.49H6.667V12h2.435v12h4.884V12h3.25l.43-4.136h-3.68z"></path>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a rel="nofollow noopener noreferrer" title="Share on Twitter" href="https://twitter.com/share?url=@url&amp;text=@title Text&amp;via=eurolife_erb" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" target="_blank">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+            <path fill="#999999" fill-rule="evenodd" d="M24 5.033a9.64 9.64 0 0 1-2.827.795 5.051 5.051 0 0 0 2.164-2.792 9.775 9.775 0 0 1-3.128 1.226 4.853 4.853 0 0 0-3.594-1.595c-2.719 0-4.923 2.261-4.923 5.05 0 .395.043.78.127 1.15C7.728 8.657 4.1 6.645 1.672 3.59a5.112 5.112 0 0 0-.666 2.538c0 1.753.87 3.3 2.19 4.204a4.83 4.83 0 0 1-2.23-.634v.063c0 2.446 1.697 4.488 3.949 4.953a4.869 4.869 0 0 1-1.298.177 4.61 4.61 0 0 1-.927-.094c.627 2.008 2.445 3.468 4.599 3.508a9.72 9.72 0 0 1-6.115 2.158c-.397 0-.789-.024-1.174-.069a13.663 13.663 0 0 0 7.547 2.273c9.056 0 14.007-7.696 14.007-14.37l-.017-.655A9.975 9.975 0 0 0 24 5.033z"></path>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="mailto:?subject=@title" rel="nofollow noopener noreferrer" title="Email to a Friend">
+          <svg enable-background="new 0 0 32 32" fill="#999999" height="32px" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M4.274,8.663l10.034,7.948c0.455,0.36,1.082,0.52,1.691,0.49c0.609,0.029,1.236-0.13,1.691-0.49   l10.034-7.948c0.802-0.634,0.62-1.152-0.4-1.152H16H4.675C3.654,7.511,3.473,8.029,4.274,8.663z" fill="#999999" /><path d="M28.448,10.76l-10.965,8.324c-0.41,0.309-0.947,0.459-1.483,0.453c-0.536,0.006-1.073-0.145-1.483-0.453   L3.552,10.76c-0.814-0.617-1.48-0.286-1.48,0.735v13.659c0,1.021,0.836,1.856,1.857,1.856H16h12.071   c1.021,0,1.857-0.836,1.857-1.856V11.495C29.929,10.474,29.263,10.143,28.448,10.76z" /></g></svg>
+        </a>
+      </li>
+      <li>
+        <a href="javascript:window.print();" rel="nofollow noopener noreferrer" title="Print this article">
+          <svg enable-background="new 0 0 50 50" height="50px" version="1.1" viewBox="0 0 50 50" width="50px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect fill="none" height="50" width="50" /><circle fill="#999999" cx="43" cy="21" r="2" /><path d="M40,15V1H10v14" fill="none" stroke="#999999" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" /><path d="M40,29v20H10V29H40z" fill="none" stroke="#999999" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" /><path d="M10,40H3  c-1.104,0-2-0.896-2-2V17c0-1.104,0.896-2,2-2h44c1.104,0,2,0.896,2,2v21c0,1.104-0.896,2-2,2h-7" fill="none" stroke="#999999" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" /><line fill="none" stroke="#999999" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" x1="35" x2="15" y1="35" y2="35" /><line fill="none" stroke="#999999" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" x1="31" x2="15" y1="39" y2="39" /><line fill="none" stroke="#999999" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" x1="35" x2="15" y1="43" y2="43" /></svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</article>

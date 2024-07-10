@@ -1,0 +1,32 @@
+﻿---
+ID: "2d90629b-5fb6-436e-98cc-5ba90e29ca9d"
+Parent: "73047f68-664e-4419-9728-afbf28ce3a49"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/xrisima-eggrafa/_Local/eggrafa vasikon pliroforion autokinito"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T105253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {27F51CF8-4CFA-4426-82DD-D8B3FEF1F5C7}
+        {25CA9CDC-9DE1-4710-B565-6DC50564BBA9}
+        {4AFEA86B-DD93-42BB-B9D8-FDA94B58F8B5}
+        {2FBBD0C0-BD14-4B2E-AC97-19215A695242}
+        {D98CCEE9-3C1B-45EB-9CAA-0289060DDFEB}
+        {897A3E6A-A63D-4499-8FEC-D720569752EE}
+        {9EFD547F-29C3-4504-8EB3-422C3C6F4F38}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Έγγραφα Πληροφοριών Προϊόντων - Όχημα"

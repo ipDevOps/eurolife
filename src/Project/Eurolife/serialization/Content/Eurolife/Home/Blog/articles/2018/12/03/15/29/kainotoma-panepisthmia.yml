@@ -1,0 +1,43 @@
+﻿---
+ID: "2683d4bd-4f81-4e0e-8aa0-39383dc80a0f"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/kainotoma-panepisthmia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152945Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Τα 10 πιο καινοτόμα Πανεπιστήμια στον κόσμο
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{6B1A39D7-029E-4407-93F8-6C5D81B9DDE8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p></p><p>Υπάρχουν πολλοί και ποικίλοι τρόποι κατάταξης των Πανεπιστημίων του κόσμου, βάσει διαφορετικών κριτηρίων, από τον αριθμό των φοιτητών τους, έως τον βαθμό αποδοχής τους από την επιστημονική ή την ακαδημαϊκή κοινότητα, ή την προτίμηση των οργανισμών-εργοδοτών στους αποφοίτους τους. Ανάμεσα στους «συνήθεις υπόπτους», όπως το Harvard ή το Stanford, φιγουράρουν μερικά πανεπιστήμια που ίσως δεν γνωρίζατε.</p><p>Είτε έχετε παιδιά στο Λύκειο είτε μικρότερα είναι λογικό να σκέφτεστε το ακαδημαϊκό και το επαγγελματικό μέλλον τους και να κάνετε όνειρα. Δεν θα ήταν κι άσχημα αν φοιτούσαν σε ένα Πανεπιστήμιο κορυφαίας κατάταξης, που έχει ερευνητικά προγράμματα διαφόρων ειδών, που ευνοεί την καινοτομία και που, κατά μία έννοια, εξασφαλίζει και την επαγγελματική αποκατάσταση των φοιτητών. </p><p><a name="_jo3llo8uigaj"></a>Η κατάταξη των καινοτόμων πανεπιστημίων μπορεί να έχει αλλάξει μέχρι να έρθει η ώρα του μεταπτυχιακού του παιδιού σας, του αυριανού… Νομπελίστα! Όμως, ένα λιθαράκι για να κάνετε το όνειρό σας –ή έστω μέρος αυτού- πραγματικότητα, μπορείτε να ξεκινήσετε να βάζετε από σήμερα, επενδύοντας σε <a href="https://www.eurolife.gr/el/Products/Apotamieush/Spoudes/easy-plan-spoudes-taktikon-katavolon">ένα πρόγραμμα σπουδών</a>. Οι συνεχείς καινοτομίες εξασφαλίζουν ότι τα <a href="~/link.aspx?_id=0946E5181A8A4404A3057EAC715FACCE&amp;_z=z">επαγγέλματα του μέλλοντος </a>θα αυξάνονται και άρα θα υπάρχουν σπουδαίες ευκαιρίες σπουδών για τους νέους και θα μπορέσετε να βοηθήσετε το παιδί σας να τις αξιοποιήσει.</p><p><a name="_897y28o9sugw"></a>Αυτή τη στιγμή πάντως, με κριτήριο την καινοτομία, <strong>τα 10 κορυφαία πανεπιστήμια του κόσμου για το 2018</strong>, μετρώντας αντίστροφα, είναι:</p><p style="background: white;"><strong>10. </strong><strong>Vanderbilt</strong><strong> </strong><strong>University</strong><strong>, </strong>Nashville, ΗΠΑ: Πρόσφατη έρευνα του πανεπιστημίου μπορεί να οδηγήσει σε καινοτομία, σε σχέση με την κατασκευή ηλεκτρικών στηλών στερεάς κατάστασης.<strong></strong></p><p style="background: white;"><strong>9. </strong><strong>University</strong><strong> </strong><strong>of</strong><strong> </strong><strong>North</strong><strong> </strong><strong>Carolina</strong><strong> </strong><strong>Chapel</strong><strong> </strong><strong>Hill</strong><strong>, </strong>North Carolina, ΗΠΑ: Το Φεβρουάριο του 2018 ανακοινώθηκε ότι ερευνητές του Πανεπιστημίου έχουν δημιουργήσει γενετικά τροποποιημένα καρκινικά κύτταρα που μπορούν να καταπολεμήσουν στον όγκο του εγκεφάλου.</p><p style="background: white;"><strong>8. </strong><strong>Imperial</strong><strong> </strong><strong>College</strong><strong> </strong><strong>London</strong><strong>,</strong> Ηνωμένο Βασίλειο<strong>: </strong>Πρόσφατα ανακοινώθηκε η συνεργασία ερευνητών του πανεπιστημίου με μια φαρμακευτική εταιρεία προκειμένου να τεστάρουν ένα φάρμακο για την καταπολέμηση του καρκίνου του μαστού και ορισμένων τύπων εγκεφαλικού επεισοδίου.</p><p style="background: white;"><strong>7. </strong><strong>KU</strong><strong> </strong><strong>Leuven</strong><strong>, Βέλγιο: Ερευνητές του πανεπιστημίου αναπτύσσουν ένα «εργαστήριο σε τσιπ» το οποίο μπορεί εύκολα και με ακρίβεια να διαγνώσει ασθένειες με μια σταγόνα αίματος.</strong><strong></strong></p><p style="background: white;"><strong>6.</strong> <strong>University</strong><strong> </strong><strong>of</strong><strong> </strong><strong>Texas</strong>, Austin, ΗΠΑ: O ετήσιος προϋπολογισμός του για θέματα έρευνας ξεπερνά τα 2,7 δις δολάρια.</p><p style="background: white;"><strong>5.</strong> <strong>University</strong><strong> </strong><strong>of</strong><strong> </strong><strong>Washington</strong>, Seattle, ΗΠΑ: Πρόκειται για ένα δημόσιο πανεπιστήμιο που τα τελευταία 20 χρόνια έχει αυξήσει τον προϋπολογισμό του για έρευνα σε περισσότερο από 1.62 δις.</p><p><strong>4.</strong> <strong>University</strong><strong> </strong><strong>of</strong><strong> </strong><strong>Pennsylvania</strong>, Philadelphia, ΗΠΑ: Λειτουργεί 137 ερευνητικά κέντρα με προϋπολογισμό 966 εκ. δολάρια και βρίσκεται σε αυτή τη θέση στη λίστα του Reuters για δεύτερη συνεχή χρονιά!<strong></strong></p><p style="background: white;"><strong>3.</strong> <strong>Harvard</strong><strong> </strong><strong>University</strong>, Cambridge, Massachusetts, ΗΠΑ:&nbsp; Από το Harvard έχουν αποφοιτήσει 48 Νομπελίστες και 48 νικητές του βραβείου Πούλιτζερ.</p><p style="background: white;"><strong>2.</strong>&nbsp;<strong>Massachusetts</strong><strong> </strong><strong>Institute</strong><strong> </strong><strong>of</strong><strong> </strong><strong>Technology</strong>&nbsp;(MIT), Cambridge, ΗΠΑ: Οι εταιρείες που έχουν ιδρυθεί από αποφοίτους του, απασχολούν συνολικά 4,6 εκ. άτομα. Το MIT διατηρεί τη δεύτερη θέση στη λίστα, για τέταρτη συνεχή χρονιά.</p><strong>1.</strong> <strong>Stanford</strong><strong> </strong><strong>University</strong>, California, ΗΠΑ: Απόφοιτοί του έχουν δημιουργήσει εταιρείες-κολοσσούς στον χώρο της τεχνολογίας, όπως η Google, η Hewlett-Packard&nbsp;και η Cisco.&nbsp;Το Stanford βρίσκεται στην πρώτη θέση της λίστας για 4<sup>η</sup> χρονιά!<p style="margin-left: 0.25in;"><a href="https://www.youtube.com/watch?v=VvV-nVP_VD8"><em></em></a><a href="https://www.youtube.com/watch?v=VvV-nVP_VD8"></a></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p>Το <a href=""https://www.reuters.com/article/us-amers-reuters-ranking-innovative-univ/reuters-top-100-the-worlds-most-innovative-universities-2018-idUSKCN1ML0AZ"">Reuters κατέταξε τα Πανεπιστήμια</a> με κριτήριο τη σύνδεσή τους με την καινοτομία και εμείς σας παρουσιάζουμε τα 10 καλύτερα!</p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{A02C5A7B-4D01-46D2-984B-7393916053D1}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Τα 10 πιο καινοτόμα Πανεπιστήμια στον κόσμο
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20181102T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

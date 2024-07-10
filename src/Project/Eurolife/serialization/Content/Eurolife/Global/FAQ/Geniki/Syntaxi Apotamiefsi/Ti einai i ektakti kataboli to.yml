@@ -1,0 +1,25 @@
+﻿---
+ID: "0805c01b-3d91-4ab9-9f4a-291e9d52f79f"
+Parent: "d10e7aa5-46da-4413-abd4-f375605924a4"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Syntaxi Apotamiefsi/Ti einai i ektakti kataboli tou apotamieytikou mou programmatos
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι είναι η έκτακτη καταβολή του αποταμιευτικού μου προγράμματος;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T091515Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Epsilon;ί&nu;&alpha;&iota; &eta; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &epsilon;&phi;ά&pi;&alpha;&xi; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omicron;&upsilon; (&pi;&omicron;&sigma;&omicron;ύ &pi;&omicron;&upsilon; &kappa;&alpha;&tau;&alpha;&beta;ά&lambda;&epsilon;&iota; &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;) &omicron;&pi;&omicron;&iota;&alpha;&delta;ή&pi;&omicron;&tau;&epsilon; &sigma;&tau;&iota;&gamma;&mu;ή &kappa;&alpha;&tau;ά &tau;&eta; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf;. &Tau;&omicron; &epsilon;&phi;ά&pi;&alpha;&xi; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&omicron; &theta;&alpha; &alpha;&upsilon;&xi;ή&sigma;&epsilon;&iota; &tau;&omicron; &pi;&omicron;&sigma;ό &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon;.</span>

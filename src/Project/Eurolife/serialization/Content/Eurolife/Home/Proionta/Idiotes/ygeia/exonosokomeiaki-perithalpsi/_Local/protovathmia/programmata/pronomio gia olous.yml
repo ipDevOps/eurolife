@@ -1,0 +1,34 @@
+﻿---
+ID: "2fc5547c-8be2-4842-a3df-983b8cac9a68"
+Parent: "f5598966-104a-47da-8d0d-19921a51a38b"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/exonosokomeiaki-perithalpsi/_Local/protovathmia/programmata/pronomio gia olous"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T130214Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Προνόμιο για όλους
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {ACF805CF-CE25-4338-B9D5-F246CCB52926}
+        {B4B73D6F-6EAA-4B57-BF4D-B131BC3E254E}
+        {0480138E-A467-445F-A85F-851087C1ED2E}
+        {7AA56347-7CFB-46DD-85B6-79B418873910}
+        {DA508B30-8C2C-4B0D-A0B7-F708AA8467F6}
+        {7717C5E5-A07C-46C3-8723-3C68B85C5423}
+        {F7BEC7E3-1CBB-4DA0-8342-8D64A1EBDA4B}
+        {4A2AFA71-5B52-4948-9555-9B1169321F5E}
+        {7C670823-DFBF-4CD7-881F-504B32D21A75}

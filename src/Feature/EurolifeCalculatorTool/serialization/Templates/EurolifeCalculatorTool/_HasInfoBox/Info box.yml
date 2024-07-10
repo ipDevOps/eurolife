@@ -1,0 +1,18 @@
+﻿---
+ID: "896c6d22-58f7-4190-b928-a416b629b686"
+Parent: "a4e88bf2-6719-4dab-b33c-e9b077c58d5e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/EurolifeCalculatorTool/_HasInfoBox/Info box
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T105058Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

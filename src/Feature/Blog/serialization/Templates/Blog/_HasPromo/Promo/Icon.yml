@@ -1,0 +1,18 @@
+﻿---
+ID: "846ea033-54e2-48ab-bd8e-5ca53d177000"
+Parent: "170514b7-a5e6-4fa0-baaf-0cfd52b98884"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Blog/_HasPromo/Promo/Icon
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200131T090710Z

@@ -1,0 +1,205 @@
+/*------------------------------------*\
+  #TIMELINE
+\*------------------------------------*/
+.timeline {
+  position: relative;
+
+  li {
+    margin: 64px 0;
+    position: relative;
+
+    @include breakpoint(700) {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    .dot {
+      position: absolute;
+      top: 5px;
+      left: 10px;
+      height: 30px;
+      width: 30px;
+      background-color: #fff;
+      z-index: 3;
+      border-radius: 50%;
+      border: 1px solid $color-base;
+
+      @include breakpoint(700) {
+        left: 120px;
+      }
+
+      &:after {
+        content: '';
+        position: absolute;
+        top: 3px;
+        left: 13px;
+        height: 22px;
+        width: 22px;
+        background-color: $color-base;
+        z-index: 3;
+        border-radius: 50%;
+        margin-left: -10px;
+      }
+    }
+
+    &:last-child:after {
+      content: '';
+      position: absolute;
+      top: 10px;
+      bottom: 0;
+      left: 25px;
+      height: 100%;
+      width: 2px;
+      background-color: #fff;
+      z-index: 2;
+      display: none;
+
+      @include breakpoint(700) {
+        left: 135px;
+        display: block;
+      }
+    }
+  }
+
+  &:after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 25px;
+    height: 100%;
+    width: 2px;
+    background-color: $color-base;
+
+    @include breakpoint(700) {
+      left: 135px;
+    }
+  }
+}
+
+.timeline__date {
+  flex-basis: 80px;
+  margin-right: 0;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.3;
+  margin-left: 50px;
+  padding: 0;
+
+  @include breakpoint(700) {
+    font-size: 32px;
+    background-color: transparent;
+    padding: 0;
+    margin-left:0;
+    margin-right: 120px;
+  }
+}
+
+.timeline__date[class^='bg'], .timeline__date[class*=' bg'] {
+  @include breakpoint-rev(700) {
+    padding: 24px 24px 0;
+  }
+}
+
+.timeline__events {
+  flex-basis: calc(100% - 200px);
+  font-size: 14px;
+
+  @include breakpoint-rev(700) {
+    > div {
+      padding: 24px;
+    }
+  }
+
+  @include breakpoint(700) {
+    font-size: 16px;
+  }
+}
+
+  .timeline__events--plain {
+    margin-top: 5px;
+    min-height: 160px;
+    padding-bottom: 50px;
+
+    @include breakpoint-rev(700) {
+      padding-left: 50px;
+    }
+  }
+
+  .timeline__text {
+    max-width: 560px;
+    line-height: 1.7;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-start;
+  }
+
+  .timeline__events__image {
+    overflow: hidden;
+
+    img {
+      width: 100%;
+
+      @include breakpoint(700) {
+        display: none;
+      }
+
+      @include breakpoint(820) {
+        display: block;
+      }
+    }
+  }
+
+  .timeline__text {
+    max-width: 560px;
+  }
+
+  .timeline__events--hightlighted {
+    display: block;
+
+    @include breakpoint-rev(700) {
+      margin-left: 50px;
+    }
+
+    @include breakpoint(700) {
+      display: flex;
+    }
+  }
+
+.timeline--inited {
+  .timeline__date {
+    transform: translateY(100px);
+    opacity: 0;
+    transition: transform 900ms ease-in-out 0s, opacity 1600ms ease-in-out 0s;
+  }
+
+  .timeline__events {
+    transform: translateY(100px);
+    opacity: 0;
+    transition: transform 900ms ease-in-out 0s, opacity 1600ms ease-in-out 0s;
+  }
+
+
+
+  .year-item--active {
+    .timeline__date {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    .timeline__events {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+}

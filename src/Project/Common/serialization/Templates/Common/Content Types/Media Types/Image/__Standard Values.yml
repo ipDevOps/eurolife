@@ -1,0 +1,18 @@
+﻿---
+ID: "8fa4ee27-af38-494a-b83a-21517432dd1a"
+Parent: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Template: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Path: /sitecore/templates/Project/Common/Content Types/Media Types/Image/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T104915Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

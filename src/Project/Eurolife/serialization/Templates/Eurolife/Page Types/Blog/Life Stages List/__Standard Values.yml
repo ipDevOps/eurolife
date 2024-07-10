@@ -1,0 +1,23 @@
+﻿---
+ID: "9ec40f98-e2cf-48e0-968a-7e97ee9ef5f2"
+Parent: "38dc2b5c-40c0-4cfc-b3c5-65973d1d5700"
+Template: "38dc2b5c-40c0-4cfc-b3c5-65973d1d5700"
+Path: /sitecore/templates/Project/Eurolife/Page Types/Blog/Life Stages List/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{3D204D86-3DB9-4721-B8AD-D4AA7F0E6F6E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T091952Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

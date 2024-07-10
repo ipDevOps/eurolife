@@ -1,0 +1,59 @@
+﻿---
+ID: "87588feb-ea2f-49ac-ad32-45bd27c4f2ff"
+Parent: "a993bf0c-93ef-4453-ae3a-1b3f93c05d40"
+Template: "a993bf0c-93ef-4453-ae3a-1b3f93c05d40"
+Path: /sitecore/templates/Project/Eurolife/Page Types/EurobankHealthTool/CalculationTool/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{373393A6-AA10-4771-B9C2-2EA1EB0583F5}">
+        <r
+          id="{20E8AA26-11C7-4A12-B7E3-A8F7C8200071}"
+          ph="head"
+          uid="{CB99E81B-5225-4510-B98E-6D5DE6CE9CED}" />
+        <r
+          id="{9D011B20-EE03-4D6F-A99B-274105DC03DF}"
+          ph="header"
+          uid="{98A330E8-CD4E-41BB-89D2-612DF12B4808}" />
+        <r
+          ds="{2C6E9D55-A6C1-4600-9875-9058F9F21DBD}"
+          id="{DB5E61BA-9B4C-4123-B200-5F30E491EE20}"
+          ph="header-top-navbar"
+          uid="{70CA3721-F67A-4BFA-8D0D-00C7B378EDE5}" />
+        <r
+          id="{64BACC2C-C203-4293-BBC9-0553A0456CFA}"
+          ph="page-layout"
+          uid="{1B81E647-A1AA-4223-BAA9-C56CF07244E9}" />
+        <r
+          id="{781CD8B2-3544-43B3-9EAC-1F952C95A93A}"
+          ph="footer"
+          uid="{2580C5FF-54B2-481B-9D8B-B2F72B48CC3D}" />
+        <r
+          id="{42FB3DFF-05D2-45D4-B920-3D771DBB813D}"
+          ph="footer-bottom"
+          uid="{3B33A41A-6308-49C3-A40D-031C0EBD8506}" />
+        <r
+          ds="{F6EC7E67-840A-4686-8368-6DC2CD9C5569}"
+          id="{814E1B60-9115-4FBB-BA23-150A4835C038}"
+          ph="footer-bottom"
+          uid="{CE69A76A-61BE-4BC0-99D9-254549F12BA2}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201103T104959Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

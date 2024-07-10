@@ -1,0 +1,18 @@
+﻿---
+ID: "ac9c3e41-d918-483a-90d8-a6d649ee0ce4"
+Parent: "7bd9ab83-16e1-4674-8ce2-81beb9fd43ca"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs Attributes/Astiki eythyni misthoti apo pyrkagia i ekrixi/Astiki eythyni misthoti apo pyrkagia i ekrixi no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T092830Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

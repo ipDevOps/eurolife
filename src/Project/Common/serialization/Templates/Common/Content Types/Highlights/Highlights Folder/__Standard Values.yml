@@ -1,0 +1,41 @@
+﻿---
+ID: "d91f28d2-4dbd-462f-9467-866cd0b9a9fe"
+Parent: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: /sitecore/templates/Project/Common/Content Types/Highlights/Highlights Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {52F74FB9-CFB4-4FDD-8388-6A693D21A2D7}
+    {2DB2CFF5-B529-4270-8F57-5F9321065F10}
+    {7753C4B8-FFB7-4EF8-8F62-85A28AE89E2C}
+    {1079F9FB-99F2-4A6C-AEA2-C3B8EB8F3AA2}
+    {8E1BB2A4-99DF-4A44-9874-CFEC616097EE}
+    {89A59513-F418-4DAE-890B-0D0DDA79F62B}
+    {E58FF9A2-2377-4437-875F-99CED2EFE94F}
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T083319Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T051630Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "73d8238b-2a99-46c1-b675-5bd403d7d788"
+Parent: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia/Pote mporo na kano allages ston tropo kai to meso pliromis ton asfalistron tou Symbolaiou mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Πότε μπορώ να κάνω αλλαγές στον τρόπο και το μέσο πληρωμής των ασφαλίστρων του Συμβολαίου μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T090055Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Theta;&alpha; &chi;&rho;&epsilon;&iota;&alpha;&sigma;&tau;&epsilon;ί &nu;&alpha; &mu;&alpha;&sigmaf; &alpha;&pi;&omicron;&sigma;&tau;&epsilon;ί&lambda;&lambda;&epsilon;&tau;&epsilon; &alpha;ί&tau;&eta;&mu;&alpha; &tau;&rho;&omicron;&pi;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &nu;&alpha; &mu;&alpha;&sigmaf; &delta;&eta;&lambda;ώ&sigma;&epsilon;&tau;&epsilon; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &pi;&omicron;&upsilon; &epsilon;&pi;&iota;&theta;&upsilon;&mu;&epsilon;ί&tau;&epsilon; &gamma;&iota;&alpha; &tau;&eta;&nu; &epsilon;&xi;ό&phi;&lambda;&eta;&sigma;&eta; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu;. </span>

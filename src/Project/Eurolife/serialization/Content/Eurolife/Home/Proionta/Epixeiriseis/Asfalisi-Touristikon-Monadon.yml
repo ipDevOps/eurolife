@@ -1,0 +1,425 @@
+﻿---
+ID: "2e031899-1ef3-4cb5-b0f6-52894c5958f8"
+Parent: "c8272a0c-9e68-43eb-bddc-b9d25cdb1250"
+Template: "dc12306a-5c27-4986-840c-aa47154f0051"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Asfalisi-Touristikon-Monadon"
+DB: master
+SharedFields:
+- ID: "3da3fb00-31f6-432d-979a-57cee52b9d8a"
+  Hint: Color
+  Value: "{C305322B-960C-4BEA-A221-AC7B5C46B339}"
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}">
+          <p:d />
+        </r>
+        <r
+          uid="{808DB0C9-D175-46EC-8A97-0F5B9601B93D}">
+          <p:d />
+        </r>
+        <r
+          uid="{9DCAC3A5-FC4B-4B6F-87C6-4A0342390064}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1E578E0D-5F78-4FC9-BD8D-DA1701696700}"
+              p:before="*"
+              s:ds="{BE71B78B-C0C6-452E-83B4-6DF510A1F7BD}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Background=%7B3ABEF2ED-9AC2-40E8-83C3-5F94B5604F31%7D&amp;FontColor"
+              s:ph="/page-layout/teaser-placeholder-2-{1DFE1820-3F8F-47CB-9742-33430374572D}-0" />
+            <r
+              uid="{7929F54A-F8E8-4B36-8D58-60E643602C45}"
+              p:after="r[@uid='{1E578E0D-5F78-4FC9-BD8D-DA1701696700}']"
+              s:ds="{F1CE1BB2-3BBA-4CC8-92A0-25688EF9350E}"
+              s:id="{907DF28B-FE15-4286-AD29-109BC7C0B98A}"
+              s:ph="/page-layout/toolkit-documents" />
+            <r
+              uid="{048E8DA2-612E-4B3D-B002-6EE5A24E19D7}"
+              p:after="r[@uid='{7929F54A-F8E8-4B36-8D58-60E643602C45}']"
+              s:ds="{B5214F94-14FA-4007-AC6D-49B25728386A}"
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:ph="/page-layout/toolkit-faq-group" />
+            <r
+              uid="{9B0818E0-9733-4665-BD06-4FD039BEFE3A}"
+              p:after="r[@uid='{048E8DA2-612E-4B3D-B002-6EE5A24E19D7}']"
+              s:ds="{8F9D149B-34E6-4846-B3A9-6A7DD7FF03CD}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="FontColor"
+              s:ph="/page-layout/teaser-placeholder-1-{1DFE1820-3F8F-47CB-9742-33430374572D}-0" />
+            <r
+              uid="{15558AE4-CB23-4E5E-AC91-29A998EB9B7E}"
+              p:after="r[@uid='{9B0818E0-9733-4665-BD06-4FD039BEFE3A}']"
+              s:ds="{3C396419-0CCB-45F3-A256-6362D917A578}"
+              s:id="{EEAE1258-7BE1-4922-A25E-767AA3A0BF8C}"
+              s:ph="/page-layout/toolkit-glossary" />
+            <r
+              uid="{33C0AD41-150A-4EED-90AA-296E9347788A}"
+              p:after="*[1=2]"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "1d7f5999-9735-4c52-9e08-47bd7df3fb40"
+      Hint: PreTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T092610Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ασφάλιση Τουριστικών Μονάδων
+    - ID: "328f77a3-08cc-4496-b8c9-184e3c194993"
+      Hint: ToolkitHowItWorks
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "4791fadd-9bb5-4efd-b542-4d2f8bb634e4"
+      Hint: ToolkitSubhead
+      Value: |
+        Στις ενότητες που ακολουθούν θα βρείτε όλες τις πληροφορίες που χρειάζεστε για να 
+        ενημερωθείτε πλήρως και να αποφασίσετε για την ασφάλισή σας.
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ασφάλιση Τουριστικών Μονάδων
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{B5327B4E-C3E2-4FBE-8DB0-4CC8F78D36CE}" />
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ΕΚΔΗΛΩΣΗ ΕΝΔΙΑΦΕΡΟΝΤΟΣ" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{B13C37FC-7395-4322-9D78-2DA41051875D}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <h2>&Xi;&epsilon;&nu;&omicron;&delta;&omicron;&chi;&epsilon;ί&alpha;, &xi;&epsilon;&nu;ώ&nu;&epsilon;&sigmaf; &kappa;&alpha;&iota; &epsilon;&nu;&omicron;&iota;&kappa;&iota;&alpha;&zeta;ό&mu;&epsilon;&nu;&alpha; &delta;&omega;&mu;ά&tau;&iota;&alpha;</h2>
+        &Sigma;&tau;&eta;&nu; Eurolife ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή έ&chi;&omicron;&upsilon;&mu;&epsilon; &mu;&epsilon;&lambda;&epsilon;&tau;ή&sigma;&epsilon;&iota; &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&eta;&sigmaf; &tau;&omicron;&upsilon;&rho;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; έ&chi;&omicron;&upsilon;&mu;&epsilon; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&sigma;&epsilon;&iota; &omicron;&lambda;&omicron;&kappa;&lambda;&eta;&rho;&omega;&mu;έ&nu;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &gamma;&iota;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &xi;&epsilon;&nu;&omicron;&delta;&omicron;&chi;&epsilon;ί&omega;&nu;, &xi;&epsilon;&nu;ώ&nu;&omega;&nu; &kappa;&alpha;&iota; &epsilon;&nu;&omicron;&iota;&kappa;&iota;&alpha;&zeta;ό&mu;&epsilon;&nu;&omega;&nu; &delta;&omega;&mu;&alpha;&tau;ί&omega;&nu;, &pi;&rho;&omicron;&sigma;&alpha;&rho;&mu;&omicron;&zeta;ό&mu;&epsilon;&nu;&omicron; &sigma;&tau;&iota;&sigmaf; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&epsilon;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &kappa;ά&theta;&epsilon; &mu;&omicron;&nu;ά&delta;&alpha;&sigmaf;.<br />
+        &Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; έ&tau;&omicron;&iota;&mu;&omicron;&iota; &nu;&alpha; &delta;&iota;&alpha;&mu;&omicron;&rho;&phi;ώ&sigma;&omicron;&upsilon;&mu;&epsilon; &mu;&alpha;&zeta;ί &sigma;&alpha;&sigmaf; &tau;&omicron;&nu; &iota;&delta;&alpha;&nu;&iota;&kappa;ό &sigma;&upsilon;&nu;&delta;&upsilon;&alpha;&sigma;&mu;ό &kappa;&alpha;&lambda;ύ&psi;&epsilon;&omega;&nu; &pi;&epsilon;&rho;&iota;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &alpha;&sigma;&tau;&iota;&kappa;ή&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf; &pi;&omicron;&upsilon; &tau;&alpha;&iota;&rho;&iota;ά&zeta;&epsilon;&iota; &sigma;&tau;&omicron; &delta;&iota;&kappa;ό &sigma;&alpha;&sigmaf; &pi;&lambda;ά&nu;&omicron; &kappa;&alpha;&iota; &pi;&omicron;&upsilon; &theta;&alpha; &sigma;&alpha;&sigmaf; &pi;&rho;&omicron;&sigma;&tau;&alpha;&tau;έ&psi;&epsilon;&iota; &alpha;&pi;ό &pi;&iota;&theta;&alpha;&nu;&omicron;ύ&sigmaf; &kappa;&iota;&nu;&delta;ύ&nu;&omicron;&upsilon;&sigmaf;, &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&nu;&tau;ά&sigmaf; &sigma;&alpha;&sigmaf; έ&tau;&sigma;&iota; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &nu;&alpha; &sigma;&chi;&epsilon;&delta;&iota;ά&sigma;&epsilon;&tau;&epsilon; &alpha;&nu;&epsilon;&nu;ό&chi;&lambda;&eta;&tau;&omicron;&iota; &tau;&eta;&nu; &alpha;&nu;&alpha;&pi;&tau;&upsilon;&xi;&iota;&alpha;&kappa;ή &sigma;&alpha;&sigmaf; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ή.<br />
+        &Alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &Pi;&epsilon;&rho;&iota;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf;<br />
+        <br />
+        <strong>&Mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &pi;&epsilon;&rho;&iota;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf;, έ&chi;&epsilon;&tau;&epsilon; &kappa;ά&lambda;&upsilon;&psi;&eta; &gamma;&iota;&alpha;:</strong>
+        <ul>
+            <li>&Kappa;&tau;&iota;&rho;&iota;&alpha;&kappa;έ&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf;</li>
+            <li>&Pi;&epsilon;&rho;&iota;&epsilon;&chi;ό&mu;&epsilon;&nu;&omicron; &kappa;&tau;&iota;&rho;ί&omicron;&upsilon; &kappa;&alpha;&iota; &epsilon;&xi;&omicron;&pi;&lambda;&iota;&sigma;&mu;ό&sigmaf;</li>
+            <li>&Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &kappa;&epsilon;&rho;&delta;ώ&nu;</li>
+            <li>&Chi;&rho;&eta;&mu;&alpha;&tau;&iota;&kappa;έ&sigmaf; &alpha;&pi;ώ&lambda;&epsilon;&iota;&epsilon;&sigmaf;</li>
+        </ul>
+        <p><strong>&Pi;&alpha;&rho;&epsilon;&chi;ό&mu;&epsilon;&nu;&epsilon;&sigmaf; &Kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf;:</strong></p>
+        <ul>
+            <li><strong>&nbsp;</strong>&Pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;ά &amp; &kappa;&epsilon;&rho;&alpha;&upsilon;&nu;ό&sigmaf;</li>
+            <li>&Pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;ά &alpha;&pi;ό &delta;ά&sigma;&omicron;&sigmaf;</li>
+            <li>&Kappa;&alpha;&pi;&nu;ό&sigmaf; &alpha;&pi;ό &pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;ά</li>
+            <li>Έ&kappa;&rho;&eta;&xi;&eta;</li>
+            <li>&Pi;&tau;ώ&sigma;&eta; &alpha;&epsilon;&rho;&omicron;&sigma;&kappa;ά&phi;&omicron;&upsilon;&sigmaf;</li>
+            <li>&Pi;&rho;ό&sigma;&kappa;&rho;&omicron;&upsilon;&sigma;&eta; &omicron;&chi;ή&mu;&alpha;&tau;&omicron;&sigmaf;</li>
+            <li>&Pi;&tau;ώ&sigma;&eta; &delta;έ&nu;&tau;&rho;&omega;&nu;</li>
+            <li>&Pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;ά &alpha;&pi;ό &beta;&rho;&alpha;&chi;&upsilon;&kappa;ύ&kappa;&lambda;&omega;&mu;&alpha; (&zeta;&eta;&mu;&iota;έ&sigmaf; &iota;&delta;ί&omicron;&upsilon; &alpha;&nu;&tau;&iota;&kappa;&epsilon;&iota;&mu;έ&nu;&omicron;&upsilon;)</li>
+            <li>&Sigma;&epsilon;&iota;&sigma;&mu;ό&sigmaf;</li>
+            <li>&Sigma;&tau;ά&sigma;&eta;, &alpha;&pi;&epsilon;&rho;&gamma;ί&alpha;, &omicron;&chi;&lambda;&alpha;&gamma;&omega;&gamma;ί&alpha;, &pi;&omicron;&lambda;&iota;&tau;&iota;&kappa;έ&sigmaf; &tau;&alpha;&rho;&alpha;&chi;έ&sigmaf;</li>
+            <li>&Kappa;&alpha;&kappa;ό&beta;&omicron;&upsilon;&lambda;&epsilon;&sigmaf; &epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&epsilon;&sigmaf;</li>
+            <li>&Tau;&rho;&omicron;&mu;&omicron;&kappa;&rho;&alpha;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&epsilon;&sigmaf;</li>
+            <li>&Pi;&lambda;&eta;&mu;&mu;ύ&rho;&alpha;, &theta;ύ&epsilon;&lambda;&lambda;&alpha;, &kappa;&alpha;&tau;&alpha;&iota;&gamma;ί&delta;&alpha;</li>
+            <li>&Chi;&iota;ό&nu;&iota;, &chi;&alpha;&lambda;ά&zeta;&iota;, &pi;&alpha;&gamma;&epsilon;&tau;ό&sigmaf;</li>
+            <li>&Delta;&iota;&alpha;&rho;&rho;&omicron;ή &nu;&epsilon;&rho;&omicron;ύ &alpha;&pi;ό &sigma;&omega;&lambda;&eta;&nu;ώ&sigma;&epsilon;&iota;&sigmaf;</li>
+            <li>&Delta;&iota;&alpha;&rho;&rho;&omicron;ή &sigma;&pi;&rho;ί&nu;&kappa;&lambda;&epsilon;&rho;</li>
+            <li>&Epsilon;&upsilon;&rho;&epsilon;ί&alpha; &theta;&rho;&alpha;ύ&sigma;&eta; &upsilon;&alpha;&lambda;&omicron;&pi;&iota;&nu;ά&kappa;&omega;&nu;</li>
+            <li>&Mu;ό&nu;&iota;&mu;&epsilon;&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &sigma;&epsilon; &upsilon;&pi;&alpha;ί&theta;&rho;&iota;&omicron;&upsilon;&sigmaf; &chi;ώ&rho;&omicron;&upsilon;&sigmaf; ό&pi;&omega;&sigmaf; &kappa;&iota;ό&sigma;&kappa;&iota;&alpha;, &pi;έ&rho;&gamma;&kappa;&omicron;&lambda;&epsilon;&sigmaf;, &tau;έ&nu;&tau;&epsilon;&sigmaf;, &pi;ύ&lambda;&epsilon;&sigmaf;, &pi;&epsilon;&rho;&iota;&phi;&rho;ά&xi;&epsilon;&iota;&sigmaf;, &pi;&epsilon;&zeta;&omicron;ύ&lambda;&iota;&alpha;, &delta;&rho;ό&mu;&omicron;&iota;, &pi;&epsilon;&zeta;&omicron;&delta;&rho;ό&mu;&iota;&alpha;, &gamma;ή&pi;&epsilon;&delta;&alpha; &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &kappa;&iota;&nu;&eta;&tau;ή &pi;&epsilon;&rho;&iota;&omicron;&upsilon;&sigma;ί&alpha; &kappa;&alpha;&iota; &epsilon;&nu; &gamma;έ&nu;&epsilon;&iota; &epsilon;&xi;&omicron;&pi;&lambda;&iota;&sigma;&mu;ό&sigmaf; ό&pi;&omega;&sigmaf; &xi;&alpha;&pi;&lambda;ώ&sigma;&tau;&rho;&epsilon;&sigmaf;, &omicron;&mu;&pi;&rho;έ&lambda;&epsilon;&sigmaf; &kappa;.&lambda;.&pi;. &kappa;&alpha;&lambda;ύ&pi;&tau;&omicron;&nu;&tau;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&pi;&epsilon;ί&alpha; &zeta;&eta;&mu;&iota;ά&sigmaf; &alpha;&pi;ό &kappa;&alpha;&iota;&rho;&iota;&kappa;ά &phi;&alpha;&iota;&nu;ό&mu;&epsilon;&nu;&alpha; &kappa;&alpha;&iota; &kappa;&alpha;&kappa;ό&beta;&omicron;&upsilon;&lambda;&eta; &beta;&lambda;ά&beta;&eta;:<br />
+            &mu;έ&chi;&rho;&iota; &euro; 7.000 &gamma;&iota;&alpha; &xi;&epsilon;&nu;&omicron;&delta;&omicron;&chi;&epsilon;ί&alpha; &mu;&epsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; &alpha;&pi;ό &euro;3&epsilon;&kappa;. έ&omega;&sigmaf; &euro;10 &epsilon;&kappa;.<br />
+            &mu;έ&chi;&rho;&iota; &euro; 10.000 &gamma;&iota;&alpha; &xi;&epsilon;&nu;&omicron;&delta;&omicron;&chi;&epsilon;ί&alpha; &mu;&epsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; ά&nu;&omega; &tau;&omega;&nu; &euro;10 &epsilon;&kappa;.</li>
+            <li>Έ&xi;&omicron;&delta;&alpha; &alpha;&pi;&omicron;&kappa;&omicron;&mu;&iota;&delta;ή&sigmaf; &sigma;&upsilon;&nu;&tau;&rho;&iota;&mu;&mu;ά&tau;&omega;&nu;</li>
+            <li>&Alpha;&mu;&omicron;&iota;&beta;έ&sigmaf; &alpha;&rho;&chi;&iota;&tau;&epsilon;&kappa;&tau;ό&nu;&omega;&nu;, &kappa;&lambda;&pi;.</li>
+            <li>Έ&xi;&omicron;&delta;&alpha; &delta;&eta;&mu;&omicron;&sigma;ί&omega;&nu; &alpha;&rho;&chi;ώ&nu;</li>
+            <li>&Alpha;&lambda;&lambda;&omicron;ί&omega;&sigma;&eta; &epsilon;&mu;&pi;&omicron;&rho;&epsilon;&upsilon;&mu;ά&tau;&omega;&nu;</li>
+            <li>&Kappa;&lambda;&omicron;&pi;ή &alpha;&pi;ό &delta;&iota;ά&rho;&rho;&eta;&xi;&eta; &kappa;&alpha;&iota; &zeta;&eta;&mu;&iota;έ&sigmaf; &kappa;&lambda;έ&phi;&tau;&eta;</li>
+            <li>&Kappa;&lambda;&omicron;&pi;ή &chi;&rho;&eta;&mu;ά&tau;&omega;&nu; &alpha;&pi;ό &chi;&rho;&eta;&mu;&alpha;&tau;&omicron;&kappa;&iota;&beta;ώ&tau;&iota;&omicron; &kappa;&alpha;&iota; &lambda;&eta;&sigma;&tau;&epsilon;ί&alpha;</li>
+            <li>&Kappa;&lambda;&omicron;&pi;ή &chi;&rho;&eta;&mu;ά&tau;&omega;&nu; &sigma;&tau;&eta; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;ά&sigmaf; &tau;&omicron;&upsilon;&sigmaf;</li>
+            <li>Ό&rho;&omicron;&sigmaf; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;&sigmaf; &mu;&eta; &eta;&theta;&epsilon;&lambda;&eta;&mu;έ&nu;&eta;&sigmaf; &upsilon;&pi;&alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &mu;έ&chi;&rho;&iota; 5%</li>
+            <li>Έ&xi;&omicron;&delta;&alpha; &pi;&epsilon;&rho;&iota;&omicron;&rho;&iota;&sigma;&mu;&omicron;ύ &amp; &epsilon;&lambda;&alpha;&chi;&iota;&sigma;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &tau;&eta;&sigmaf; &zeta;&eta;&mu;&iota;ά&sigmaf; &mu;έ&chi;&rho;&iota; &euro;10.000</li>
+            <li>&Alpha;&upsilon;&tau;ό&mu;&alpha;&tau;&eta; &alpha;&nu;&alpha;&sigma;ύ&sigma;&tau;&alpha;&sigma;&eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &mu;έ&chi;&rho;&iota; 10% &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon;</li>
+            <li>Ό&rho;&omicron;&sigmaf; &alpha;&nu;&alpha;&kappa;&alpha;&tau;&alpha;&sigma;&kappa;&epsilon;&upsilon;ή&sigmaf; &sigma;&epsilon; ά&lambda;&lambda;&eta; &tau;&omicron;&pi;&omicron;&theta;&epsilon;&sigma;ί&alpha;</li>
+            <li>Ό&rho;&omicron;&sigmaf; &alpha;&xi;ί&alpha;&sigmaf; &alpha;&pi;&omicron;&kappa;&alpha;&tau;ά&sigma;&tau;&alpha;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota;&nu;&omicron;ύ&rho;&gamma;&iota;&omicron;&upsilon;</li>
+            <li>&Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &kappa;&epsilon;&rho;&delta;ώ&nu; (12 &mu;ή&nu;&epsilon;&sigmaf; &mu;έ&gamma;&iota;&sigma;&tau;&eta; &pi;&epsilon;&rho;ί&omicron;&delta;&omicron;&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf;)</li>
+        </ul>
+        <p>
+        </p>
+        <h3>&Alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &Alpha;&sigma;&tau;&iota;&kappa;ή&sigmaf; &Epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf;</h3>
+        <strong>&Gamma;&epsilon;&nu;&iota;&kappa;ή &Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta;</strong><br />
+        &Pi;&alpha;&rho;έ&chi;&epsilon;&tau;&alpha;&iota; &kappa;ά&lambda;&upsilon;&psi;&eta; &gamma;&iota;&alpha; &upsilon;&lambda;&iota;&kappa;έ&sigmaf; &zeta;&eta;&mu;&iota;έ&sigmaf;, &sigma;&omega;&mu;&alpha;&tau;&iota;&kappa;ή &beta;&lambda;ά&beta;&eta; ή &kappa;&alpha;&iota; &gamma;&iota;&alpha; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &zeta;&omega;ή&sigmaf; &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &pi;&rho;&omicron;&kappa;&lambda;&eta;&theta;&epsilon;ί &sigma;&epsilon; &tau;&rho;ί&tau;&omicron;&upsilon;&sigmaf;, &alpha;&pi;ό ά&delta;&iota;&kappa;&epsilon;&sigmaf; &pi;&rho;ά&xi;&epsilon;&iota;&sigmaf; ή &pi;&alpha;&rho;&alpha;&lambda;&epsilon;ί&psi;&epsilon;&iota;&sigmaf; &delta;&iota;&kappa;έ&sigmaf; &sigma;&alpha;&sigmaf; ή &tau;&omega;&nu; &pi;&rho;&omicron;&sigma;ώ&pi;&omega;&nu; &pi;&omicron;&upsilon; έ&chi;&epsilon;&tau;&epsilon; &sigma;&tau;&eta;&nu; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &pi;&omicron;&upsilon; &sigma;&chi;&epsilon;&tau;ί&zeta;&omicron;&nu;&tau;&alpha;&iota; ά&mu;&epsilon;&sigma;&alpha; &kappa;&alpha;&iota; &alpha;&pi;&omicron;&kappa;&lambda;&epsilon;&iota;&sigma;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&eta; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha; &tau;&omega;&nu; &chi;ώ&rho;&omega;&nu; &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;ή&sigmaf; &sigma;&alpha;&sigmaf;.
+        <strong></strong><strong></strong>
+        <p><strong>
+        &Alpha;&sigma;&tau;&iota;&kappa;ή &Epsilon;&upsilon;&theta;ύ&nu;&eta; &Epsilon;&rho;&gamma;&omicron;&delta;ό&tau;&eta;</strong><br />
+        &Sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;&omega;&mu;&alpha;&tau;&iota;&kappa;ή &kappa;ά&lambda;&upsilon;&psi;&eta; &pi;&alpha;&rho;έ&chi;&epsilon;&tau;&alpha;&iota; &gamma;&iota;&alpha; &tau;&eta;&nu; &epsilon;&upsilon;&theta;ύ&nu;&eta; &tau;&omicron;&upsilon; &epsilon;&rho;&gamma;&omicron;&delta;ό&tau;&eta; έ&nu;&alpha;&nu;&tau;&iota; &tau;&omicron;&upsilon; &epsilon;&rho;&gamma;&alpha;&tau;&omicron;&tau;&epsilon;&chi;&nu;&iota;&kappa;&omicron;ύ &kappa;&alpha;&iota; &upsilon;&pi;&alpha;&lambda;&lambda;&eta;&lambda;&iota;&kappa;&omicron;ύ &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;&omicron;ύ &pi;&omicron;&upsilon; &alpha;&pi;&alpha;&sigma;&chi;&omicron;&lambda;&epsilon;ί&tau;&alpha;&iota; &sigma;&tau;&eta;&nu; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;&eta;, &gamma;&iota;&alpha; &tau;&upsilon;&chi;ό&nu; &alpha;&tau;ύ&chi;&eta;&mu;&alpha; (&sigma;&omega;&mu;&alpha;&tau;&iota;&kappa;ή &beta;&lambda;ά&beta;&eta; ή/&kappa;&alpha;&iota; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &zeta;&omega;ή&sigmaf;) &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &upsilon;&pi;&omicron;&sigma;&tau;&epsilon;ί &alpha;&pi;ό ή &kappa;&alpha;&tau;ά &tau;&eta;&nu; &epsilon;&kappa;&tau;έ&lambda;&epsilon;&sigma;&eta; &tau;&eta;&sigmaf; &epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha;&sigmaf; &tau;&omicron;&upsilon;.<br />
+        <br />
+        <br />
+        </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6271f1c8-d91e-47ed-8f4a-99fe75d004a5"
+      Hint: ToolkitContactTransfer
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+      Hint: ToolkitTitle
+      Value: Εργαλεία Ενημέρωσης
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: 
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" src="" height="" mediaid="{B5327B4E-C3E2-4FBE-8DB0-4CC8F78D36CE}" hspace="" usethumbnail="" showineditor="" width="" alt="Habitat-004-wide" vspace="" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ασφάλιση Τουριστικών Μονάδων
+- Language: en
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E33B4792-9502-426B-B77C-BEBE77019072}"
+              p:before="*"
+              s:ds="{8B7E058C-F026-4D43-940D-4AEC15014491}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-3-{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}-0" />
+            <r
+              uid="{CCDE3DC0-2AF8-45E9-9166-CFD3E2865B39}"
+              p:after="r[@uid='{E33B4792-9502-426B-B77C-BEBE77019072}']"
+              s:ds="{8503D913-0493-4977-87F1-3E3CDF7C1E60}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-2-{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}-0" />
+            <r
+              uid="{F9072D66-3B58-4DD9-AF93-BC90CA109AE5}"
+              p:after="r[@uid='{CCDE3DC0-2AF8-45E9-9166-CFD3E2865B39}']"
+              s:ds="{8B7E058C-F026-4D43-940D-4AEC15014491}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-1-{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}-0" />
+            <r
+              uid="{9525B82B-F82E-4AB0-B236-6002322784AE}"
+              p:after="r[@uid='{F9072D66-3B58-4DD9-AF93-BC90CA109AE5}']"
+              s:id="{2FF3A175-2A41-4088-820A-749360BE65FA}"
+              s:ph="/page-layout/toolkit-how-it-works" />
+            <r
+              uid="{9CDDC478-E5AE-4067-9038-87A5B7DF1E88}"
+              p:after="r[@uid='{9525B82B-F82E-4AB0-B236-6002322784AE}']"
+              s:id="{4DE00D68-7C8B-440A-A4D9-BB82355E20BD}"
+              s:ph="/page-layout/toolkit-contact-transfer" />
+            <r
+              uid="{938FFBE4-25B7-4D03-8FF8-A1294DCFD410}"
+              p:after="r[@uid='{9CDDC478-E5AE-4067-9038-87A5B7DF1E88}']"
+              s:ds="{B5214F94-14FA-4007-AC6D-49B25728386A}"
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:ph="/page-layout/toolkit-faq-group" />
+            <r
+              uid="{040F555C-B6D2-4F2A-B019-8093E41FE409}"
+              p:after="r[@uid='{938FFBE4-25B7-4D03-8FF8-A1294DCFD410}']"
+              s:ds="{F1CE1BB2-3BBA-4CC8-92A0-25688EF9350E}"
+              s:id="{907DF28B-FE15-4286-AD29-109BC7C0B98A}"
+              s:par=""
+              s:ph="/page-layout/toolkit-documents" />
+            <r
+              uid="{BE1803B0-7518-4956-B8CF-8E2D12EDF4B2}"
+              p:after="r[@uid='{040F555C-B6D2-4F2A-B019-8093E41FE409}']"
+              s:ds="{BE71B78B-C0C6-452E-83B4-6DF510A1F7BD}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-2-{2FB7FB63-ED05-4070-9703-3D35EC8EBC78}-0" />
+            <r
+              uid="{E131FD88-DA1F-4BA7-9B10-879B5D1D3525}"
+              p:after="r[@uid='{BE1803B0-7518-4956-B8CF-8E2D12EDF4B2}']"
+              s:ds="{8F9D149B-34E6-4846-B3A9-6A7DD7FF03CD}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{2FB7FB63-ED05-4070-9703-3D35EC8EBC78}-0" />
+            <r
+              uid="{3AE6CDFE-93D1-40C9-BCAC-2E7F5BED9C14}"
+              p:after="r[@uid='{E131FD88-DA1F-4BA7-9B10-879B5D1D3525}']"
+              s:ds="{B5214F94-14FA-4007-AC6D-49B25728386A}"
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:par=""
+              s:ph="/page-layout/section-{547C2745-C8FE-4A0F-8746-57E6F0CA9E77}-0/col-huge-{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}-0/toolkit-faq-group" />
+            <r
+              uid="{6119CCF0-A7C5-4308-A486-92AA5E600643}"
+              p:after="r[@uid='{3AE6CDFE-93D1-40C9-BCAC-2E7F5BED9C14}']"
+              s:id="{8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}"
+              s:ph="/page-layout/section-{547C2745-C8FE-4A0F-8746-57E6F0CA9E77}-0/col-huge-{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}-0" />
+            <r
+              uid="{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}"
+              p:after="r[@uid='{6119CCF0-A7C5-4308-A486-92AA5E600643}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{547C2745-C8FE-4A0F-8746-57E6F0CA9E77}-0" />
+            <r
+              uid="{507CE7BC-6E91-40CB-B571-635AD7280F62}"
+              p:after="r[@uid='{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{AB88E3AC-4038-4BD0-AFF3-19F29F1C0013}-0" />
+            <r
+              uid="{75BC0F45-2A53-41EB-A47F-BB1C1C0534A3}"
+              p:after="r[@uid='{507CE7BC-6E91-40CB-B571-635AD7280F62}']"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0/col-huge-{5C09AE12-6831-4C38-A38C-CF8D2508BA59}-0/teaser-placeholder-3-{6AA958DD-980C-4EA7-8C5C-295F76807A7B}-0" />
+            <r
+              uid="{A3418823-AC1E-4EB7-8246-4AB62DA5726E}"
+              p:after="r[@uid='{75BC0F45-2A53-41EB-A47F-BB1C1C0534A3}']"
+              s:ds="{8F9D149B-34E6-4846-B3A9-6A7DD7FF03CD}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par=""
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0/col-huge-{5C09AE12-6831-4C38-A38C-CF8D2508BA59}-0/teaser-placeholder-2-{6AA958DD-980C-4EA7-8C5C-295F76807A7B}-0" />
+            <r
+              uid="{0A0C913A-2E96-4562-B7AB-60951C0EFBDC}"
+              p:after="r[@uid='{A3418823-AC1E-4EB7-8246-4AB62DA5726E}']"
+              s:ds="{BE71B78B-C0C6-452E-83B4-6DF510A1F7BD}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par=""
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0/col-huge-{5C09AE12-6831-4C38-A38C-CF8D2508BA59}-0/teaser-placeholder-1-{6AA958DD-980C-4EA7-8C5C-295F76807A7B}-0" />
+            <r
+              uid="{5C09AE12-6831-4C38-A38C-CF8D2508BA59}"
+              p:after="r[@uid='{0A0C913A-2E96-4562-B7AB-60951C0EFBDC}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0" />
+            <r
+              uid="{68145BDD-B73B-4642-8B42-27BB6043469D}"
+              p:after="r[@uid='{5C09AE12-6831-4C38-A38C-CF8D2508BA59}']"
+              s:ds="{E0805595-CA6D-4815-A0F4-C2DA1B0DD081}"
+              s:id="{BC33BB52-419D-4118-9D08-EE4009C50D3E}"
+              s:par=""
+              s:ph="/page-layout/section-{2D55E0DB-4209-4E03-A5F3-5853E1ED4A95}-0/col-huge-{EE042A22-FA6A-4DC1-8CE5-2C4275892D88}-0" />
+            <r
+              uid="{EE042A22-FA6A-4DC1-8CE5-2C4275892D88}"
+              p:after="r[@uid='{68145BDD-B73B-4642-8B42-27BB6043469D}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{2D55E0DB-4209-4E03-A5F3-5853E1ED4A95}-0" />
+            <r
+              uid="{415EB806-C58D-4393-90B3-9D4B8A79322E}"
+              p:after="r[@uid='{9DCAC3A5-FC4B-4B6F-87C6-4A0342390064}']"
+              s:ds="{E0805595-CA6D-4815-A0F4-C2DA1B0DD081}"
+              s:id="{BC33BB52-419D-4118-9D08-EE4009C50D3E}"
+              s:ph="page-layout" />
+            <r
+              uid="{780B7A15-B9A6-43E1-BDB1-D455F9A774D8}"
+              p:after="r[@uid='{415EB806-C58D-4393-90B3-9D4B8A79322E}']"
+              s:id="{8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}"
+              s:ph="page-layout" />
+            <r
+              uid="{58D8F06A-F16E-4F2E-B9EB-3184180BB4BF}"
+              p:after="r[@uid='{780B7A15-B9A6-43E1-BDB1-D455F9A774D8}']"
+              s:ds="{94086698-AB86-4FF5-86D3-54B6B88ED19A}"
+              s:id="{54928386-719D-48B9-8A91-524D9961E36D}"
+              s:ph="page-layout" />
+            <r
+              uid="{FEA4FCB3-5BB7-41AF-8764-0BFF8E568883}"
+              p:after="r[@uid='{58D8F06A-F16E-4F2E-B9EB-3184180BB4BF}']"
+              s:ds="{8B357B2D-8EA4-43EE-A279-4AA8111E8126}"
+              s:id="{F3136503-1EEB-41D2-B47C-89FBC34BC540}"
+              s:ph="page-layout" />
+            <r
+              uid="{2FB7FB63-ED05-4070-9703-3D35EC8EBC78}"
+              p:after="r[@uid='{FEA4FCB3-5BB7-41AF-8764-0BFF8E568883}']"
+              s:ds="{EE663F4D-BA50-47BC-9C69-366423E223E7}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}"
+              p:after="*[1=2]"
+              s:ds="{E7E7F6D0-F959-48D3-AD9E-682B77EE6C5F}"
+              s:id="{885784F0-9175-4BFB-AF11-8184E69ABB14}"
+              s:par=""
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "1d7f5999-9735-4c52-9e08-47bd7df3fb40"
+      Hint: PreTitle
+      Value: Προγράμματα Ασφάλισης Υγείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T131812Z
+    - ID: "328f77a3-08cc-4496-b8c9-184e3c194993"
+      Hint: ToolkitHowItWorks
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "4791fadd-9bb5-4efd-b542-4d2f8bb634e4"
+      Hint: ToolkitSubhead
+      Value: |
+        Στις ενότητες που ακολουθούν θα βρείτε όλες τις πληροφορίες που χρειάζεστε για να 
+        ενημερωθείτε πλήρως και να αποφασίσετε για την ασφάλισή σας.
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Προγράμματα Ασφάλισης Υγείας
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link linktype="external" text="ΖΗΤΗΣΤΕ ΠΡΟΣΦΟΡΑ" url="https://github.com" anchor="" target="" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <strong id="docs-internal-guid-cb1f758a-7fff-f569-b2e9-5c44c46b0817"></strong>
+        <br class="Apple-interchange-newline" />
+    - ID: "6271f1c8-d91e-47ed-8f4a-99fe75d004a5"
+      Hint: ToolkitContactTransfer
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+      Hint: ToolkitTitle
+      Value: Εργαλεία Ενημέρωσης
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Φροντίστε τον εαυτό σας και τους αγαπημένους σας.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="carousel_1920x680" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{3224D0FC-2DB9-4311-8E19-D04E32C627B8}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Health

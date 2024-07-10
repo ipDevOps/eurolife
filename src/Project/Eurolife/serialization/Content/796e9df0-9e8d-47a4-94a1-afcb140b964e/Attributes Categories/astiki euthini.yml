@@ -1,0 +1,39 @@
+﻿---
+ID: "d9403ecd-3f7c-4ac1-8815-b379da110596"
+Parent: "036753df-98bd-40f7-81d2-630cf0f2f3ee"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Attributes Categories/astiki euthini"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {16F2F9E7-E70D-4D49-A160-D5B6ED29CF54}
+        {9BC46F30-EFD7-4195-AF94-E29F00080621}
+        {A4014E8C-01F2-4E61-9410-B969DC0FFB1C}
+        {18255773-7351-4B12-840E-9D5FFF9C4671}
+        {AD645C91-7AA2-4B74-9ABB-E3B11FC7C82C}
+        {7BD9AB83-16E1-4674-8CE2-81BEB9FD43CA}
+        {B4B821D7-5AB3-429C-AE99-D0B2D3E8E0E7}
+        {045B0EA6-6D49-4E2B-9731-781BCA3FF19F}
+        {24D9F0A6-9EE9-42E6-BD0D-5BFD10F57F3A}
+        {3555BAC8-D6A7-451A-8161-BE9264051ED8}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Αστική Ευθύνη

@@ -1,0 +1,25 @@
+﻿---
+ID: "7463fc34-8a6d-43d8-b1aa-e5890c463873"
+Parent: "98d0c2f9-5683-4d5e-bf97-40ee0bb990ed"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {62B2FB1B-FD79-403A-AED2-9D1F464A2E63}
+    {2C7F1576-9844-4119-8F1E-A4E70C4791B9}
+    {BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T073458Z

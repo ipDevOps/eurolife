@@ -1,0 +1,155 @@
+﻿---
+ID: "b6521d92-8b82-4fc2-a5c7-8137c32d487e"
+Parent: "85d60ca6-eab7-44e7-9d78-e8db75756b35"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4D781E9-BEF3-46BE-ABA6-584BEC3520FF}"
+              p:before="*"
+              s:ds="{2C2AA2E9-18AD-4B29-9053-8C299D4CE67C}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-3-{788B08E1-19E8-45DF-A329-740FBC2E05C7}-0" />
+            <r
+              uid="{A48B797E-50F4-4A31-A0A3-C80C14A8E522}"
+              p:after="r[@uid='{C4D781E9-BEF3-46BE-ABA6-584BEC3520FF}']"
+              s:ds="{DDC49A22-3DEC-4B0E-B1CA-896FA6E1C13F}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-2-{788B08E1-19E8-45DF-A329-740FBC2E05C7}-0" />
+            <r
+              uid="{C2FE4A43-DC9A-4EA7-82A9-F5DFF1C5A77E}"
+              p:after="r[@uid='{A48B797E-50F4-4A31-A0A3-C80C14A8E522}']"
+              s:ds="{CE142B39-D379-4892-B3A2-86D2862D722F}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{788B08E1-19E8-45DF-A329-740FBC2E05C7}-0" />
+            <r
+              uid="{2FEEDEFC-6E21-4063-A074-D302D3CD7FBA}"
+              p:after="r[@uid='{C2FE4A43-DC9A-4EA7-82A9-F5DFF1C5A77E}']"
+              s:ds="{DDC49A22-3DEC-4B0E-B1CA-896FA6E1C13F}"
+              s:id="{D82BD8C7-2FFC-4B8D-AE78-BE30CA6B3C95}"
+              s:ph="/page-layout/teaser-placeholder-2-{F7BE6DED-5716-4187-95B7-93FA90D471AE}-0" />
+            <r
+              uid="{C52D4631-1226-4722-9550-3F4246C4FAD3}"
+              p:after="r[@uid='{2FEEDEFC-6E21-4063-A074-D302D3CD7FBA}']"
+              s:ds="{CE142B39-D379-4892-B3A2-86D2862D722F}"
+              s:id="{D82BD8C7-2FFC-4B8D-AE78-BE30CA6B3C95}"
+              s:ph="/page-layout/teaser-placeholder-1-{F7BE6DED-5716-4187-95B7-93FA90D471AE}-0" />
+            <r
+              uid="{1E75444B-4B9D-49A9-B55D-C21875D094DF}"
+              p:after="r[@uid='{C52D4631-1226-4722-9550-3F4246C4FAD3}']"
+              s:id="{0C50FD78-8252-4FC9-B779-8222677467FA}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{D52E3D4A-FA23-4FC3-98AE-FAF56CBA82E7}"
+              p:after="r[@uid='{1E75444B-4B9D-49A9-B55D-C21875D094DF}']"
+              s:id="{00C6C1FB-EB91-43A5-84EF-1F8B207496CC}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{FF1416CA-7918-40CA-B9E4-3D7233C3A765}"
+              p:after="r[@uid='{D52E3D4A-FA23-4FC3-98AE-FAF56CBA82E7}']"
+              s:id="{32F9A214-369B-44EC-B30F-09BBA8BA8058}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{948926EF-D325-42E7-AB0D-DA49D25E743D}"
+              p:after="r[@uid='{FF1416CA-7918-40CA-B9E4-3D7233C3A765}']"
+              s:ds=""
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:par="Background"
+              s:ph="page-layout" />
+            <r
+              uid="{788B08E1-19E8-45DF-A329-740FBC2E05C7}"
+              p:after="r[@uid='{948926EF-D325-42E7-AB0D-DA49D25E743D}']"
+              s:ds="{B9DFDD5A-6B89-4245-88FA-4E52913DAAAF}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{363CCD9F-708A-4478-A2BF-4385D9F1C4E5}"
+              p:after="r[@uid='{788B08E1-19E8-45DF-A329-740FBC2E05C7}']"
+              s:ds="{CE142B39-D379-4892-B3A2-86D2862D722F}"
+              s:id="{D82BD8C7-2FFC-4B8D-AE78-BE30CA6B3C95}"
+              s:ph="/page-layout/teaser-placeholder-1-{C769CE7D-21E9-453B-B4D6-4CB77B261BE5}-0" />
+            <r
+              uid="{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}">
+              <p:d />
+            </r>
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{88B91DF2-05C4-4CE5-A2AF-B1506006B971}">
+              <p:d />
+            </r>
+            <r
+              uid="{832CD083-2620-47BB-9F2B-63084D865567}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "23ef204d-df36-447d-9e7d-8862c8b6455f"
+      Hint: IconImage
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T111041Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Συνεργάτες Πωλήσεων
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Συνεργάτες Πωλήσεων
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{87230EC6-ED5D-4193-8FDE-0745809FBD38}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: "Συνεργαστείτε μαζί μας είτε ώς μέλος της ομάδας πωλήσεων της εταιρείας, είτε ώς ανέξαρτητος συνεργάτης - μεσίτης, προωθώντας τα προϊοντα μας στους πελάτες σας"
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{87230EC6-ED5D-4193-8FDE-0745809FBD38}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Συνεργάτες Πωλήσεων

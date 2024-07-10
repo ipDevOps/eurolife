@@ -1,0 +1,32 @@
+﻿---
+ID: "1c6276a6-0e53-4876-915e-207926e4446c"
+Parent: "f022e87f-dfe2-4586-82f9-299e6686c03c"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/epistrofi app/programma epivraveusis epistrofi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Chi;&rho;&eta;&sigma;&iota;&mu;&omicron;&pi;&omicron;ί&eta;&sigma;&tau;&epsilon; &tau;&iota;&sigmaf; &kappa;ά&rho;&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf; Eurobank &pi;&omicron;&upsilon; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;έ&chi;&omicron;&upsilon;&nu; &sigma;&tau;&omicron; &Pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &Epsilon;&pi;&iota;&beta;&rho;ά&beta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &euro;&pi;&iota;&sigma;&tau;&rho;&omicron;&phi;ή &gamma;&iota;&alpha; &nu;&alpha; &epsilon;&xi;&omicron;&phi;&lambda;ή&sigma;&epsilon;&tau;&epsilon; &tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&alpha; &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &kappa;έ&rho;&delta;&iota;&sigma;&tau;&epsilon; &tau;&omicron; 2% &mu;&epsilon; 3% &tau;&eta;&sigmaf; &alpha;&xi;ί&alpha;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &sigma;&epsilon; &epsilon;&upsilon;&rho;ώ.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Πρόγραμμα επιβράβευσης €πιστροφή
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T110330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6E40741C-28BC-4B53-947A-48CA8F8BF997}" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{D23F49C8-7071-4637-B18D-5134C91DDC26}"></image>

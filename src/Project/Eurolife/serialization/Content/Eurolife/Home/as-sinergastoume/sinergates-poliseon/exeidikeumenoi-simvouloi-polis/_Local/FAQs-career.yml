@@ -1,0 +1,45 @@
+﻿---
+ID: "f1ddb2ae-76c3-4f00-8c0f-660b08e438cc"
+Parent: "88d37eb4-bc0e-4036-80f2-d343db31c4e7"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/FAQs-career"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T083159Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {D910C4F6-7E84-4FE4-90A4-D049B5204654}
+        {60E31FD1-3FA3-4B50-8470-6186A57519AB}
+        {FEA8C4F6-9BD4-4C3D-B75E-BCDF1D0DE77B}
+        {4238E894-41E7-41A4-8CDC-4DA6BB05688F}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T080516Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,24 @@
+﻿---
+ID: "d655707b-74da-46da-97d1-04bbcc3faa8f"
+Parent: "29de4778-dfa9-485a-848d-5875251b5f01"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/K/kentro-apotherapeias-apokatastasis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Κέντρο Αποθεραπείας και Αποκατάστασης
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072416Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Είναι η μονάδα που, χρησιμοποιώντας τα σύγχρονα μέσα και τις μεθόδους της ιατρικής αποκατάστασης, παρέχει υπηρεσίες υγείας και νοσηλείας σε εσωτερικούς ασθενείς που έχουν ανάγκη φυσικής αποθεραπείας και αποκατάστασης.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

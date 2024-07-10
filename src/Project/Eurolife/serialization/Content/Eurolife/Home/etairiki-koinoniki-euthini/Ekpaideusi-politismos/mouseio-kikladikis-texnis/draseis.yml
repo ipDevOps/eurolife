@@ -1,0 +1,76 @@
+﻿---
+ID: "b0a768b2-94c7-4eed-bd3e-276f81ea6a1d"
+Parent: "e696914a-fae9-4d8b-b384-0def71108513"
+Template: "a357360c-a1fd-4439-a5ab-4d131d300f95"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Ekpaideusi-politismos/mouseio-kikladikis-texnis/draseis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E6D34E34-ABF6-4691-8DCE-9CF54ED10A84}"
+              s:ds="{F11E141D-6EC2-48B4-8A45-F4C31FC27C5A}" />
+          </d>
+        </r>
+    - ID: "23ef204d-df36-447d-9e7d-8862c8b6455f"
+      Hint: IconImage
+      Value: |
+        <image mediaid="{E4BD4F77-EA16-4F91-ADE8-5804641C907A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T124007Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Δράσεις Μουσείου Κυκλαδικής Τέχνης
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Δράσεις Μουσείου Κυκλαδικής Τέχνης
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{0F3292C8-96C1-4EF0-B8D4-CD3203C18AE7}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p>&Sigma;&upsilon;&mu;&pi;&rho;ά&tau;&tau;&omicron;&upsilon;&mu;&epsilon; &mu;&epsilon; &tau;&omicron; &Mu;&omicron;&upsilon;&sigma;&epsilon;ί&omicron; &Kappa;&upsilon;&kappa;&lambda;&alpha;&delta;&iota;&kappa;ή&sigmaf; &Tau;έ&chi;&nu;&eta;&sigmaf; &kappa;&alpha;&iota; &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron; &sigma;ύ&nu;&omicron;&lambda;&omicron; &tau;&omega;&nu; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&tau;ή&tau;&omega;&nu; &pi;&omicron;&upsilon; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;&epsilon;ί. &Pi;&iota;&sigma;&tau;&epsilon;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&eta; &delta;ύ&nu;&alpha;&mu;&eta; &tau;&eta;&sigmaf; &pi;&omicron;&lambda;&iota;&tau;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &mu;&alpha;&sigmaf; &kappa;&lambda;&eta;&rho;&omicron;&nu;&omicron;&mu;&iota;ά&sigmaf; &kappa;&alpha;&iota;
+        &alpha;&gamma;&kappa;&alpha;&lambda;&iota;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &kappa;&alpha;&iota; &iota;&delta;έ&epsilon;&sigmaf; &pi;&omicron;&upsilon; &phi;έ&rho;&nu;&omicron;&upsilon;&nu; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &sigma;&epsilon; &epsilon;&pi;&alpha;&phi;ή &mu;&epsilon; &tau;&eta;&nu; &tau;&alpha;&upsilon;&tau;ό&tau;&eta;&tau;&alpha; &tau;&eta;&sigmaf; &chi;ώ&rho;&alpha;&sigmaf; &mu;&alpha;&sigmaf;.</p>
+        <p>
+        &Tau;&omicron; &Mu;&omicron;&upsilon;&sigma;&epsilon;ί&omicron; &Kappa;&upsilon;&kappa;&lambda;&alpha;&delta;&iota;&kappa;ή&sigmaf; &Tau;έ&chi;&nu;&eta;&sigmaf;, &omega;&sigmaf; έ&nu;&alpha; &alpha;&pi;ό &tau;&alpha; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό&tau;&epsilon;&rho;&alpha; &mu;&omicron;&upsilon;&sigma;&epsilon;ί&alpha; &tau;&eta;&sigmaf; &chi;ώ&rho;&alpha;&sigmaf;, &alpha;&phi;&eta;&gamma;&epsilon;ί&tau;&alpha;&iota; &mu;&iota;&alpha; &pi;&omicron;&lambda;ύ &sigma;&pi;&omicron;&upsilon;&delta;&alpha;ί&alpha; &iota;&sigma;&tau;&omicron;&rho;ί&alpha; &tau;&omicron;&upsilon; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;&omicron;ύ &pi;&omicron;&lambda;&iota;&tau;&iota;&sigma;&mu;&omicron;ύ. &Eta; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&alpha;&sigmaf; &mu;&epsilon; &tau;&omicron;
+        &Mu;&omicron;&upsilon;&sigma;&epsilon;ί&omicron; &epsilon;&nu;&iota;&sigma;&chi;ύ&epsilon;&iota; &tau;&eta; &sigma;&chi;έ&sigma;&eta; &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &beta;ά&zeta;&epsilon;&iota; &sigma;&epsilon; &pi;&rho;&omega;&tau;&alpha;&gamma;&omega;&nu;&iota;&sigma;&tau;&iota;&kappa;ό &rho;ό&lambda;&omicron; &tau;&eta;&nu; &pi;&rho;&omicron;ώ&theta;&eta;&sigma;&eta; &tau;&eta;&sigmaf; &kappa;&omicron;&upsilon;&lambda;&tau;&omicron;ύ&rho;&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &pi;&omicron;&lambda;&iota;&tau;&iota;&sigma;&mu;&omicron;ύ &mu;&alpha;&sigmaf;.
+        </p>
+        <p>&Sigma;&tau;ό&chi;&omicron;&sigmaf; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &tau;&alpha;&xi;&iota;&delta;έ&psi;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron;&nu; &pi;&omicron;&lambda;&iota;&tau;&iota;&sigma;&mu;ό &sigma;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf;, &epsilon;&nu;ή&lambda;&iota;&kappa;&epsilon;&sigmaf; &kappa;&alpha;&iota; &pi;&alpha;&iota;&delta;&iota;ά, &epsilon;&mu;&pi;&nu;έ&omicron;&nu;&tau;ά&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &nu;&alpha; &nu;&iota;ώ&sigma;&omicron;&upsilon;&nu; &tau;&eta; &delta;ύ&nu;&alpha;&mu;&eta; &tau;&eta;&sigmaf; &iota;&sigma;&tau;&omicron;&rho;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf;.
+        &Upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&iota;&sigmaf; &epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;έ&sigmaf; &kappa;&alpha;&iota; &epsilon;&pi;&iota;&mu;&omicron;&rho;&phi;&omega;&tau;&iota;&kappa;έ&sigmaf; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &Mu;&omicron;&upsilon;&sigma;&epsilon;ί&omicron;&upsilon; &Kappa;&upsilon;&kappa;&lambda;&alpha;&delta;&iota;&kappa;ή&sigmaf; &Tau;έ&chi;&nu;&eta;&sigmaf;, ό&pi;&omega;&sigmaf; &tau;&iota;&sigmaf; &Mu;&omicron;&upsilon;&sigma;&epsilon;&iota;&omicron;&sigma;&kappa;&epsilon;&upsilon;έ&sigmaf; &pi;&omicron;&upsilon; &tau;&alpha;&xi;&iota;&delta;&epsilon;ύ&omicron;&upsilon;&nu; &sigma;&epsilon; &delta;&iota;ά&phi;&omicron;&rho;&alpha; &sigma;&eta;&mu;&epsilon;ί&alpha; &tau;&eta;&sigmaf; &chi;ώ&rho;&alpha;&sigmaf;, &tau;&omicron;&nu;
+        &epsilon;&tau;ή&sigma;&iota;&omicron; &Pi;&alpha;&iota;&delta;&iota;&kappa;ό &Delta;&iota;&alpha;&gamma;&omega;&nu;&iota;&sigma;&mu;ό, &tau;&alpha; Summer Camps &kappa;&alpha;&iota; &mu;&iota;&alpha; &sigma;&epsilon;&iota;&rho;ά &delta;&rho;ά&sigma;&epsilon;&omega;&nu; &gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; &eta;&lambda;&iota;&kappa;ί&alpha;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Είμαστε Στρατηγικός Συνεργάτης Μουσείου Κυκλαδικής Τέχνης και μαζί ταξιδεύουμε τον ελληνικό πολιτισμό σε περισσότερους ανθρώπους, ενήλικες και παιδιά.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{DAF9E8DD-7D8D-48BC-AA76-988EBE78C09E}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T072137Z

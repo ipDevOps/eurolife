@@ -1,0 +1,79 @@
+﻿---
+ID: "26d30c7c-5c8b-4014-97fd-35436bc97f0c"
+Parent: "e84a93bb-7f23-41e0-96f0-b31cd7fa82b3"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Health Panel/Programs/Premium_Nosokomeiako_500_economy
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: " Premium Νοσοκομειακό Β' 500€ - Παιδικό Economy"
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {9A0EF1DE-70F2-45A9-ACF8-3C62A9EC915C}
+        {416600AF-2A63-4D99-9441-AC5074CEC0EF}
+        {1825E1AF-D274-43B9-9CE6-36800421C3F7}
+        {3213CAB9-0C9A-40FC-93C1-45A7084948D8}
+        {27E925E3-430A-48EE-9F04-FE0C55BA80EB}
+        {3A706442-AE2C-45B7-9244-B7142431CEE0}
+        {1D419587-B2AB-46AD-9490-43584CA492B3}
+        {2433F142-7D2B-4DCD-8FFE-49180CF0F02D}
+        {7696619A-68C5-4E2A-BCF7-76D755C43E22}
+        {CE68AC56-4D5D-452C-91A2-D451EF2156CE}
+        {74259FFE-8FC3-4F84-9FE4-6399B130DE91}
+        {4479132E-B459-4209-96BC-151C36E9952F}
+        {0BC5EA34-CADF-45DE-B4A4-0F25D653AC29}
+        {40352246-66B8-474F-8C55-180BCF5970DF}
+        {C2368407-BC27-46F8-962D-1042C093E870}
+        {CC497F4B-7F5E-4929-8F4F-8E301F4EE5CD}
+        {59ED5E83-5E85-48A3-A764-B3AB9FE76ECA}
+        {A0517316-B1EC-45A6-8AAC-E9CECC643115}
+        {AC62F08C-705E-450C-81B2-11CBBC05BE81}
+        {DD1AC5A3-09FE-4930-9C09-8EF4A01C50CD}
+        {6A488F72-8347-484E-8901-9568244B53EA}
+        {F3C06454-330E-47F8-AEE5-3ECCA27A952B}
+        {DA2F0414-BA08-4493-81FE-2CFED331DD02}
+        {80D3AA15-48D0-4FBB-9434-B4FF574BD503}
+        {7C8AE061-732B-4FD1-9B56-4483CADCC037}
+        {9E936FBA-334B-4B91-A299-EF9AEE151D2C}
+        {C200F08F-9792-455C-BAEE-3995DF6E11AE}
+        {719A0AA1-CDA2-4846-8326-4B911A0F8B18}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {1712590B-7B4E-481C-A888-D99A89E97415}
+        {3213CAB9-0C9A-40FC-93C1-45A7084948D8}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {9A0EF1DE-70F2-45A9-ACF8-3C62A9EC915C}

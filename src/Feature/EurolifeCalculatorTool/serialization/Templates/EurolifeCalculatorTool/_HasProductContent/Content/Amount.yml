@@ -1,0 +1,21 @@
+﻿---
+ID: "408df9e1-54d8-49fa-abe1-d5b248a58339"
+Parent: "b4135808-f351-4e58-a3c9-595698c58446"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/EurolifeCalculatorTool/_HasProductContent/Content/Amount
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "datasource={07BA5C4A-7635-4B81-9B2F-EE92F01F28B3}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201222T153623Z

@@ -1,0 +1,17 @@
+﻿@using Wedia.Feature.PageContent
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageImageContent.ID) ?? true)
+{
+    return;
+}
+
+@Html.Sitecore().ImageField(Templates.HasPageImageContent.Fields.DesktopImage)
+@Html.Sitecore().ImageField(Templates.HasPageImageContent.Fields.MobileImage)
+@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title, Model.Item)
+@Html.Sitecore().Field(Templates.HasPageContent.Fields.Summary, Model.Item)
+<a href="@Model.Item.Url()">
+    @Html.Sitecore().Dictionary("/PageContent/Page Teaser/Read more", "Read more")
+</a>

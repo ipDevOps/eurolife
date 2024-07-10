@@ -1,0 +1,36 @@
+﻿---
+ID: "8486c07f-7b9f-439d-99a1-0f12d33e9d57"
+Parent: "d9387155-0b34-4b32-b9ba-df26239310b5"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Ekpaideusi-politismos/_Local/Companies/mouseio-kikladikis-tehnis"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &Sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ό&sigmaf; &Sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&eta;&sigmaf; &Mu;&omicron;&upsilon;&sigma;&epsilon;ί&omicron;&upsilon; &Kappa;&upsilon;&kappa;&lambda;&alpha;&delta;&iota;&kappa;ή&sigmaf; &Tau;έ&chi;&nu;&eta;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron; έ&rho;&gamma;&omicron; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &tau;&alpha;&xi;&iota;&delta;&epsilon;ύ&omicron;&upsilon;&mu;&epsilon; &mu;&alpha;&zeta;ί &tau;&omicron;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ό &pi;&omicron;&lambda;&iota;&tau;&iota;&sigma;&mu;ό &sigma;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf;, &epsilon;&nu;ή&lambda;&iota;&kappa;&epsilon;&sigmaf; &kappa;&alpha;&iota; &pi;&alpha;&iota;&delta;&iota;ά.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Μουσείο Κυκλαδικής Τέχνης
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T155549Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{E696914A-FAE9-4D8B-B384-0DEF71108513}" querystring="" linktype="internal" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" url="/Eurolife/Home/etairiki-koinoniki-euthini/Ekpaideusi-politismos/mouseio-kikladikis-texnis" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{CC1CDD9E-CFF0-4B70-9C02-20E64787C7D9}"></image>

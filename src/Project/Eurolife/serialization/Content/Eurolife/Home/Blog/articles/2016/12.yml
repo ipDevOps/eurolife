@@ -1,0 +1,18 @@
+﻿---
+ID: "65044867-8d8b-4e13-acc5-2541a9e13738"
+Parent: "35fc402c-b8c8-4741-9881-fe9d6f2febbe"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Home/Blog/articles/2016/12
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152749Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

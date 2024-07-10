@@ -1,0 +1,36 @@
+﻿---
+ID: "29966b00-0905-4315-9e40-e4bfadb13717"
+Parent: "1a457617-c901-4bb3-acde-19e74845262e"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {7753C4B8-FFB7-4EF8-8F62-85A28AE89E2C}
+    {BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}
+    {F8FF2EBE-AB6A-41AB-A0C9-30656F056DFA}
+    {62B2FB1B-FD79-403A-AED2-9D1F464A2E63}
+    {4199BECF-21AA-4AAA-A99D-7A64CAE7FD94}
+    {2C7F1576-9844-4119-8F1E-A4E70C4791B9}
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143216Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T090039Z

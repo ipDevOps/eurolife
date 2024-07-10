@@ -1,0 +1,35 @@
+﻿---
+ID: "60e31fd1-3fa3-4b50-8470-6186a57519ab"
+Parent: "7a618702-9de0-4068-9513-1be93a72db97"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: "/sitecore/content/Eurolife/Global/FAQ/Career Sales Force/oikonomiki-stirixi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Οικονομική και ασφαλιστική κάλυψη
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T092757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p>- &Gamma;&iota;&alpha; &tau;&omicron; &epsilon;&iota;&sigma;ό&delta;&eta;&mu;ά &sigma;&alpha;&sigmaf;, &alpha;&pi;ό &tau;&omicron;&nu; &pi;&rho;ώ&tau;&omicron; &mu;ή&nu;&alpha; &epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha;&sigmaf; &sigma;&alpha;&sigmaf;
+        </p>
+        <p>- &Gamma;&iota;&alpha; &tau;&eta;&nu; &tau;ή&rho;&eta;&sigma;&eta; &tau;&omega;&nu; &delta;&epsilon;&sigma;&mu;&epsilon;ύ&sigma;&epsilon;ώ&nu; &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &theta;&alpha; &sigma;&alpha;&sigmaf; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;&upsilon;&tau;&omicron;ύ&nu;
+        </p>
+        <p>- &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &kappa;ά&lambda;&upsilon;&psi;&eta; &gamma;&iota;&alpha; &epsilon;&sigma;ά&sigmaf; &kappa;&alpha;&iota; &tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &sigma;&alpha;&sigmaf;
+        </p>
+        <p>- &Phi;&rho;&omicron;&nu;&tau;ί&delta;&alpha; &kappa;&alpha;&iota; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &gamma;&iota;&alpha; &tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu; &sigma;&alpha;&sigmaf;</p>

@@ -1,0 +1,32 @@
+﻿---
+ID: "b7ef6502-9906-4aae-9e44-dcccd740fb32"
+Parent: "9c82acae-eecc-4d09-83c8-66ec8daddde0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/PageContent/SocialWall
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/tv.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {1BA5F547-B119-44CB-BE3E-177AFA5517F0}
+    {F33EF93B-3514-4011-AEE9-2357C7DCB3C4}
+    {F727CC0F-D809-41DF-9338-68C5D264075F}
+    {CE354BF8-6B6F-4921-93E1-CB1A280ABB8F}
+    {448E4675-4B0E-4E74-8870-C03F548B1309}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210129T092723Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

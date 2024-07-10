@@ -1,0 +1,39 @@
+﻿---
+ID: "3417680d-b2ba-44b7-9f66-1cdcd6354fcd"
+Parent: "57aa074c-ac04-4bb5-9b9b-b948877e7f30"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Domi-omilou/_Local/Teasers/Colored Teasers/Progressing"
+DB: master
+SharedFields:
+- ID: "079afcfe-8aca-4863-bda7-07893541e2f5"
+  Hint: __Skin
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <strong style="font-weight:normal;" id="docs-internal-guid-04fbd2f3-7fff-7771-2f6f-f8c562dd2cda"></strong>
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Arial; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &pi;&rho;&omicron;&sigma;&eta;&lambda;&omega;&mu;έ&nu;&omicron;&iota; &sigma;&tau;&omicron; &sigma;&kappa;&omicron;&pi;ό &mu;&alpha;&sigmaf;, ώ&sigma;&tau;&epsilon; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&lambda;&alpha;&beta;&alpha;ί&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&iota; &epsilon;ί&nu;&alpha;&iota; &alpha;&upsilon;&tau;ό &pi;&omicron;&upsilon; &chi;&rho;&epsilon;&iota;ά&zeta;&epsilon;&sigma;&tau;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;, &epsilon;&kappa;&epsilon;ί&nu;&omicron; &pi;&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &tau;&omicron; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron; &gamma;&iota;&alpha; &epsilon;&sigma;ά&sigmaf;.</span></p>
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Arial; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&omicron;&iota; &kappa;&alpha;&iota; &pi;&rho;&omicron;&sigma;&alpha;&rho;&mu;&omicron;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &kappa;ά&theta;&epsilon; &eta;&mu;έ&rho;&alpha;, &delta;&omicron;&kappa;&iota;&mu;ά&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &nu;έ&epsilon;&sigmaf; &iota;&delta;έ&epsilon;&sigmaf; &pi;&omicron;&upsilon; &sigma;&alpha;&sigmaf; &pi;&eta;&gamma;&alpha;ί&nu;&omicron;&upsilon;&nu; &mu;&pi;&rho;&omicron;&sigma;&tau;ά.&nbsp;</span></p>
+        <p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Arial; color: #000000;">&Tau;&omicron;&lambda;&mu;ά&mu;&epsilon; &nu;&alpha; &sigma;&kappa;&epsilon;&phi;&tau;ό&mu;&alpha;&sigma;&tau;&epsilon; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ά. &Kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;&omicron;ύ&mu;&epsilon; &kappa;&alpha;&iota; &epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; έ&rho;&epsilon;&upsilon;&nu;&alpha; &kappa;&alpha;&iota; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;, &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ώ&nu;&tau;&alpha;&sigmaf; &nu;έ&alpha; &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &alpha;&lambda;&lambda;ά&zeta;&omicron;&upsilon;&nu; &tau;&omicron;&nu; &kappa;&lambda;ά&delta;&omicron; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf;.</span></p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Καινοτομούμε και προσαρμοζόμαστε, με φρέσκια αντίληψη.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T105309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

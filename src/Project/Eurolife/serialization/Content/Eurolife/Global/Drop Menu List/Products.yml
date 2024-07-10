@@ -1,0 +1,32 @@
+﻿---
+ID: "ddd6c315-2c15-46a1-9d20-8cef194fc256"
+Parent: "d45d7932-e187-4b4b-a64b-0d442589008e"
+Template: "340a7ce1-04ea-4572-bc4a-6d8e9a448be7"
+Path: /sitecore/content/Eurolife/Global/Drop Menu List/Products
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210204T115054Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{1F3E62BD-C0E5-40D9-A77F-90D2221EE480}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "bb0d84e8-dea5-4bcd-9fb9-191c50d652e6"
+      Hint: Title
+      Value: Λύσεις για εσάς
+    - ID: "c87054ef-9e94-4e34-b8b9-5250b6d3f1ec"
+      Hint: MenuTitle
+      Value: Προσωπική Ασφάλιση

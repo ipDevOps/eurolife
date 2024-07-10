@@ -1,0 +1,40 @@
+﻿---
+ID: "7d095f33-73e4-40c7-8d62-367931538b49"
+Parent: "6b1d70f2-b4cc-4640-aebe-14cb275985e3"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Media/Media File Folders Grouped List
+DB: master
+SharedFields:
+- ID: "13f89250-ad6b-4548-882e-118a12c18094"
+  Hint: Parameters Template
+  Value: "{3E85DE9F-46F1-4A60-A28C-03EE2A481F2D}"
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/Common/Content Types/PDF Group
+- ID: "94069f66-609c-48b0-8281-521c30fb269d"
+  Hint: Open Properties after Add
+  Value: 
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: 
+- ID: "d7e7d647-0d97-4df7-a1ae-01253761a71b"
+  Hint: JavaScript assets
+  Value: /scripts/media/media.js
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: MediaFileFoldersGroupedList
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Wedia.Feature.Media.Controllers.MediaFeatureController, Wedia.Feature.Media
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190522T144407Z
+    - ID: "77593ad2-0761-4d3e-8e17-82a304029640"
+      Hint: Supports Local Datasource
+      Type: Checkbox
+      Value: 0

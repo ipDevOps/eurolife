@@ -1,0 +1,51 @@
+﻿@using Sitecore.Mvc
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.PageContent
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageImageContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+   
+@{ 
+    var homeUrl = Sitecore.Context.Site?.GetStartItem()?.Url() ?? "/";
+}
+
+<div id="fix-1" class="intro sticky-pending sticky-health p-t-48 p-b-48">    
+  <div class="center center--1700 flexify">
+    <div class="intro-text">  
+      @if (Html.Sitecore().HasValue(Templates.HasPageContent.Fields.Title.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+        <h1 class="h3 m-b-8">
+          @Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)
+        </h1>
+      }
+
+      @if (Html.Sitecore().HasValue(Templates.HasPageContent.Fields.Summary.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+        <div class="intro__text">
+          <p>
+            @Html.Sitecore().Field(Templates.HasPageContent.Fields.Summary)
+          </p>
+        </div>
+      }
+    </div>
+
+    @if (Html.Sitecore().HasValue(Templates.HasPageCTA.Fields.CTA.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="intro-cta">
+        @Html.Sitecore().Field(Templates.HasPageCTA.Fields.CTA, new { @class = "btn btn--default btn--dark" })
+      </div>
+    }
+
+  </div>
+</div>
+<div id="after-sticky-1" class="after-sticky"></div>
+

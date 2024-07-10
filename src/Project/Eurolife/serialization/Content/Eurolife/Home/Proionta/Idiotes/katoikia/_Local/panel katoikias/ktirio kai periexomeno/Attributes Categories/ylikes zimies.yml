@@ -1,0 +1,69 @@
+﻿---
+ID: "0dd3478d-864b-4e7a-96ef-18172b7842df"
+Parent: "bbfa45a0-aab8-4b25-9623-eec4fe0ce45d"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Attributes Categories/ylikes zimies
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 0
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {D5EF8C5C-16B9-4DB7-B62E-7D7BA40DD74E}
+        {CBF12FC6-8CC0-405D-B94A-CB064513A8D2}
+        {AFE6D069-735A-46A0-B830-6F20163D4350}
+        {38FFFD65-D101-4736-89C9-F76A148B53EA}
+        {BA0AD8C8-E730-4C06-8D9B-49E003581867}
+        {6356ACE0-9D92-4A96-B8D5-A33C6C661CCA}
+        {F1E12E31-401D-43E9-8F56-9334D403BBFB}
+        {8BBF16EF-4BAB-4DB4-875E-766A09D27958}
+        {A06F1BB4-6B34-43CA-AF04-2839C71E43FE}
+        {6972AB8F-33B2-45AA-B431-BEC83E2A48E8}
+        {225E617F-E480-4D0F-A44B-6A4281951AE1}
+        {796899E2-B39A-426B-9CB9-268CBCE786F9}
+        {027E7442-D852-4E58-ABDA-4A77761062EE}
+        {3A892438-DE7B-4EF2-A840-1D0B061CF8FF}
+        {E56126D4-CAFD-4E0C-892F-22A4606B6BC6}
+        {8BB14FCE-E329-4285-ADDD-0988B6ADE305}
+        {A4C6947A-EF34-4E5D-B2F2-C3AD21BF7DA3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203049Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Υλικές Ζημιές
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082718Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

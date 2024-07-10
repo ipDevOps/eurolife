@@ -1,0 +1,24 @@
+﻿---
+ID: "c46cb264-4fe4-46af-ba3c-887343fa605a"
+Parent: "9204bc0a-9a21-49e4-b46f-64fbac1a1586"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/S/symvevlimeno-nosokomeio"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Συμβεβλημένο Νοσοκομείο
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T080048Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Νοσοκομείο ή κλινική στην Ελλάδα και το εξωτερικό, με το οποίο η εταιρεία έχει συνάψει ειδική σύμβαση συνεργασίας. Αναφέρεται στον εκάστοτε ισχύοντα «Πίνακα Συμβεβλημένων με την Εταιρεία Νοσοκομείων» και αποδέχεται να παρέχει στον ασφαλισμένο ελεύθερη πρόσβαση στις ιατρικές του υπηρεσίες, με βάση τους όρους και τις καλύψεις του ασφαλιστηρίου συμβολαίου.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

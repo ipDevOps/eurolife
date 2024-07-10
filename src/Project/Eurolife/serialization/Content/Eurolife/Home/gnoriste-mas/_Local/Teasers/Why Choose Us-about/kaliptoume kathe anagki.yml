@@ -1,0 +1,47 @@
+﻿---
+ID: "4c5d54a1-c8f5-46d0-a1ef-8887549bfe88"
+Parent: "65f11d60-4b69-4500-b758-fe8ba8074d33"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/Teasers/Why Choose Us-about/kaliptoume kathe anagki"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <p>We anticipate what's needed next to make things flow smoother and without hiccup.</p>
+        <p>We look for ways to grow our relationship and business, while solving problems for others.</p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: We never Stand Still
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190924T091141Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-8a6ba157-7fff-64d4-0d58-f513a9af3564" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &kappa;&alpha;&iota; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &delta;&rho;&omicron;&upsilon;&nu; &pi;&rho;&omicron;&lambda;&eta;&pi;&tau;&iota;&kappa;ά &kappa;&alpha;&iota; &epsilon;&sigma;&tau;&iota;ά&zeta;&omicron;&upsilon;&nu; &sigma;&tau;&iota;&sigmaf; &theta;&epsilon;&tau;&iota;&kappa;έ&sigmaf; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;έ&sigmaf; &tau;&omicron;&upsilon; &alpha;ύ&rho;&iota;&omicron;. &Alpha;&nu;&tau;&iota;&lambda;&alpha;&mu;&beta;&alpha;&nu;ό&mu;&alpha;&sigma;&tau;&epsilon; &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &kappa;&alpha;&iota; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &mu;&epsilon; &epsilon;&upsilon;&epsilon;&lambda;&iota;&xi;ί&alpha;, &delta;&iota;&alpha;&theta;έ&tau;&omicron;&nu;&tau;&alpha;&sigmaf; &mu;&epsilon;&gamma;ά&lambda;&omicron; &epsilon;ύ&rho;&omicron;&sigmaf; &epsilon;&pi;&iota;&lambda;&omicron;&gamma;ώ&nu;.</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Καλύπτουμε κάθε σας ανάγκη
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

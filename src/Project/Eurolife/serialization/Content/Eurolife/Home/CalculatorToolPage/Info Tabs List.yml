@@ -1,0 +1,18 @@
+﻿---
+ID: "fb19bee5-3b22-45e1-91da-7401e59ca0e6"
+Parent: "766c59cc-6b65-465a-b40e-447bb2665d55"
+Template: "c11604cc-e0a8-4e3e-a667-fa6bc3cc7355"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Info Tabs List
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210203T142145Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

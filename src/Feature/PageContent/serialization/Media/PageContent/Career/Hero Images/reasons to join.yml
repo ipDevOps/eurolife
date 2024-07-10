@@ -1,0 +1,18 @@
+﻿---
+ID: "33971550-d8f6-43ca-9eb8-40f0194b3381"
+Parent: "5c6faf22-73cd-4144-8731-c2fbd965359b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/PageContent/Career/Hero Images/reasons to join
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191017T114437Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

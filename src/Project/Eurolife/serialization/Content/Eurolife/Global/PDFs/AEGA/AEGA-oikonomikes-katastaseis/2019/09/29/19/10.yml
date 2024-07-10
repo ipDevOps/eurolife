@@ -1,0 +1,18 @@
+﻿---
+ID: "573093e6-c257-423f-bdcb-5dfbcac7dcb1"
+Parent: "fb8e4d96-e823-4527-9c02-90e734aa1af0"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEGA/AEGA-oikonomikes-katastaseis/2019/09/29/19/10"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T191027Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

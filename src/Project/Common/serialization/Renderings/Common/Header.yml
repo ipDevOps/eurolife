@@ -1,0 +1,18 @@
+﻿---
+ID: "ef0bead8-dd54-4579-8f4a-2a4971c29f73"
+Parent: "8e0f7fc4-5c95-4537-a23f-d614abf6979e"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/Common/Header
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Common/Sublayouts/Header.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T084023Z

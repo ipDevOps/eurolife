@@ -1,0 +1,56 @@
+﻿.new-cta {
+  padding: 48px 96px 48px 48px;
+  background-color: rgba(71, 148, 99, 0.2);
+  border-radius: 0 0 100px 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @include breakpoint-rev(920) {
+    width: calc(100% - 40px);
+  }
+
+  .new-cta__inner {
+    flex-basis: 60%;
+    flex-grow: 1;
+    max-width: 520px;
+
+    @include breakpoint-rev(920) {
+      order: 1;
+      flex-basis: 100%;
+    }
+
+    h2 {
+      margin-top: 0;
+      font-weight: 500;
+      line-height: 1.31;
+      color: $light-forest-green;
+      margin-bottom: 32px;
+    }
+
+    a.btn {
+      display: block;
+      padding: 24px;
+      text-align: left;
+      border: 1px solid $light-forest-green;
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 1.38;
+      color: $charcoal;
+      padding-right: 64px;
+      background-position: calc(100% - 24px) center;
+      background-image: url("data:image/svg+xml;utf8,<svg width='28px' height='26px' viewBox='0 0 28 26' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'><g transform='translate(-1207.000000, -512.000000)' fill='%23479463' fill-rule='nonzero'><g transform='translate(171.000000, 474.000000)'><g><g transform='translate(1015.000000, 16.000000)'><g transform='translate(19.000000, 19.000000)'><path d='M22.8597366,16.8501586 C23.1435878,16.5757196 23.1435878,16.1436636 22.8597366,15.8692246 C22.585475,15.5947856 22.1290116,15.5947856 21.8553893,15.8692246 L16.7109065,20.8338512 L16.7109065,4.42993868 C16.7109065,4.04733113 16.3963688,3.73333333 16.0006393,3.73333333 C15.6049099,3.73333333 15.2801432,4.04733113 15.2801432,4.42993868 L15.2801432,20.8338512 L10.1458893,15.8692246 C9.8620381,15.5947856 9.40493543,15.5947856 9.13131313,15.8692246 C8.84746196,16.1436636 8.84746196,16.5757196 9.13131313,16.8501586 L15.4936709,23.0015486 C15.7679325,23.266716 16.2243959,23.266716 16.508247,23.0015486 L22.8597366,16.8501586 Z M27.90257,21.3536782 C27.90257,20.9710707 28.2171078,20.6669626 28.6128372,20.6669626 C29.0085667,20.6669626 29.3333333,20.9710707 29.3333333,21.3536782 L29.3333333,28.1033947 C29.3333333,28.4860022 29.0085667,28.8 28.6128372,28.8 L3.3769339,28.8 C2.98120445,28.8 2.66666667,28.4860022 2.66666667,28.1033947 L2.66666667,21.3536782 C2.66666667,20.9710707 2.98120445,20.6669626 3.3769339,20.6669626 C3.77266334,20.6669626 4.09743,20.9710707 4.09743,21.3536782 L4.09743,27.416679 L27.90257,27.416679 L27.90257,21.3536782 Z' id='Shape'></path></g></g></g></g></g></g></svg>");
+    }
+  }
+
+  img {
+    @include breakpoint-rev(920) {
+      order: 0;
+      margin-bottom: 48px;
+      flex-basis: 100%;
+    }
+
+    flex-basis: 200px;
+  }
+}

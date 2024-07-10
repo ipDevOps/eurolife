@@ -1,0 +1,32 @@
+﻿---
+ID: "87052a79-59e7-44d5-9a1b-19cc536969dc"
+Parent: "8de6b0e3-9c74-4a04-b77d-879c73c43540"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/Dynamic Teaser/Media Contact"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <strong style="font-weight:normal;" id="docs-internal-guid-ec430d5d-7fff-fdba-a477-ada3043ae73a"><span style="font-size: 11pt; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; font-family: Arial; color: #000000;">&Epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ή&sigma;&tau;&epsilon; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; (&gamma;&iota;&alpha; &epsilon;&kappa;&pi;&rho;&omicron;&sigma;ώ&pi;&omicron;&upsilon;&sigmaf; media)</span></strong>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Media contact
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T080239Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: "<link text='ΣΤΕΙΛΤΕ ΜΑΣ E-MAIL' linktype='mailto' style='' url='mailto:press@eurolife.gr'  title='' />"
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{0080892F-C33A-4EEE-8D12-611161105E71}" />

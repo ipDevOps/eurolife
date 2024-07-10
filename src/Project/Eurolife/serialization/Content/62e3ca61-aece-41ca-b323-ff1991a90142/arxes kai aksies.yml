@@ -1,0 +1,30 @@
+﻿---
+ID: "0aa7c4c4-ebc1-4df3-8ad9-7207d890e53d"
+Parent: "62e3ca61-aece-41ca-b323-ff1991a90142"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/asfalistikoi sinergates/arxes kai aksies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: "Αρχές και Αξίες, όπως:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <ul>
+            <li>&Alpha;&xi;&iota;&omicron;&kappa;&rho;&alpha;&tau;ί&alpha; (ό&lambda;&omicron;&iota; έ&chi;&omicron;&upsilon;&nu; ί&delta;&iota;&epsilon;&sigmaf; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf; &gamma;&iota;&alpha; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &epsilon;&iota;&sigma;&omicron;&delta;ή&mu;&alpha;&tau;&omicron;&sigmaf; &kappa;&alpha;&iota; &kappa;&alpha;&rho;&iota;έ&rho;&alpha;&sigmaf;)</li>
+            <li>&Epsilon;&pi;&iota;&delta;ί&omega;&xi;&eta; &nu;&alpha; &gamma;&iota;&nu;ό&mu;&alpha;&sigma;&tau;&epsilon; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron;&iota; &sigma;&epsilon; ό&tau;&iota; &kappa;ά&nu;&omicron;&upsilon;&mu;&epsilon;, &kappa;ά&theta;&epsilon; &mu;έ&rho;&alpha;</li>
+            <li>&Alpha;&nu;&alpha;&lambda;&alpha;&mu;&beta;ά&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; &epsilon;&upsilon;&theta;ύ&nu;&eta; &tau;&omega;&nu; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;ά&tau;&omega;&nu; &mu;&alpha;&sigmaf;</li>
+            <li>&Pi;&rho;&omicron;&omicron;&delta;&epsilon;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &omega;&sigmaf; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;ί&epsilon;&sigmaf;, &mu;έ&sigma;&alpha; &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&eta;&nu; &pi;&rho;ό&omicron;&delta;&omicron; &tau;&eta;&sigmaf; &Omicron;&mu;ά&delta;&alpha;&sigmaf; &mu;&alpha;&sigmaf;</li>
+        </ul>

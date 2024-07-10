@@ -1,0 +1,18 @@
+﻿---
+ID: "2f63f4fb-6833-4b5b-93af-11bf71565b60"
+Parent: "bd411db9-a2b3-4c69-af07-038c424c8588"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio/Programs Attributes/Plimmyra thyella kataigida/Plimmyra thyella kataigida no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073447Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

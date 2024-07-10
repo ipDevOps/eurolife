@@ -1,0 +1,18 @@
+﻿---
+ID: "f37622e1-672c-43fa-9faa-d8690e98f0c9"
+Parent: "ba9bac35-d824-4941-aa49-59dde3ce5357"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/Forms/Thetika-sholia/Page/Section/SubSection/Radio Button List/Settings/Datasource"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T200822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

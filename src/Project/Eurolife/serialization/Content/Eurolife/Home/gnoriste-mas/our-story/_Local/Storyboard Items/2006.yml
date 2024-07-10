@@ -1,0 +1,48 @@
+﻿---
+ID: "91584fa1-bdf7-4cb1-8227-d9018367908b"
+Parent: "a2bb8e7b-3841-49b7-b028-29a09d6ddcd9"
+Template: "537eda0b-cad9-414a-a01f-33356d9305ab"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local/Storyboard Items/2006"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143239Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2006
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: &Kappa;&alpha;&tau;&alpha;&phi;έ&rho;&alpha;&mu;&epsilon; &nu;&alpha; &beta;&rho;&epsilon;&theta;&omicron;ύ&mu;&epsilon; &kappa;&alpha;&iota; &pi;ά&lambda;&iota; &sigma;&tau;&eta;&nu; &kappa;&omicron;&rho;&upsilon;&phi;ή, &delta;&iota;&alpha;&tau;&eta;&rho;ώ&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; 1&eta; &theta;έ&sigma;&eta; &sigma;&tau;&eta;&nu; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &Zeta;&omega;ή&sigmaf; &gamma;&iota;&alpha; &alpha;&kappa;ό&mu;&alpha; &mu;&iota;&alpha; &chi;&rho;&omicron;&nu;&iota;ά.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19e2ddeb-92cb-4aeb-876c-040437f0f4bf"
+      Hint: StoryboardItemBgClass
+      Value: "{6ADEB5B7-13E8-45FE-A2B3-75C4910FA09F}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110951Z
+    - ID: "ca468a9d-b4bc-4c66-b9b2-a3b7db1793a5"
+      Hint: StoryboardItemImage
+      Value: |
+        <image mediapath="" alt="2005" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{4A4F16BF-B02C-41FC-B212-F25FCFA9DD1C}" />
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2005
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

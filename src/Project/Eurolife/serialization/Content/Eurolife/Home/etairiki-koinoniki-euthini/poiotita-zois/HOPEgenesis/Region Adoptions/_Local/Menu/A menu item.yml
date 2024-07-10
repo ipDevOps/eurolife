@@ -1,0 +1,32 @@
+﻿---
+ID: "1001756e-e883-47b5-9f3f-0b6659dcf753"
+Parent: "90e42c04-1bc3-4c76-b662-b6d4cfe07f49"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/Region Adoptions/_Local/Menu/A menu item"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T123821Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T092401Z
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{85D60CA6-EAB7-44E7-9D78-E8DB75756B35}" querystring="" linktype="internal" text="Career" anchor="" url="/Eurolife/Home/as-sinergastoume" title="" class="" target="" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: A menu item

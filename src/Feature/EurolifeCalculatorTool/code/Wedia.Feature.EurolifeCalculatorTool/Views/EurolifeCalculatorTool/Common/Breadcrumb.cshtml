@@ -1,0 +1,40 @@
+﻿@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.EurolifeCalculatorTool
+@model Sitecore.Data.Items.Item
+
+<section class="bread-in-tool">
+  <ul>
+    <li>
+      <a href="javascript:;"  
+         data-itemid="@Model.ID"
+         data-nextstep="step-1"
+         data-loadfrombreadcrumb="true"
+         onclick="showNextStep(this, arguments);">
+        <span id="bread-step-1" class="current">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Breadcrumbs/Step1", "Step1 Breadcrumb")</span>
+      </a>
+    </li>
+    <li>
+      <a href="javascript:;"
+         data-itemid="@Model.ID"
+         data-nextstep="step-2"
+         data-loadfrombreadcrumb="true"
+         onclick="showNextStep(this, arguments);">
+        <span id="bread-step-2">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Breadcrumbs/Step2", "Step2 Breadcrumb")</span>
+      </a>   
+    </li>
+    <li>
+      <a href="javascript:;"
+         data-itemid="@Model.ID"
+         data-nextstep="step-3"
+         data-loadfrombreadcrumb="true"
+         onclick="showNextStep(this, arguments);">
+        <span id="bread-step-3">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Breadcrumbs/Step3", "Step3 Breadcrumb")</span>
+      </a>   
+    </li>
+    <li>
+      <span id="bread-step-4">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Breadcrumbs/Step4", "Step4 Breadcrumb")</span>
+    </li>
+  </ul>
+</section>

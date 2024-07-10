@@ -1,0 +1,40 @@
+﻿---
+ID: "2f7c368c-1283-4395-877e-b4e4b91fd85f"
+Parent: "631cd107-0069-472c-bd15-80edebe44c72"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/Highlights mikres epixeiriseis/katoikia Highlights/memonomenes kalipseis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Μεμονωμένες λοιπές καλύψεις
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;&pi;έ&kappa;&tau;&alpha;&sigma;&eta; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &sigma;&epsilon; &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&alpha; &sigma;&tau;&omicron; ύ&pi;&alpha;&iota;&theta;&rho;&omicron; ή &epsilon;&nu;&tau;ό&sigmaf; &beta;&omicron;&eta;&theta;&eta;&tau;&iota;&kappa;ώ&nu; &kappa;&tau;&iota;&sigma;&mu;ά&tau;&omega;&nu;, ό&pi;&omega;&sigmaf; έ&pi;&iota;&pi;&lambda;&alpha; &kappa;ή&pi;&omicron;&upsilon; &kappa;&alpha;&iota; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&alpha; &kappa;&eta;&pi;&omicron;&upsilon;&rho;&iota;&kappa;ή&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;&pi;έ&kappa;&tau;&alpha;&sigma;&eta; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &sigma;&epsilon; &upsilon;&pi;&alpha;ί&theta;&rho;&iota;&epsilon;&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf;, ό&pi;&omega;&sigmaf; &beta;&omicron;&eta;&theta;&eta;&tau;&iota;&kappa;ά &kappa;&tau;ί&sigma;&mu;&alpha;&tau;&alpha;, &mu;&alpha;&nu;&tau;&rho;ό&tau;&omicron;&iota;&chi;&omicron;&upsilon;&sigmaf;, &pi;&iota;&sigma;ί&nu;&epsilon;&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&alpha;&theta;ί&zeta;&eta;&sigma;&eta; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&omicron;&lambda;ί&sigma;&theta;&eta;&sigma;&eta; &epsilon;&delta;ά&phi;&omicron;&upsilon;&sigmaf;</span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&epsilon;&iota;&sigma;&mu;ό&sigmaf;</span></li>
+        </ul>
+        </div>
+        </div>

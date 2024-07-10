@@ -1,0 +1,25 @@
+﻿---
+ID: "0a0f7d91-f7f0-486c-857e-9ec2666fc5be"
+Parent: "d10e7aa5-46da-4413-abd4-f375605924a4"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Syntaxi Apotamiefsi/Pote energopoieitai to programma mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Πότε ενεργοποιείται το πρόγραμμά μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T091416Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Tau;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;ά &sigma;&alpha;&sigmaf; &epsilon;&nu;&epsilon;&rho;&gamma;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; &mu;ό&lambda;&iota;&sigmaf; &kappa;&alpha;&tau;&alpha;&beta;ά&lambda;&epsilon;&tau;&epsilon; &tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;ά &sigma;&alpha;&sigmaf;. &Eta; &eta;&mu;&epsilon;&rho;&omicron;&mu;&eta;&nu;ί&alpha; έ&nu;&alpha;&rho;&xi;&eta;&sigmaf; &iota;&sigma;&chi;ύ&omicron;&sigmaf; &tau;&omicron;&upsilon; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &alpha;&nu;&alpha;&gamma;&rho;ά&phi;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;ή&rho;&iota;ό &sigma;&alpha;&sigmaf;.</span>

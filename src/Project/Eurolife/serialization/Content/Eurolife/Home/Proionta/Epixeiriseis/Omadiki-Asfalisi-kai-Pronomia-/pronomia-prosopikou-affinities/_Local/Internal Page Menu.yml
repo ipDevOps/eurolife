@@ -1,0 +1,14 @@
+﻿---
+ID: "48bf341a-93aa-4a1a-adc9-b9158777c845"
+Parent: "b0dbcda2-2685-49b7-89c0-0492b65a07e6"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/pronomia-prosopikou-affinities/_Local/Internal Page Menu"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T111341Z

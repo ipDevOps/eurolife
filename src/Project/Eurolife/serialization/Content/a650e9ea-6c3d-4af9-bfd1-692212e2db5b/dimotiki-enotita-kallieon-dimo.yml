@@ -1,0 +1,57 @@
+﻿---
+ID: "74936435-8027-46e0-9064-489fe9995a19"
+Parent: "a650e9ea-6c3d-4af9-bfd1-692212e2db5b"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/Region Adoptions/2019/10/11/07/27/dimotiki-enotita-kallieon-dimos-delfon"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{3F81B1EE-743D-4732-BF6C-1C5C7DBDD099}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191011T072737Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Δημοτική ενότητα Καλλιέων, Δήμος Δελφών
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: Επόμενος προορισμός η Δημοτική Ενότητα Καλλιέων στην ευρύτερη περιοχή των Δελφών. Ταξιδεύουμε στα χωριά της περιοχής, ενημερώνοντας και ευαισθητοποιώντας κάθε γυναίκα που θέλει να μείνει έγκυος, προκειμένου να αισθανθεί πιο ασφαλής και σίγουρη για την εγκυμοσύνη της.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e129621-73bc-403c-b4db-bf403c685630"
+      Hint: MetaDescription
+      Value: Επόμενος προορισμός η Δημοτική Ενότητα Καλλιέων στην ευρύτερη περιοχή των Δελφών. Ταξιδεύουμε στα χωριά της περιοχής, ενημερώνοντας και ευαισθητοποιώντας κάθε γυναίκα που θέλει να μείνει έγκυος, προκειμένου να αισθανθεί πιο ασφαλής και σίγουρη για την εγκυμοσύνη της.
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{33BB492B-7F6D-4C2B-ABBA-BF56D2A9B453}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Δημοτική ενότητα Καλλιέων, Δήμος Δελφών
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20190601T072700Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Δημοτική ενότητα Καλλιέων, Δήμος Δελφών

@@ -1,0 +1,30 @@
+﻿---
+ID: "1fe0caf8-16af-4967-988f-c1cca73fc501"
+Parent: "64fde92e-3fbf-4259-86f9-37061ec535c9"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Attributes Categories/secondary
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {49FA7809-98F3-461E-BE64-E98E7C012E17}
+        {028A3150-DAB4-4874-95DA-C04AF890C6FA}
+        {48F4DBB7-8333-40BC-AD2F-BC3971ED92DA}
+        {1A95C35C-40E8-4741-B991-DFCB19622B09}
+        {650537A6-AAAC-48C6-A888-DE6C8970D665}
+        {F1716A28-B3CB-472E-854A-7A9AE56A2DD1}
+        {305E0BD7-E1E2-487F-A08A-771EE1231AF1}
+        {5CA00C8F-5AC3-44DC-A148-655E9BA7A414}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T222639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

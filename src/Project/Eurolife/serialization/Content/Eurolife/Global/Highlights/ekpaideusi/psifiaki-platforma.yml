@@ -1,0 +1,28 @@
+﻿---
+ID: "59c759db-8fd6-456f-90d9-bbe865bc6471"
+Parent: "6b45cac2-8bab-42ee-94f4-33958563a905"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Global/Highlights/ekpaideusi/psifiaki-platforma"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T122013Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Σύγχρονη Πλατφόρμα Ψηφιακής Εκπαίδευσης
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <strong id="docs-internal-guid-38a3f49e-7fff-3fc9-d1a0-eff3443d05b4"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Eta; &Pi;&lambda;&alpha;&tau;&phi;ό&rho;&mu;&alpha; &Psi;&eta;&phi;&iota;&alpha;&kappa;ή&sigmaf; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; (e-learning) &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf; Eurolife ERB </span><a href="https://training.eurolife.gr" style="text-decoration: none;"><span style="background-color: transparent; text-decoration: underline; color: #1155cc;">https://training.eurolife.gr</span></a><span style="background-color: transparent; text-decoration: none; color: #000000;"> &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί έ&nu;&alpha; &alpha;&pi;ό&lambda;&upsilon;&tau;&alpha; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&omicron; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&omicron; &mu;ά&theta;&eta;&sigma;&eta;&sigmaf;, &pi;&omicron;&upsilon; &delta;&iota;&epsilon;&upsilon;&rho;ύ&nu;&epsilon;&iota; &tau;&iota;&sigmaf; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf; &gamma;&iota;&alpha; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ί&alpha; &nu;έ&omega;&nu; &kappa;&alpha;&iota; &epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&omega;&nu; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&omega;&nu; &delta;&omicron;&upsilon;&lambda;&epsilon;&iota;ά&sigmaf;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&tau;&eta;&nu; &pi;&lambda;&alpha;&tau;&phi;ό&rho;&mu;&alpha; &sigma;&upsilon;&gamma;&kappa;&epsilon;&nu;&tau;&rho;ώ&nu;&epsilon;&tau;&alpha;&iota; ό&lambda;&omicron; &tau;&omicron; &upsilon;&lambda;&iota;&kappa;ό &epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &alpha;&nu;ά &mu;ή&nu;&alpha; &kappa;&alpha;&iota; &alpha;&nu;ά &epsilon;&beta;&delta;&omicron;&mu;ά&delta;&alpha;, &epsilon;&nu;ώ &omicron;&iota; &epsilon;&nu;&delta;&iota;&alpha;&phi;&epsilon;&rho;ό&mu;&epsilon;&nu;&omicron;&iota; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; &sigma;&upsilon;&nu;&delta;&epsilon;&theta;&omicron;ύ&nu; &kappa;&alpha;&iota; &nu;&alpha; &delta;&eta;&lambda;ώ&sigma;&omicron;&upsilon;&nu; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&omicron;&chi;ή &mu;&epsilon; &tau;&omicron; &pi;ά&tau;&eta;&mu;&alpha; &epsilon;&nu;ό&sigmaf; &kappa;&omicron;&upsilon;&mu;&pi;&iota;&omicron;ύ, &gamma;&iota;&alpha; ό&pi;&omicron;&iota;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha;, &sigma;&epsilon;&mu;&iota;&nu;ά&rho;&iota;&omicron; ή &kappa;&alpha;&iota; &eta;&mu;&epsilon;&rho;ί&delta;&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&epsilon;&iota;. &Delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;&omicron;ύ&mu;&epsilon; &nu;έ&epsilon;&sigmaf; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&epsilon;&sigmaf;, &mu;&epsilon; &chi;&rho;ή&sigma;&eta; &nu;έ&omega;&nu; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ώ&nu; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&omega;&nu;.</span></p>
+        <br class="Apple-interchange-newline" />

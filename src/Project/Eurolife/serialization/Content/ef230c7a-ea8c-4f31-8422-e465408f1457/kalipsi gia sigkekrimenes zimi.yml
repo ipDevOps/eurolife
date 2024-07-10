@@ -1,0 +1,69 @@
+﻿---
+ID: "0c173a54-da1c-45c8-9d6a-79480ae5f18d"
+Parent: "ef230c7a-ea8c-4f31-8422-e465408f1457"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/metafores/_Local/Highlights metafores/Vechile Highlights/kalipsi gia sigkekrimenes zimies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T145102Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Κάλυψη για συγκεκριμένες ζημιές
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        &Epsilon;&pi;&iota;&lambda;έ&gamma;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta; &Rho;ή&tau;&rho;&alpha; C, έ&chi;&epsilon;&tau;&epsilon; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &pi;&omicron;&upsilon; &kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&iota; &zeta;&eta;&mu;&iota;έ&sigmaf; &alpha;&pi;ό:
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-3c2efc4a-7fff-8b42-b57a-6a8f806cab8d"></strong></span><span style="background-color: transparent; text-decoration: none; color: #000000;" id="docs-internal-guid-e22514d1-7fff-8e88-1c28-7cee0d26ae4d">&Pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;ά ή έ&kappa;&rho;&eta;&xi;&eta;.</span>
+            <span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-3c2efc4a-7fff-8b42-b57a-6a8f806cab8d"></span><br class="Apple-interchange-newline" />
+            </span></li>
+        </ul>
+        <ul>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-c12778a4-7fff-c4f6-7721-e98157df2b05"></span></span>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;" id="docs-internal-guid-b9afd903-7fff-e02d-0309-cb6abf6f2d09">&Pi;&rho;&omicron;&sigma;ά&rho;&alpha;&xi;&eta;, &beta;ύ&theta;&iota;&sigma;&eta; ή &alpha;&nu;&alpha;&tau;&rho;&omicron;&pi;ή &pi;&lambda;&omicron;ί&omicron;&upsilon;.</span></p>
+            <span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">
+            </span></li>
+        </ul>
+        <ul>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-9f8654f6-7fff-e942-af04-73ca454c836f"></span></span>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-76caa76f-7fff-37d7-3243-6b40d09aee8c" style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&nu;&alpha;&tau;&rho;&omicron;&pi;ή ή &epsilon;&kappa;&tau;&rho;&omicron;&chi;&iota;&alpha;&sigma;&mu;ό &chi;&epsilon;&rho;&sigma;&alpha;ί&omicron;&upsilon; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;&iota;&kappa;&omicron;ύ &mu;έ&sigma;&omicron;&upsilon;.</span><br class="Apple-interchange-newline" />
+            </span></p>
+            <span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">
+            </span></li>
+        </ul>
+        <ul>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-c4efb793-7fff-0e7c-6b02-213ab3c89b8f"></span></span>
+            <div><span id="docs-internal-guid-3a65d80c-7fff-8ecf-6334-9395ac2cb660" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;ύ&gamma;&kappa;&rho;&omicron;&upsilon;&sigma;&eta; ή &epsilon;&pi;&alpha;&phi;ή &pi;&lambda;&omicron;ί&omicron;&upsilon; ή &tau;&omicron;&upsilon; &mu;&epsilon;&tau;&alpha;&phi;&omicron;&rho;&iota;&kappa;&omicron;ύ &mu;έ&sigma;&omicron;&upsilon; &mu;&epsilon; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;ό &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&omicron; &epsilon;&kappa;&tau;ό&sigmaf; &alpha;&pi;ό &tau;&omicron; &nu;&epsilon;&rho;ό.</span></div>
+            <span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;">
+            </span></li>
+        </ul>
+        <ul>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-c4efb793-7fff-0e7c-6b02-213ab3c89b8f"></span></span>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;" id="docs-internal-guid-b667bed1-7fff-f8d1-2365-fa79211e1494">&Epsilon;&kappa;&phi;ό&rho;&tau;&omega;&sigma;&eta; &tau;&omicron;&upsilon; &epsilon;&mu;&pi;&omicron;&rho;&epsilon;ύ&mu;&alpha;&tau;&omicron;&sigmaf; &sigma;&epsilon; &lambda;&iota;&mu;ά&nu;&iota; &kappa;&iota;&nu;&delta;ύ&nu;&omicron;&upsilon; ή &kappa;&alpha;&tau;&alpha;&phi;&upsilon;&gamma;ή&sigmaf;.</span></p>
+            </li>
+        </ul>
+        <ul>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-c4efb793-7fff-0e7c-6b02-213ab3c89b8f"></span></span>
+            <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;" id="docs-internal-guid-d2e9f767-7fff-4056-fc64-266dc881824b">&Sigma;&kappa;ό&pi;&iota;&mu;&eta; &rho;ί&psi;&eta; &tau;&omega;&nu; &epsilon;&mu;&pi;&omicron;&rho;&epsilon;&upsilon;&mu;ά&tau;&omega;&nu; &sigma;&tau;&eta; &theta;ά&lambda;&alpha;&sigma;&sigma;&alpha; &sigma;&tau;&eta;&nu; &pi;&rho;&omicron;&sigma;&pi;ά&theta;&epsilon;&iota;&alpha; &delta;&iota;ά&sigma;&omega;&sigma;&eta;&sigmaf; &tau;&omicron;&upsilon; &pi;&lambda;&omicron;ί&omicron;&upsilon; &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &upsilon;&pi;ό&lambda;&omicron;&iota;&pi;&omicron;&upsilon; &phi;&omicron;&rho;&tau;ί&omicron;&upsilon;.</span></p>
+            </li>
+        </ul>
+        </div>
+        </div>

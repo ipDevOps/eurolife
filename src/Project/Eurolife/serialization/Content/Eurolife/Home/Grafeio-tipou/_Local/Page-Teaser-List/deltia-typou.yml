@@ -1,0 +1,25 @@
+﻿---
+ID: "00740145-b214-4511-8992-b8aa794be040"
+Parent: "27457690-0e5e-4ac3-808e-3002aaf7b676"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/Page-Teaser-List/deltia-typou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Δελτία Τύπου
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T132957Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{726C99C9-EC5C-4745-895A-65DFB691D7C9}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" title="" class="" url="/Eurolife/Home/Grafeio-tipou/deltia-typou" linktype="internal" />

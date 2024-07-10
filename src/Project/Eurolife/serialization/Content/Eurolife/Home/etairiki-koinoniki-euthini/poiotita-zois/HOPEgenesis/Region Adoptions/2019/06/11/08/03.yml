@@ -1,0 +1,14 @@
+﻿---
+ID: "a7f12d9d-c373-4e47-b9c7-f34179bb2d40"
+Parent: "837a7cc9-ca7f-4e88-864b-57fb0cebd569"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/Region Adoptions/2019/06/11/08/03"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T080339Z

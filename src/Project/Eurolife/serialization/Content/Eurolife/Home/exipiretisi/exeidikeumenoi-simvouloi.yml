@@ -1,0 +1,79 @@
+﻿---
+ID: "5c81692d-7c57-4584-ba54-c242ad41aea9"
+Parent: "9f486afa-7f59-4d25-9456-3f88ecfee18e"
+Template: "cd25cca7-747a-493a-8bc4-b1f44778283c"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/exeidikeumenoi-simvouloi"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FC515B31-6D97-431D-8EDE-E43C9950A390}"
+              s:ds="{5C81692D-7C57-4584-BA54-C242AD41AEA9}"
+              s:par="" />
+          </d>
+        </r>
+    - ID: "0ce01372-9068-4424-8ec1-81005fbcfe3b"
+      Hint: SeoFollowLinks
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T142654Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Εξειδικευμένοι Σύμβουλοι
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Εξειδικευμένοι Σύμβουλοι
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6e129621-73bc-403c-b4db-bf403c685630"
+      Hint: MetaDescription
+      Value: Οι εξειδικευμένοι συνεργάτες της Eurolife ERB Ασφαλιστικής διαθέτουν αποκλειστικά τα ασφαλιστικά προϊόντα και τις υπηρεσίες μας. 
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Οι εξειδικευμένοι συνεργάτες της Eurolife ERB Ασφαλιστικής διαθέτουν αποκλειστικά τα ασφαλιστικά προϊόντα και τις υπηρεσίες μας. 
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Εξειδικευμένοι Σύμβουλοι
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T112603Z

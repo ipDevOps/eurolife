@@ -1,0 +1,88 @@
+﻿---
+ID: "379c5dc4-26bf-4eb8-a666-f0f8b121e8f8"
+Parent: "271204e9-0513-44b7-8a1d-2d464abe802a"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/sintaxiodotika/_Local/omadiki asfalisi ofeli/giati na epilexete tin eurolife"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 850
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191002T141220Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Γιατί να επιλέξετε Ομαδικά Συνταξιοδοτικά με την υπογραφή της Eurolife ERB Ασφαλιστικής;
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <ul>
+            <li>&Delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &epsilon;&kappa;&tau;&epsilon;&tau;&alpha;&mu;έ&nu;&eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &kappa;&alpha;&iota; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &sigma;&tau;&omicron; &sigma;&chi;&epsilon;&delta;&iota;&alpha;&sigma;&mu;ό &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ώ&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu;, &kappa;&alpha;&theta;ώ&sigmaf; &tau;&alpha; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&alpha; &chi;&rho;ό&nu;&iota;&alpha; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;&iota;&alpha; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&rho;ώ&tau;&epsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &sigma;&tau;&eta;&nu; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ώ&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu;.</li>
+            <li>&Epsilon;&pi;&epsilon;&nu;&delta;ύ&epsilon;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ά &sigma;&tau;&omicron;&nu; &tau;&omicron;&mu;έ&alpha; &tau;&eta;&sigmaf; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha;&sigmaf;, &mu;&epsilon; &sigma;&tau;ό&chi;&omicron; &tau;&eta;&nu; &alpha;&pi;&lambda;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&omega;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;&iota;ώ&nu; &kappa;&alpha;&iota; &tau;&eta; &beta;&epsilon;&lambda;&tau;&iota;&sigma;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta;&sigmaf; &tau;&omega;&nu; &alpha;&iota;&tau;&eta;&mu;ά&tau;&omega;&nu; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf;.</li>
+        </ul>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190712T083851Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: PAOKARA
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        test
+        </div>
+        <div class="contentgroup__info">
+        test
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>fdsdf</li>
+            <li>sdfsdf</li>
+            <li>sdfsdf</li>
+            <li>sdfsdf</li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        sdfdsfsd
+        </div>
+        <div class="contentgroup__info">
+        sdfsdf
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li>sdfsdfs</li>
+            <li>sdfdsf</li>
+            <li>sdfsdf</li>
+            <li>sdfsdf</li>
+        </ul>
+        </div>
+        </div>
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: PAOKARA

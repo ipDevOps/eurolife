@@ -1,0 +1,44 @@
+﻿---
+ID: "16726df1-4fdf-4a82-a274-2d8bb64da000"
+Parent: "a16afbe5-a73b-4dcd-b2c5-4161301967e9"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Highlights/Highlights Accordions/Troxospita
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {0CF553EE-FCCE-4FD7-A8A3-2310032C10A8}
+        {FB35B960-FC13-49B6-8D20-EA6C6145F5EA}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T131317Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Προαιρετικές επιπλέον καλύψεις
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {0C97D046-0B1C-4F8D-A0FC-F46143FA883E}
+        {86DB4377-F3C3-4A1E-B330-D3CE5C5A79CE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T110941Z

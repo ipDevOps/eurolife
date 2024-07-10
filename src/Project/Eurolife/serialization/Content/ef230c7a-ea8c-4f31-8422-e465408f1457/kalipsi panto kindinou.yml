@@ -1,0 +1,24 @@
+﻿---
+ID: "0b7db2a5-b701-4a5d-a874-9ec9a31ebdd8"
+Parent: "ef230c7a-ea8c-4f31-8422-e465408f1457"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/metafores/_Local/Highlights metafores/Vechile Highlights/kalipsi panto kindinou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T145102Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Κάλυψη κατά παντός κινδύνου
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: &Mu;&epsilon; &tau;&eta; &Rho;ή&tau;&rho;&alpha; &Alpha; έ&chi;&epsilon;&tau;&epsilon; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &kappa;&alpha;&tau;ά &pi;&alpha;&nu;&tau;ό&sigmaf; &kappa;&iota;&nu;&delta;ύ&nu;&omicron;&upsilon;.

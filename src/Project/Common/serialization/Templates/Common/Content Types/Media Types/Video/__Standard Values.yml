@@ -1,0 +1,18 @@
+﻿---
+ID: "63be2989-ddbd-4e62-b3d5-73e09ad7cd2d"
+Parent: "6dec0d88-0878-44d4-960b-d151edb81ae1"
+Template: "6dec0d88-0878-44d4-960b-d151edb81ae1"
+Path: /sitecore/templates/Project/Common/Content Types/Media Types/Video/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T105031Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

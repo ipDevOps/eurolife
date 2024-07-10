@@ -1,0 +1,18 @@
+﻿---
+ID: "748a209e-6f45-496f-948b-7ee8f2ce93c0"
+Parent: "c1251aa0-4d6c-47b1-a594-1d5051c2df42"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/News/News Page Header
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/News/NewsPageHeader.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T102346Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "5034b280-b220-4686-bdf0-cded78a6cdf6"
+Parent: "71e21986-7ad3-4c47-a5e0-9f151cf1ef94"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/EurobankHealthTool/EurobankList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T100152Z

@@ -1,0 +1,39 @@
+﻿---
+ID: "c8214f7c-ff18-4ce8-a40b-812e56cfb1ba"
+Parent: "c263c038-fb45-4c9c-a85d-71dfe20dcf6e"
+Template: "41277a6d-ff43-46db-af83-303b916940f5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Oikonomika-stoixeia/DIETHNIS KTIMATIKI"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191003T210256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: ΔΙΕΘΝΗΣ ΚΤΗΜΑΤΙΚΗ
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T134035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: Financial Reports
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: ΑΕΓΑ

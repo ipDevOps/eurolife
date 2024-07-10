@@ -1,0 +1,56 @@
+﻿---
+ID: "55d45ced-3f86-49d4-8fc1-8462dc9ce931"
+Parent: "d3cbdc1f-055f-4dbb-98a5-f88caf8023d3"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia/Thessaloniki/Mpouriotis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T150922Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: AUTO TECNICA ΜΠΟΥΡΙΩΤΗΣ
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2310314334
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: mpouriotis.autotechnica@gmail.com
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Καραμανλή, 114, Θεσσαλονίκη
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T080508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65fc9b13-4667-4c78-b222-428faf91b1a7"
+      Hint: Fax
+      Value: 2310684141
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΞΕΝΙΤΟΠΟΥΛΟΣ ΠΑΝ. ΧΑΡΑΛΑΜΠΟΣ
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6974804780
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2310684141
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Πρώτη παράλληλος προέκτασης Μακρυγιάννη, Εύοσμος, Θεσσαλονίκη

@@ -1,0 +1,69 @@
+﻿---
+ID: "7783783d-01b4-4a83-acd6-ba54694adf79"
+Parent: "d1fdda08-c5dc-4ddd-92d6-3d3725acc0db"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/10/07/sales-advisory-board-apo-ti-eurolife-erb"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{AF094866-CE75-4498-8E5A-87A52F8EDD86}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T100738Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Sales Advisory Board από τη Eurolife ERB
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        &Eta; <strong>Eurolife ERB</strong>, &theta;έ&lambda;&omicron;&nu;&tau;&alpha;&sigmaf; &nu;&alpha; &alpha;&nu;&alpha;&beta;&alpha;&theta;&mu;ί&zeta;&epsilon;&iota; &sigma;&upsilon;&nu;&epsilon;&chi;ώ&sigmaf; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &epsilon;&pi;&alpha;&phi;ή&sigmaf; &mu;&epsilon; &tau;&omicron; &delta;ί&kappa;&tau;&upsilon;&omicron; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf;, έ&chi;&epsilon;&iota; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&sigma;&epsilon;&iota; &alpha;&pi;ό &tau;&omicron; 2017 &tau;&omicron; <strong>Sales Advisory Board</strong>, έ&nu;&alpha; ό&rho;&gamma;&alpha;&nu;&omicron; &alpha;&nu;&tau;&alpha;&lambda;&lambda;&alpha;&gamma;ή&sigmaf; &gamma;&nu;ώ&sigma;&eta;&sigmaf;, &alpha;&pi;ό&psi;&epsilon;&omega;&nu; &kappa;&alpha;&iota; &iota;&delta;&epsilon;ώ&nu;. &Sigma;&tau;&eta;&nu; &omicron;&upsilon;&sigma;ί&alpha;, &pi;&rho;ό&kappa;&epsilon;&iota;&tau;&alpha;&iota; &gamma;&iota;&alpha; &mu;&iota;&alpha; &sigma;&upsilon;&nu;ά&nu;&tau;&eta;&sigma;&eta;, &sigma;&tau;&eta;&nu; &omicron;&pi;&omicron;ί&alpha; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;έ&chi;&omicron;&upsilon;&nu; &sigma;&tau;&epsilon;&lambda;έ&chi;&eta; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf;, &kappa;&alpha;&tau;ά &tau;&eta; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &tau;&eta;&sigmaf; &omicron;&pi;&omicron;ί&alpha;&sigmaf; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;&iota;ά&zeta;&omicron;&nu;&tau;&alpha;&iota; &kappa;&alpha;&iota; &alpha;&nu;&alpha;&lambda;ύ&omicron;&nu;&tau;&alpha;&iota; &tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &epsilon;&xi;&epsilon;&lambda;ί&xi;&epsilon;&iota;&sigmaf; &sigma;&tau;&omicron;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό &kappa;&lambda;ά&delta;&omicron;. &Tau;&omicron; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&omicron; Sales Advisory Board &tau;&omicron;&upsilon; 2018 &delta;&iota;&omicron;&rho;&gamma;&alpha;&nu;ώ&theta;&eta;&kappa;&epsilon; &pi;&rho;ό&sigma;&phi;&alpha;&tau;&alpha; &sigma;&tau;&omicron;&upsilon;&sigmaf; &epsilon;&xi;&alpha;&iota;&rho;&epsilon;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &chi;ώ&rho;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon; &Tau;&alpha;&tau;ό&iota; Club. <br />
+        <br />
+        &Mu;&epsilon; &tau;&omicron; Sales Advisory Board, &eta; <strong>Eurolife ERB</strong> &alpha;&nu;&omicron;ί&gamma;&epsilon;&iota; &tau;&omicron; &delta;&iota;ά&lambda;&omicron;&gamma;&omicron; &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf;, &delta;ί&nu;&omicron;&nu;&tau;ά&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &tau;&omicron; &beta;ή&mu;&alpha; &nu;&alpha; &alpha;&nu;&alpha;&phi;&epsilon;&rho;&theta;&omicron;ύ&nu; &sigma;&epsilon; &zeta;&eta;&tau;ή&mu;&alpha;&tau;&alpha; &pi;&omicron;&upsilon; &tau;&omicron;&upsilon;&sigmaf; &alpha;&pi;&alpha;&sigma;&chi;&omicron;&lambda;&omicron;ύ&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ά &kappa;&alpha;&iota; &epsilon;&pi;&iota;&delta;&rho;&omicron;ύ&nu; &sigma;&tau;&omicron; έ&rho;&gamma;&omicron; &kappa;&alpha;&iota; &tau;&omicron; &rho;ό&lambda;&omicron; &tau;&omicron;&upsilon;&sigmaf;. &Omicron;&iota; &alpha;&upsilon;&sigma;&tau;&eta;&rho;ά &epsilon;&pi;&iota;&lambda;&epsilon;&gamma;&mu;έ&nu;&omicron;&iota; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;&iota;&kappa;&omicron;ί &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; έ&chi;&omicron;&upsilon;&nu; &tau;&eta;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &nu;&alpha; &mu;&omicron;&iota;&rho;&alpha;&sigma;&tau;&omicron;ύ&nu; &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf;, &tau;&omicron;&upsilon;&sigmaf; &pi;&rho;&omicron;&beta;&lambda;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ&sigmaf; &kappa;&alpha;&iota; &tau;&iota;&sigmaf; &iota;&delta;έ&epsilon;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &ndash; &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&eta; &sigma;&upsilon;&zeta;ή&tau;&eta;&sigma;&eta; &alpha;&upsilon;&tau;ή &pi;&rho;&omicron;&kappa;ύ&pi;&tau;&omicron;&upsilon;&nu; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&nu;&tau;&alpha; &kappa;&alpha;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ά insights, &mu;&epsilon; &tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf; &alpha;&pi;&epsilon;&upsilon;&theta;&epsilon;ί&alpha;&sigmaf; &alpha;&pi;ό &tau;&eta;&nu; &alpha;&gamma;&omicron;&rho;ά. &Gamma;&iota;&alpha; &tau;&eta; <strong>Eurolife ERB</strong>, &tau;&omicron; Sales Advisory Board &epsilon;ί&nu;&alpha;&iota; έ&nu;&alpha; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&omicron; &gamma;&nu;ώ&sigma;&eta;&sigmaf;, &eta; &omicron;&pi;&omicron;ί&alpha; &alpha;&xi;&iota;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; &gamma;&iota;&alpha; &tau;&eta;&nu; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &nu;έ&omega;&nu; &pi;&rho;&omicron;ϊό&nu;&tau;&omega;&nu;, &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &kappa;&alpha;&iota; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;&iota;ώ&nu;, &pi;&rho;&omicron;&sigmaf; ό&phi;&epsilon;&lambda;&omicron;&sigmaf; &tau;ό&sigma;&omicron; &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu;, ό&sigma;&omicron; &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &tau;&epsilon;&lambda;&iota;&kappa;&omicron;ύ &pi;&epsilon;&lambda;ά&tau;&eta;.<br />
+        <br />
+        &Eta; &tau;&alpha;&kappa;&tau;&iota;&kappa;ή &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &mu;&epsilon; &tau;&omicron; &delta;ί&kappa;&tau;&upsilon;&omicron; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &epsilon;ί&nu;&alpha;&iota; &kappa;&alpha;&theta;&omicron;&rho;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &sigma;&eta;&mu;&alpha;&sigma;ί&alpha;&sigmaf; &gamma;&iota;&alpha; &tau;&eta; Eurolife ERB, &kappa;&alpha;&theta;ώ&sigmaf; &omicron; &alpha;&nu;&omicron;&iota;&chi;&tau;ό&sigmaf; &delta;&iota;ά&lambda;&omicron;&gamma;&omicron;&sigmaf; &mu;&alpha;&zeta;ί &tau;&omicron;&upsilon;&sigmaf; &alpha;&phi;&epsilon;&nu;ό&sigmaf; &alpha;&nu;&alpha;&beta;&alpha;&theta;&mu;ί&zeta;&epsilon;&iota; &tau;&omicron; &epsilon;&pi;ί&pi;&epsilon;&delta;&omicron; &tau;&eta;&sigmaf; &sigma;&chi;έ&sigma;&eta;&sigmaf; &tau;&omicron;&upsilon;&sigmaf;, &alpha;&phi;&epsilon;&tau;έ&rho;&omicron;&upsilon; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&epsilon;ί &omega;&sigmaf; &pi;&omicron;&lambda;ύ&tau;&iota;&mu;&omicron; &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί&omicron; &gamma;&iota;&alpha; &tau;&eta;&nu; &mu;&epsilon;&tau;&alpha;&tau;&rho;&omicron;&pi;ή &tau;&eta;&sigmaf; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&alpha;&sigmaf; &sigma;&epsilon; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &kappa;&alpha;&iota; έ&rho;&gamma;&alpha; &pi;&omicron;&upsilon; &theta;&alpha; &beta;&epsilon;&lambda;&tau;&iota;ώ&nu;&omicron;&upsilon;&nu; &tau;&omicron; έ&rho;&gamma;&omicron; &kappa;&alpha;&iota; &tau;&omicron; &rho;ό&lambda;&omicron; &tau;&omicron;&upsilon;&sigmaf;. &Eta; <strong>Eurolife ERB, &mu;&epsilon; &tau;&omicron; Sales Advisory Board</strong>, &epsilon;&pi;&iota;&delta;&iota;ώ&kappa;&epsilon;&iota; &tau;&eta; &sigma;&upsilon;&chi;&nu;ή &epsilon;&pi;&alpha;&phi;ή &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf;, &pi;&rho;&omicron;&kappa;&epsilon;&iota;&mu;έ&nu;&omicron;&upsilon; &nu;&alpha; &alpha;&nu;&tau;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&tau;&alpha;&iota; ό&sigma;&alpha; &tau;&omicron;&upsilon;&sigmaf; &alpha;&pi;&alpha;&sigma;&chi;&omicron;&lambda;&omicron;ύ&nu; &kappa;&alpha;&iota; &nu;&alpha; &alpha;&nu;&alpha;&pi;&tau;ύ&sigma;&sigma;&epsilon;&iota; &nu;έ&epsilon;&sigmaf; &kappa;&alpha;&iota;&nu;&omicron;&tau;ό&mu;&epsilon;&sigmaf; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf;, &pi;&rho;&omicron;&sigmaf; &delta;&iota;&epsilon;&upsilon;&kappa;ό&lambda;&upsilon;&nu;&sigma;&eta; &tau;&eta;&sigmaf; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;ά&sigmaf; &tau;&omicron;&upsilon;&sigmaf;. <br />
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{AF094866-CE75-4498-8E5A-87A52F8EDD86}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Sales Advisory Board από τη Eurolife ERB
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20181227T100700Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Sales Advisory Board από τη Eurolife ERB
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T100728Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

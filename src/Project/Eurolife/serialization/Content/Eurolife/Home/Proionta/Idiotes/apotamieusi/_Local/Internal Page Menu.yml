@@ -1,0 +1,18 @@
+﻿---
+ID: "de6924eb-2315-4fc4-8fbc-8fe0bd4e2de1"
+Parent: "a1447807-e626-4683-a833-f68ce5e905f1"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/Internal Page Menu
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T111341Z

@@ -1,0 +1,31 @@
+/*------------------------------------*\
+  #BREADCRUMBS IN HEALTH TOOL
+\*------------------------------------*/
+.bread-in-tool{
+  margin: 40px 20px;
+  text-align: center;
+  font-weight: 500;
+
+  li{
+    display: inline-block;
+    margin-right: 4px;
+    list-style-type: none;
+
+    &:not(:last-child):after{
+      content:">";
+      margin-left: 4px;
+      color: $color-black-faded;
+      font-size: 14px;
+    }
+  }
+
+  a,span{
+    font-size: 14px;
+    color: $color-black-faded;
+  }
+
+  .current{
+    color: $color-black;
+  }
+}
+

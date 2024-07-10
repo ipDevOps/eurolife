@@ -1,0 +1,25 @@
+﻿---
+ID: "4db356c5-0f97-4940-838a-586fe553fc83"
+Parent: "d10e7aa5-46da-4413-abd4-f375605924a4"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Syntaxi Apotamiefsi/Mporo na enisxyso to kefalaio mou me ektaktes kataboles
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Μπορώ να ενισχύσω το κεφάλαιό μου με έκτακτες καταβολές;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T091431Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &epsilon;&nu;&iota;&sigma;&chi;ύ&sigma;&epsilon;&tau;&epsilon; &tau;&omicron; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;ό &sigma;&alpha;&sigmaf; &mu;ό&nu;&omicron; &mu;&epsilon; &nu;έ&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;ή&rho;&iota;&omicron;. &Gamma;&iota;&alpha; ό&sigma;&omicron; &delta;&iota;&alpha;&rho;&kappa;&epsilon;ί &tau;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;ά &sigma;&alpha;&sigmaf;, &delta;&epsilon;&nu; &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &kappa;ά&nu;&epsilon;&tau;&epsilon; έ&kappa;&tau;&alpha;&kappa;&tau;&epsilon;&sigmaf; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;έ&sigmaf;. </span>

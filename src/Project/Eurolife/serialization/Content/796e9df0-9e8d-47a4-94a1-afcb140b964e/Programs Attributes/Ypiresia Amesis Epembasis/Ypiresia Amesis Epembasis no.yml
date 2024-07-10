@@ -1,0 +1,18 @@
+﻿---
+ID: "a8114b47-7f6e-4d47-87b7-4957f2a289ed"
+Parent: "3555bac8-d6a7-451a-8161-be9264051ed8"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs Attributes/Ypiresia Amesis Epembasis/Ypiresia Amesis Epembasis no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T093229Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

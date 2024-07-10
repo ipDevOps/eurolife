@@ -1,0 +1,28 @@
+﻿---
+ID: "37159af1-b3fe-4c1a-910a-5a80b3fe416a"
+Parent: "a53abd9d-2c89-4125-8528-3cbddb869906"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/_Local/Highlights/Highlights Accordions/EKPTOSEIS Highlights Group
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {7519D41B-1320-4B4C-8082-DB7B788222B3}
+        {8C5DD9A6-9548-4BDE-91AD-342D8FD5D44E}
+        {7D43F2CC-1E00-4E7B-8F64-0C958A1C4960}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T094402Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

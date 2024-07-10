@@ -1,0 +1,29 @@
+﻿---
+ID: "2a6dcb3f-7903-4e2c-9bd2-9635ac38d9d2"
+Parent: "6e87c100-ebde-4629-ba95-778b2c4a06df"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/All Products/Xreiazomai antigrafo tou symbolaiou mou ti prepei na kano
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Χρειάζομαι αντίγραφο του συμβολαίου μου, τι πρέπει να κάνω;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T092633Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Gamma;&iota;&alpha; &alpha;&nu;&tau;ί&gamma;&rho;&alpha;&phi;&omicron; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omicron;&upsilon; &tau;&omicron;&upsilon; &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omicron;&upsilon;: </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &sigma;&upsilon;&nu;&delta;&epsilon;&theta;&epsilon;ί&tau;&epsilon; online &mu;&epsilon; &tau;&omicron; &pi;&rho;&omicron;&phi;ί&lambda; &kappa;&alpha;&iota; &tau;&omicron;&upsilon;&sigmaf; &kappa;&omega;&delta;&iota;&kappa;&omicron;ύ&sigmaf; &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron; EurolifeConnect &kappa;&alpha;&iota; &nu;&alpha; &tau;&omicron; &kappa;&alpha;&tau;&epsilon;&beta;ά&sigma;&epsilon;&tau;&epsilon; &sigma;&epsilon; &mu;&omicron;&rho;&phi;ή pdf (download pdf) &sigma;&tau;&eta;&nu; &epsilon;&nu;ό&tau;&eta;&tau;&alpha; '&Tau;&alpha; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;ά &mu;&omicron;&upsilon;'. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Gamma;&iota;&alpha; &alpha;&nu;&tau;ί&gamma;&rho;&alpha;&phi;&omicron; ό&lambda;&omega;&nu; &tau;&omega;&nu; ά&lambda;&lambda;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omega;&nu; (&epsilon;&kappa;&tau;ό&sigmaf; &tau;&omicron;&upsilon; &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omicron;&upsilon;): </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &upsilon;&pi;&omicron;&beta;ά&lambda;&lambda;&epsilon;&tau;&epsilon; &tau;&omicron; &alpha;ί&tau;&eta;&mu;ά &sigma;&alpha;&sigmaf; &pi;&rho;&omicron;&phi;&omicron;&rho;&iota;&kappa;ά, &kappa;&alpha;&lambda;ώ&nu;&tau;&alpha;&sigmaf; &tau;&omicron; &Kappa;έ&nu;&tau;&rho;&omicron; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu;, &sigma;&tau;&omicron; &tau;&eta;&lambda;έ&phi;&omega;&nu;&omicron; 210-9303800 (&epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή 7), ή &gamma;&rho;&alpha;&pi;&tau;ά &mu;έ&sigma;&omega; email &sigma;&tau;&omicron; <a href="mailto:info@eurolife.gr">info@eurolife.gr</a>. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Gamma;&iota;&alpha; &omicron;&pi;&omicron;&iota;&alpha;&delta;ή&pi;&omicron;&tau;&epsilon; &epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu; &delta;&iota;&epsilon;&upsilon;&kappa;&rho;ί&nu;&iota;&sigma;&eta;, &mu;&eta; &delta;&iota;&alpha;&sigma;&tau;ά&sigma;&epsilon;&tau;&epsilon; &nu;&alpha; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ή&sigma;&epsilon;&tau;&epsilon; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; &mu;&epsilon; ό&pi;&omicron;&iota;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &epsilon;&pi;&iota;&theta;&upsilon;&mu;&epsilon;ί&tau;&epsilon; (&Beta;&lambda;. FAQ "&Mu;&epsilon; &pi;&omicron;&iota;&omicron;&upsilon;&sigmaf; &tau;&rho;ό&pi;&omicron;&upsilon;&sigmaf; &mu;&pi;&omicron;&rho;ώ &nu;&alpha; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ή&sigma;&omega; &mu;&alpha;&zeta;ί &sigma;&alpha;&sigmaf;;"). </span></p>

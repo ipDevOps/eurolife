@@ -1,0 +1,22 @@
+﻿---
+ID: "90e8a581-ed26-42c0-a90e-0318c778e071"
+Parent: "a2fb1ee8-26c4-442e-a3f6-bf8f35fb035e"
+Template: "fed6a14f-0d05-4e18-b160-17c0588a2005"
+Path: /sitecore/layout/Models/Foundation/Indexing/QueryableDatasourceRenderingModel
+DB: master
+SharedFields:
+- ID: "ee9e23d2-181d-4172-a929-0e0b8d10313c"
+  Hint: Model Type
+  Value: Wedia.Foundation.Indexing.Rendering.QueryableDatasourceRenderingModel, Wedia.Foundation.Indexing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190513T143426Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

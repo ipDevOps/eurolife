@@ -1,0 +1,33 @@
+﻿---
+ID: "f37cc81f-bd84-4552-8c84-a8509ce1cba0"
+Parent: "5319bbb8-129a-4046-af0a-1863226c33e1"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEAZ/AEAZ-Oikonomikes-katastaseis/2019/10/08/13/22/2014"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T132251Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: Χρήση έως 31/12/2014
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Χρήση έως 31/12/2014
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediaid="{A7284237-026B-4ABA-8878-776AEF097A95}" src="-/media/A7284237026B4ABA8878776AEF097A95.ashx" />

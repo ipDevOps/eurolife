@@ -1,0 +1,14 @@
+﻿---
+ID: "229dbfb1-97df-44f1-a362-45aa9217e84f"
+Parent: "9ffaa5c6-274f-4304-bb8e-1cbb564fe52a"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Ekpaideusi-politismos/Ethniki-Liriki-Skini/draseis/2019"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T072214Z

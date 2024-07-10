@@ -1,0 +1,112 @@
+﻿---
+ID: "ad884652-5702-425f-a316-48fbcfa23fed"
+Parent: "9f486afa-7f59-4d25-9456-3f88ecfee18e"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-oximatos"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{77B1D177-146B-48DA-903E-A47D59E1963F}"
+              p:before="*"
+              s:id="{0C50FD78-8252-4FC9-B779-8222677467FA}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{4CC8FFEF-2FB5-441F-BCFA-218913B96C42}"
+              p:after="r[@uid='{77B1D177-146B-48DA-903E-A47D59E1963F}']"
+              s:id="{00C6C1FB-EB91-43A5-84EF-1F8B207496CC}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{2FBDA4F3-10C6-487C-BD87-F1558D32F8B7}"
+              p:after="r[@uid='{4CC8FFEF-2FB5-441F-BCFA-218913B96C42}']"
+              s:ds="{F482B5AB-2CFD-4EBA-B04D-A0BD26A9902D}"
+              s:id="{62FFEA7C-0F0E-430E-A315-6E77E2B5E468}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}">
+              <p:d />
+            </r>
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{88B91DF2-05C4-4CE5-A2AF-B1506006B971}">
+              <p:d />
+            </r>
+            <r
+              uid="{9914376F-090F-4499-BE27-C110B5D4699E}"
+              p:after="r[@uid='{910D84F1-7A4E-46C5-A0AA-39C463C70E0A}']"
+              s:ds=""
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:par="Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D"
+              s:ph="page-layout" />
+            <r
+              uid="{D2523F4A-3876-4ABD-93F4-9BB526F47F0D}"
+              p:after="r[@uid='{9914376F-090F-4499-BE27-C110B5D4699E}']"
+              s:ds="{BBDCECD0-E6A1-4FC9-A9DF-B820BEDF39FD}"
+              s:id="{FFB4450F-586B-47D1-9008-DA761EA95DE3}"
+              s:ph="page-layout" />
+            <r
+              uid="{3551140E-789F-4354-8F9D-D2F4915AA5FF}"
+              p:after="r[@uid='{D2523F4A-3876-4ABD-93F4-9BB526F47F0D}']"
+              s:ds="{77641255-E01F-4AAA-A17B-5DCAEC031651}"
+              s:id="{29887712-3E85-461E-AE69-AC01ABBC7B38}"
+              s:ph="page-layout" />
+            <r
+              uid="{832CD083-2620-47BB-9F2B-63084D865567}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T170402Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Διαδικασίες αποζημίωσης Οχήματος
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Διαδικασίες αποζημίωσης
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Αναλυτικά τα βήματα που ακολουθούνται σε περίπτωση που κάνετε αίτηση για αποζημίωση για την υγεία, το όχημα και το σπίτι σας.
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Διαδικασίες αποζημίωσης Οχήματος

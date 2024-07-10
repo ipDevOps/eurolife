@@ -1,0 +1,60 @@
+﻿---
+ID: "9a12ea4a-ac7c-4625-826b-6a7613028c5b"
+Parent: "c6a3cc0b-2009-43b5-b0c7-59d608a6f3a9"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/_Local/omadiki asfalisi Panel/Attributes Categories/Main"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {719F3D85-1663-4A09-BB5A-4F5DE7B3D31B}
+        {B06DF319-534A-45FD-935D-6764B10D141C}
+        {73BD172B-6322-41D6-AE26-5F66B5BD1000}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {1E316EB4-42DF-489E-A557-5094C36ED039}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090248Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Main
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {73BD172B-6322-41D6-AE26-5F66B5BD1000}
+        {719F3D85-1663-4A09-BB5A-4F5DE7B3D31B}
+        {B06DF319-534A-45FD-935D-6764B10D141C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102327Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Main

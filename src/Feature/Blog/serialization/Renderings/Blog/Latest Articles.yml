@@ -1,0 +1,24 @@
+﻿---
+ID: "012cf397-c34b-4f4b-83be-14e6fa88d0ae"
+Parent: "6c1280c7-b2d9-4a46-84c1-ff6f310df42d"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Blog/Latest Articles
+DB: master
+SharedFields:
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "{57ABE6E8-9793-4FC0-85FB-10364B59DC05}"
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: LatestArticles
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Wedia.Feature.Blog.Controllers.BlogController, Wedia.Feature.Blog
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T140103Z

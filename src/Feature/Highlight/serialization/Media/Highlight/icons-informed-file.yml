@@ -1,0 +1,35 @@
+﻿---
+ID: "69b1f9af-9a4e-4226-bc5b-965ee9b28bfd"
+Parent: "3c2b6f9e-6050-4c3d-8a0d-6422f5e576c1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Feature/Highlight/icons-informed-file"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/69B1F9AF9A4E4226BC5B965EE9B28BFD.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "c5cde160-69a1-420a-be47-16ccbd2daa7e"
+  Value: PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgdmlld0JveD0iMCAwIDYwIDYwIj4KICAgIDxwYXRoIGQ9Ik01Mi45NTcgMTUuMzY0SDMwLjUyMmwtNS45NS03Ljk0NkExLjA0IDEuMDQgMCAwIDAgMjMuNzQgN0g3LjA0M0M2LjQ2NyA3IDYgNy40NjggNiA4LjA0NXY0MC43NzNBNC4xNzggNC4xNzggMCAwIDAgMTAuMTc0IDUzaDM5LjY1MkE0LjE3OCA0LjE3OCAwIDAgMCA1NCA0OC44MThWMTYuNDFjMC0uNTc3LS40NjctMS4wNDUtMS4wNDMtMS4wNDV6Ii8+Cjwvc3ZnPgo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 302
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T121744Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

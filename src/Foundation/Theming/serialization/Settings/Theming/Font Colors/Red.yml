@@ -1,0 +1,22 @@
+﻿---
+ID: "1c81d96d-fff9-4983-bb2f-b1e185b6e5ac"
+Parent: "c9198fb2-0f71-4699-a21b-ba16aa9ad4ad"
+Template: "cc84a3ac-cbe7-454e-8e28-929fcd7d8753"
+Path: /sitecore/system/Settings/Foundation/Theming/Font Colors/Red
+DB: master
+SharedFields:
+- ID: "41d1e1aa-4552-4852-b717-acd5d3e632c2"
+  Hint: Style
+  Value: "color-health"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T101723Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

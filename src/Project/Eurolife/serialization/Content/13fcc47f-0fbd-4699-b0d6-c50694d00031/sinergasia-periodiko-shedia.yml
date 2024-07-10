@@ -1,0 +1,76 @@
+﻿---
+ID: "7748b471-c78d-48e0-8878-0c8743c2f9e5"
+Parent: "13fcc47f-0fbd-4699-b0d6-c50694d00031"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/periodiko-sxedia/sindromi-allilegiis/2019/08/06/13/06/sinergasia-periodiko-shedia"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Patmos
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{35A4C7EA-0224-4966-90EE-DF4E28414A3F}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T130651Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Η Eurolife ERB συνεργάζεται με το περιοδικό δρόμου «Σχεδία»
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; border-style: none; border-width: medium; border-image: none 100% / 1 / 0 stretch; text-align: justify; letter-spacing: normal;">&Eta; Eurolife ERB, &sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &tau;&omicron;&upsilon; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &tau;&eta;&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf;,<span></span><strong style="border: medium none;">+&pi;&rho;ά&tau;&tau;&omicron;&upsilon;&mu;&epsilon;</strong>, &xi;&epsilon;&kappa;&iota;&nu;ά &mu;&iota;&alpha; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&epsilon; &tau;&omicron; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;ό &delta;&rho;ό&mu;&omicron;&upsilon; &Sigma;&chi;&epsilon;&delta;ί&alpha;, &delta;&omega;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&epsilon; &kappa;ά&theta;&epsilon; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;ό &tau;&eta;&sigmaf; &alpha;&pi;ό &mu;&iota;&alpha; &epsilon;&tau;ή&sigma;&iota;&alpha; &laquo;&Sigma;&upsilon;&nu;&delta;&rho;&omicron;&mu;ή &Alpha;&lambda;&lambda;&eta;&lambda;&epsilon;&gamma;&gamma;ύ&eta;&sigmaf;&raquo;. &Sigma;&tau;&omicron; &epsilon;&xi;ή&sigmaf;, &kappa;ά&theta;&epsilon; &mu;ή&nu;&alpha; 350 &tau;&epsilon;ύ&chi;&eta; &tau;&omicron;&upsilon; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;&omicron;ύ &theta;&alpha; &beta;&rho;ί&sigma;&kappa;&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&alpha; &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &tau;&eta;&sigmaf; Eurolife ERB, &sigma;&epsilon; &mu;&iota;&alpha; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&iota;&kappa;ή &kappa;ί&nu;&eta;&sigma;&eta; &pi;&omicron;&upsilon; έ&chi;&epsilon;&iota; &omega;&sigmaf; &sigma;&tau;ό&chi;&omicron; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;ή &sigma;&epsilon; &pi;&lambda;&eta;&theta;&upsilon;&sigma;&mu;&iota;&alpha;&kappa;έ&sigmaf; &omicron;&mu;ά&delta;&epsilon;&sigmaf; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&nu; &alpha;&nu;ά&gamma;&kappa;&eta; &alpha;&pi;ό &upsilon;&pi;&omicron;&sigma;&tau;ή&rho;&iota;&xi;&eta;.&nbsp;</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; border-style: none; border-width: medium; border-image: none 100% / 1 / 0 stretch; text-align: justify; letter-spacing: normal;">&Mu;&epsilon; &tau;&eta; &laquo;&Sigma;&upsilon;&nu;&delta;&rho;&omicron;&mu;ή &Alpha;&lambda;&lambda;&eta;&lambda;&epsilon;&gamma;&gamma;ύ&eta;&sigmaf;&raquo; &eta; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;έ&chi;&epsilon;&iota; &sigma;&tau;&omicron; έ&rho;&gamma;&omicron; &epsilon;&nu;&eta;&mu;έ&rho;&omega;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &epsilon;&upsilon;&alpha;&iota;&sigma;&theta;&eta;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &pi;&omicron;&upsilon; έ&chi;&epsilon;&iota; &alpha;&nu;&alpha;&lambda;ά&beta;&epsilon;&iota; &nu;&alpha; &phi;έ&rho;&epsilon;&iota; &epsilon;&iota;&sigmaf; &pi;έ&rho;&alpha;&sigmaf; &tau;&omicron; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;ό &Sigma;&chi;&epsilon;&delta;ί&alpha;, &beta;&omicron;&eta;&theta;ώ&nu;&tau;&alpha;&sigmaf; &sigma;&upsilon;&mu;&pi;&omicron;&lambda;ί&tau;&epsilon;&sigmaf; &mu;&alpha;&sigmaf; &nu;&alpha; &epsilon;&pi;&alpha;&nu;&alpha;&kappa;&tau;ή&sigma;&omicron;&upsilon;&nu; &tau;&eta;&nu; &alpha;ί&sigma;&theta;&eta;&sigma;&eta; &tau;&omicron;&upsilon; &alpha;&nu;ή&kappa;&epsilon;&iota;&nu; &sigma;&tau;&omicron;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ό &iota;&sigma;&tau;ό. &Eta; Eurolife ERB &delta;ί&nu;&epsilon;&iota;, &mu;&epsilon; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &alpha;&upsilon;&tau;ό, &sigma;&tau;&omicron; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;ό &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &nu;&alpha; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&iota; &sigma;&epsilon; &delta;ύ&omicron; &sigma;&upsilon;&nu;&alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &mu;&alpha;&sigmaf; &tau;&rho;ί&tau;&eta;&sigmaf; &eta;&lambda;&iota;&kappa;ί&alpha;&sigmaf;<span></span><strong style="border: medium none;">&alpha;&pi;ό &mu;&iota;&alpha; &theta;έ&sigma;&eta; &alpha;&pi;&alpha;&sigma;&chi;ό&lambda;&eta;&sigma;&eta;&sigmaf; &sigma;&tau;&alpha; &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &tau;&omicron;&upsilon; &gamma;&iota;&alpha; &kappa;ά&pi;&omicron;&iota;&epsilon;&sigmaf; &eta;&mu;έ&rho;&epsilon;&sigmaf; &tau;&omicron; &mu;ή&nu;&alpha;</strong>, &omicron;&rho;&gamma;&alpha;&nu;ώ&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&iota;&sigmaf; &alpha;&pi;&omicron;&sigma;&tau;&omicron;&lambda;έ&sigmaf; &tau;&omicron;&upsilon; &sigma;&tau;&eta; &beta;ά&sigma;&eta; &sigma;&upsilon;&nu;&delta;&rho;&omicron;&mu;&eta;&tau;ώ&nu;.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; border-style: none; border-width: medium; border-image: none 100% / 1 / 0 stretch; text-align: justify; letter-spacing: normal;">&Kappa;ά&theta;&epsilon; &pi;&rho;ό&kappa;&lambda;&eta;&sigma;&eta; &gamma;&epsilon;&nu;&nu;ά &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf; &gamma;&iota;&alpha; &tau;&eta; Eurolife ERB. &Eta; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&epsilon; &tau;&eta; &Sigma;&chi;&epsilon;&delta;ί&alpha; &epsilon;ί&nu;&alpha;&iota; &alpha;&kappa;ό&mu;&eta; &mu;&iota;&alpha; έ&kappa;&phi;&rho;&alpha;&sigma;&eta; &tau;&eta;&sigmaf; &delta;έ&sigma;&mu;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &nu;&alpha; &sigma;&upsilon;&nu;&epsilon;&iota;&sigma;&phi;έ&rho;&epsilon;&iota; &sigma;&tau;&eta;&nu; &alpha;&nu;&alpha;&beta;ά&theta;&mu;&iota;&sigma;&eta; &tau;&eta;&sigmaf; &pi;&omicron;&iota;ό&tau;&eta;&tau;&alpha;&sigmaf; &zeta;&omega;ή&sigmaf; &tau;&omega;&nu; &alpha;&nu;&theta;&rho;ώ&pi;&omega;&nu;. &Mu;&epsilon; &tau;&eta; &laquo;&Sigma;&upsilon;&nu;&delta;&rho;&omicron;&mu;ή &Alpha;&lambda;&lambda;&eta;&lambda;&epsilon;&gamma;&gamma;ύ&eta;&sigmaf;&raquo;, &alpha;&nu;&alpha;&gamma;&nu;&omega;&rho;ί&zeta;&epsilon;&iota; &tau;&omicron; &rho;ό&lambda;&omicron; &tau;&eta;&sigmaf; &sigma;&tau;&eta;&nu; &kappa;&alpha;&lambda;&upsilon;&tau;έ&rho;&epsilon;&upsilon;&sigma;&eta; &tau;&eta;&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &kappa;ά&nu;&epsilon;&iota; &mu;&iota;&alpha; &pi;&rho;ά&xi;&eta; &omicron;&upsilon;&sigma;ί&alpha;&sigmaf; &pi;&omicron;&upsilon; &beta;&omicron;&eta;&theta;ά &tau;&omicron;&nu; &beta;&alpha;&sigma;&iota;&kappa;ό &omega;&phi;&epsilon;&lambda;&omicron;ύ&mu;&epsilon;&nu;&omicron; &nu;&alpha; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&iota; έ&nu;&alpha; &mu;&iota;&kappa;&rho;ό &epsilon;&iota;&sigma;ό&delta;&eta;&mu;&alpha; &kappa;&alpha;&iota; &nu;&alpha; &epsilon;&pi;&iota;&sigma;&tau;&rho;έ&psi;&epsilon;&iota; &sigma;&tau;&alpha;&delta;&iota;&alpha;&kappa;ά &sigma;&tau;&omicron; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ό &sigma;ύ&nu;&omicron;&lambda;&omicron;.</p>
+        <p style="color: #000000; background-color: #ffffff; margin: 0px 0px 10px; padding: 0px; border-style: none; border-width: medium; border-image: none 100% / 1 / 0 stretch; text-align: justify; letter-spacing: normal;">&Gamma;&iota;&alpha; &tau;&eta; Eurolife ERB, &eta; &epsilon;&pi;έ&nu;&delta;&upsilon;&sigma;&eta; &sigma;&tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &epsilon;ί&nu;&alpha;&iota; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό&sigmaf; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ό&sigmaf; &sigma;&tau;ό&chi;&omicron;&sigmaf;, &gamma;&iota;&rsquo; &alpha;&upsilon;&tau;ό &kappa;&alpha;&iota; έ&chi;&epsilon;&iota; &delta;&epsilon;&sigma;&mu;&epsilon;&upsilon;&theta;&epsilon;ί &nu;&alpha; &alpha;&nu;&alpha;&pi;&tau;ύ&sigma;&sigma;&epsilon;&iota; &sigma;&tau;&omicron;&chi;&epsilon;&upsilon;&mu;έ&nu;&epsilon;&sigmaf; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &pi;&rho;&omicron;&sigmaf; &tau;&eta;&nu; &upsilon;&pi;&omicron;&sigma;&tau;ή&rho;&iota;&xi;ή &tau;&eta;&sigmaf;.</p>
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: Η Eurolife ERB, στο πλαίσιο του προγράμματος κοινωνικής της ευθύνης,+πράττουμε, ξεκινά μια συνεργασία με το περιοδικό δρόμου Σχεδία, δωρίζοντας σε κάθε εργαζόμενό της από μια ετήσια «Συνδρομή Αλληλεγγύης»
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{178C9E22-7EB7-4DDA-8FC1-01C7644D94D2}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Η Eurolife ERB συνεργάζεται με το περιοδικό δρόμου «Σχεδία»
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20190709T210000Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Η Eurolife ERB συνεργάζεται με το περιοδικό δρόμου «Σχεδία»
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T130639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

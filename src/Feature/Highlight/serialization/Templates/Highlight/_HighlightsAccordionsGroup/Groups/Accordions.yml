@@ -1,0 +1,21 @@
+﻿---
+ID: "1ac1cee8-850d-4779-a8d6-370771e20126"
+Parent: "9745d393-5553-4a6f-b6b7-d27a03365dda"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Highlight/_HighlightsAccordionsGroup/Groups/Accordions
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "StartSearchLocation={FCAF89B5-45D2-4BD1-96C1-6A350572FAEE}&TemplateFilter={7753C4B8-FFB7-4EF8-8F62-85A28AE89E2C}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist with Search
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T105910Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "c38bb6ff-a683-46fe-a6af-5dc6665d3e65"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Pos mporo na pragmatopoiiso diagnostikes exetaseis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Πώς μπορώ να πραγματοποιήσω διαγνωστικές εξετάσεις;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094833Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Kappa;&alpha;&lambda;&epsilon;ί&tau;&epsilon; &tau;&omicron; &Kappa;έ&nu;&tau;&rho;&omicron; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &sigma;&tau;&omicron; 2109303800 (&epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή 1) &kappa;&alpha;&iota; &alpha;&nu;&alpha;&phi;έ&rho;&epsilon;&tau;&epsilon; &tau;&omicron;&nu; &alpha;&rho;&iota;&theta;&mu;ό &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron; &omicron;&nu;&omicron;&mu;&alpha;&tau;&epsilon;&pi;ώ&nu;&upsilon;&mu;ό &sigma;&alpha;&sigmaf;, &alpha;&nu; &epsilon;ί&sigma;&tau;&epsilon; &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;, ή &tau;&omicron; &omicron;&nu;&omicron;&mu;&alpha;&tau;&epsilon;&pi;ώ&nu;&upsilon;&mu;&omicron; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon; ή &tau;&omicron;&upsilon; &epsilon;&xi;&alpha;&rho;&tau;ώ&mu;&epsilon;&nu;&omicron;&upsilon; &mu;έ&lambda;&omicron;&upsilon;&sigmaf;. &Kappa;&alpha;&tau;ό&pi;&iota;&nu;, &alpha;&phi;&omicron;ύ &mu;&alpha;&sigmaf; &epsilon;&nu;&eta;&mu;&epsilon;&rho;ώ&sigma;&epsilon;&tau;&epsilon; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&omicron; &pi;&rho;ό&beta;&lambda;&eta;&mu;&alpha; &tau;&eta;&sigmaf; &upsilon;&gamma;&epsilon;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&iota;&sigmaf; &epsilon;&xi;&epsilon;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &pi;&omicron;&upsilon; &sigma;&alpha;&sigmaf; &sigma;ύ&sigma;&tau;&eta;&sigma;&epsilon; &omicron; &gamma;&iota;&alpha;&tau;&rho;ό&sigmaf; &sigma;&alpha;&sigmaf;, &theta;&alpha; &sigma;&alpha;&sigmaf; &kappa;&alpha;&theta;&omicron;&delta;&eta;&gamma;ή&sigma;&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&omicron; &kappa;&alpha;&tau;ά&lambda;&lambda;&eta;&lambda;&omicron; &kappa;&alpha;&iota; &pi;&lambda;&eta;&sigma;&iota;έ&sigma;&tau;&epsilon;&rho;&omicron; &sigma;&epsilon; &epsilon;&sigma;ά&sigmaf; &delta;&iota;&alpha;&gamma;&nu;&omega;&sigma;&tau;&iota;&kappa;ό &kappa;έ&nu;&tau;&rho;&omicron;, &epsilon;&nu;ώ &pi;&alpha;&rho;ά&lambda;&lambda;&eta;&lambda;&alpha; &theta;&alpha; &sigma;&alpha;&sigmaf; &epsilon;&nu;&eta;&mu;&epsilon;&rho;ώ&sigma;&omicron;&upsilon;&mu;&epsilon; &gamma;&iota;&alpha; &tau;&alpha; έ&gamma;&gamma;&rho;&alpha;&phi;&alpha; &pi;&omicron;&upsilon; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; έ&chi;&epsilon;&tau;&epsilon; &mu;&alpha;&zeta;ί &sigma;&alpha;&sigmaf;.</span>

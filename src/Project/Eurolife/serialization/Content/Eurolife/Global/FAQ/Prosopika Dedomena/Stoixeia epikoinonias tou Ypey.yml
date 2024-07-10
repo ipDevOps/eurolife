@@ -1,0 +1,47 @@
+﻿---
+ID: "46469c94-ffa9-450e-a960-8dd148d4fb94"
+Parent: "57db528f-e583-424d-ad0b-aa1a72a6adf8"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Prosopika Dedomena/Stoixeia epikoinonias tou Ypeythynou Epexergasias
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Στοιχεία επικοινωνίας του Υπεύθυνου Επεξεργασίας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T102820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <strong id="docs-internal-guid-324252bb-7fff-5a5d-e846-fac6742c5564"></strong>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 16pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ή&sigma;&epsilon;&tau;&epsilon; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &tau;&rho;ό&pi;&omicron;&upsilon;&sigmaf;:</span></p>
+        <ul style="margin-top: 0px; margin-bottom: 0px;">
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Nu;&alpha; &tau;&eta;&lambda;&epsilon;&phi;&omega;&nu;ή&sigma;&epsilon;&tau;&epsilon; &sigma;&tau;&omicron; &Kappa;έ&nu;&tau;&rho;&omicron; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &sigma;&tau;&omicron; 210 9303800 &alpha;&pi;ό &sigma;&tau;&alpha;&theta;&epsilon;&rho;ό ή &kappa;&iota;&nu;&eta;&tau;ό &tau;&eta;&lambda;έ&phi;&omega;&nu;&omicron;</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Nu;&alpha; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ή&sigma;&epsilon;&tau;&epsilon; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ά &sigma;&tau;&eta; <a href="https://www.eurolife.gr/exipiretisi/forma-epikoinwnias">&phi;ό&rho;&mu;&alpha; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;&sigmaf;</a> ή &sigma;&tau;έ&lambda;&nu;&omicron;&nu;&tau;ά&sigmaf; &mu;&alpha;&sigmaf; e-mail &sigma;&tau;&omicron; info@eurolife.gr</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Nu;&alpha; &sigma;&tau;&epsilon;ί&lambda;&epsilon;&tau;&epsilon; &epsilon;&pi;&iota;&sigma;&tau;&omicron;&lambda;ή &sigma;&tau;&eta;&nu; &tau;&alpha;&chi;&upsilon;&delta;&rho;&omicron;&mu;&iota;&kappa;ή &delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta;: &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;&eta;&mu;ί&omicron;&upsilon; 33-35 &amp; &Kappa;&omicron;&rho;&alpha;ή, 10564</span></p>
+            </li>
+            <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+            <p dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Nu;&alpha; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&phi;&theta;&epsilon;ί&tau;&epsilon; &tau;&alpha; &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &mu;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &Alpha;&theta;ή&nu;&alpha; ή &sigma;&tau;&eta;&nu; &Theta;&epsilon;&sigma;&sigma;&alpha;&lambda;&omicron;&nu;ί&kappa;&eta;</span></p>
+            <ul style="margin-top: 0px; margin-bottom: 0px;">
+                <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">
+                <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">
+                </span></p>
+                &Gamma;&rho;&alpha;&phi;&epsilon;ί&omicron; &Alpha;&theta;ή&nu;&alpha;&sigmaf;: &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;&eta;&mu;ί&omicron;&upsilon; 33-35 &amp; &Kappa;&omicron;&rho;&alpha;ή, 10564</li>
+                <li dir="ltr" style="color: #000000; background-color: transparent; list-style-type: disc; text-decoration: none;">&Gamma;&rho;&alpha;&phi;&epsilon;ί&omicron; &Theta;&epsilon;&sigma;&sigma;&alpha;&lambda;&omicron;&nu;ί&kappa;&eta;&sigmaf; (&delta;&epsilon;&nu; &alpha;&phi;&omicron;&rho;ά &sigma;&tau;&eta;&nu; Eurolife ERB Insurance Group &Alpha;.&Epsilon;. &Sigma;&upsilon;&mu;&mu;&epsilon;&tau;&omicron;&chi;ώ&nu;): &Lambda;έ&omicron;&nu;&tau;&omicron;&sigmaf; &Sigma;&omicron;&phi;&omicron;ύ 18, 3&omicron;&sigmaf; ό&rho;&omicron;&phi;&omicron;&sigmaf;, 54625</li>
+            </ul>
+            </li>
+        </ul>

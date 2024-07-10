@@ -1,0 +1,67 @@
+﻿---
+ID: "d99443fb-c85e-4523-9250-91fcbfe00e4f"
+Parent: "ebe7e39d-5cb1-48b5-86ed-f0715b68b2da"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Health Panel/Attributes Categories/Secondary Healthcare
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+        {1E316EB4-42DF-489E-A557-5094C36ED039}
+        {81E038A7-BA97-4DFA-BC74-1A2B2DE758CF}
+        {DF7729D9-268C-42AF-A6B0-807E5EC25991}
+        {FDE314F8-0010-4436-A6D9-F0EB011BE878}
+        {2CEA7A76-3BAD-4733-922D-00B65B782C55}
+        {52EE1398-9A6D-4C80-99EE-63297F51AEDD}
+        {0827FF14-2F2D-47E0-A4BE-5C99C8366F92}
+        {4B6C3173-74E1-4F09-A725-6F4BDF8241D1}
+        {7CB97262-C495-4D3B-87A2-26C1C44951E7}
+        {90CAEBBF-90A3-4EE2-A414-E622C4C3C400}
+        {618FDBD6-B5C9-4BCF-89F1-6EABCEA264BA}
+        {42AC2F1D-58E6-4372-8204-C6FE936739AE}
+        {966CDC5A-A016-433D-A615-48D9EBAB3DC0}
+        {FCAE6DE8-50E4-4EE4-8D0B-36A10DE7E79B}
+        {D67AD341-ECF8-48F9-87BA-87E035C5115D}
+        {2BB6DDE2-59E1-4494-8888-CC8C0D02A267}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090316Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+        {1E316EB4-42DF-489E-A557-5094C36ED039}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

@@ -1,0 +1,88 @@
+﻿@using Wedia.Feature.PageContent
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageImageContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageImageContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<section class="hero hero--extra m-b-112 relator bread-overlays bread-light">
+  @Html.Sitecore().Placeholder("page-layout-top")
+
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    if ((Model.Item.FieldHasValue(Templates.HasPageContent.Fields.PreTitle)
+    || Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Title)
+    || Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Summary)) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="hero-contents">
+        <div class="center--760 center relator">
+          @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.PreTitle) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <h4 class="hero-contents__sup">@Html.Sitecore().Field(Templates.HasPageContent.Fields.PreTitle)</h4>
+          }
+          @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <h1 class="h2 m-b-24">@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)</h1>
+          }
+          @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <p>@Html.Sitecore().Field(Templates.HasPageContent.Fields.Summary)</p>
+          }
+
+          @if (Model.Item.FieldHasValue(Templates.HasPageCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+
+            var linkURL = Model.Item.LinkFieldUrl(Templates.HasPageCTA.Fields.CTA);
+            var linkDescription = Model.Item.LinkFieldOptions(Templates.HasPageCTA.Fields.CTA, Wedia.Foundation.SitecoreExtensions.Extensions.LinkFieldOption.Text);
+
+            <a class="btn btn--ghost btn--play" data-fancybox="hero-video" href="@linkURL">
+              @linkDescription
+              <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+                <path fill="#fff" fill-rule="nonzero" d="M30 57C15.088 57 3 44.912 3 30S15.088 3 30 3s27 12.088 27 27-12.088 27-27 27zm0-2c13.807 0 25-11.193 25-25S43.807 5 30 5 5 16.193 5 30s11.193 25 25 25zm-6-14.93L38.266 30 24 19.93v20.14zM22 42V18a1 1 0 0 1 1.577-.817l17 12a1 1 0 0 1 0 1.634l-17 12A1 1 0 0 1 22 42z" />
+              </svg>
+            </a>
+          }
+        </div>
+      </div>
+    }
+
+    var mediaUrlOptionsDesktop = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 1920,
+      Height = 0
+    };
+
+    var mediaUrlOptionsMobile = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 500,
+      Height = 0
+    };
+
+    var desktopImage = Model.Item.ImageUrl(Templates.HasPageImageContent.Fields.DesktopImage, mediaUrlOptionsDesktop);
+    var mobileImage = Model.Item.ImageUrl(Templates.HasPageImageContent.Fields.MobileImage, mediaUrlOptionsMobile);
+
+    <picture>
+      @if (!string.IsNullOrEmpty(desktopImage) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+
+        <source media="(min-width: 900px)" srcset="@desktopImage">
+
+      }
+
+      @if (!string.IsNullOrEmpty(mobileImage) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+        <source srcset="@mobileImage">
+      }
+
+      <img src="@desktopImage" alt="@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)" />
+    </picture>
+  }
+</section>

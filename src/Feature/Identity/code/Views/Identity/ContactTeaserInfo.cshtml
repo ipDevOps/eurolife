@@ -1,0 +1,36 @@
+﻿@using Wedia.Feature.Identity
+@using Wedia.Feature.Identity.Repositories
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+  var identity = IdentityRepository.Get(Model.Item);
+  if (identity == null)
+  {
+    return;
+  }
+}
+
+<div id="contact-us-info" class="flex-spread__half ways__to-contact flex-spread">
+  <ul class="flex-spread__half">
+    <li class="phone">
+      <h4>@Html.Sitecore().Dictionary("/Identity/Contact Teaser/Phone", "Phone")</h4>
+      <a href="tel:@Html.Sitecore().Field(Templates.Identity.Fields.OrganizationPhone, identity)">@Html.Sitecore().Field(Templates.Identity.Fields.OrganizationPhone, identity)</a>
+    </li>
+    <li class="email">
+      <h4>@Html.Sitecore().Dictionary("/Identity/Contact Teaser/Email", "Email")</h4>
+      <a href="mailto:@Html.Sitecore().Field(Templates.Identity.Fields.OrganizationEmail, identity)">@Html.Sitecore().Field(Templates.Identity.Fields.OrganizationEmail, identity)</a>
+    </li>
+  </ul>
+  <ul class="flex-spread__half">
+    @foreach (var address in identity.GetMultiListValueItems(Templates.Identity.Fields.OrganizationAddresses))
+    {
+      <li class="place">
+        <h4>@Html.Sitecore().Field(Templates.IdentityAddress.Fields.City, address)</h4>
+        <a target="_blank" href="https://www.google.com/maps/search/?api=1&query=@Html.Sitecore().Field(Templates.IdentityAddress.Fields.Street, address)">@Html.Sitecore().Field(Templates.IdentityAddress.Fields.Street, address)</a>
+      </li>
+    }
+  </ul>
+</div>

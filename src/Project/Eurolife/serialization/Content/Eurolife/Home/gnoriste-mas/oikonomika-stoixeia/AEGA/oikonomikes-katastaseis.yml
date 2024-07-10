@@ -1,0 +1,47 @@
+﻿---
+ID: "0b279243-97a1-4790-9257-7513579eb682"
+Parent: "b42104ad-d241-4a11-844d-35031408a3b1"
+Template: "41277a6d-ff43-46db-af83-303b916940f5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/oikonomika-stoixeia/AEGA/oikonomikes-katastaseis"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T193044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: "{A65AB121-4C40-413B-8882-2573DF50495C}"
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Οικονομικές καταστάσεις - Ενοποιημένες"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T134159Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: "{FCAADED3-358B-47ED-B0E2-7330F18FF5C1}"
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Οικονομικές καταστάσεις

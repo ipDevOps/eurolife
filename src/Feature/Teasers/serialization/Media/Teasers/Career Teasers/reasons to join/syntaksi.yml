@@ -1,0 +1,44 @@
+﻿---
+ID: "bdbf88c1-79d8-417f-8c9b-a3ac1e823b74"
+Parent: "26b49c6f-02ab-4144-87dd-367c302f813e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Feature/Teasers/Career Teasers/reasons to join/syntaksi
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/BDBF88C179D8417F8C9BA3AC1E823B74.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 60
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "350f9d99-be52-4a93-b32e-b6de464a1577"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADwAAAAYCAYAAACmwZ5SAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAPKADAAQAAAABAAAAGAAAAACcVkKiAAADXElEQVRYCb2YTW8NURzGe0slXldeSpUFRWIl8RXES6PaNJoI0RA2RMS630I0Fi1FYiHRKrklYecDWLBBvVwLREKJknofv2fuOe50OnNm7twZ/+R3z5lz/ud55u3OOTOlppThed4aUrtgD2yGVmiBd/AE7sFoqVSqUOYW+K5GrBd2wFZYBc0g36dwF8Zy85UhDMJ3SIpfJFyFdexEQ4FGKwzBN0gK+V6B9Y2a7kLkvXGT6A3ohy2wDBbDRuiFy/AVFJ/gQFZzxnZDVt++TL4YHoM/oCiDbmNnkKO74QLYOOUcENHJQPn+NgJZfU9ESMc3YdYFuqI64IH4zOgexhyBH6BIfcbJ3QfybNRX4/dH712olcTl8AEUdR+slWPsUV+hensn/qfJbYM8fafQ04PWHSTZW/KWOzO5F61LoBhJyiZn2M/0vDx9Lzp9MdTV1dP4J3Q4k1N0oqGrNmP0Yq8y/e2gv0DevjqWWVdZ81kwDrGxAG4yr00GO7LU0XjNuOswH3owb4HDcNaguvx6QHN63r7S1hweHZiPguJgdEb9rWj1+Yqe94jysakHC7WpT1GE73jsXmM46dummIJiRUId6HUYTVs8oHLSoHowEqe+kHzsJqJhX/lMNOlHtVAsjVWqswPdJQHta9R16/qhOqjNRlG+Vr/8Pw9Yq7CF9mBtqTawK7QiDnjaeqls5sHSCX6w/cx0znqymbashRb/igomM9Vq7de0VUxLEb5vam7Vt47g9kOzsT3Y2GB9mxn/wqHz3PQV4Wu1fYvwtHTfGGuayCv2GqE7DsHbpq8I34lYX/5LRS08tC7Xe2xk0LcSlJP3wkOaayNNbSMJRSwth6x+XInveVDkubQcjvP7145h3i8Pn9HU1xFnkLMCPoJiwJns6GSsfWmZpt7mSK11kZjX66Hea7tryu4aubtBt2Eer4epff29wrTRDwDa6dPuQ5zby5jjoBOlKEPi6ouc4IcH+Z6Zq5yihYHhTzxjtPWD/cSziPoGCH/i0e1U3xkO7A9jd8IUKHTF0/p+IbexJz0COnuDoFetpNCVGYH2wP5nqqKhj3jnwH45oRob1tf9RGZPSmn3BiutgoKfabWC0jz+FrSo0Fw6zsrpFWVuga985NsJm0Db80ArqJdQl+9fTR9mi8PqHXoAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1001
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 60 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T121509Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

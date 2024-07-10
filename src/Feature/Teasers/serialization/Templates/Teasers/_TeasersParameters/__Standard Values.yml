@@ -1,0 +1,18 @@
+﻿---
+ID: "4f431f06-3f47-4477-890e-673e8ea73c7d"
+Parent: "56fa53f0-6e12-47da-b8ce-0b6fc63f5a3d"
+Template: "56fa53f0-6e12-47da-b8ce-0b6fc63f5a3d"
+Path: /sitecore/templates/Feature/Teasers/_TeasersParameters/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T105509Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

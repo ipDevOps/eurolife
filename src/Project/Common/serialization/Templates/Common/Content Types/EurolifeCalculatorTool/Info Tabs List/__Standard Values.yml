@@ -1,0 +1,23 @@
+﻿---
+ID: "577091eb-ab23-4fac-a866-4b50dd6a5639"
+Parent: "c11604cc-e0a8-4e3e-a667-fa6bc3cc7355"
+Template: "c11604cc-e0a8-4e3e-a667-fa6bc3cc7355"
+Path: /sitecore/templates/Project/Common/Content Types/EurolifeCalculatorTool/Info Tabs List/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BAA98B57-D925-4057-BD64-42580826722A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210203T135528Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

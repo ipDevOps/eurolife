@@ -1,0 +1,24 @@
+﻿---
+ID: "4eb469aa-e121-4351-8f97-9a3ea80ce7d8"
+Parent: "99c43e69-bfca-4f55-a8c4-e063e9bfe513"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/A/asfalisma-apozimiosi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ασφάλισμα / Αποζημίωση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T205704Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Η παροχή που θα καταβληθεί στον ασφαλισμένο, όταν επέλθει το περιστατικό, δηλαδή ο ασφαλιστικός κίνδυνος.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

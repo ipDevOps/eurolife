@@ -1,0 +1,24 @@
+﻿---
+ID: "0cce82d3-2f6c-4276-8d33-f151eb9cb5a7"
+Parent: "b9762880-2127-4dac-a1ac-f393bffea1e6"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/E/evloga-sinithi-exoda-nosileias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Εύλογα και Συνήθη Έξοδα Νοσηλείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072037Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Οι δαπάνες που είναι σύμφωνες με τις συνηθισμένες και λογικές χρεώσεις της αγοράς για ιατρικές και νοσοκομειακές υπηρεσίες και οι οποίες είναι σχετικές με τη διάγνωση της ασθένειας, απαραίτητες για ιατρικούς λόγους και ακολουθούν την ιατρική πρακτική και την επιστημονική βιβλιογραφία. Η χρέωση θεωρείται λογική, όταν είναι σύμφωνη με το γενικό επίπεδο τιμών για παρόμοια ή συγκρίσιμη υπηρεσία και δεν υπερβαίνει την αντίστοιχη χρέωση από άλλους φορείς, του ίδιου επιπέδου, της περιοχής που παρασχέθηκε η υπηρεσία.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

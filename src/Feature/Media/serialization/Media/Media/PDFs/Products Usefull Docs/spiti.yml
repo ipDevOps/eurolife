@@ -1,0 +1,18 @@
+﻿---
+ID: "10a0f879-e5b1-4541-8df8-ffdebdc4f5d1"
+Parent: "a6d35f1e-4e20-4587-8700-af4b1ceb7ebc"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/Media/PDFs/Products Usefull Docs/spiti
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T212911Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

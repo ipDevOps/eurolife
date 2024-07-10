@@ -1,0 +1,35 @@
+﻿---
+ID: "d83b1ca5-ea50-48a9-b657-9ef90fe7adf7"
+Parent: "3c76ad9a-81bf-4e8e-9206-6f426d03b220"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/Highlights katoikia/katoikia Highlights1/Paketo - Ipiresies 1"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T083002Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: "Πακέτο - Υπηρεσίες"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        <ul>
+            <li><span id="docs-internal-guid-faeca9e8-7fff-6934-e49f-f9a276bd4733" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-afc53d22-7fff-9916-6b47-c980f0a2cf50" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-58a6aa30-7fff-4030-9697-bf0e675ce96b" style="background-color: transparent; text-decoration: none; color: #000000;">&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; ά&mu;&epsilon;&sigma;&eta;&sigmaf; &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;&sigmaf;</span></span></span></li>
+            <li><span id="docs-internal-guid-45419b22-7fff-ae07-470e-ff33f453b68a" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-d5cfc187-7fff-c18e-2eac-8152b7beab38" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-7051d3dd-7fff-6fa7-46f8-098e5814de85" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;&epsilon;&upsilon;&tau;&iota;&kappa;ή &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &beta;&omicron;ή&theta;&epsilon;&iota;&alpha;&sigmaf;</span></span></span></li>
+            <li><span id="docs-internal-guid-d2aace3f-7fff-07a6-8090-ac5a1212743e" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-7d4a277e-7fff-e1c7-1145-ee67ab598bd5" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-0dc72add-7fff-9838-49c0-0f031bf05a2b" style="background-color: transparent; text-decoration: none; color: #000000;">&Nu;&omicron;&mu;&iota;&kappa;ή &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;</span></span></span></li>
+        </ul>
+        </div>
+        </div>

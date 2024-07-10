@@ -1,0 +1,21 @@
+﻿---
+ID: "1b822858-418e-4c28-b347-74db488f8ea3"
+Parent: "35b02ea0-26c0-4e7e-a73d-f07d4df55e75"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs Attributes/ilikia asfalismenou/30 imeron eos 68 eton
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T122158Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Από 30 ημερών έως 68 ετών

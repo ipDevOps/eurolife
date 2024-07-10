@@ -1,0 +1,80 @@
+﻿---
+ID: "5d3705dc-9e15-42ad-be5b-6e721c092863"
+Parent: "17ad85d6-945b-4ede-9793-6f6acf06af8f"
+Template: "f1e8aa8c-0acb-4186-b3fb-448897ca0831"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/stolos/_Local/panel mikres epixeiriseis astiki euthini/astiki efthini xoros katastimaton/astiki efthini xoros katastimaton"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085100Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Καταστημάτων
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: |
+        {62104D26-2EFF-46C5-988B-E71A0F333F5E}
+        {29F02240-B4D6-412F-A822-92EF09C80CC6}
+        {4F911D08-7AF2-49C1-8821-DAB75AF74B02}
+        {1892DA06-8352-4352-97F2-90F4E52CA743}
+        {9F765697-E3AC-49B4-9683-88E80872B3D4}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: "{C810DD7C-6CDE-4899-BBBC-3209BCDD7FAE}"
+    - ID: "eaefde6c-1755-4c47-bc40-237d17a8ebe8"
+      Hint: PanelFilters
+      Type: Multilist
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: |
+        Χρησιμοποιήστε τους πίνακες για να συγκρίνετε τις καλύψεις και τα χαρακτηριστικά 
+        των προγραμμάτων υγείας και να επιλέξετε εκείνο που σας ταιριάζει περισσότερο.
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T051955Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Σύγκριση Προγραμμάτων
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: "{16C920D0-8B3F-4848-950C-751B5D598463}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: 
+    - ID: "eaefde6c-1755-4c47-bc40-237d17a8ebe8"
+      Hint: PanelFilters
+      Type: Multilist
+      Value: |
+        {719F3D85-1663-4A09-BB5A-4F5DE7B3D31B}
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {73BD172B-6322-41D6-AE26-5F66B5BD1000}

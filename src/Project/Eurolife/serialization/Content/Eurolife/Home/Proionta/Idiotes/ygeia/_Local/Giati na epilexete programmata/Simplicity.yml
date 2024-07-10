@@ -1,0 +1,46 @@
+﻿---
+ID: "f92efc00-e8f1-4a6c-9147-412918d569b7"
+Parent: "e52a4706-6aa3-42d4-aa11-a533e50cc138"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Giati na epilexete programmata igeias/Simplicity
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Delta;&iota;&alpha;&theta;έ&tau;&omicron;&upsilon;&mu;&epsilon; &delta;ί&kappa;&tau;&upsilon;&omicron; &mu;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&alpha; &alpha;&pi;ό 45 &sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&alpha; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&alpha; &kappa;&alpha;&iota; &iota;&delta;&iota;&omega;&tau;&iota;&kappa;έ&sigmaf; &kappa;&lambda;&iota;&nu;&iota;&kappa;έ&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &kappa;ά&lambda;&upsilon;&psi;&eta; &tau;&omega;&nu; &epsilon;&xi;ό&delta;&omega;&nu; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &alpha;&pi;&epsilon;&upsilon;&theta;&epsilon;ί&alpha;&sigmaf; &alpha;&pi;ό &tau;&eta;&nu; Eurolife.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απλοποιούμε τις καταστάσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T084504Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{FA1AD068-E55F-4F35-91BE-0D38BF14F7FC}" querystring="" target="" text="ΜΑΘΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" title="" class="" url="/Eurolife/Home/gnoriste-mas/giati-na-mas-epilexete" linktype="internal" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-bf8a17a6-7fff-b6aa-c1bb-31011b7d5ed3" style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &xi;&epsilon;&kappa;ά&theta;&alpha;&rho;&omicron;&iota; &sigma;&tau;&omicron; &pi;&omicron;&iota;&omicron;&iota; &epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &kappa;&alpha;&iota; &tau;&iota; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon;. &Pi;&rho;&omicron;&sigma;&epsilon;&gamma;&gamma;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &mu;&epsilon; &alpha;&pi;&lambda;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &phi;&rho;&omicron;&nu;&tau;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &sigma;&alpha;&sigmaf; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; &nu;&alpha; &epsilon;ί&nu;&alpha;&iota; &epsilon;ύ&kappa;&omicron;&lambda;&eta;, ά&mu;&epsilon;&sigma;&eta; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&alpha;&nu;&omicron;&eta;&tau;ή.</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απλοποιούμε τις καταστάσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

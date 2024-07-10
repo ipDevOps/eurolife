@@ -1,0 +1,14 @@
+﻿---
+ID: "f4c56fa9-e294-48a7-811f-d8ca48ee3d0f"
+Parent: "1fbc29a8-b33d-4734-8c74-4a71660f925e"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Page Content/Newsletter
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T124758Z

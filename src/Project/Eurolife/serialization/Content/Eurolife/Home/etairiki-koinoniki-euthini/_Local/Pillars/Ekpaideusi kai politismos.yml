@@ -1,0 +1,61 @@
+﻿---
+ID: "0b43b7d3-1981-4e23-962d-7ba84f44d839"
+Parent: "52faeae8-a7a0-44be-ba58-88d10642cd2f"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/_Local/Pillars/Ekpaideusi kai politismos"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &delta;ί&pi;&lambda;&alpha; &sigma;&epsilon; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &pi;&rho;&omicron;&omega;&theta;&omicron;ύ&nu; &tau;&omicron;&nu; &pi;&omicron;&lambda;&iota;&tau;&iota;&sigma;&mu;ό, &tau;&eta;&nu; &tau;έ&chi;&nu;&eta; &kappa;&alpha;&iota; &tau;&eta;&nu; &epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;, &beta;&omicron;&eta;&theta;ώ&nu;&tau;&alpha;&sigmaf; ό&lambda;&omicron; &kappa;&alpha;&iota; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &nu;&alpha; έ&chi;&omicron;&upsilon;&nu; &pi;&rho;ό&sigma;&beta;&alpha;&sigma;&eta; &sigma;&tau;&alpha; &alpha;&gamma;&alpha;&theta;ά &tau;&omicron;&upsilon;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εκπαίδευση & Πολιτισμός
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T111238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{2AC0B118-3BAC-4C30-B59F-BAAEDB9A59E2}" querystring="" text="ΠΕΡΙΣΣΟΤΕΡΑ" title="" class="" linktype="internal" url="/Eurolife/Home/etairiki-koinoniki-euthini/Ekpaideusi-politismos" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{A3BA45DF-D4F2-486A-9721-394AAFF7AF1A}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ποιότητα Ζωής
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T105034Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{98D0C2F9-5683-4D5E-BF97-40EE0BB990ED}" querystring="" linktype="internal" text="Περισσότερα" anchor="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

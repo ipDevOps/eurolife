@@ -1,0 +1,31 @@
+﻿---
+ID: "0cdbfb83-056e-49e9-aee2-b55697b4afac"
+Parent: "0c97f573-9bad-4b42-aefb-0b7b9f68914b"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Aftokinito/Poies einai oi proupotheseis gia tin asfaleia agrotikou Safe Drive
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Ποιες είναι οι προϋποθέσεις για την ασφάλεια αγροτικού Safe Drive;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094023Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Gamma;&iota;&alpha; &nu;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&omicron;&upsilon;&mu;&epsilon; &alpha;&gamma;&rho;&omicron;&tau;&iota;&kappa;ό ό&chi;&eta;&mu;&alpha; &mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &alpha;&gamma;&rho;&omicron;&tau;&iota;&kappa;&omicron;ύ Safe Drive, &theta;&alpha; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &pi;&lambda;&eta;&rho;&omicron;ύ&nu;&tau;&alpha;&iota; &kappa;ά&pi;&omicron;&iota;&epsilon;&sigmaf; &pi;&rho;&omicron;ϋ&pi;&omicron;&theta;έ&sigma;&epsilon;&iota;&sigmaf;: </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Omicron; &omicron;&delta;&eta;&gamma;ό&sigmaf; &pi;&rho;έ&pi;&epsilon;&iota;: </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Nu;&alpha; &epsilon;ί&nu;&alpha;&iota; έ&omega;&sigmaf; 55 &epsilon;&tau;ώ&nu;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Nu;&alpha; έ&chi;&epsilon;&iota; &delta;ί&pi;&lambda;&omega;&mu;&alpha; &omicron;&delta;ή&gamma;&eta;&sigma;&eta;&sigmaf; &tau;&omicron;&upsilon;&lambda;ά&chi;&iota;&sigma;&tau;&omicron;&nu; 4 &chi;&rho;ό&nu;&iota;&alpha;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Tau;&omicron; ό&chi;&eta;&mu;&alpha; &pi;&rho;έ&pi;&epsilon;&iota;: </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Nu;&alpha; &epsilon;ί&nu;&alpha;&iota; έ&omega;&sigmaf; 15 &epsilon;&tau;ώ&nu;. </span></p>
+        <p><span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&bull; &Nu;&alpha; έ&chi;&epsilon;&iota; &kappa;&iota;&nu;&eta;&tau;ή&rho;&alpha; έ&omega;&sigmaf; 5.000 &kappa;&upsilon;&beta;&iota;&kappa;ά &epsilon;&kappa;&alpha;&tau;&omicron;&sigma;&tau;ά.</span></p>

@@ -1,0 +1,18 @@
+﻿---
+ID: "fc596d36-f097-44ed-a06d-a38f41b0e49f"
+Parent: "ed2d2057-7ff2-437f-8010-b506d226b964"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Blog/_HasColor/Color
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200123T105016Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

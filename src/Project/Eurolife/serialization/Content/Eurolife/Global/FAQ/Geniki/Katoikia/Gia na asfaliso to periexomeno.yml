@@ -1,0 +1,25 @@
+﻿---
+ID: "b21114f6-04ca-4421-b23a-84e24fa7933b"
+Parent: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia/Gia na asfaliso to periexomeno tis katoikias mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Για να ασφαλίσω το περιεχόμενο της κατοικίας μου, πρέπει να σας αναφέρω απλά το ασφαλισμένο κεφάλαιο;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T090032Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Theta;&alpha; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &mu;&alpha;&sigmaf; &delta;&eta;&lambda;ώ&sigma;&epsilon;&tau;&epsilon; &tau;&omicron; &sigma;ύ&nu;&omicron;&lambda;&omicron; &tau;&omega;&nu; &kappa;&iota;&nu;&eta;&tau;ώ&nu; &alpha;&nu;&tau;&iota;&kappa;&epsilon;&iota;&mu;έ&nu;&omega;&nu; &tau;&eta;&sigmaf; &kappa;&alpha;&tau;&omicron;&iota;&kappa;ί&alpha;&sigmaf; &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &pi;&omicron;&upsilon; &upsilon;&pi;ά&rho;&chi;&omicron;&upsilon;&nu; &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&alpha; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&eta;&sigmaf; &alpha;&xi;ί&alpha;&sigmaf; ά&nu;&omega; &tau;&omega;&nu; &euro;1.500, &theta;&alpha; &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &mu;&alpha;&sigmaf; &sigma;&tau;&epsilon;ί&lambda;&epsilon;&tau;&epsilon; &alpha;&nu;&alpha;&lambda;&upsilon;&tau;&iota;&kappa;ή &lambda;ί&sigma;&tau;&alpha; &alpha;&upsilon;&tau;ώ&nu;.</span>

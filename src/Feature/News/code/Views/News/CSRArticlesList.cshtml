@@ -1,0 +1,25 @@
+﻿@using Wedia.Feature.News
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+<section class="list list--article center center--1100 m-b-112 m-t-64">
+  @foreach (var item in Model)
+  {
+    <article class="list--article__item">
+      <div class="list--article__image">
+        @Html.Sitecore().Field(Templates.NewsArticle.Fields.DesktopImage, item)
+      </div>
+      <div class="list--article__information">
+        <h2 class="list--article__title h4">
+          <a href="@item.Url()">
+            @Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, item)
+          </a>
+        </h2>
+        <div class="list--article__text">
+          @Html.Sitecore().Field(Templates.NewsArticle.Fields.Summary, item)
+        </div>
+      </div>
+    </article>
+  }
+
+</section>

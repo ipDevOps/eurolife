@@ -1,0 +1,41 @@
+﻿---
+ID: "b0a0cc7a-407f-4771-a72d-6a19f18603a6"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "99a565ea-edea-4761-aaf1-77f4d4b2768c"
+Path: /sitecore/content/Eurolife/Global/Media/Home Page Carousel
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T134656Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f10d132f-19e6-4524-b1ab-aec4f2a4931c"
+      Hint: MediaImage
+      Type: Multilist
+      Value: |
+        {DF5403E3-4446-437F-994B-794639F94FDD}
+        {8D136384-C8DE-4943-8E19-F271D949E4A6}
+        {4B783986-4568-4D99-93F4-DFF4C148CBA8}
+        {80B4005D-763B-4407-ACCB-A174ED18A07B}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T140622Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f10d132f-19e6-4524-b1ab-aec4f2a4931c"
+      Hint: MediaImage
+      Type: Multilist
+      Value: "{DF5403E3-4446-437F-994B-794639F94FDD}"

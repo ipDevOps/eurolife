@@ -1,0 +1,18 @@
+﻿---
+ID: "cd51106a-d517-49c8-b8f7-4f8a45808fef"
+Parent: "d08cd758-78a6-415e-a376-3caf050895b1"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/zoi/zoi vasika eggrafa/2019/10/22/12
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T121723Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

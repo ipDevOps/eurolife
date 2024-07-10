@@ -1,0 +1,14 @@
+﻿---
+ID: "dc350841-5664-4d9a-a5d2-c1421dee280c"
+Parent: "79ed01b5-fb36-43b5-9a38-88f08b4487be"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/prosopiko-atixima/_Local"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104442Z

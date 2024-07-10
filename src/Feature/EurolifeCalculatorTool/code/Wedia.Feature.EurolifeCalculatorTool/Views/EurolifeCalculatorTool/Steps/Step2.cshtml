@@ -1,0 +1,190 @@
+﻿@using Wedia.Feature.EurolifeCalculatorTool
+@using Wedia.Feature.EurolifeCalculatorTool
+@using Wedia.Feature.EurolifeCalculatorTool.Models
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model CalculatorToolPageViewModel
+
+<section class="center center--650 m-b-32 t-c">
+  <h1 class="m-b-8 tool-title">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step2/Title", "Title")</h1>
+  <p class="color-faded">
+    @Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step2/Description", "Title")
+  </p>
+</section>
+
+<section class="m-b-46 center--1100 center">
+  <div class="target-group item-targeted step2">
+    @foreach (var familyMember in Model.AvailableFamilyMembers)
+    {
+      <div class="target-group__item @RenderTargetGroupClasses(Model.UserSelection.TargetGroup, familyMember)" id="target-is-@familyMember.Key" data-key="@familyMember.Key">
+        <div class="target-group__avatar">
+          @renderMinus(Model.UserSelection.TargetGroup, familyMember)
+          <img src="@familyMember.Image" />
+          @renderPlus(Model.UserSelection.TargetGroup, familyMember)
+        </div>
+
+        <h2 class="target-group__title t-c" data-title="@familyMember.Title">
+          @renderPersonNumber(Model.UserSelection.TargetGroup, familyMember)
+          @familyMember.Title
+        </h2>
+
+        @renderPrimaryInsurance(Model.UserSelection.TargetGroup, familyMember)
+
+        @{
+            var target = Model.UserSelection.TargetGroup;
+            var extraclass = "js-validate-" + target.Key + "-" + familyMember.Key;
+        }
+
+        <div class="target-group__birth">
+          <input type="text" class="js-birth-year @extraclass" onformchange="validateYear(this,arguments)" onkeyup="validateYear(this,arguments)" maxlength="4" pattern="^(19|20)\d{2}$" data-isvalid="false">
+          <label>@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step2/BirthDate", "BirthDate")</label>
+          <span class="error js-error">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Common/Error/DateError", "Wrong birth date")</span>
+        </div>
+
+        @if (familyMember.Key == Constants.Family_Member_Daughter)
+        {
+          <span id="daughter-placeholder" class="js-daughter-birth-placeholder" data-daughtercounter="0"></span>
+        }
+
+        @if (familyMember.Key == Constants.Family_Member_Son)
+        {
+          <span id="son-placeholder" class="js-son-birth-placeholder" data-soncounter="0"></span>
+        }
+
+
+
+      </div>
+    }
+  </div>
+</section>
+
+@renderDisclaimer(Model.UserSelection.TargetGroup)
+
+@helper renderDisclaimer(TargetGroup targetGroup) { 
+  if (targetGroup.Key == Constants.Family_Target_Family) { 
+    <section class="center center--1100 m-t-48 m-b-24">
+      <div class="disclaimer">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24" width="24px" height="24px">
+          <g id="surface10490669">
+            <path style=" stroke:none;fill-rule:nonzero;fill:#2D6BD1;fill-opacity:1;" d="M 12 2 C 6.488281 2 2 6.488281 2 12 C 2 17.511719 6.488281 22 12 22 C 17.511719 22 22 17.511719 22 12 C 22 6.488281 17.511719 2 12 2 Z M 12 4 C 16.429688 4 20 7.570312 20 12 C 20 16.429688 16.429688 20 12 20 C 7.570312 20 4 16.429688 4 12 C 4 7.570312 7.570312 4 12 4 Z M 11 7 L 11 9 L 13 9 L 13 7 Z M 11 11 L 11 17 L 13 17 L 13 11 Z M 11 11 " />
+          </g>
+        </svg>
+
+        <span>
+          @Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step3/Disclaimer", "Disclaimer Notice")
+        </span>
+      </div>
+    </section>
+  }
+}
+
+@helper renderMinus(TargetGroup targetGroup, FamilyMember familyMember)
+{
+  if (targetGroup.Key == Constants.Family_Target_Family)
+  {
+    if (familyMember.Key == Constants.Family_Member_Father
+    || familyMember.Key == Constants.Family_Member_Mother)
+    {
+      <span class="symbol symbol--minus js-remove-parent">-</span>
+    }
+
+    if (familyMember.Key == Constants.Family_Member_Daughter)
+    {
+      <span class="symbol js-symbol js-remove-daughter symbol--minus">-</span>
+    }
+
+    if (familyMember.Key == Constants.Family_Member_Son)
+    {
+      <span class="symbol js-symbol js-remove-son symbol--minus">-</span>
+    }
+
+  }
+}
+
+@helper renderPlus(TargetGroup targetGroup, FamilyMember familyMember)
+{
+  if (targetGroup.Key == Constants.Family_Target_Family)
+  {
+    if (familyMember.Key == Constants.Family_Member_Father || familyMember.Key == Constants.Family_Member_Mother)
+    {
+      <span class="symbol symbol--plus js-add-parent">+</span>
+    }
+
+    if (familyMember.Key == Constants.Family_Member_Daughter)
+    {
+      <span class="symbol js-add-daughter symbol--plus">+</span>
+    }
+
+    if (familyMember.Key == Constants.Family_Member_Son)
+    {
+      <span class="symbol js-add-son symbol--plus">+</span>
+    }
+  }
+}
+
+@helper renderPersonNumber(TargetGroup targetGroup, FamilyMember familyMember)
+{
+  if (targetGroup.Key == Constants.Family_Target_Family)
+  {
+
+    if (familyMember.Key == Constants.Family_Member_Son)
+    {
+      <input type="tel" name="sons-number" class="person-number" id="sons-number" value="0">
+
+    }
+    else if (familyMember.Key == Constants.Family_Member_Daughter)
+    {
+      <input type="text" name="daughters-number" class="person-number" id="daughters-number" value="0">
+
+    }
+  }
+}
+
+@helper renderPrimaryInsurance(TargetGroup targetGroup, FamilyMember familyMember)
+{
+  if (targetGroup.Key == Constants.Family_Target_Family || targetGroup.Key == Constants.Family_Target_Us)
+  {
+
+    if (familyMember.Key == Constants.Family_Member_Father)
+    {
+      <div class="relator m-b-32 flexify color-faded target-group__choice">
+        <input type="radio" class="js-radio-choice" id="man-is-primary" name="primary-insured" value="man-is-primary">
+        <label for="man-is-primary">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step2/PrimaryInsured", "PrimaryInsured")</label>
+      </div>
+
+    }
+    else if (familyMember.Key == Constants.Family_Member_Mother)
+    {
+      <div class="relator m-b-32 flexify color-faded target-group__choice">
+        <input type="radio" class="js-radio-choice" id="woman-is-primary" name="primary-insured" value="woman-is-primary" checked>
+        <label for="woman-is-primary">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step2/PrimaryInsured", "PrimaryInsured")</label>
+      </div>
+
+    }
+  }
+}
+
+
+@functions {
+
+  public static string RenderTargetGroupClasses(TargetGroup targetGroup, FamilyMember familyMember)
+  {
+    string classes = string.Empty;
+    if (targetGroup.Key == Constants.Family_Target_Family)
+    {
+      if (familyMember.Key == Constants.Family_Member_Father
+      || familyMember.Key == Constants.Family_Member_Mother)
+      {
+        classes += "js-parent-target parent-target family-validation target-group--deactive";
+      }
+
+      if (familyMember.Key == Constants.Family_Member_Son
+      || familyMember.Key == Constants.Family_Member_Daughter)
+      {
+        classes += "js-target family-validation target-group--deactive";
+      }
+    }
+    return classes;
+  }
+}

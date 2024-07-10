@@ -1,0 +1,48 @@
+﻿---
+ID: "a86193a0-b8ed-435f-9bd8-5b4acf501ab9"
+Parent: "bf54651f-25c8-4157-998b-0285ae4970e4"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Asfalisi-Touristikon-Monadon/_Local/Health Panel/Programs Attributes/eggiisi_parohon/Yes_premium_nosokomeiako_1500"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190909T115253Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Ετήσια διάρκεια προγράμματος με δυνατότητα ανανέωσης στη λήξη του για μια ασφαλιστική περίοδο κάθε φορά. Η εταιρεία διατηρεί το δικαίωμα στη λήξη του Ασφαλιστηρίου να τροποποιεί τους Όρους, τις Παροχές και το ύψος αυτών για το σύνολο των Ασφαλισμένων.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Ναι
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T115306Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: |
+        Ναι
+        

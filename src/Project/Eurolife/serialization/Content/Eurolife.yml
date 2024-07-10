@@ -1,0 +1,144 @@
+﻿---
+ID: "fcaf89b5-45d2-4bd1-96c1-6a350572faee"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "bf28aa5c-d111-4785-93ee-99d425d076eb"
+Path: /sitecore/content/Eurolife
+DB: master
+SharedFields:
+- ID: "39f8176d-c412-4b99-ac7e-359580221a98"
+  Hint: SupportedLanguages
+  Type: Multilist
+  Value: |
+    {AF584191-45C9-4201-8740-5409F4CF8BDD}
+    {096EB5C3-0DD1-43B3-863A-4E56392EFD3A}
+- ID: "74698670-ee24-4706-b688-848685462482"
+  Hint: ShowInMenu
+  Type: Checkbox
+  Value: 1
+- ID: "98b34509-e828-4a84-9943-4efe786e401f"
+  Hint: Search Results Page
+  Value: /sitecore/content/Eurolife/Home/Search
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{C410C01A-5CC4-4954-93AF-8E3570FF6EB3}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0626d59c-fbef-41ce-bfa3-226304b9e846"
+      Hint: Logo Tagline
+      Value: Eurolife
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190704T085756Z
+    - ID: "2c137e1a-ade1-4d1a-af60-0e0f9a386c5b"
+      Hint: Register
+      Value: |
+        <link text="Eurolife Partners" linktype="external" url="https://partners.eurolife.gr/#/login" anchor="" target="_blank" />
+    - ID: "34375fc7-4df0-4c85-9d04-64c79d1ffef8"
+      Hint: ContactForm
+      Value: |
+        <link text="ΦΟΡΜΑ ΕΠΙΚΟΙΝΩΝΙΑΣ" anchor="" linktype="internal" class="" title="ΦΟΡΜΑ ΕΠΙΚΟΙΝΩΝΙΑΣ" target="" querystring="" id="{B13C37FC-7395-4322-9D78-2DA41051875D}" />
+    - ID: "48dc1e12-f410-4da4-b560-af1809e0262c"
+      Hint: Login
+      Value: |
+        <link text="Eurolife Connect" linktype="external" url="https://connect.eurolife.gr/" anchor="" target="_blank" />
+    - ID: "4ec67362-43ba-4021-89fa-4aa5a1ffb9e0"
+      Hint: OrganisationEmail
+      Value: info@eurolife.gr
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8b9f427a-d6bd-4aad-9e70-8965e09c4af2"
+      Hint: OrganisationAddresses
+      Type: Multilist
+      Value: |
+        {59C01224-17AB-4DEC-94DF-ACA4551537ED}
+        {E040CD67-CC5B-4BD9-9FBD-9D3CA75E19A5}
+    - ID: "a3b0f0f0-cac4-496a-aca7-8f80fc52bb6a"
+      Hint: ClickToCall
+      Value: |
+        <link text="Click To Call" linktype="external" url="https://click2call.eurolife.gr/code/callback.php" anchor="" target="" />
+    - ID: "a89673ed-d5bb-42a7-a5be-1f65f49b7c8f"
+      Hint: Title
+      Value: Eurolife ERB
+    - ID: "b4926567-fd0b-4bed-b86b-1d3b25c90d8b"
+      Hint: SiteBrowserTitle
+      Value: Eurolife ERB
+    - ID: "c29843ba-7353-454e-9842-3db3b7174668"
+      Hint: Logo
+      Value: |
+        <image mediaid="{1A203FD3-C6DE-4AE4-89D6-BC9B91D379FC}" />
+    - ID: "c43a2010-e0dc-41bf-bcfb-f6433a60845d"
+      Hint: OrganisationFax
+      Value: 210 9303980
+    - ID: "c8175f95-150a-47c9-a485-bf76e6436304"
+      Hint: OrganisationName
+      Value: Eurolife ERB
+    - ID: "c9937d39-6c03-44be-a0bb-965903c6ef43"
+      Hint: Copyright
+      Value: Eurolife
+    - ID: "cd55543c-7eca-405f-89a1-6bc0a9d10292"
+      Hint: OnlinePayment
+      Value: |
+        <link text="Online Πληρωμή" linktype="external" url="https://epliromi.eurolife.gr/" anchor="" target="_blank" />
+    - ID: "cea1aafe-bc37-4321-a135-ededcac59783"
+      Hint: OrganisationPhone
+      Value: 210 9303800
+    - ID: "f3394d78-1e2b-4854-bea1-6180d271a426"
+      Hint: ClickToChat
+      Value: |
+        <link text="Click To Chat" linktype="external" url="https://click2call.eurolife.gr/code/callback.php" anchor="" title="CLICK TO CHAT" target="" />
+- Language: en
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{C410C01A-5CC4-4954-93AF-8E3570FF6EB3}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20190508T124824:636929165040388613Z"
+    - ID: "34375fc7-4df0-4c85-9d04-64c79d1ffef8"
+      Hint: ContactForm
+      Value: |
+        <link text="ΦΟΡΜΑ ΕΠΙΚΟΙΝΩΝΙΑΣ" linktype="external" url="https://contactform.gr" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "4ec67362-43ba-4021-89fa-4aa5a1ffb9e0"
+      Hint: OrganisationEmail
+      Value: info@eurolife.gr
+    - ID: "8b9f427a-d6bd-4aad-9e70-8965e09c4af2"
+      Hint: OrganisationAddresses
+      Type: Multilist
+      Value: |
+        {59C01224-17AB-4DEC-94DF-ACA4551537ED}
+        {E040CD67-CC5B-4BD9-9FBD-9D3CA75E19A5}
+    - ID: "a3b0f0f0-cac4-496a-aca7-8f80fc52bb6a"
+      Hint: ClickToCall
+      Value: |
+        <link text="CLICK TO CALL" linktype="external" url="https://clicktocall.gr" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "b4926567-fd0b-4bed-b86b-1d3b25c90d8b"
+      Hint: SiteBrowserTitle
+      Value: "- Eurolife"
+    - ID: "c43a2010-e0dc-41bf-bcfb-f6433a60845d"
+      Hint: OrganisationFax
+      Value: "211-1873530 (16530)"
+    - ID: "c8175f95-150a-47c9-a485-bf76e6436304"
+      Hint: OrganisationName
+      Value: Eurolife ERB
+    - ID: "c9937d39-6c03-44be-a0bb-965903c6ef43"
+      Hint: Copyright
+      Value: Copyright 2019 &copy; Eurolife
+    - ID: "cea1aafe-bc37-4321-a135-ededcac59783"
+      Hint: OrganisationPhone
+      Value: 210 9003800
+    - ID: "f3394d78-1e2b-4854-bea1-6180d271a426"
+      Hint: ClickToChat
+      Value: |
+        <link text="CLICK TO CHAT" linktype="external" url="https://clicktochat.gr" anchor="" title="" class="" querystring="" target="" id="" />

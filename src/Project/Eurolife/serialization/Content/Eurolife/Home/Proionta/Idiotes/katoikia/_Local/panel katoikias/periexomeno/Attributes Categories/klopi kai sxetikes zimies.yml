@@ -1,0 +1,30 @@
+﻿---
+ID: "631ed076-790b-4a0c-be94-25beb3ca9e69"
+Parent: "325fddca-e189-4058-9410-12ff38d0e36f"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Attributes Categories/klopi kai sxetikes zimies
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {ABA012B1-E150-42BD-B4B2-7B4F83BE9F21}
+        {97189F81-E7E7-484D-BFAA-67608044ACBD}
+        {13EF02F4-5286-41E8-9ECF-B6827EFE0A53}
+        {2B2FAAD0-C9E4-47A1-B208-5033B9BA3EF4}
+        {55F076B0-8FAA-468F-A063-3D0C7339D35E}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203508Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Κλοπή και σχετικές ζημιές

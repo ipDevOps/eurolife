@@ -1,0 +1,14 @@
+﻿@using Wedia.Foundation.Dictionary.Extensions
+@model Wedia.Feature.Search.Models.SearchResultsHeader
+
+
+<div class="color-container">
+
+  <section class="center center--650 p-t-80 p-b-80 search-form">
+    <form action="@Model.Context.SearchResultsUrl" method="GET">
+      <input type="text" name="query" placeholder="@Model.Context.SearchBoxTitle" value="@Model.Context.Query" autocomplete="off" />
+      <input type="submit" value="@Html.Sitecore().DictionaryField("/Search/Header/Search Button", "Search")" />
+    </form>
+  </section>
+
+</div>

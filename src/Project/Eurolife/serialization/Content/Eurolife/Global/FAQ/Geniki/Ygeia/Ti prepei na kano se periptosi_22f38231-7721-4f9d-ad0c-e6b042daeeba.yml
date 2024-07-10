@@ -1,0 +1,25 @@
+﻿---
+ID: "22f38231-7721-4f9d-ad0c-e6b042daeeba"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Ti prepei na kano se periptosi pou xreiasto epeigousa iatriki boitheia sto exoteriko
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι πρέπει να κάνω σε περίπτωση που χρειαστώ επείγουσα ιατρική βοήθεια στο εξωτερικό;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T095103Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Nu;&alpha; &epsilon;&pi;&iota;&kappa;&omicron;&iota;&nu;&omega;&nu;ή&sigma;&epsilon;&tau;&epsilon; &mu;&epsilon; &tau;&omicron; &tau;&eta;&lambda;&epsilon;&phi;&omega;&nu;&iota;&kappa;ό &Kappa;έ&nu;&tau;&rho;&omicron; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &Pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &sigma;&tau;&omicron; 2109303800 (&epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή 1),</span>

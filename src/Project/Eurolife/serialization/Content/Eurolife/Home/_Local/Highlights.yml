@@ -1,0 +1,25 @@
+﻿---
+ID: "52bf95be-2be3-4655-a466-2e9e772348b9"
+Parent: "bd6551e4-a620-4ddc-a65f-e036ca70cec8"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: /sitecore/content/Eurolife/Home/_Local/Highlights
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T142924Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190821T074139Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "7256f519-085f-4d92-8717-470e902ad6a1"
+Parent: "ba085a83-d674-4a1f-8180-e37ed3730254"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local/highlights mikres epixeiriseis/Astiki Eythyni Ergou"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 38
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T212903Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Αστική Ευθύνη Έργου
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: &Pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &kappa;ά&lambda;&upsilon;&psi;&eta; έ&nu;&alpha;&nu;&tau;&iota; &sigma;&omega;&mu;&alpha;&tau;&iota;&kappa;ή&sigmaf; &beta;&lambda;ά&beta;&eta;&sigmaf;, &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &zeta;&omega;ή&sigmaf; ή &kappa;&alpha;&iota; &upsilon;&lambda;&iota;&kappa;ώ&nu; &zeta;&eta;&mu;&iota;ώ&nu; &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &pi;&rho;&omicron;&kappa;&lambda;&eta;&theta;&omicron;ύ&nu; &sigma;&epsilon; &tau;&rho;ί&tau;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&tau;ά &tau;&eta;&nu; &epsilon;&kappa;&tau;έ&lambda;&epsilon;&sigma;&eta; &kappa;&alpha;&tau;&alpha;&sigma;&kappa;&epsilon;&upsilon;&alpha;&sigma;&tau;&iota;&kappa;ώ&nu; &epsilon;&rho;&gamma;&alpha;&sigma;&iota;ώ&nu; &alpha;&pi;ό &tau;&eta;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &sigma;&alpha;&sigmaf;.

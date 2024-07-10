@@ -1,0 +1,29 @@
+﻿---
+ID: "6e2406b6-c461-4e1a-89b3-4d59b7eb4fc8"
+Parent: "766c59cc-6b65-465a-b40e-447bb2665d55"
+Template: "fb4a71a9-8f1c-4560-b130-cfb7bb7cbc5f"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Products List
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T155348Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T155342Z

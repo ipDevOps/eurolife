@@ -1,0 +1,39 @@
+﻿---
+ID: "7031dcc7-cb1b-4fa3-8d09-ee3137111b56"
+Parent: "a90b7a1c-e133-4570-b74d-eb3c3f00caa3"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Car/Programs Attributes/Astiki eythyni apo tin kykloforia tou asfalismenou oximatos/Astiki eythyni apo tin kykloforia tou asfalismenou oximatos yes
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T135513Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Αποζημιώνουμε τις απαιτήσεις τρίτων για σωματικές βλάβες ή υλικές ζημιές που προκλήθηκαν από την κυκλοφορία του ασφαλισμένου οχήματος, μέσα στα γεωγραφικά όρια που ισχύει η ασφάλιση.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190530T104950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Κλειστού τύπου

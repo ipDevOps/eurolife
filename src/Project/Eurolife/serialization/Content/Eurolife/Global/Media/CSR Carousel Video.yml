@@ -1,0 +1,36 @@
+﻿---
+ID: "da4a9cd6-9f2b-4ab1-a4e4-f9ed97e3063e"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "6dec0d88-0878-44d4-960b-d151edb81ae1"
+Path: /sitecore/content/Eurolife/Global/Media/CSR Carousel Video
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T113048Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20faf759-601d-41e5-b2ce-cb23be133c32"
+      Hint: MediaDescription
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T105812Z
+    - ID: "66db8f07-eeb8-4b8b-9aa1-75146826ce42"
+      Hint: MediaVideoLink
+      Value: |
+        <link text="PATMOS" linktype="external" url="https://www.youtube.com/watch?v=BH6rxqUjC0A" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "de984d10-9f28-4135-b53f-fe8b5de19c55"
+      Hint: MediaThumbnail
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{E7088082-A118-422D-86EF-19D553D3D47F}" />

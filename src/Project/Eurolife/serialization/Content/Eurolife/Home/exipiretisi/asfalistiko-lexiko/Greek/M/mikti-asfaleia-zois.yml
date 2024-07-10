@@ -1,0 +1,24 @@
+﻿---
+ID: "d01a5ec8-5444-4cf6-86a0-1dd660a478df"
+Parent: "747538c9-f9be-4630-8403-3bedd169836a"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/M/mikti-asfaleia-zois"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Μικτή Ασφάλεια Ζωής
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072610Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Συμβόλαιο που προβλέπει την πληρωμή εγγυημένου κεφαλαίου στο τέλος μιας καθορισμένης περιόδου ή σε μια καθορισμένη ηλικία ή κατά το θάνατο του ασφαλισμένου, πριν το τέλος της καθορισμένης χρονικής περιόδου.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

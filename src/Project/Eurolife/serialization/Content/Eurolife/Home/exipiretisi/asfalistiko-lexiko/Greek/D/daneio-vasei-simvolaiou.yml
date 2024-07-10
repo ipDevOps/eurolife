@@ -1,0 +1,24 @@
+﻿---
+ID: "ed454cd0-1671-4c44-b5b6-e9535aaaee82"
+Parent: "74e79fae-fff3-4e49-ae36-8f2e8086c370"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/D/daneio-vasei-simvolaiou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Δάνειο Βάσει Συμβολαίου
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T070917Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Χρήματα που δανείζει έντοκα η ασφαλιστική εταιρεία στον κάτοχο ασφαλιστηρίου συμβολαίου, έναντι ποσού ίσου με την αξία εξαγοράς εκείνη τη στιγμή.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

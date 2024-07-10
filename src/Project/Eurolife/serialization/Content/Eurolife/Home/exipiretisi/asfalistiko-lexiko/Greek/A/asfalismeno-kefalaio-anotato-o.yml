@@ -1,0 +1,25 @@
+﻿---
+ID: "6f437ba6-a1a7-481c-80aa-9e1abf295438"
+Parent: "99c43e69-bfca-4f55-a8c4-e063e9bfe513"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/A/asfalismeno-kefalaio-anotato-orio-euthinis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ασφαλισμένο Κεφάλαιο ή Ανώτατο Όριο Ευθύνης
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T205821Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: |
+        Το χρηματικό ποσό μέχρι το οποίο φτάνει η υποχρέωση της ασφαλιστικής για αποζημίωση συνολικά ή για κάθε αντικείμενο ασφάλισης ή για κάθε ασφαλιστική περίπτωση. Αναγράφεται κατά κάλυψη στον Πίνακα Καλύψεων του Ασφαλιστηρίου \ή/και στον Οδηγό Ασφάλισης.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

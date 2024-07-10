@@ -1,0 +1,29 @@
+﻿---
+ID: "c691ae48-d709-4d54-b7fc-8b0cef5ba837"
+Parent: "13bc0492-35a4-4bba-8cba-2868e80f69d6"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/zoi-igeia-atixima/_Local/omadiki asfalisi Panel/Programs/Premium_Nosokomeiako"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190910T072705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Premium Νοσοκομειακό 2
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {AB59A8FE-E515-49E1-960C-33BB2BD1D740}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {03BB2EC8-0A16-4D78-A423-FCBFC634D4DC}
+        {1825E1AF-D274-43B9-9CE6-36800421C3F7}

@@ -1,0 +1,196 @@
+﻿.dropmenu {
+  margin: 0 -12px;
+
+  @include breakpoint(540) {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    align-items: stretch;
+    justify-content: center;
+    justify-items: center;
+  }
+
+  &__panel {
+    position: relative;
+    max-height: 0;
+    padding: 0 48px;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+    order: 99;
+    flex: 100% 1;
+    border-radius: 4px;
+    margin: 0 12px;
+    z-index: 9;
+
+    .btn {
+      padding: 12px 32px;
+    }
+
+    .menu-products__personal {
+      padding: 0;
+
+      ul {
+        padding-top: 33px;
+        display: grid;
+        grid-gap: 10px;
+        text-align: center;
+        grid-template-columns: repeat(2, 1fr);
+
+        @include breakpoint(540) {
+          grid-template-columns: repeat(3, 1fr);
+        }
+
+        @include breakpoint(820) {
+          grid-template-columns: repeat(6, 1fr);
+          grid-template-rows: 1fr;
+        }
+
+        li {
+          display: flex;
+          justify-content: center;
+          flex-basis: 45%;
+
+          @include breakpoint(540) {
+            flex-basis: 30%;
+          }
+
+          @include breakpoint(820) {
+            flex-basis: 15%;
+          }
+        }
+      }
+    }
+
+    &.active {
+      max-height: 800px;
+      padding: 48px;
+      box-shadow: 0 12px 20px rgba(0,0,0, .16);
+    }
+  }
+
+  &__item {
+    position: relative;
+    padding: 24px;
+    border-radius: 4px;
+    box-shadow: 0 12px 20px rgba(0,0,0, .16);
+    border: 1px solid transparent;
+    transition: border-color 0.5s ease-in-out, box-shadow 0.5s ease-in-out;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    margin: 24px 12px 0;
+    transition: box-shadow 0.5s ease-in-out;
+
+    > a{
+        position: absolute;
+        top: 0; 
+        left: 0;
+        height: 100%;
+        width: 100%;
+        z-index: 2;
+    }
+
+    &.active {
+      box-shadow: 0 -12px 20px rgba(0,0,0, .16);
+
+      &.has-submenu::after {
+        transform: translateY(-50%) rotateX(180deg);
+
+        @include breakpoint(540) {
+          transform: translateX(-50%) translateY(-6px) rotateX(180deg);
+        }
+      }
+    }
+
+    &.has-submenu::after {
+      content: url('../icons/chevron.svg');
+      position: absolute;
+      top: calc(50% + 2px);
+      right: 24px;
+      width: 20px;
+      transform: translateY(-50%);
+      width: 20px;
+      transform-origin: 50% 50%;
+      transition: 0.5s ease-in-out transform;
+
+      @include breakpoint(540) {
+        top: unset;
+        right: unset;
+        bottom: 12px;
+        width: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    }
+
+    @include breakpoint(540) {
+      padding: 24px;
+      flex: 40% 1;
+      flex-flow: column wrap;
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+    }
+
+    &.has-submenu {
+      @include breakpoint(540) {
+        padding: 24px 64px 64px;
+      }
+    }
+
+    @include breakpoint(820) {
+      flex: 20% 1;
+      margin: 0 12px;
+    }
+
+    .icon {
+      width: 50px;
+      height: auto;
+      margin-right: 24px;
+
+      @include breakpoint(540) {
+        width: 70px;
+      }
+
+      @include breakpoint(820) {
+        margin-right: 0;
+      }
+    }
+
+    .title {
+      @include breakpoint(540) {
+        margin: 24px 0 0;
+      }
+    }
+
+    &:hover {
+      border-color: #383B38;
+    }
+  }
+
+  .c-t-c {
+    padding: 0;
+    background-color: transparent;
+    color: unset;
+
+    .btn {
+      color: $color-health;
+      border-color: $color-health;
+
+      &:hover {
+        background: $color-health;
+        color: white;
+
+        svg path {
+          fill: white;
+        }
+      }
+
+      svg path {
+        fill: $color-health;
+      }
+    }
+  }
+}

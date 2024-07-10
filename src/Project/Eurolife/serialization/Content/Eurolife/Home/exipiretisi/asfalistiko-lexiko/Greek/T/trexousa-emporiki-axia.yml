@@ -1,0 +1,24 @@
+﻿---
+ID: "714e3874-b7fb-498b-8291-31418a97aa60"
+Parent: "1662d046-1153-46a7-b472-ccb6de2035c9"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/T/trexousa-emporiki-axia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Τρέχουσα Εμπορική Αξία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T080206Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Η αξία μεταπώλησης του ασφαλισμένου οχήματος την ημέρα της ζημιάς, αλλά πριν αυτή συμβεί, ως μεταχειρισμένου (δηλαδή αφού ληφθεί υπόψη η μείωση της αξίας του λόγω φθοράς, παλαιότητας ή τυχόν ελαττωμάτων).
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

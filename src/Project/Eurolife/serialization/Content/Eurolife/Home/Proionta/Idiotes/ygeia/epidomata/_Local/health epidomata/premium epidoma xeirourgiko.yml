@@ -1,0 +1,55 @@
+﻿---
+ID: "687b01c5-0ce2-4ff0-9030-9346a9f225c5"
+Parent: "480afcfe-58b6-439f-af5b-546f0f1106f8"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/epidomata/_Local/health epidomata/premium epidoma xeirourgiko
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Premium Επίδομα Χειρουργικό
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">&Sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;&omega;&mu;&alpha;&tau;&iota;&kappa;ή &kappa;ά&lambda;&upsilon;&psi;&eta; &mu;&epsilon; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &mu;&epsilon;&tau;&rho;&eta;&tau;ώ&nu; &epsilon;&phi;ά&pi;&alpha;&xi;, &pi;&omicron;&upsilon; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&zeta;&epsilon;&iota; έ&nu;&alpha; &pi;&omicron;&sigma;ό &alpha;&nu;&epsilon;&xi;ά&rho;&tau;&eta;&tau;&alpha; &alpha;&pi;ό &tau;&alpha; έ&xi;&omicron;&delta;&alpha; &tau;&eta;&sigmaf; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf;, &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &gamma;&iota;&alpha; &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ή &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta; &sigma;&epsilon; &delta;&eta;&mu;ό&sigma;&iota;&omicron; ή &iota;&delta;&iota;&omega;&tau;&iota;&kappa;ό &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &kappa;&alpha;&iota; &tau;&omicron; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;ό</div>
+        <p class="contentgroup__title"><strong>&Kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf;</strong></p>
+        <div class="contentgroup__info">
+        </div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;">Έ&omega;&sigmaf; 60.000 &epsilon;&upsilon;&rho;ώ &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ό &epsilon;&pi;ί&delta;&omicron;&mu;&alpha;, &alpha;&nu;ά&lambda;&omicron;&gamma;&alpha; &mu;&epsilon; &tau;&eta; &beta;&alpha;&rho;ύ&tau;&eta;&tau;&alpha; &tau;&eta;&sigmaf; &chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ή&sigmaf; &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;&sigmaf;, &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&omicron;&nu; &Pi;ί&nu;&alpha;&kappa;&alpha; &Kappa;&alpha;&lambda;&upsilon;&pi;&tau;&omicron;&mu;έ&nu;&omega;&nu; &Chi;&epsilon;&iota;&rho;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ώ&nu; &Epsilon;&pi;&epsilon;&mu;&beta;ά&sigma;&epsilon;&omega;&nu; </span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>

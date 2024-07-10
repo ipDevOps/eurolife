@@ -1,0 +1,14 @@
+﻿---
+ID: "4f6ed6d9-e55c-4d02-b1e7-9eef39ef7353"
+Parent: "6d34a11b-5b75-46bc-8d04-98f2e192a5b1"
+Template: "6d34a11b-5b75-46bc-8d04-98f2e192a5b1"
+Path: /sitecore/templates/Project/Common/Parameters/ParametersTemplate_HasContainerWithDynamicPlaceholder/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190520T092321Z

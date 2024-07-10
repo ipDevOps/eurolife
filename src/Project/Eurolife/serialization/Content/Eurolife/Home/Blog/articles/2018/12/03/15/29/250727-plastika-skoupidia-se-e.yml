@@ -1,0 +1,43 @@
+﻿---
+ID: "cf2e63fd-ef64-4e17-88d6-776f90715801"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/250727-plastika-skoupidia-se-erga-texnhs-gia-th-thalassa"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152940Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Πλαστικά σκουπίδια μετατρέπονται σε έργα τέχνης για την προστασία της θάλασσας
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p class="1" style="text-align: justify;">Ο Πάνος Σακκάς και η Φωτεινή Σκεδάκη, εδώ και έναν χρόνο έχουν αξιοποιήσει τις γνώσεις τους από την αρχιτεκτονική και το 3D Printing για να μετατρέψουν τα δίχτυα που βρίσκονται στον βυθό της θάλασσας σε έργα τέχνης. Αυτή την πρωτοβουλία,&nbsp; το έργο τέχνης και έρευνας για την ακρίβεια, το έχουν ονομάσει «Second Nature», καθώς «δίνουν ζωή» σε πλαστικά της θάλασσας. Σκοπός είναι όχι μόνο η κατασκευή έργων τέχνης, αλλά και ευαισθητοποίηση της κοινωνίας σχετικά με την ανακύκλωση και την προστασία του περιβάλλοντος.&nbsp;&nbsp; </p><p class="1" style="text-align: justify;">Ξεκινώντας από τη θάλασσα της Σαλαμίνας και το Γαλαξίδι συγκέντρωσαν δίχτυα μαζί με τη βοήθεια δυτών, και αφού ξεχώρισαν τα διαφορετικά είδη, έλιωσαν το πλαστικό και το χρησιμοποίησαν για να κατασκευάσουν μία σειρά από διακοσμητικά κοχύλια, τα οποία αποτελούν ένα σύμβολο της θάλασσας και της καθαρότητας. </p><p class="1" style="text-align: justify;">&nbsp;<img src="~/media/F106A449329C41599C0C5770B8464226.jpg" alt="koxilia erevna" width="1200" height="764" /></p><p class="1" style="text-align: justify;"></p><p class="1" style="text-align: justify;"><span style="text-decoration: underline;"><a href="https://www.culturenow.gr/second-nature-ena-kainotomo-programma-ereynas-kai-sxediasmoy/">Πηγή φωτογραφίας</a></span></p><strong>Μελλοντικός στόχος της πρωτοβουλίας αυτής είναι να δείξουν ότι υπάρχουν νέες λύσεις για την ανακύκλωση των πλαστικών</strong> με τη χρήση 3D εκτυπωτών. Όλα τα πλαστικά, αν γίνει σωστός διαχωρισμός, μπορούν να λιώσουν και να χρησιμοποιηθούν ως πρώτη ύλη. Με λίγα λόγια, <strong>η πρωτοβουλία «Second Nature» ανοίγει τον δρόμο σε μία νέα οικονομία, αλλά και σε ένα καθαρό οικοσύστημα από τα πλαστικά. </strong><p class="1" style="text-align: justify;">Το <a href="http://www.skai.gr/news/thalassa/article/374133/pos-ta-plastika-skoupidia-boroun-na-metatrapoun-se-erga-tehnis/">συγκεκριμένο έργο παρουσιάστηκε</a> στα πλαίσια της κοινής εκστρατείας ΣΚΑΙ, WWF και Greenpeace <a href="http://www.as-milisoume.gr/el/Articles/koinh-ekstrateia-SKAI-WWF-kai-Greenpeace-gia-tha-thalassa-mas">«η θάλασσά μας»</a>, όπου οι δύο αρχιτέκτονες μίλησαν για την έρευνα και τους στόχους τους. Παράλληλα, στο Ίδρυμα Αικατερίνης Λασκαρίδη και στο αρχιτεκτονικό γραφείο The New Raw παρουσιάστηκε και η έκθεση «Second Nature», όπου οι επισκέπτες είχαν την ευκαιρία να παρακολουθήσουν το συμπόσιο που διοργανώνεται εκεί, αλλά και να συμμετέχουν σε διάφορες παράλληλες δράσεις, οι οποίες αφορούσαν όλες τις ηλικίες. </p><p class="1" style="text-align: justify;">Οι άνθρωποι πίσω από το <a href="http://www.secondnature.gr">project «Second Nature»</a> οραματίζονται και κάνουν σχέδια για καθαρές θάλασσες, μέσα από την τέχνη και τις νέες τεχνολογίες. Αυτό, ελπίζουμε να αποτελέσει έμπνευση για όλους!</p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">Μπορεί τα εγκαταλελειμμένα δίχτυα των ψαράδων να αποτελούν ένα από τα πιο θανατηφόρα απορρίμματα για τη θαλάσσια ζωή, ωστόσο 2 αρχιτέκτονες που ζουν και εργάζονται στην Ολλανδία κατάφεραν να μετατρέψουν αυτά τα δίχτυα σε έργα τέχνης. </p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{971FB3D8-1984-40BE-A1D2-8EBC6CC72A0C}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Πλαστικά σκουπίδια μετατρέπονται σε έργα τέχνης για την προστασία της θάλασσας
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180725T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

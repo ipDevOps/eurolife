@@ -1,0 +1,24 @@
+﻿---
+ID: "0eab2642-3a2b-4d4a-b84d-e77d8f2198cc"
+Parent: "e646acd3-6b07-44d7-b073-9186a7ee34f9"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/I/iatros-xeirourgos"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ιατρός ή Χειρουργός
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072226Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Κάθε φυσικό πρόσωπο, το οποίο ασκεί νόμιμα το επάγγελμα του Ιατρού ή του Χειρουργού, με εξαίρεση τον Ασφαλισμένο, τον/την σύζυγο και τους συγγενείς του, πρώτου και δευτέρου βαθμού
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

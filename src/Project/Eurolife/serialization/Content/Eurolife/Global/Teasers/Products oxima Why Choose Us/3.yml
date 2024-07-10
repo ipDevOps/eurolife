@@ -1,0 +1,42 @@
+﻿---
+ID: "a864724f-967d-4ac7-86bb-a9556ecabac1"
+Parent: "1fa9a0fc-32d8-499e-aae5-843b07e01e04"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/Products oxima Why Choose Us/3
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: drgdrgrd
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: drgrdgdrdrg
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190808T150151Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-ae6db990-7fff-f133-4703-5fd005410b21" style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&epsilon; 4 &alpha;&pi;&lambda;ά &beta;ή&mu;&alpha;&tau;&alpha; &omicron;&lambda;&omicron;&kappa;&lambda;&eta;&rho;ώ&nu;&epsilon;&tau;&epsilon; &tau;&eta;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&alpha; </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf;</span><span style="background-color: transparent; text-decoration: none; color: #000000;">. &Epsilon;&pi;&iota;&tau;&alpha;&chi;ύ&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;</span><span style="background-color: transparent; text-decoration: none; color: #000000;"> &kappa;&alpha;&iota; &mu;&epsilon;&iota;ώ&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&iota;&sigmaf; &delta;&iota;&kappa;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &delta;&iota;&epsilon;&nu;έ&xi;&epsilon;&iota;&sigmaf; &kappa;&alpha;&theta;ώ&sigmaf; &epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &mu;έ&lambda;&eta; &tau;&omicron;&upsilon; &Phi;&iota;&lambda;&iota;&kappa;&omicron;ύ &Delta;&iota;&alpha;&kappa;&alpha;&nu;&omicron;&nu;&iota;&sigma;&mu;&omicron;ύ (&Sigma;ύ&sigma;&tau;&eta;&mu;&alpha; Ά&mu;&epsilon;&sigma;&eta;&sigmaf; &Pi;&lambda;&eta;&rho;&omega;&mu;ή&sigmaf;)</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απλοποιούμε τις καταστάσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

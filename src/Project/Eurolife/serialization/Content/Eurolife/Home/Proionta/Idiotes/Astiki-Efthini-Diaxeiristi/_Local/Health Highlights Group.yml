@@ -1,0 +1,45 @@
+﻿---
+ID: "3534f581-47d5-42e0-a19b-331961132ad3"
+Parent: "f179c4f1-6279-4def-bdca-c151d9a002bc"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/Astiki-Efthini-Diaxeiristi/_Local/Health Highlights Group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {46647B4C-7764-4434-9A21-8D8504FE1FC2}
+        {135BED9D-FCBD-479D-ACD1-96FCE2B32449}
+        {1D55BBFD-364C-4940-A7F7-10F7204AE645}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T093532Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Εκτελέστε τα καθήκοντα του διαχειριστή ανενόχλητα
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: |
+        Διασφαλίστε την ομαλή καθημερινότητα στην πολυκατοικίας σας, προστατεύοντας το ρόλο σας ως διαχειριστή.
+        
+        
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190808T142201Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

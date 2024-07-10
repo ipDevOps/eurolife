@@ -1,0 +1,22 @@
+﻿---
+ID: "77bbb7eb-686d-4cd2-86ca-d7bcd3fc738e"
+Parent: "b4bc95fd-b1fe-4f68-b045-148621663de9"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Identity/HeaderCustomerCare
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T145147Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T145152Z
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20191004T145152Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+Parent: "4cb344d1-bdee-41e4-89d3-11e44bc0a789"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Metadata/_PageMetadata/Metadata/BrowserTitle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190516T142350Z

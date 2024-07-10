@@ -1,0 +1,54 @@
+﻿---
+ID: "a7444259-5f8c-46e5-a9ff-07935471aa12"
+Parent: "6058db6b-d86f-44a4-b3bf-4629b9ae196d"
+Template: "47707496-be60-48c4-9a9a-2bb9de6b56d2"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/calculation-tool/Products List/ypao"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22da33a1-e5ac-4e48-aa4e-c82d41d33a7d"
+      Hint: Summary
+      Value: |
+        <ul>
+            <li>This is some content to show as a summary for to product selection list</li>
+            <li>This is some other content to show as a summary for to product selection list</li>
+        </ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T110040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6643de71-10b8-4aa6-86f3-b3d4a63288e4"
+      Hint: Title
+      Value: YPAO
+    - ID: "759e6466-0c1b-4b96-b465-6e0c24a2c564"
+      Hint: Hospitalization Position
+      Value: Δίκλινο
+    - ID: "7cf02413-6700-4f33-8180-4d511bd8da30"
+      Hint: Code
+      Value: 30250
+    - ID: "9bcded88-3317-4058-95b4-83301dd83985"
+      Hint: Exemption Amount
+      Value: "1500$ - 750$"
+    - ID: "eec5187d-e5c9-4e44-ad9d-9feea629858b"
+      Hint: Full Description
+      Value: |
+        <h3 class="h4">700.000&euro;</h3>
+        <p>&alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &gamma;&iota;&alpha; &tau;&omicron; &kappa;&alpha;&theta;έ&nu;&alpha; &mu;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&alpha;&sigmaf; &sigma;&alpha;&sigmaf;</p>
+        <h3 class="h4">100%</h3>
+        <p>&alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &gamma;&iota;&alpha; &tau;&omicron; &kappa;&alpha;&theta;έ&nu;&alpha; &mu;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&alpha;&sigmaf; &sigma;&alpha;&sigmaf;</p>
+        <div class="m-t-24">
+        <a class="btn btn--ghost-rev btn--default">&Alpha;&Nu;&Alpha;&Lambda;&Upsilon;&Tau;&Iota;&Kappa;&Alpha;</a>
+        </div>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T105827Z

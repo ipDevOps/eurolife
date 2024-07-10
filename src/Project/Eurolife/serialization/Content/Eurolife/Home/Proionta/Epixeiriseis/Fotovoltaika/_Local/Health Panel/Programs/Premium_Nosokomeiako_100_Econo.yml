@@ -1,0 +1,56 @@
+﻿---
+ID: "0f596000-9574-4bf2-a32b-b185225e8eee"
+Parent: "e3da797d-a6ba-4a33-aaab-6e3fb91b4a8d"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Fotovoltaika/_Local/Health Panel/Programs/Premium_Nosokomeiako_100_Economy
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Premium Νοσοκομειακό 100% Economy
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {03BB2EC8-0A16-4D78-A423-FCBFC634D4DC}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {5DA9B57B-EB1B-4A28-B206-8321671F1316}
+        {BBA7C680-A004-4123-8E1B-788C8455C849}
+        {10B48B7D-AE80-4A45-A2FF-BC76A6FE8AA8}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {1712590B-7B4E-481C-A888-D99A89E97415}
+        {3213CAB9-0C9A-40FC-93C1-45A7084948D8}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {9A0EF1DE-70F2-45A9-ACF8-3C62A9EC915C}

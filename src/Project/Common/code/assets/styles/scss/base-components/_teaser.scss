@@ -1,0 +1,99 @@
+/*------------------------------------*\
+  #TEASER
+\*------------------------------------*/
+.solo-teaser{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: content-box;
+  justify-content: space-between;
+  background-color: $color-life-insurance-soft;
+  overflow: hidden;
+
+  .btn:not(.btn--dark){
+    color:$color-life-insurance;
+  }
+
+  &:after{
+    background-color: $color-life-insurance-soft;
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100vw;
+    left: -100%;
+    z-index: -1;
+  }
+}
+.solo-teasers__detail-wrap {
+  align-self: center;
+  flex-basis: 100%;
+  /*margin-bottom:64px;*/
+  @include breakpoint(1140) {
+    flex-basis: 50%;
+  }
+}
+.solo-teaser__image {
+  flex-basis: 100%;
+
+  @include breakpoint(820) {
+    height: 640px;
+    overflow: hidden;
+  }
+
+  @include breakpoint(1140) {
+    flex-basis: 50%;
+    height: 100%;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+
+    @include breakpoint(820) {
+      object-fit: cover;
+      height: 640px;
+      width: auto;
+      max-width: none;
+    }
+  }
+}
+
+.solo-teaser__contents{
+  padding-left: 20px;
+  padding-right: 20px;
+  @include breakpoint(1140) {
+    padding-right:70px;
+    padding-left: calc((100vw - 1100px) / 2);
+  }
+}
+
+.solo-teaser__title{
+  color: $color-life-insurance;
+  font-size: 28px;
+  margin-bottom: 0;
+}
+
+.solo-teaser__text{
+  margin-bottom:48px;
+  font-weight: 300;
+}
+
+.solo-teaser{
+  li{
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 4px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    &:before{
+      content: '';
+      height: 2px;
+      width: 13px;
+      background-color: #ef3340;
+      position: absolute;
+      left: 0;
+      top: 11px;
+    }
+  }
+}

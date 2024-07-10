@@ -1,0 +1,39 @@
+﻿---
+ID: "3f4af514-0a80-4219-aba6-a7850925ddf5"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/Tips-synthrhshs-gia-to-eksoxiko-sas-spiti"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152949Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Tips συντήρησης για να προετοιμάσετε το εξοχικό σας σπίτι
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p>Μπορεί η άδεια να αργεί όμως όσοι τυχεροί έχουν προνοήσει και έχουν ένα εξοχικό σπίτι κοντά στον τόπο διαμονής τους μπορούν να το απολαμβάνουν τα Σαββατοκύριακα. Το μόνο που σας κρατάει μακριά από αυτό το εξοχικό είναι οι εργασίες συντήρησης που πρέπει να γίνουν προκειμένου να μπορείτε να το επισκέπτεστε τακτικά. </p><p>Πριν ξεκινήσετε, βεβαιωθείτε ότι το <a href="https://www.eurolife.gr/el/Products/Home">ασφαλιστικό συμβόλαιο</a> του εξοχικού σπιτιού βρίσκεται σε ισχύ, ώστε τίποτα να μην μπορεί να μπει εμπόδιο ανάμεσα σε εσάς και τις καλοκαιρινές σας διακοπές! </p><p></p><p><iframe data-rid-id="141673" width="600" height="600" frameborder="0" src="https://www.riddle.com/showcase/152445/list" title="Tips συντήρησης για να προετοιμάσετε το εξοχικό σας σπίτι"></iframe></p><p>Σε κάθε περίπτωση, εκτός από την ασφάλεια, υπάρχουν και άλλες <a href="http://www.as-milisoume.gr/el/Articles/prostatepste-to-eksoxiko-sas">οικονομικές λύσεις που θα σας βοηθήσουν να προστατέψετε το εξοχικό σας σπίτι.</a></p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{46DE8683-3CC0-4A22-90CA-7D6771D3ED43}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Tips συντήρησης για να προετοιμάσετε το εξοχικό σας σπίτι
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180620T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{DB3B9DAC-197A-458D-8625-B6B9A7E808EB}"

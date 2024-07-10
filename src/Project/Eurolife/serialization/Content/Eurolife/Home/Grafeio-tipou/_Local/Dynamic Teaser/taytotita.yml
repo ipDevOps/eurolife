@@ -1,0 +1,37 @@
+﻿---
+ID: "e564c157-76b2-43d9-9676-21faf3b2b145"
+Parent: "8de6b0e3-9c74-4a04-b77d-879c73c43540"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/Dynamic Teaser/taytotita"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <b style="font-weight:normal;" id="docs-internal-guid-f5a593b7-7fff-fcf5-9063-c31049fe5209"><span style="font-size:10.5pt;font-family:Roboto,sans-serif;color:#3c4043;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Διαβάστε περισσότερα για την εταιρική μας ταυτότητα</span></b>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Η ταυτότητά μας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T080224Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5F5B177B-1E60-4042-8A37-1CAC43A40E5D}" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{F3906159-2E09-4A52-BDF4-BDB776234C08}" />

@@ -1,0 +1,150 @@
+/*eurolife print css*/
+
+/*header*/
+.nav-main__list,
+.nav-product__trigger,
+.access,
+.btn--white-header,
+header{
+  display: none;
+}
+
+
+.newsletter-sticky{
+  display: none;
+}
+
+.hero img{
+  object-fit: none;
+}
+
+
+/*products*/
+#fix-1, #fix-2,
+.zigzag{
+  display: none;
+}
+
+
+.grid-table-cell:before {
+  content: attr(data-title);
+  display: block;
+  margin-bottom: 4px;
+  color: #1a1a1a;
+  font-size: 14px;
+}
+
+.program-attributes {
+  display: none;
+}
+
+.program-grid{
+display: block;
+}
+
+
+.accordion__content{
+  max-height: unset;
+}
+
+.coverage__area{
+ max-height: unset;
+}
+
+.coverage__expander,
+.btn,
+.accordion__state,
+.program-controls__more,
+.tool,
+.filter{
+  display:none;
+}
+
+.triplette{
+  display: block;
+}
+
+.program {
+  max-width: 200px;
+}
+
+.program-expander{
+  max-height: unset;
+}
+
+.grid-table{
+  padding:0;
+  grid-template-columns: repeat(8, 200px);
+}
+
+.triplette-item{
+  padding: 20px 32px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+
+
+/*about*/
+.leadership{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.leadership__member{
+  flex-basis: 24%;
+  margin-right: 2%;
+}
+
+.leadership-slider--image .slick-slide img{
+  filter: none;
+}
+  
+.timeline li.year-item .timeline__date,
+.timeline li.year-item .timeline__events{
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.list--partners__col-1:before{
+ display: none;
+}
+
+
+.list--partners__col-1{
+ text-align: left;
+}
+
+.siblings-wrap{
+  display: none;
+}
+
+.hero-contents h1{
+ color: #000;
+}
+
+.hero picture{
+  opacity: 0;
+}
+
+
+
+.people__item{
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+.bread-overlays {
+  display: none;
+}
+
+  /*footer*/
+.footer__list,
+.footer__legal
+{
+  display: none;
+}
+
+.footer__list:nth-child(2){
+  display: block;
+}

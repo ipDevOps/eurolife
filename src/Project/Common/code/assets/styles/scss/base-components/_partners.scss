@@ -1,0 +1,86 @@
+/*------------------------------------*\
+  #PARTNERS
+\*------------------------------------*/
+
+.list--partners__item {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 28px 12px 34px 8px;
+
+  @include breakpoint(820) {
+    padding: 18px 24px 24px 16px;
+  }
+
+  border-top: 1px solid rgba(216, 216, 216, 0.5);
+}
+
+.list--partners__name{
+  font-size: 18px;
+  font-weight: 500;
+}
+.list--partners__address {
+  font-size: 14px;
+  color: $color-black-faded;
+  padding-left: 75px;
+
+  @include breakpoint(820){
+    padding-left: 0;
+  }
+}
+
+.list--partners__col-1 {
+  flex-basis: 55%;
+
+  @include breakpoint-rev(820) {
+    flex-basis: 100%;
+    margin-bottom: 24px;
+  }
+
+  &:before {
+    content: '';
+    float: left;
+    margin-right: 24px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-image: url(../images/partner-icon.svg);
+    background-color: $pale-salmon;
+  }
+}
+
+.list--partners__col-2 {
+  flex-basis: 35%;
+  font-size: 14px;
+
+  @include breakpoint(820) {
+    flex-basis: 15%;
+    margin-left: auto;
+  }
+
+  margin-right: 15px;
+}
+
+.list--partners__col-3 {
+  flex-basis: 60%;
+  font-size: 14px;
+
+  @include breakpoint(820) {
+    flex-basis: 25%;
+    font-size: 16px;
+  }
+}
+
+.selected-content{
+  opacity: 0;
+  overflow: hidden;
+  transition: all 500ms ease;
+  max-height: 0;
+  padding:0;
+}
+.selected-content--visible{
+  opacity: 1;
+  max-height: 500vh;
+}

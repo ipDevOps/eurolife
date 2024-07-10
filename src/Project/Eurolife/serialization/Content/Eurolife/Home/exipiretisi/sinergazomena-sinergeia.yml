@@ -1,0 +1,92 @@
+﻿---
+ID: "827cc9f0-7875-4f82-9386-300dba5bea5f"
+Parent: "9f486afa-7f59-4d25-9456-3f88ecfee18e"
+Template: "cd25cca7-747a-493a-8bc4-b1f44778283c"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FF420249-13FD-46FF-B285-3EF8A125E968}"
+              s:ds=""
+              s:par="Background" />
+            <r
+              uid="{C06279F6-5D16-48D0-A037-08B342451BA0}"
+              p:after="r[@uid='{FF420249-13FD-46FF-B285-3EF8A125E968}']"
+              s:ds="{16479D57-6CC6-4382-BC51-F7934BF2ABA0}"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="page-layout" />
+            <r
+              uid="{4AE99A1B-6728-41F2-8826-A80AFC112AFF}"
+              p:after="r[@uid='{6BAA0C24-D58B-46CA-84DD-B8603EC2411B}']"
+              s:ds="{16479D57-6CC6-4382-BC51-F7934BF2ABA0}"
+              s:id="{32F9A214-369B-44EC-B30F-09BBA8BA8058}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{FC515B31-6D97-431D-8EDE-E43C9950A390}"
+              s:ds="{827CC9F0-7875-4F82-9386-300DBA5BEA5F}"
+              s:par="" />
+          </d>
+        </r>
+    - ID: "0ce01372-9068-4424-8ec1-81005fbcfe3b"
+      Hint: SeoFollowLinks
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T142654Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Συνεργαζόμενα Συνεργεία
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Συνεργαζόμενα Συνεργεία
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: 
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Συνεργαζόμενα Συνεργεία
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T112603Z

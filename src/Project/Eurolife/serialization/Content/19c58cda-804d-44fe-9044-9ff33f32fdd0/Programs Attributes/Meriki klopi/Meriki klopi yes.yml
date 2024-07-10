@@ -1,0 +1,25 @@
+﻿---
+ID: "d7c737b2-2f14-4861-a398-27b61637e02f"
+Parent: "f979aed1-2b3a-408a-bc3d-9673a7d00817"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Motosykletes - Motopodilata/Programs Attributes/Meriki klopi/Meriki klopi yes"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T141133Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Αποζημιώνουμε τον ιδιοκτήτη του ασφαλισμένου οχήματος για την αφαίρεση ενσωματωμένων σταθερών τμημάτων του εξαιτίας κλοπής ή ληστείας, εάν κρίνονται απαραίτητα για τη λειτουργία ή/και κυκλοφορία του, μέχρι του ποσού των €1.200, με απαλλαγή €100 και για ζημιές που θα προκαλέσει ο κλέφτης σε τμήματα του  ασφαλισμένου οχήματος που τελικά δεν αφαιρέθηκαν.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1

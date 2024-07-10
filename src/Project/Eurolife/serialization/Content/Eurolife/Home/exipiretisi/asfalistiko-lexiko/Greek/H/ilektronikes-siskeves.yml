@@ -1,0 +1,24 @@
+﻿---
+ID: "802da302-2f5e-45a2-86dc-3466293f1952"
+Parent: "6d2e7614-2d35-4b47-9f90-7984a6cce707"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/H/ilektronikes-siskeves"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ηλεκτρονικές Συσκευές
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072057Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Οποιαδήποτε συσκευή αναπαραγωγής ή/και εγγραφής ή/και αντιγραφής ήχου ή/και εικόνας, προσωπικοί ηλεκτρονικοί υπολογιστές και περιφερειακά τους που κατασκευάστηκαν όχι νωρίτερα από 3 χρόνια πριν την ημερομηνία έναρξης της ασφάλισης.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

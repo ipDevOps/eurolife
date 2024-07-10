@@ -1,0 +1,30 @@
+﻿---
+ID: "a8a44fb7-60df-4731-9e91-88400646f660"
+Parent: "cb46fc83-8b2f-49a6-b9b9-4639b4407191"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/_Local/Diadikasia-apozimiosis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        Αναλυτικά τα βήματα που ακολουθούνται σε περίπτωση που
+        κάνετε αίτηση για αποζημίωση για την υγεία, το όχημα και το σπίτι σας
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Πώς λειτουργεί η διαδικασία αποζημίωσης
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190724T084421Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link linktype="internal" text="ΔΕΙΤΕ ΤΑ BHMATA" title="ΔΕΙΤΕ ΤΑ BHMATA" querystring="" target="" id="{AD884652-5702-425F-A316-48FBCFA23FED}" />

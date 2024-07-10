@@ -1,0 +1,288 @@
+﻿---
+ID: "a5f4940a-1774-4a2d-b5c4-07c728cdf01a"
+Parent: "f2be096d-911f-4409-8a98-9ee16cb8b283"
+Template: "5b62e4d9-7aed-47c0-aad1-ceb525263407"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{860100C1-8993-485C-A1AE-7F298DDF4717}"
+              p:before="*"
+              s:id="{0EDE950C-1012-4AAE-9B9F-79D1F3115D59}"
+              s:ph="page-layout" />
+            <r
+              uid="{03904853-B083-4CFF-8626-59F895531272}"
+              p:after="r[@uid='{860100C1-8993-485C-A1AE-7F298DDF4717}']"
+              s:ds="{515C5463-FA37-48B8-9AF9-BFBE4A9C1A6C}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment&amp;Background&amp;ContainerIsNotFullWidth&amp;FontColor=%7B84C9D386-DCAC-4792-816F-BE3A92FC6203%7D"
+              s:ph="/page-layout/teaser-placeholder-3-{198E03EE-214E-49A9-9912-05E882C8D412}-0" />
+            <r
+              uid="{4C607AAC-3FEA-4089-9FBC-16EDA9E563E6}"
+              p:after="r[@uid='{03904853-B083-4CFF-8626-59F895531272}']"
+              s:ds="{0B43B7D3-1981-4E23-962D-7BA84F44D839}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment&amp;Background&amp;ContainerIsNotFullWidth&amp;FontColor=%7B5531539B-B69C-4389-BB59-9AB4F431474A%7D"
+              s:ph="/page-layout/teaser-placeholder-2-{198E03EE-214E-49A9-9912-05E882C8D412}-0" />
+            <r
+              uid="{04A26A11-170C-4F65-A0C0-8FFBD967932F}"
+              p:after="r[@uid='{4C607AAC-3FEA-4089-9FBC-16EDA9E563E6}']"
+              s:ds="{17930365-41F1-4AC3-B142-D91EAF364000}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment=%7B90C1EE80-932F-4C5F-9BAD-BCD954F6991D%7D&amp;Background&amp;ContainerIsNotFullWidth&amp;FontColor=%7B1C81D96D-FFF9-4983-BB2F-B1E185B6E5AC%7D"
+              s:ph="/page-layout/teaser-placeholder-1-{198E03EE-214E-49A9-9912-05E882C8D412}-0" />
+            <r
+              uid="{B2A66F0F-8943-4145-BEEF-DBED041EEBDF}"
+              p:after="r[@uid='{04A26A11-170C-4F65-A0C0-8FFBD967932F}']"
+              s:ds="{515C5463-FA37-48B8-9AF9-BFBE4A9C1A6C}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Alignment&amp;Background=%7B3ABEF2ED-9AC2-40E8-83C3-5F94B5604F31%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-3-{EF162C50-9621-4471-90BF-FF650ACB40AA}-0" />
+            <r
+              uid="{46340518-7B67-4A1E-9555-B9AAD792A57B}"
+              p:after="r[@uid='{B2A66F0F-8943-4145-BEEF-DBED041EEBDF}']"
+              s:ds="{0B43B7D3-1981-4E23-962D-7BA84F44D839}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Alignment&amp;Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-2-{EF162C50-9621-4471-90BF-FF650ACB40AA}-0" />
+            <r
+              uid="{331C9ABF-B689-4918-8139-5C90D7A1AD88}"
+              p:after="r[@uid='{46340518-7B67-4A1E-9555-B9AAD792A57B}']"
+              s:ds="{17930365-41F1-4AC3-B142-D91EAF364000}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Alignment&amp;Background=%7B6ADEB5B7-13E8-45FE-A2B3-75C4910FA09F%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-1-{EF162C50-9621-4471-90BF-FF650ACB40AA}-0" />
+            <r
+              uid="{A99977A1-68EB-4317-B0EC-C1651B2EC756}"
+              p:after="r[@uid='{331C9ABF-B689-4918-8139-5C90D7A1AD88}']"
+              s:ds="{515C5463-FA37-48B8-9AF9-BFBE4A9C1A6C}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-3-{93FF38E8-3769-4B6E-BCDE-6656CC8CEAE1}-0" />
+            <r
+              uid="{47B8BA01-8FBC-4A95-9A98-50CD3609DF18}"
+              p:after="r[@uid='{A99977A1-68EB-4317-B0EC-C1651B2EC756}']"
+              s:ds="{0B43B7D3-1981-4E23-962D-7BA84F44D839}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-2-{93FF38E8-3769-4B6E-BCDE-6656CC8CEAE1}-0" />
+            <r
+              uid="{F7DD35D5-A1B5-45F3-B1D9-0D4F525DD0F7}"
+              p:after="r[@uid='{47B8BA01-8FBC-4A95-9A98-50CD3609DF18}']"
+              s:ds="{17930365-41F1-4AC3-B142-D91EAF364000}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{93FF38E8-3769-4B6E-BCDE-6656CC8CEAE1}-0" />
+            <r
+              uid="{035DB841-B7D3-4FA8-B15F-5D55F3D618D8}"
+              p:after="r[@uid='{F7DD35D5-A1B5-45F3-B1D9-0D4F525DD0F7}']"
+              s:ds="{17930365-41F1-4AC3-B142-D91EAF364000}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment=%7B90C1EE80-932F-4C5F-9BAD-BCD954F6991D%7D&amp;Background&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-1-{1CC22588-F223-45DC-BBA7-561F11675FFA}-0" />
+            <r
+              uid="{87235964-4703-4C6F-8CD8-E3B4ED6FA48D}">
+              <p:d />
+            </r>
+            <r
+              uid="{198E03EE-214E-49A9-9912-05E882C8D412}"
+              p:after="r[@uid='{9015BC53-2AE3-455A-A1DD-879A04CC5E07}']"
+              s:ds="{52FAEAE8-A7A0-44BE-BA58-88D10642CD2F}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{402F570A-6440-4F0D-8C2E-094BACABE70F}"
+              p:after="r[@uid='{198E03EE-214E-49A9-9912-05E882C8D412}']"
+              s:id="{3BA27AC4-C795-40E8-A4C3-34C7DEEDBB2A}"
+              s:ph="page-layout" />
+            <r
+              uid="{D2926F17-C0DE-4334-BF24-91C37CC66178}"
+              p:after="r[@uid='{402F570A-6440-4F0D-8C2E-094BACABE70F}']"
+              s:ds="{9E84C2AD-83B0-430D-B962-78F4E33F2017}"
+              s:id="{0374A95D-C053-4EC9-BC53-DE0E5725AFAB}"
+              s:ph="page-layout" />
+            <r
+              uid="{C782D467-A8E2-44EB-937A-84B283C0E106}"
+              p:after="r[@uid='{D2926F17-C0DE-4334-BF24-91C37CC66178}']"
+              s:ds="{A5F4940A-1774-4A2D-B5C4-07C728CDF01A}"
+              s:id="{CFFFE422-9F95-454F-8C3E-9312C505222A}"
+              s:ph="page-layout" />
+            <r
+              uid="{AE3F09D8-7CE5-4CA6-8FD0-F2F542775277}"
+              p:after="r[@uid='{C782D467-A8E2-44EB-937A-84B283C0E106}']"
+              s:ds="{A5F4940A-1774-4A2D-B5C4-07C728CDF01A}"
+              s:id="{CFFFE422-9F95-454F-8C3E-9312C505222A}"
+              s:par=""
+              s:ph="Πρόσφατες δραστηριότητες Εταιρικής Υπευθυνότητας" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T111149Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: +πράττουμε
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: +πράττουμε
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{3347C39B-8D3B-4267-BDE2-ADB4912CFD09}" />
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΟ ΒΙΝΤΕΟ" linktype="external" url="https://youtu.be/k4JBV2zaohg" anchor="" title="ΔΕΙΤΕ ΤΟ ΒΙΝΤΕΟ" target="" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        Ό&lambda;&alpha; &tau;&alpha; &chi;&rho;ό&nu;&iota;&alpha; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, <strong>&sigma;&tau;&epsilon;&kappa;ό&mu;&alpha;&sigma;&tau;&epsilon; &alpha;&xi;&iota;ό&pi;&iota;&sigma;&tau;&alpha;</strong> &delta;ί&pi;&lambda;&alpha; &sigma;&tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf;, &pi;&rho;&omicron;&sigma;&tau;&alpha;&tau;&epsilon;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; ί&delta;&iota;&omicron;&upsilon;&sigmaf;, &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; ό&sigma;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; ό&sigma;&alpha; &tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&rho;&iota;&beta;ά&lambda;&lambda;&omicron;&upsilon;&nu;. &Alpha;&upsilon;&tau;ά &pi;&omicron;&upsilon; έ&chi;&tau;&iota;&sigma;&alpha;&nu; &kappa;&alpha;&iota; &alpha;&upsilon;&tau;ά &pi;&omicron;&upsilon; &theta;έ&lambda;&omicron;&upsilon;&nu; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&nu; &sigma;&tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf;, &sigma;&tau;&eta;&nu; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;ή &tau;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&omicron;&nu; &epsilon;&upsilon;&rho;ύ&tau;&epsilon;&rho;&omicron; &kappa;ύ&kappa;&lambda;&omicron; &tau;&omicron;&upsilon;&sigmaf;. &Eta; &sigma;&chi;έ&sigma;&eta; &mu;&alpha;&sigmaf;, &mu;&alpha;&zeta;ί &tau;&omicron;&upsilon;&sigmaf; &epsilon;ί&nu;&alpha;&iota; <strong>&alpha;&mu;&phi;ί&delta;&rho;&omicron;&mu;&eta;. &Sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon;</strong>. &nbsp;
+        <p>&Alpha;&nu;&alpha;&gamma;&nu;&omega;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; &alpha;&xi;ί&alpha; &alpha;&upsilon;&tau;ή&sigmaf; &tau;&eta;&sigmaf; &sigma;&chi;έ&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &epsilon;&xi;&epsilon;&lambda;ί&sigma;&sigma;&omicron;&nu;&tau;ά&sigmaf; &tau;&eta;&nu;, &pi;&eta;&gamma;&alpha;ί&nu;&omicron;&upsilon;&mu;&epsilon; έ&nu;&alpha; &beta;ή&mu;&alpha; &pi;&iota;&omicron; &mu;&pi;&rho;&omicron;&sigma;&tau;ά &alpha;&pi;ό &tau;&eta;&nu; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;. &Theta;έ&lambda;&omicron;&upsilon;&mu;&epsilon; <strong>&eta; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha; &mu;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &nu;&alpha; έ&chi;&epsilon;&iota; &alpha;&kappa;ό&mu;&alpha; &pi;&iota;&omicron; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό &sigma;&kappa;&omicron;&pi;ό</strong>. </p>
+        <p><strong>&Mu;&epsilon; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&iota;&kappa;ή &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&omicron;&chi;ή</strong>. </p>
+        <p>&Gamma;&iota;&rsquo; &alpha;&upsilon;&tau;ό &kappa;&alpha;&iota; έ&chi;&omicron;&upsilon;&mu;&epsilon; &epsilon;&pi;&epsilon;&nu;&delta;ύ&sigma;&epsilon;&iota; &sigma;&tau;&omicron; <strong>+&pi;&rho;ά&tau;&tau;&omicron;&upsilon;&mu;&epsilon;</strong>, &tau;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &epsilon;&tau;&alpha;&iota;&rho;&iota;&kappa;ή&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &mu;&alpha;&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf;, &mu;&epsilon; &tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &sigma;&tau;ό&chi;&omicron;&sigmaf; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &delta;ί&nu;&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; ό&lambda;&omicron;&upsilon;&sigmaf; &mu;&iota;&alpha; &alpha;&iota;&sigma;&iota;ό&delta;&omicron;&xi;&eta; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;ή &gamma;&iota;&alpha; &tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu; &tau;&omicron;&upsilon;&sigmaf;.</p>
+        <p> &Sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;ό &tau;&omicron;&upsilon;, &sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &kappa;&alpha;&iota; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;&omicron;ύ&mu;&epsilon; &mu;&iota;&alpha; &sigma;&epsilon;&iota;&rho;ά &alpha;&pi;ό &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &beta;&omicron;&eta;&theta;&omicron;ύ&nu; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &nu;&alpha; &beta;&epsilon;&lambda;&tau;&iota;ώ&nu;&omicron;&upsilon;&nu; &tau;&eta; &zeta;&omega;ή &kappa;&alpha;&iota; &tau;&eta;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;ά &tau;&omicron;&upsilon;&sigmaf;. &Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &alpha;&iota;&sigma;&iota;ό&delta;&omicron;&xi;&omicron;&iota; &gamma;&iota;&alpha; ό&sigma;&alpha; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&phi;έ&rho;&omicron;&upsilon;&nu; &kappa;&alpha;&iota; &sigma;&tau;ό&chi;&omicron;&sigmaf; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&nu;&delta;&upsilon;&nu;&alpha;&mu;ώ&nu;&omicron;&upsilon;&mu;&epsilon; &gamma;&iota;&alpha; &nu;&alpha; &tau;&omicron; &pi;&epsilon;&tau;ύ&chi;&omicron;&upsilon;&nu;.</p>
+        <p>&Gamma;&iota;&rsquo; &alpha;&upsilon;&tau;ό &kappa;&alpha;&iota; &epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; &tau;&omicron;&mu;&epsilon;ί&sigmaf; &pi;&omicron;&upsilon; &alpha;&nu;&alpha;&beta;&alpha;&theta;&mu;ί&zeta;&omicron;&upsilon;&nu; &tau;&omicron; &alpha;ύ&rho;&iota;&omicron; &gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; ά&nu;&theta;&rho;&omega;&pi;&omicron;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{9BE520A3-B039-47CC-AB68-416A0233122E}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Εταιρική κοινωνική Ευθύνη
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{33B2F7DC-BA90-4A18-BDF3-E8175D97D039}"
+              p:before="*"
+              s:ds="{FFE033F9-2D7E-4E55-82D2-B1770B1D9435}"
+              s:id="{E1242E34-C107-4A13-BE8C-74A71E9B744A}"
+              s:ph="/page-layout/numbers-teaser-placeholder-5-{921AF241-D8F8-42AE-BC70-D3792A3B5D4F}-0" />
+            <r
+              uid="{73F600F0-AD8C-4DD8-95F9-A5F117B89D35}"
+              p:after="r[@uid='{33B2F7DC-BA90-4A18-BDF3-E8175D97D039}']"
+              s:ds="{12A9B2DD-75B4-442E-8EBA-F8EF0410403F}"
+              s:id="{E1242E34-C107-4A13-BE8C-74A71E9B744A}"
+              s:ph="/page-layout/numbers-teaser-placeholder-2-{921AF241-D8F8-42AE-BC70-D3792A3B5D4F}-0" />
+            <r
+              uid="{EBD6A40B-0D73-4EF4-9602-E8D195E6A938}"
+              p:after="r[@uid='{73F600F0-AD8C-4DD8-95F9-A5F117B89D35}']"
+              s:ds="{470E126D-D737-4D64-BCE3-9C35AE6F5666}"
+              s:id="{E1242E34-C107-4A13-BE8C-74A71E9B744A}"
+              s:par=""
+              s:ph="/page-layout/numbers-teaser-placeholder-1-{921AF241-D8F8-42AE-BC70-D3792A3B5D4F}-0" />
+            <r
+              uid="{E764DD56-049A-4E35-87E8-DF4AFD9E9ED2}"
+              p:after="r[@uid='{EBD6A40B-0D73-4EF4-9602-E8D195E6A938}']"
+              s:ds="{17930365-41F1-4AC3-B142-D91EAF364000}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="FontColor=%7B5531539B-B69C-4389-BB59-9AB4F431474A%7D"
+              s:ph="/page-layout/teaser-placeholder-1-{9B1A930E-929F-4532-BCB7-C0BEAE5A0FDA}-0" />
+            <r
+              uid="{9B1A930E-929F-4532-BCB7-C0BEAE5A0FDA}"
+              p:after="r[@uid='{9015BC53-2AE3-455A-A1DD-879A04CC5E07}']"
+              s:ds="{52FAEAE8-A7A0-44BE-BA58-88D10642CD2F}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{921AF241-D8F8-42AE-BC70-D3792A3B5D4F}"
+              p:after="r[@uid='{9B1A930E-929F-4532-BCB7-C0BEAE5A0FDA}']"
+              s:ds="{68BB4E38-6009-444B-B3EF-E0E979AF4165}"
+              s:id="{826556BC-A668-46ED-B763-E5D3CAD6F2CD}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{6B6A645F-8400-4DA1-9FD4-EE38FDCEFEB4}"
+              p:after="*[1=2]"
+              s:ds="{A5F4940A-1774-4A2D-B5C4-07C728CDF01A}"
+              s:id="{CFFFE422-9F95-454F-8C3E-9312C505222A}"
+              s:par=""
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T073802Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Corporate Social Responsibility
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: +πράττουμε
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΟ ΒΙΝΤΕΟ" linktype="external" url="http://#" anchor="" target="" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <strong id="docs-internal-guid-5d1ec560-7fff-f1da-831d-6e06817f443f"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">Ό&lambda;&alpha; &tau;&alpha; &chi;&rho;ό&nu;&iota;&alpha; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, &sigma;&tau;&epsilon;&kappa;ό&mu;&alpha;&sigma;&tau;&epsilon; </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&alpha;&xi;&iota;ό&pi;&iota;&sigma;&tau;&alpha; &delta;ί&pi;&lambda;&alpha; &sigma;&tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf;</span><span style="background-color: transparent; text-decoration: none; color: #000000;">, &pi;&rho;&omicron;&sigma;&tau;&alpha;&tau;&epsilon;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; ί&delta;&iota;&omicron;&upsilon;&sigmaf;, &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; ό&sigma;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; ό&sigma;&alpha; &tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&rho;&iota;&beta;ά&lambda;&lambda;&omicron;&upsilon;&nu;. &Alpha;&upsilon;&tau;ά &pi;&omicron;&upsilon; έ&chi;&tau;&iota;&sigma;&alpha;&nu; &kappa;&alpha;&iota; &alpha;&upsilon;&tau;ά &pi;&omicron;&upsilon; &theta;έ&lambda;&omicron;&upsilon;&nu; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&nu; &sigma;&tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &tau;&omicron;&upsilon;&sigmaf;, &sigma;&tau;&eta;&nu; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;ή &tau;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&omicron;&nu; &epsilon;&upsilon;&rho;ύ&tau;&epsilon;&rho;&omicron; &kappa;ύ&kappa;&lambda;&omicron; &tau;&omicron;&upsilon;&sigmaf;. &Eta; &sigma;&chi;έ&sigma;&eta; &mu;&alpha;&sigmaf; &mu;&alpha;&zeta;ί &tau;&omicron;&upsilon;&sigmaf; &epsilon;ί&nu;&alpha;&iota; </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&alpha;&mu;&phi;ί&delta;&rho;&omicron;&mu;&eta;</span><span style="background-color: transparent; text-decoration: none; color: #000000;">. </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon;</span><span style="background-color: transparent; text-decoration: none; color: #000000;">.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&nu;&alpha;&gamma;&nu;&omega;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; &alpha;&xi;ί&alpha; &alpha;&upsilon;&tau;ή&sigmaf; &tau;&eta;&sigmaf; &sigma;&chi;έ&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &epsilon;&xi;&epsilon;&lambda;ί&sigma;&sigma;&omicron;&nu;&tau;ά&sigmaf; &tau;&eta;&nu;, &pi;&eta;&gamma;&alpha;ί&nu;&omicron;&upsilon;&mu;&epsilon; έ&nu;&alpha; &beta;ή&mu;&alpha; &pi;&iota;&omicron; &mu;&pi;&rho;&omicron;&sigma;&tau;ά &alpha;&pi;ό &tau;&eta;&nu; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;. &Theta;έ&lambda;&omicron;&upsilon;&mu;&epsilon; </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&eta; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha; &mu;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &nu;&alpha; έ&chi;&epsilon;&iota; &alpha;&kappa;ό&mu;&alpha; &pi;&iota;&omicron; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό &sigma;&kappa;&omicron;&pi;ό</span><span style="background-color: transparent; text-decoration: none; color: #000000;">.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&epsilon; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&iota;&kappa;ή &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&omicron;&chi;ή</span><span style="background-color: transparent; text-decoration: none; color: #000000;">.</span></p>
+        <strong id="docs-internal-guid-5d1ec560-7fff-f1da-831d-6e06817f443f"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Gamma;&iota;&rsquo; &alpha;&upsilon;&tau;ό &kappa;&alpha;&iota; έ&chi;&omicron;&upsilon;&mu;&epsilon; &epsilon;&pi;&epsilon;&nu;&delta;ύ&sigma;&epsilon;&iota; &sigma;&tau;&omicron; </span><span style="background-color: transparent; text-decoration: none; color: #000000;">+&pi;&rho;ά&tau;&tau;&omicron;&upsilon;&mu;&epsilon;</span><span style="background-color: transparent; text-decoration: none; color: #000000;">, &tau;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &epsilon;&tau;&alpha;&iota;&rho;&iota;&kappa;ή&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &mu;&alpha;&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf;, &mu;&epsilon; &tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &sigma;&tau;ό&chi;&omicron;&sigmaf; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &delta;ί&nu;&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; ό&lambda;&omicron;&upsilon;&sigmaf; &mu;&iota;&alpha; &alpha;&iota;&sigma;&iota;ό&delta;&omicron;&xi;&eta; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;ή &gamma;&iota;&alpha; &tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu; &tau;&omicron;&upsilon;&sigmaf;.</span></p>
+        <strong id="docs-internal-guid-5d1ec560-7fff-f1da-831d-6e06817f443f"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;ό &tau;&omicron;&upsilon;, &sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &kappa;&alpha;&iota; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;&omicron;ύ&mu;&epsilon; &mu;&iota;&alpha; &sigma;&epsilon;&iota;&rho;ά &alpha;&pi;ό &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &beta;&omicron;&eta;&theta;&omicron;ύ&nu; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &nu;&alpha; &beta;&epsilon;&lambda;&tau;&iota;ώ&nu;&omicron;&upsilon;&nu; &tau;&eta; &zeta;&omega;ή &kappa;&alpha;&iota; &tau;&eta;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;ά &tau;&omicron;&upsilon;&sigmaf;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &alpha;&iota;&sigma;&iota;ό&delta;&omicron;&xi;&omicron;&iota; &gamma;&iota;&alpha; ό&sigma;&alpha; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&phi;έ&rho;&omicron;&upsilon;&nu; &kappa;&alpha;&iota; &sigma;&tau;ό&chi;&omicron;&sigmaf; &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&nu;&delta;&upsilon;&nu;&alpha;&mu;ώ&nu;&omicron;&upsilon;&mu;&epsilon; &gamma;&iota;&alpha; &nu;&alpha; &tau;&omicron; &pi;&epsilon;&tau;ύ&chi;&omicron;&upsilon;&nu;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Gamma;&iota;&rsquo; &alpha;&upsilon;&tau;ό &kappa;&alpha;&iota; &epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; &tau;&omicron;&mu;&epsilon;ί&sigmaf; &pi;&omicron;&upsilon; &alpha;&nu;&alpha;&beta;&alpha;&theta;&mu;ί&zeta;&omicron;&upsilon;&nu; &tau;&omicron; &alpha;ύ&rho;&iota;&omicron; &gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; ά&nu;&theta;&rho;&omega;&pi;&omicron;.</span></p>
+        <br class="Apple-interchange-newline" />
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Ενθαρρύνουμε κάθε άνθρωπο να ζει τη ζωή που επιθυμεί.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="carousel_1920x680" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{8427819A-9FA1-40D9-B8FB-91325460B6FD}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Corporate Social Responsibility

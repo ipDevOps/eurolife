@@ -1,0 +1,18 @@
+﻿---
+ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+Parent: "8861a87a-26f1-4074-a596-3b4930aff960"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Navigation/_Navigable/Navigation/NavigationTitle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T113644Z

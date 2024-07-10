@@ -1,0 +1,32 @@
+﻿---
+ID: "bb08f666-a119-4109-9238-82ad428e74a6"
+Parent: "654f61e1-23d2-4637-ac3a-0a0cfa96457f"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/Highlights mikres epixeiriseis/Highlights Accordions flexible/periexomeno"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {02339BA5-A4A4-4B24-AE50-4151993CA161}
+        {F50B2D91-1407-4EBB-9162-178263B072C1}
+        {60DAFCA6-903E-43E0-9B48-C9AD04B96BEB}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081312Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Περιεχόμενο
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

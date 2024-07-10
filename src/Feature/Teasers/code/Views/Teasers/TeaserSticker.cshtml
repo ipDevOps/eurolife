@@ -1,0 +1,21 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Teasers
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserHeadline.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserHeadline.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<div class="triplette-item triplette-item--static radius-b">
+  <h3 class="h6 m-b-8">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h3>
+  <p>
+    @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+  </p>
+</div>

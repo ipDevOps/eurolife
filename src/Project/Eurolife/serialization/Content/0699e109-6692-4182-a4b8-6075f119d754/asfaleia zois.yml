@@ -1,0 +1,49 @@
+﻿---
+ID: "73f83b53-5400-448c-878e-72cfb036e6d3"
+Parent: "0699e109-6692-4182-a4b8-6075f119d754"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/zoi-igeia-atixima/_Local/omadiki asfalisi Highlights Group/asfaleia zois"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: " Ασφάλεια Ζωής - Ετήσιο Μικτό Ασφάλιστρο € 20,73"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__right contentgroup__tick">
+        <strong>&Alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; &gamma;&iota;&alpha; &Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &Zeta;&omega;ή&sigmaf;</strong>
+        <ul>
+            <li>&euro; 5.000</li>
+        </ul>
+        <strong></strong>
+        <strong>&Alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; &gamma;&iota;&alpha; &Alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &Zeta;&omega;ή&sigmaf; &alpha;&pi;ό &alpha;&tau;ύ&chi;&eta;&mu;&alpha;</strong>
+        <ul>
+            <li>&euro; 10.000</li>
+        </ul>
+        <strong>&Alpha;&sigma;&phi;&alpha;&lambda;&iota;&zeta;ό&mu;&epsilon;&nu;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; &gamma;&iota;&alpha; &Mu;ό&nu;&iota;&mu;&eta; &Omicron;&lambda;&iota;&kappa;ή &alpha;&nu;&iota;&kappa;&alpha;&nu;ό&tau;&eta;&tau;&alpha;</strong>
+        <ul>
+            <li>&euro; 5.000</li>
+        </ul>
+        <strong>&Epsilon;&tau;ή&sigma;&iota;&omicron; &mu;&iota;&kappa;&tau;ό &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&omicron;</strong>
+        <ul>
+            <li>&euro; 20,73</li>
+        </ul>
+        </div>
+        </div>

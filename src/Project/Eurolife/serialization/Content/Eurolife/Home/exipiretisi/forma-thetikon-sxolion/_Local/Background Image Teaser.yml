@@ -1,0 +1,59 @@
+﻿---
+ID: "5b098fde-d16b-4f4a-bfd5-1ac27b457edb"
+Parent: "d1ae58cd-c725-4159-9412-3e59ff0895ac"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/forma-thetikon-sxolion/_Local/Background Image Teaser"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;ά&nu; έ&chi;&omicron;&upsilon;&mu;&epsilon; ή&delta;&eta; &sigma;&upsilon;&sigma;&tau;&eta;&theta;&epsilon;ί &mu;&epsilon;&tau;&alpha;&phi;&epsilon;&rho;&theta;&epsilon;ί&tau;&epsilon; &sigma;&tau;&omicron; &Epsilon;urolife Connect &gamma;&iota;&alpha; &nu;&alpha; &delta;&epsilon;ί&tau;&epsilon; &tau;&alpha; &pi;ά&nu;&tau;&alpha; &gamma;&iota;&alpha; &tau;&eta; &sigma;&chi;έ&sigma;&eta; &sigma;&alpha;&sigmaf; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Είστε ήδη πελάτης;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T133118Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="Συνδεθείτε μαζί μας" linktype="external" url="https://connect.eurolife.gr" anchor="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{8D2FB8A9-A455-424E-A208-06B460AAD0B5}"></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Epsilon;ά&nu; έ&chi;&omicron;&upsilon;&mu;&epsilon; ή&delta;&eta; &sigma;&upsilon;&sigma;&tau;&eta;&theta;&epsilon;ί, &mu;&epsilon;&tau;&alpha;&phi;&epsilon;&rho;&theta;&epsilon;ί&tau;&epsilon; &sigma;&tau;&omicron; &chi;ώ&rho;&omicron; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu;<br />
+        &gamma;&iota;&alpha; &nu;&alpha; &delta;&epsilon;ί&tau;&epsilon; &tau;&alpha; &pi;ά&nu;&tau;&alpha; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&alpha; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;ά &sigma;&alpha;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Είστε ήδη πελάτης;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190730T125942Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΣΥΝΔΕΣΗ ΣΤΟ MY EUROLIFE" linktype="external" url="https://github.com" anchor="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{D80D0BC5-F015-4C31-95D0-1FD7E3DCC565}" />

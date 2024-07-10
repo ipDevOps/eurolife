@@ -1,0 +1,49 @@
+/*------------------------------------*\
+  #PRODUCTS
+\*------------------------------------*/
+
+.vocabulary__heading{
+  color:$color-black-faded;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.vocabulary__expander{
+  font-weight: 500;
+  color:$color-black;
+  cursor: pointer;
+
+  svg{
+    margin-left:4px;
+    max-width: 16px;
+    transition: transform 300ms ease-in-out;
+    transform: rotate(180deg) translateY(-4px);
+  }
+}
+
+.vocabulary__content{
+  max-height:0;
+  margin-bottom: 48px;
+  overflow: hidden;
+  transition: max-height 500ms ease;
+
+  li{
+    padding: 24px 0;
+    &:not(:first-child),&:not(:first-child) {
+      border-top: 1px solid #dcdcdc;
+    }
+  }
+}
+
+.vocabulary--visible{
+  .vocabulary__content {
+    max-height: 300vh;
+    overflow-y: auto;
+  }
+}
+
+.vocabulary__definition{
+  color:$color-black-faded;
+  font-size: 14px;
+
+}

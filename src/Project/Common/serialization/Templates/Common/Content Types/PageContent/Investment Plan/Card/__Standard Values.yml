@@ -1,0 +1,25 @@
+﻿---
+ID: "38f6ba08-0d35-4947-bdf8-2cf9e25d5573"
+Parent: "7ee9a785-e169-474e-a73e-7833892be2a9"
+Template: "7ee9a785-e169-474e-a73e-7833892be2a9"
+Path: /sitecore/templates/Project/Common/Content Types/PageContent/Investment Plan/Card/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {94962BE4-3EF6-41A7-834C-A4127DDEB95C}
+    {5515C419-66CB-4E45-B3C1-8501562A105A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T122902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

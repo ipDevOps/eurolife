@@ -1,0 +1,19 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HighlightsGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightsGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+}
+
+<section id="highlights-accordion" class="m-b-112 relator">
+
+  @Html.Partial("../Highlight/HighlightsAccordionHeader")
+  @Html.Partial("../Highlight/HighlightsAccordionItems", Model.Item)
+
+</section>

@@ -1,0 +1,70 @@
+﻿---
+ID: "c705b39f-6e73-4f87-adb6-b5d5561c5cd7"
+Parent: "401f1e3c-91c6-4fd7-96b0-a0e3d4d34f21"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: /sitecore/content/Eurolife/Global/Links/Main Menu/Products Menu/Personal Insurance/Home
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T121252Z
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediapath="/Feature/Navigation/car-with-bg" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Feature/Navigation/car-with-bg" mediaid="{30B6B90F-14AC-470B-A3E6-B59CB990BC21}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{58E9AE0F-8D5C-4BFA-AF3F-B534D837F51E}" querystring="" target="" text="" anchor="" url="/Eurolife/Home/Proionta/Idiotes/katoikia" title="" class="" linktype="internal" />
+    - ID: "d7bd8d43-de42-4bde-8e7e-ddfce607a9c6"
+      Hint: Class
+      Value: 
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Κατοικία
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T110109Z
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 0
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{E0235612-4B7F-4DFD-9C36-4C0DEB144E59}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link id="{5F1D3D87-C473-4CF0-86D1-1093CC0BC48A}" querystring="" target="" text="" anchor="" url="/Eurolife/Home/Proionta/Idiotes/zoi" title="" class="" linktype="internal" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Σπίτι

@@ -1,0 +1,75 @@
+﻿---
+ID: "e4e9b6a7-2170-4fcf-be15-90025cf0c14a"
+Parent: "385c344a-fcc1-49d4-ac0a-054e5e49ffed"
+Template: "a357360c-a1fd-4439-a5ab-4d131d300f95"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/dummy3/dummy3 List"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T130756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{822F97AA-A3FB-410F-9288-79073E3D7DB4}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{E6D34E34-ABF6-4691-8DCE-9CF54ED10A84}">
+              <p:d />
+            </r>
+            <r
+              uid="{5BF458D4-9639-4F05-A68A-B9056029BAB4}"
+              p:after="r[@uid='{BCC51FBC-990E-45FB-AE27-6D4E7EF7DE6A}']"
+              s:ds="{90E42C04-1BC3-4C76-B662-B6D4CFE07F49}"
+              s:id="{62FFEA7C-0F0E-430E-A315-6E77E2B5E468}"
+              s:par="Descending&amp;Limit"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{B0BE0A87-ACE8-4E53-BF7B-021B112CAA11}"
+              p:after="*[1=2]"
+              s:id="{CFFFE422-9F95-454F-8C3E-9312C505222A}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T081058Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: HOPEgenesis
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: HOPEgenesis
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="carousel_1920x680" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{8427819A-9FA1-40D9-B8FB-91325460B6FD}" />

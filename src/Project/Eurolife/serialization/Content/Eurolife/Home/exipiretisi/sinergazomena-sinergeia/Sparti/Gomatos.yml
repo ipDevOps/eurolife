@@ -1,0 +1,30 @@
+﻿---
+ID: "6747b1fd-0549-41df-9a4f-af379922a1bd"
+Parent: "ac197075-d5e5-43c4-b40d-8834ea99d6f9"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia/Sparti/Gomatos"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191211T101047Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΠΑΝΑΓΙΩΤΗΣ ΓΟΜΑΤΟΣ
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 2731024342
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: panagiotisgomatos@gmail.com
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Κοκκινοράχη, Σπάρτη, Τ.Κ. 23100

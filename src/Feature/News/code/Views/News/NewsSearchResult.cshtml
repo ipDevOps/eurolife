@@ -1,0 +1,13 @@
+﻿@using Wedia.Feature.News
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Foundation.Indexing.Models.ISearchResult
+
+
+<article class="list__item list__item--ghost list__item--double">
+  <a class="list--double__info" href="@Model.Url">
+    <time>@Html.Sitecore().Field(Templates.NewsArticle.Fields.Date, Model.Item, new { format = "MMMM dd, yyyy" })</time>
+    <h4 class="list__title">
+      @Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, Model.Item)
+    </h4>
+  </a>
+</article>

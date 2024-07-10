@@ -1,0 +1,26 @@
+﻿---
+ID: "6217f5ad-355a-4e44-8f84-334b243c15ea"
+Parent: "0003f06d-ca88-49bf-bedd-c1d92b20e46f"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Praktiki-askisi/_Local/text-page"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T105013Z
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p><strong>Διαθέσιμες θέσεις
+        </strong></p>
+        <p>Επίλεξε τη θέση που σε ενδιαφέρει για την πρακτική σου άσκηση πατώντας ‘ΑΙΤΗΣΗ’ και συμπλήρωσε τα στοιχεία σου στις φόρμες που ακολουθούν.
+        </p>
+        <p>Εάν δεν υπάρχει διαθέσιμη θέση που να ανταποκρίνεται στην επαγγελματική σου κατεύθυνση, πιο κάτω μπορείς να μας στείλεις το βιογραφικό σου όποια στιγμή επιθυμείς.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

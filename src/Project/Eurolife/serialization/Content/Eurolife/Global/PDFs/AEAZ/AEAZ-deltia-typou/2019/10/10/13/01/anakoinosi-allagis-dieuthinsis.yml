@@ -1,0 +1,34 @@
+﻿---
+ID: "974da142-e342-4d12-a968-8a255f3349b0"
+Parent: "dacdd35f-b379-46ba-8187-16880898a2ef"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEAZ/AEAZ-deltia-typou/2019/10/10/13/01/anakoinosi-allagis-dieuthinsis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20191009T210000Z
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20191009T210000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T130136Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: Ανακοίνωση Αλλαγής Διεύθυνσης της Eurolife ERB AEAZ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Ανακοίνωση Αλλαγής Διεύθυνσης της Eurolife ERB AEAZ
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediaid="{2CB1A391-EEDE-4E14-BED1-9DDD9DACC2C8}" src="-/media/2CB1A391EEDE4E14BED19DDD9DACC2C8.ashx" />

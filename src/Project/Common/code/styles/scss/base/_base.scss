@@ -1,0 +1,103 @@
+/*------------------------------------*\
+  #BASE
+\*------------------------------------*/
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+p {
+    margin: 0 0 20px 0;
+}
+
+::selection { 
+    background: $color-base;
+    color: #fff;
+}
+ 
+::-moz-selection {
+    background: #fff; 
+    color: #fff; 
+}
+
+body{
+    margin:0;
+    color: $color-black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 1.6rem;
+    line-height:1.5;
+}
+
+html:not(.touch) { 
+    text-rendering: optimizeLegibility; 
+}
+html.touch { 
+    text-rendering: optimizeSpeed; 
+}
+
+html { 
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+    display: block;
+}
+
+svg{
+    max-width:100%;
+    height:auto;
+}
+
+a{
+    color:#030000;
+    text-decoration:none;
+}
+
+
+strong{
+    font-weight:700;
+}
+
+ul{
+    padding-left: 0;
+    margin:0;
+}
+li{
+    list-style-type: none;
+}
+
+figure{ 
+    margin:0;
+    max-width:100%; 
+}
+
+.text-main{
+    line-height: 1.7;
+    h3{
+        font-size: 22px;
+        margin-top:0;
+        margin-bottom: 8px;
+    }
+    p{
+        margin-top:0;
+        margin-bottom:48px;
+    }
+    ul{
+        padding-left: 20px;
+    }
+}

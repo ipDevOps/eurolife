@@ -1,0 +1,37 @@
+﻿@using Sitecore.Mvc 
+@using Wedia.Foundation.SitecoreExtensions.Extensions    
+@{
+    var homeUrl = Sitecore.Context.Site?.GetStartItem()?.Url() ?? "/";
+
+    var root = "/en";
+    var lang = "EN";
+
+    if (Sitecore.Context.Language.CultureInfo.TwoLetterISOLanguageName.ToLower() == "en")
+    {
+      lang = "EL";
+      root = "/el-GR";
+    }
+}
+<div class="header-mobile" aria-hidden="true">
+  
+  @Html.Sitecore().Placeholder("main-burger")
+
+  <div>
+
+    <a class="language-switch" href="@root">@lang</a>
+
+    <div class="search-switch js-search-switch">
+      <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+        <path fill="#ef3340" fill-rule="nonzero" d="M53.361 50.275a2.182 2.182 0 0 1-3.086 3.086l-9.818-9.818a2.182 2.182 0 0 1 3.086-3.086l9.818 9.818zm-27.725-5.002C14.791 45.273 6 36.48 6 25.636S14.791 6 25.636 6c10.845 0 19.637 8.791 19.637 19.636 0 10.845-8.792 19.637-19.637 19.637zm0-4.364c8.435 0 15.273-6.838 15.273-15.273 0-8.435-6.838-15.272-15.273-15.272-8.435 0-15.272 6.837-15.272 15.272S17.2 40.91 25.636 40.91z" />
+      </svg>
+    </div>
+
+    <span class="js-menu-switch menu-switch">
+      <span class="menu-switch__top"></span>
+      <span class="menu-switch__middle"></span>
+      <span class="menu-switch__bottom"></span>
+    </span>
+
+  </div>
+
+</div>

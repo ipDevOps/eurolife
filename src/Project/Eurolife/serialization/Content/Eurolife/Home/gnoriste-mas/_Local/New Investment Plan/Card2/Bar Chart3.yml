@@ -1,0 +1,37 @@
+﻿---
+ID: "aa1b8e52-2f01-4ed7-beb7-a6dfc8783c89"
+Parent: "889720ba-e7f3-47cb-9d9d-46d3202ec9ff"
+Template: "94962be4-3ef6-41a7-834c-a4127ddeb95c"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New Investment Plan/Card2/Bar Chart3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T150927Z
+    - ID: "49f97460-3f80-4654-a453-a9c2069c45d9"
+      Hint: Description
+      Value: |
+        Το αμοιβαίο κεφάλαιο (LF) Equity Global Equities επενδύει με μακροπρόθεσμο ορίζοντα σε μετοχές
+        που αποτελούν αντικείμενο διαπραγμάτευσης σε ανεπτυγμένες
+        χρηματιστηριακές αγορές στην Ευρώπη, τις ΗΠΑ και την Ιαπωνία. Έχει έδρα στο Λουξεμβούργο.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7748887a-80cc-48fb-bcf8-b4951b76c86d"
+      Hint: HexColor
+      Value: #E2190B
+    - ID: "d255187d-6894-46a2-b8b8-878b5e2b920b"
+      Hint: Title
+      Value: Equity Blend (0BA2B1)
+    - ID: "f42c66de-4456-48dc-8c69-27c996ed7e74"
+      Hint: Value
+      Value: 80

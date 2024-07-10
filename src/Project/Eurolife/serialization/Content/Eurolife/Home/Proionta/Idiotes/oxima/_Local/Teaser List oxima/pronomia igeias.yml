@@ -1,0 +1,45 @@
+﻿---
+ID: "3f12e2f9-24f0-4ce6-8de7-274da50b7bb1"
+Parent: "9979784d-f454-48cc-af20-7a024cb44d04"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Teaser List oxima/pronomia igeias
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &tau;&omicron;&upsilon; &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omicron;&upsilon; &sigma;&alpha;&sigmaf;, &epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&zeta;&epsilon;&tau;&epsilon; &delta;&omega;&rho;&epsilon;ά&nu; &iota;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &pi;&alpha;&rho;&omicron;&chi;έ&sigmaf;, &epsilon;&kappa;&pi;&tau;ώ&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &epsilon;&iota;&delta;&iota;&kappa;έ&sigmaf; &tau;&iota;&mu;έ&sigmaf; &gamma;&iota;&alpha; &epsilon;&sigma;ά&sigmaf; &kappa;&alpha;&iota; &tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &sigma;&alpha;&sigmaf; &sigma;&tau;&omicron;&nu; Ό&mu;&iota;&lambda;&omicron; &Epsilon;&upsilon;&rho;&omega;&kappa;&lambda;&iota;&nu;&iota;&kappa;ή&sigmaf;, &chi;&omega;&rho;ί&sigmaf; &pi;&rho;ό&sigma;&theta;&epsilon;&tau;&omicron; &kappa;ό&sigma;&tau;&omicron;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Προνόμια Υγείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T103905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Start Before
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

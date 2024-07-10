@@ -1,0 +1,44 @@
+﻿@using Wedia.Feature.Blog
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Blog.Models
+@model ArticleSliderViewModel
+
+<section class="home-blog center center--1100 m-b-112"> 
+  <h1 class="h4 t-c">@Html.Sitecore().Field(Templates.HasTitle.Fields.Title.ToString(), Model.RenderingItem)</h1>
+  <div class="t-c m-b-24">@Html.Sitecore().Field(Templates.HasSubTitle.Fields.SubTitle.ToString(), Model.RenderingItem)</div>
+
+  <!-- TAGS -->
+  <div class="home-blog__tags m-b-48">
+    @foreach (var tag in Model.LifeStages)
+    {
+    <a href="@tag.URL" class="tag" tabindex="0">@tag.Title</a>
+    }   
+  </div>
+
+  <!-- TAGS -->
+  <!-- SLIDER -->
+  <div class="relator">
+    <div class="list-grid js-blog-slider">
+      <!-- NEED JS-BLOG-SLIDER CLASS FOR SLICK SLIDER -->
+      <!-- ITEMS -->
+      @foreach (var article in Model?.Articles)
+      {
+        @Html.Partial("_ArticleItem", article)    
+      }
+    </div>
+
+    <!-- NAVIGATION ARROWS -->
+    <div class="bprev">
+      <?xml version="1.0" ?>
+      <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+      <svg enable-background="new 0 0 32 32" height="32px" id="Слой_1" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M11.262,16.714l9.002,8.999  c0.395,0.394,1.035,0.394,1.431,0c0.395-0.394,0.395-1.034,0-1.428L13.407,16l8.287-8.285c0.395-0.394,0.395-1.034,0-1.429  c-0.395-0.394-1.036-0.394-1.431,0l-9.002,8.999C10.872,15.675,10.872,16.325,11.262,16.714z" fill="#121313" fill-rule="evenodd" id="Chevron_Right" /><g /><g /><g /><g /><g /><g /></svg>
+    </div>
+    <div class="bnext">
+      <?xml version="1.0" ?>
+      <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+      <svg enable-background="new 0 0 32 32" height="32px" id="Слой_1" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M21.698,15.286l-9.002-8.999  c-0.395-0.394-1.035-0.394-1.431,0c-0.395,0.394-0.395,1.034,0,1.428L19.553,16l-8.287,8.285c-0.395,0.394-0.395,1.034,0,1.429  c0.395,0.394,1.036,0.394,1.431,0l9.002-8.999C22.088,16.325,22.088,15.675,21.698,15.286z" fill="#121313" fill-rule="evenodd" id="Chevron_Right" /><g /><g /><g /><g /><g /><g /></svg>
+    </div>
+    <!-- NAVIGATION ARROWS -->
+  </div>
+  <!-- SLIDER -->
+</section>

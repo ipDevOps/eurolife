@@ -1,0 +1,29 @@
+﻿---
+ID: "447ffc3e-780e-46e4-aa1e-21cd97ba35c7"
+Parent: "dfffe867-296d-4b5d-8934-d9d3beba3db9"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: /sitecore/content/Eurolife/Global/Links/Footer Menu
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191007T081947Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T093754Z

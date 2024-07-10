@@ -1,0 +1,18 @@
+﻿---
+ID: "05f53e1e-8c6d-466f-8e7b-c0148583d3d6"
+Parent: "9bc4d99e-1661-4262-bc22-06da2ad1f815"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/PageContent/_HasSocialLinks/Social Links/Facebook
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210129T093008Z

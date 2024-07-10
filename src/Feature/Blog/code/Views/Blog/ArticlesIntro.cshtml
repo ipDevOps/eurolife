@@ -1,0 +1,23 @@
+﻿@using Wedia.Feature.Blog
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions     
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+  
+<section class="center center--1100 m-b-48 m-t-112">
+  @if (Html.Sitecore().HasValue(Templates.HasArticleIntro.Fields.Title.ToString()))
+  {
+    <h1 class="h4 t-c m-b-8">
+      @Html.Sitecore().Field(Templates.HasArticleIntro.Fields.Title)
+    </h1>
+  }
+
+  @if (Html.Sitecore().HasValue(Templates.HasArticleIntro.Fields.Subtitle.ToString()))
+  {
+    <div class="m-b-48 center--650 center t-c">
+      @Html.Sitecore().Field(Templates.HasArticleIntro.Fields.Subtitle)
+    </div>
+  }
+</section>

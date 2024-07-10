@@ -1,0 +1,14 @@
+﻿---
+ID: "71e21986-7ad3-4c47-a5e0-9f151cf1ef94"
+Parent: "cb569408-6dc5-4ccb-a653-5f9004fecfce"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Feature/EurobankHealthTool
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210120T090625Z

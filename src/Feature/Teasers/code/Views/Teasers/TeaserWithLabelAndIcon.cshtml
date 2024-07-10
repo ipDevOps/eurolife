@@ -1,0 +1,24 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HasTeaserImage.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserImage.ID),
+          AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+          Model.Item?.ID,
+          Model.Rendering.Item?.ID)
+    return;
+
+  }
+}
+<div class="stats__item triplette-item">
+  <img src="@Model.Item.ImageUrl(Templates.HasTeaserImage.Fields.Image)" />
+  <div class="m-b-8 m-t-24">
+    <span class="stats__number">
+      @Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)
+    </span><span class="stats__unit">@Html.Sitecore().Field(Templates.HasTeaserLabel.Fields.Label)</span></div>
+  <div class="stats__label">@Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)</div>
+</div>

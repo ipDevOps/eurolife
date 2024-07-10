@@ -1,0 +1,18 @@
+﻿---
+ID: "d64d51c0-9ae7-46d1-962f-a7d23daa432d"
+Parent: "73cba243-3f90-43c7-b1d5-85b11e6ddaf1"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio/Programs Attributes/Plimmyra kataigida thyella/Plimmyra kataigida thyella no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T090542Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

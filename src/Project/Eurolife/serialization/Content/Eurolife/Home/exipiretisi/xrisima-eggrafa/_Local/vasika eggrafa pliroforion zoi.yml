@@ -1,0 +1,28 @@
+﻿---
+ID: "235f3867-4fc0-47fc-98b9-cdd2ba6c3b0f"
+Parent: "73047f68-664e-4419-9728-afbf28ce3a49"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/xrisima-eggrafa/_Local/vasika eggrafa pliroforion zoi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T105253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {55952609-94F0-474C-A5D4-1607EFE15C5E}
+        {32DBFA75-37E5-48D6-946A-4A6FCBBBBE25}
+        {2B3DD899-CF24-469B-8D03-50C4983B9B92}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Έγγραφα Βασικών Πληροφοριών - Ζωή"

@@ -1,0 +1,31 @@
+﻿---
+ID: "af6bf725-b8a0-45b8-8e27-c97da49e2b2c"
+Parent: "d73c7be2-d5ea-41ce-b7e3-091670974442"
+Template: "dc8aefa5-e96f-4ebb-93b7-1aa9a5dc8155"
+Path: "/sitecore/content/Eurolife/Home/Carreer/Theseis-Ergasias/Developers/2020/02/14/14/21/Front-end-developer"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T142152Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "71356f7c-fcfa-43df-8f0a-7b37717e7694"
+      Hint: JobLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{F2BE096D-911F-4409-8A98-9EE16CB8B283}" />
+    - ID: "7674d8d1-2289-4e04-bcd0-b8abf997db7e"
+      Hint: JobDescription
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    - ID: "8dffce48-92a2-4edd-a5cf-a172e14b2036"
+      Hint: JobDate
+      Value: 20200213T220000Z
+    - ID: "a18e59f2-4808-401d-94ab-a1606befe9cb"
+      Hint: JobTitle
+      Value: Front end developer

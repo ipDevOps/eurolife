@@ -1,0 +1,29 @@
+﻿@using Wedia.Feature.Blog.Models
+@model BlogPostItem
+
+@if (Model != null)
+{
+  <article>
+    @if (!string.IsNullOrEmpty(Model.Image))
+    {
+      <img src="@Model.Image" alt="@Model.Title" />
+    }
+    <div class="list__article__group">
+      @if (Model.Tags != null && Model.Tags.Any())
+      {
+        foreach (var tag in Model.Tags)
+        {
+          <a href="@tag.URL" class="blog-cat m-b-16 @tag.Color">@tag.Title</a>
+        }
+      }
+      <h2 class="h6 m-b-16 list__article__title">
+        <a href="@Model.URL">
+          @Model.Title
+        </a>
+      </h2>
+      <div>
+        @Html.Raw(Model.Summary)
+      </div>
+    </div>
+  </article>
+} 

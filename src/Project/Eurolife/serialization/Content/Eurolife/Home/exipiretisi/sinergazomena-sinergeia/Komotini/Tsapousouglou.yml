@@ -1,0 +1,27 @@
+﻿---
+ID: "5f6c674f-8a32-4150-8d7f-9f0256d245da"
+Parent: "dcc9380b-11ca-4ab3-bb9d-542f08af90af"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sinergazomena-sinergeia/Komotini/Tsapousouglou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191211T100421Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΤΣΑΠΟΥΛΟΓΛΟΥ ΧΟΥΣΕΙΝ
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: fanobafes.komothnh@gmail.com
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: Κάλχας, Κομοτηνή, Τ.Κ. 69100

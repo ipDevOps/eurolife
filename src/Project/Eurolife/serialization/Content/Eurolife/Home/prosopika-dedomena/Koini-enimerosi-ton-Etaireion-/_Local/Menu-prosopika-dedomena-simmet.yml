@@ -1,0 +1,29 @@
+﻿---
+ID: "179faee3-b0a4-4e6e-bdbd-8882369f5870"
+Parent: "14c516b0-62bb-4dd3-9c0a-fd8a75bc9f0f"
+Template: "00d32287-3ed5-4d97-9b00-0f8ef05f6db8"
+Path: "/sitecore/content/Eurolife/Home/prosopika-dedomena/Koini-enimerosi-ton-Etaireion-pros-Olous/_Local/Menu-prosopika-dedomena-simmetoxon-pros-olous"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T140619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T085541Z

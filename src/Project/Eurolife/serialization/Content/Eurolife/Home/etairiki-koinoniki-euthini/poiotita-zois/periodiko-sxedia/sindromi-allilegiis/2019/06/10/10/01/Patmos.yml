@@ -1,0 +1,63 @@
+﻿---
+ID: "a5f14078-a118-4bc8-b6de-05bbb3dc3d70"
+Parent: "af7f015b-de41-4595-924a-03f1ca629be3"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/periodiko-sxedia/sindromi-allilegiis/2019/06/10/10/01/Patmos"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E34C51BD-1BB1-4E68-A58C-8E897A8157CA}"
+              p:after="r[@uid='{DD817563-16FE-4AF7-9491-460427DD6087}']"
+              s:ds="{2E7C3A13-8230-40A6-B582-6860D1B9DE5D}"
+              s:id="{5C56B6E0-DD5D-4A0F-ABC8-1AA48481841F}"
+              s:ph="page-layout" />
+            <r
+              uid="{2E6A8213-2234-4FCB-A14A-77ACF237F26E}"
+              p:after="r[@uid='{E34C51BD-1BB1-4E68-A58C-8E897A8157CA}']" />
+            <r
+              uid="{90ACB83F-DEF8-4E32-9836-0068BA34835B}"
+              p:after="r[@uid='{2E6A8213-2234-4FCB-A14A-77ACF237F26E}']" />
+            <r
+              uid="{031E6899-F3DA-478B-A545-B2A86FFD92C7}"
+              p:after="*[1=2]"
+              s:ds="{3DB9E7C9-76E3-44C8-BC57-46740E4DE3F3}"
+              s:id="{7D095F33-73E4-40C7-8D62-367931538B49}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T100143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Πάτμος

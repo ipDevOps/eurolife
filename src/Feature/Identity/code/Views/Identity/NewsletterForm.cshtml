@@ -1,0 +1,17 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.Mvc.Configuration
+@using Sitecore.Mvc.Presentation
+@using Wedia.Feature.Identity.Models
+@using createsend_dotnet;
+
+@model NewsletterFormViewModel
+
+<form id="newsletter" action="@Model.FormUrl">
+  <input type="text" name="newsletterEmail" placeholder="@Model.TexboxLabel" autocomplete="off"/>
+  <input id="checkbox-consent" type="checkbox" name="newsletterEmail" placeholder="@Model.CheckboxLabel" value="@ConsentToTrack.Yes"/>
+  <label for="checkbox-consent">@Html.Raw(Model.CheckboxLabel) </label>    
+  <input id="newsletterSubmitButton" type="submit" value="@Model.ButtonLabel" />  
+</form>
+
+<p class="newsletter-success" style="display:none">@Model.SuccessSubscribed</p>
+<p class="newsletter-error" style="display:none">@Model.EmailError</p>

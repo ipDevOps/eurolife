@@ -1,0 +1,18 @@
+﻿---
+ID: "a1270d8d-3e10-4ccf-9542-21d78b0ae4d0"
+Parent: "8e0f7fc4-5c95-4537-a23f-d614abf6979e"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/Common/Footer
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Common/Sublayouts/Footer.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190620T104349Z

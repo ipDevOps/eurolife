@@ -1,0 +1,8 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@Html.Sitecore().Placeholder("before-header")
+
+<header role="banner">
+  @Html.Sitecore().Placeholder("header-content")
+</header>                             

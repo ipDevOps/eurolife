@@ -1,0 +1,18 @@
+﻿---
+ID: "41e9b1e4-7e57-4cc6-af55-d03d5c59bcfc"
+Parent: "d972692d-5e2f-4efd-91a7-712ebb54359d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Feature/Media/PDFs/AEGA-anakoinoseis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T083120Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

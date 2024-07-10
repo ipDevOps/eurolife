@@ -1,0 +1,83 @@
+﻿@using Wedia.Feature.PageContent
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageImageContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageImageContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<section class="hero hero--extra m-b-112 relator bread-overlays bread-light">
+  @Html.Sitecore().Placeholder("page-layout-top")
+
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    if ((Model.Item.FieldHasValue(Templates.HasPageContent.Fields.PreTitle)
+    || Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Title)
+    || Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Summary)) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="hero-contents">
+        <div class="center--760 center relator">
+          @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.PreTitle) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <h4 class="hero-contents__sup">@Html.Sitecore().Field(Templates.HasPageContent.Fields.PreTitle)</h4>
+          }
+          @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <h1 class="h2 m-b-24">@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)</h1>
+          }
+          @if (Model.Item.FieldHasValue(Templates.HasPageContent.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <p>@Html.Sitecore().Field(Templates.HasPageContent.Fields.Summary)</p>
+          }            
+          @if (Model.Item.FieldHasValue(Templates.HasPageCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+          {
+            <div class="m-t-32">
+              @Html.Sitecore().Field(Templates.HasPageCTA.Fields.CTA, new { @class = "btn btn--ghost btn--default" })
+            </div>
+          }
+        </div>
+      </div>
+    }
+
+
+    var mediaUrlOptionsDesktop = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 1920,
+      Height = 0
+    }; 
+
+    var mediaUrlOptionsMobile = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 500,
+      Height = 0
+    };
+
+    var desktopImage = Model.Item.ImageUrl(Templates.HasPageImageContent.Fields.DesktopImage, mediaUrlOptionsDesktop);
+    var mobileImage = Model.Item.ImageUrl(Templates.HasPageImageContent.Fields.MobileImage, mediaUrlOptionsMobile);   
+
+    <picture>
+
+      @if (!string.IsNullOrEmpty(desktopImage) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+
+        <source media="(min-width: 900px)" srcset="@desktopImage">
+
+      }
+
+      @if (!string.IsNullOrEmpty(mobileImage) || Sitecore.Context.PageMode.IsExperienceEditor)
+      {
+        <source srcset="@mobileImage">
+      }
+
+      <img src="@desktopImage" alt="@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)" />
+    </picture>
+  }
+
+</section>

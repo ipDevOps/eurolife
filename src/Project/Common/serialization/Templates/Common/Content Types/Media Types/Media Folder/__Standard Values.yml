@@ -1,0 +1,26 @@
+﻿---
+ID: "6147d753-466e-4a00-8fbd-bd7d51aa8123"
+Parent: "95ac48d1-5e09-47b1-9260-38d92e6fca60"
+Template: "95ac48d1-5e09-47b1-9260-38d92e6fca60"
+Path: /sitecore/templates/Project/Common/Content Types/Media Types/Media Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C2F594C5-783F-4F96-A24A-EA6521DD6BB1}
+    {6DEC0D88-0878-44D4-960B-D151EDB81AE1}
+    {99A565EA-EDEA-4761-AAF1-77F4D4B2768C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T105257Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

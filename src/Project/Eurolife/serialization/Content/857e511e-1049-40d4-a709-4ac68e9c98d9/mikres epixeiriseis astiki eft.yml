@@ -1,0 +1,31 @@
+﻿---
+ID: "303ec3b4-95c1-465a-a13a-5ee570464eb2"
+Parent: "857e511e-1049-40d4-a709-4ac68e9c98d9"
+Template: "e8da73b3-8edf-4ca3-9f9a-b3fb540ef441"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/metafores/_Local/panel mikres epixeiriseis astiki euthini/mikres epixeiriseis astiki efthini panel group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T090737Z
+    - ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+      Hint: Panels
+      Type: Multilist
+      Value: |
+        {136DC6CA-954C-429B-9ED7-DF8AEA201764}
+        {0EAD00BA-A6BF-4145-81A2-70B94A12CAAC}
+        {77F0E787-E4A8-4A68-9745-5FADE5F123FE}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f5d19984-678a-4fef-919d-4cf92f68f464"
+      Hint: PanelGroupTitle
+      Value: Πίνακας Καλύψεων Προγραμμάτων
+    - ID: "fb7552f8-587d-4b90-ae31-7e3ec84ae7f0"
+      Hint: PanelGroupSummary
+      Value: "Ασφάλιση Αστικής Ευθύνης από την λειτουργία των χώρων:"

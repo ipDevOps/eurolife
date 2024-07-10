@@ -1,0 +1,18 @@
+﻿---
+ID: "b19f2b4d-c2ce-4684-9df8-21bf0f4b0762"
+Parent: "1cbf6c65-a414-4981-91ef-5d81b1617e84"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Feature/PageContent/_HasPieChartContent/Item-2/Title-2"
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T140927Z

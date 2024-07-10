@@ -1,0 +1,27 @@
+﻿---
+ID: "65e2757e-af03-4b7f-9d3c-79b47e1ce545"
+Parent: "ab8e5de4-82bc-4693-8c92-6f708618a371"
+Template: "ab8e5de4-82bc-4693-8c92-6f708618a371"
+Path: /sitecore/templates/Project/Eurolife/Page Types/Jobs/Job Category/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{DC8AEFA5-E96F-4EBB-93B7-1AA9A5DC8155}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T114850Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

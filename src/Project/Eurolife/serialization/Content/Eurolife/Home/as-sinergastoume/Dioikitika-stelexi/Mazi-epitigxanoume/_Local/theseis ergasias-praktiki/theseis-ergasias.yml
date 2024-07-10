@@ -1,0 +1,51 @@
+﻿---
+ID: "a6ab4520-cfd5-4880-aff4-17d0ffafb0e6"
+Parent: "7bf216d9-42a6-47dd-ad36-1e3765509a6b"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Mazi-epitigxanoume/_Local/theseis ergasias-praktiki/theseis-ergasias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <p>&Mu;&alpha;&zeta;ί &theta;&alpha; &pi;&epsilon;&tau;ύ&chi;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &sigma;&tau;ό&chi;&omicron;&upsilon;&sigmaf; &mu;&alpha;&sigmaf;</p>
+        <p>&nbsp;</p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Θέσεις εργασίας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190918T143014Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{834816B5-4D7C-4417-ACAF-65E46A21CD32}" querystring="" target="" text="ΔΕΙΤΕ ΤΙΣ ΘΕΣΕΙΣ" anchor="" url="/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Theseis-ergasias" title="" class="" linktype="internal" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Μαζί και στα αρνητικά
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T110539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{9F486AFA-7F59-4D25-9456-3F88ECFEE18E}" querystring="" target="" text="ΥΠΟΒΟΛΗ ΠΑΡΑΠΟΝΟΥ" anchor="" url="/Eurolife/Home/exipiretisi" title="" class="" linktype="internal" />

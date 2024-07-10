@@ -1,0 +1,21 @@
+﻿---
+ID: "861c3fa9-bf6e-4a8b-bfc8-83b6c831629e"
+Parent: "f504a856-2be6-4d4a-83ce-9d3ed2123fbb"
+Template: "92bdd493-96ef-45fd-8036-f4855d59885f"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores/Alexandroupoli"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T071005Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "dac83a8f-9622-442f-b594-964d5f01b1e3"
+      Hint: PersonGroupName
+      Value: Αλεξανδρούπολη

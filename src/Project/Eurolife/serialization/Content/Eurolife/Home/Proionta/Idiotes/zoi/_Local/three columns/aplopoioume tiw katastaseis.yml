@@ -1,0 +1,24 @@
+﻿---
+ID: "8216403d-834c-44ef-a4bb-45119cb24d4d"
+Parent: "9a34bdcc-dc58-4590-8353-3ec4ea1b9829"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/three columns/aplopoioume tiw katastaseis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &xi;&epsilon;&kappa;ά&theta;&alpha;&rho;&omicron;&iota; &sigma;&tau;&omicron; &pi;&omicron;&iota;&omicron;&iota; &epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &kappa;&alpha;&iota; &tau;&iota; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon;. &Pi;&rho;&omicron;&sigma;&epsilon;&gamma;&gamma;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &mu;&epsilon; &alpha;&pi;&lambda;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &phi;&rho;&omicron;&nu;&tau;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &sigma;&alpha;&sigmaf; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; &nu;&alpha; &epsilon;ί&nu;&alpha;&iota; &epsilon;ύ&kappa;&omicron;&lambda;&eta;, ά&mu;&epsilon;&sigma;&eta; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&alpha;&nu;&omicron;&eta;&tau;ή.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απλοποιούμε τις καταστάσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T215651Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

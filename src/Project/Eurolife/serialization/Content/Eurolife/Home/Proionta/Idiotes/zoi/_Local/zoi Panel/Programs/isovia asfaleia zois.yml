@@ -1,0 +1,36 @@
+﻿---
+ID: "7dc85996-e9b7-44c5-aab1-5391f8bfd2c0"
+Parent: "f7aab2e6-019c-4d0e-81c1-800abaaf3f24"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Programs/isovia asfaleia zois
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T202917Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Ισόβια Ασφάλεια Ζωής
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {503B7B42-BA4B-4C7D-90B7-BEE1E8847BCF}
+        {3357D818-F592-40A9-81F2-5892C6C3DCAE}
+        {3A68D48C-B458-4D70-B81D-4B9192049DC3}
+        {3ACB82A8-6C8B-40E3-BBDD-66799650E31C}
+        {6D58FD42-0E30-4667-A785-7AF823A9F72F}
+        {58C3C108-7754-4C7D-8722-87FDA3E898FD}
+        {CF25EC6F-341D-4AB2-B3CC-32258C835651}
+        {0544B438-0797-4C89-8782-C40DEADB2925}
+        {E3DC0CD6-07D4-4EFD-9989-8FE7D07D5B36}
+        {C61A66B8-0CB2-446B-81D0-0CA669874B77}
+        {4B3B68D0-E329-47A4-B780-E8B79288FB4F}

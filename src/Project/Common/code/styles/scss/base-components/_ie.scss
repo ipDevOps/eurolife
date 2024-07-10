@@ -1,0 +1,115 @@
+﻿  //ie11
+.ie11 {
+  overflow-x: hidden;
+}
+
+.ie11 .list-axis {
+  overflow: hidden;
+}
+
+.ie11 .list-axis article {
+  float: left;
+  height: 500px;
+  margin: 12px;
+  width: calc(33% - 24px);
+}
+
+.ie11 .list__item {
+  overflow: hidden;
+}
+
+.ie11 .list--double__info {
+  float: left;
+  width: 70%;                                               
+  width: 70%;
+}
+
+.ie11 .list__download {
+  float: right;
+}
+
+.ie11 .triplette {
+  overflow: hidden;
+  display: block;
+}
+
+.ie11 .triplette-item {
+  float: left;
+  margin: 0 12px;
+  min-height: 240px;
+  width: calc(33% - 24px);
+}
+
+.ie11 .list-grid {
+  overflow: hidden;
+}
+
+.ie11 .list-grid article {
+  float: left;
+  margin: 0 12px;
+  width: calc(33% - 24px);
+}
+
+.ie11 .flex-spread {
+  overflow: hidden;
+  display: block;
+}
+
+.ie11 .flex-spread__half {
+  float: left;
+  margin: 0 1%;
+  width: 48%;
+}
+
+.ie11 .menu-products__personal ul {
+  display: block;
+  overflow: hidden;
+}
+
+.ie11 .menu-products__personal li {
+  float: left;
+  width: 26%;
+}
+
+.ie11 .menu-products__personal li:before {
+  top: 45%;
+  left: 31%;
+}
+
+.ie11 .logo img {
+  width: 190px;
+}
+
+.ie11 #back-to-top {
+  background-image: url("../images/icons/back-to-top.png");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 45%;
+}
+
+.ie11 #back-to-top:after {
+  content: "";
+}
+
+.ie11 .access__list {
+  width: 165px;
+}
+
+.ie11 .access__list li {
+  background: #fff;
+}
+
+.ie11 .cross-object-fit {
+  background-size: cover;
+  background-position-x: 50%;
+  background-position-y: 20%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.ie11 .cross-object-fit img {
+  opacity: 0;
+}

@@ -1,0 +1,36 @@
+﻿---
+ID: "86689d2c-f4b8-49be-909e-048243ff6fa7"
+Parent: "fdc94fa4-02c8-415b-8742-197e2012d152"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/_Local/Teaser List/Praktiki-Askisi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Alpha;&nu;&alpha;&zeta;&eta;&tau;ά&mu;&epsilon; &xi;&epsilon;&chi;&omega;&rho;&iota;&sigma;&tau;ά &tau;&alpha;&lambda;έ&nu;&tau;&alpha;, &pi;ά&theta;&omicron;&sigmaf; &kappa;&alpha;&iota; &delta;&upsilon;&nu;&alpha;&mu;&iota;&sigma;&mu;ό &sigma;&tau;&omicron;&upsilon;&sigmaf; &phi;&omicron;&iota;&tau;&eta;&tau;έ&sigmaf; &pi;&omicron;&upsilon; &theta;&alpha; &mu;&pi;&omicron;&upsilon;&nu; &sigma;&tau;&eta;&nu; &omicron;&mu;ά&delta;&alpha; &mu;&alpha;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Πρακτική άσκηση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T051501Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{63C03C85-E24D-4691-BD52-A44F9F028988}" querystring="" target="" text="ΕΞΕΡΕΥΝΗΣΤΕ ΤΟ ΠΡΟΓΡΑΜΜΑ" anchor="" url="/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Praktiki-askisi" title="" class="" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{94A11549-EEEA-4D37-9545-3DE83A8734BF}" />

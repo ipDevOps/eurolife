@@ -1,0 +1,28 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@using Wedia.Foundation.Assets.Services
+@using Wedia.Foundation.Assets.Models
+
+@{
+
+  Layout = "MVCOuterLayout.cshtml";
+
+}
+
+@Html.Sitecore().Placeholder("header")
+
+<main id="app" role="main">
+  @Html.Sitecore().Placeholder("page-layout")
+
+  @if (Request.Path.Contains("politiki-cookies"))
+  {
+    <script id="CookieDeclaration" src="https://consent.cookiebot.com/eacb950f-d047-45f0-a5fc-d22a9db7718b/cd.js" type="text/javascript" async></script>
+  }
+</main>
+
+<footer>
+  <div class="footer center--1100 center">
+    @Html.Sitecore().Placeholder("footer")
+  </div>
+</footer>
+

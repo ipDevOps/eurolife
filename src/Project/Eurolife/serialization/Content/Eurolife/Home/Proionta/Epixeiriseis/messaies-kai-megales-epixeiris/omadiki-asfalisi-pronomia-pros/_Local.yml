@@ -1,0 +1,14 @@
+﻿---
+ID: "5a26a608-7143-4f08-86e4-a1134b8ece73"
+Parent: "73ecd58a-7d64-46ba-b23a-2e03e919c940"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/omadiki-asfalisi-pronomia-prosopikou/_Local"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104442Z

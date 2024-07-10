@@ -1,0 +1,30 @@
+﻿---
+ID: "aa00477f-4906-4634-966c-1e07f23582e8"
+Parent: "7bbd7108-bcf6-43eb-9033-a47e0118775e"
+Template: "70dbea9e-f842-4f79-a111-dd9d803526ee"
+Path: /sitecore/content/Eurolife/Home/Blog/Products/Asfaleia
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "038889d7-d183-49db-9087-92c16f9a22c9"
+      Hint: Title
+      Value: Άρθρα σχετικά με την Ασφάλεια
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T091251Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ασφάλεια
+    - ID: "4a13a0c8-178b-49f7-9540-f4f677e737c4"
+      Hint: Subtitle
+      Value: Η γνώση είναι δύναμη
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7370c8ef-7e8e-4acb-9700-70114f1ba73d"
+      Hint: Selected Color
+      Value: "{5531539B-B69C-4389-BB59-9AB4F431474A}"

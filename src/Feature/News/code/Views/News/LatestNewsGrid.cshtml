@@ -1,0 +1,41 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.News
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+@{
+  var mediaUrlOptions = new Sitecore.Resources.Media.MediaUrlOptions
+  {
+    Width = 500,
+    Height = 0
+  };
+
+  var image = string.Empty;
+}
+<section class="home-news center center--1100 m-b-112">
+  <div class="home-news__grid m-t-48">
+    @foreach (var item in Model)
+    {
+      if (item.FieldHasValue(Templates.NewsArticle.Fields.MobileImage))
+      {
+        image = item.ImageUrl(Templates.NewsArticle.Fields.MobileImage, mediaUrlOptions);
+      }
+      else if (item.FieldHasValue(Templates.NewsArticle.Fields.DesktopImage))
+      {
+        image = item.ImageUrl(Templates.NewsArticle.Fields.DesktopImage, mediaUrlOptions);
+      }
+      <article>
+        <a href="@item.Url()">
+          @if (!string.IsNullOrEmpty(image))
+          {
+            <img src="@image" alt="@Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, item, new { DisableWebEdit = true })" />
+          }
+          <div class="content">
+            <span class="date">@Html.Sitecore().Field(Templates.NewsArticle.Fields.Date, item, new { format = "d MMM yyyy", DisableWebEdit = true })</span>
+            <h3>@Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, item, new { DisableWebEdit = true })</h3>
+          </div>
+        </a>
+      </article>
+    }
+  </div>
+</section>   

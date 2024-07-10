@@ -1,0 +1,81 @@
+﻿---
+ID: "5fef8fb5-fcc0-4975-9d1f-93b418bba7d9"
+Parent: "9d7a21d4-0079-4f33-a87b-513d9385e220"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/periexomeno/Attributes Categories/ylikes zimies"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 0
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {311E4C27-756C-4950-AD99-B7A879557AFE}
+        {5DD3EE12-A5A9-4321-A856-AE14CB6A6889}
+        {41E58D22-0DD1-47D2-81E7-C7252632B7A2}
+        {717A68E6-E288-477F-9939-ECC031696B9F}
+        {32A6D538-75A8-46BE-9422-80E056ED1B67}
+        {8E6DBC7C-2D82-4672-81FC-42851E634BA8}
+        {B5BD2EF7-327B-407F-A16A-6D2B8B5E2A17}
+        {F00EBE3A-5CC6-4FD5-8ED1-F1AA34737E4C}
+        {529D57E2-5145-4EE7-9CE6-0988C7A956BC}
+        {6EAAEDC9-F26C-46F0-A181-51AD79EF6ABB}
+        {006FB8A2-256B-49D7-B716-8504A005BA02}
+        {AB409407-38F7-43FF-A874-55860E137848}
+        {2A44B388-DC51-4FEB-B85F-80B1774911BA}
+        {69C2778E-8B2D-4EA5-997B-CC58C67ECB9D}
+        {CAC3BFD0-0FAF-42D9-B046-F06B2808DFC5}
+        {8A849E0D-8B7A-4C7A-ACA9-6296B629ED69}
+        {DA540DD7-C3AE-4F09-A937-F409D548B7AD}
+        {CC811F12-E967-4BCE-862B-5EE10D461B31}
+        {852BF914-4457-4F1B-93A2-AA119DC8AA62}
+        {6C0903F8-18C1-4CE2-AE87-2932B63A49E8}
+        {4C4BF322-D060-4236-B998-04032EB690E7}
+        {CD0FAB4A-82A1-4317-9615-7AA51A4046B8}
+        {B78B3606-D73F-45A4-AF0E-B5AC7052BF38}
+        {3F803C7C-84D9-4D64-B226-4C7CC30B5B11}
+        {63291AB1-FD97-4612-A298-8833EB0D6267}
+        {05DA172E-06D0-4B33-96EC-CCB99482E6B7}
+        {27A37F41-7182-4245-B417-0C0B2F6F12E3}
+        {8070F4FA-1298-4D6D-B16A-EAA39A23F7C7}
+        {0C176CF8-3089-437B-A4AB-C28351E32F67}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203049Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Υλικές Ζημιές
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082718Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

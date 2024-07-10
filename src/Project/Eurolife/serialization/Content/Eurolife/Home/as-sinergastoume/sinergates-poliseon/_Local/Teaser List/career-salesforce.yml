@@ -1,0 +1,36 @@
+﻿---
+ID: "ddc49a22-3dec-4b0e-b1ca-896fa6e1c13f"
+Parent: "b9dfdd5a-6b89-4245-88fa-4e52913daaaf"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/_Local/Teaser List/career-salesforce"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &sigma;&epsilon; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &mu;&epsilon; &epsilon;&pi;&iota;&delta;&iota;ώ&xi;&epsilon;&iota;&sigmaf; &nu;&alpha; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; &epsilon;&pi;&iota;&lambda;έ&xi;&omicron;&upsilon;&nu; &tau;&omicron; &epsilon;&pi;ά&gamma;&gamma;&epsilon;&lambda;&mu;&alpha; &tau;&omicron;&upsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ &Delta;&iota;&alpha;&mu;&epsilon;&sigma;&omicron;&lambda;&alpha;&beta;&eta;&tau;ή
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εξειδικευμένοι Σύμβουλοι Πωλήσεων Εurolife ERB
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T051501Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{CA091A7D-8C6B-4C6B-80A1-078FC9DF89D0}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" url="/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{3AE38ABD-7B9E-4CEA-8BE4-02BF5A6078D7}"></image>

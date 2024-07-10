@@ -1,0 +1,54 @@
+﻿---
+ID: "65d4d884-89a8-4f1d-bc81-29b4aa324e73"
+Parent: "a8491cbc-9b8b-4322-8361-598890d0f758"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/metafores/_Local/panel mikres epixeiriseis astiki euthini/astiki efthini xoros katastimaton/Programs/programma d"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Πρόγραμμα Δ
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {1EA4751C-B20E-49B8-AF62-477C91B060A2}
+        {EBDCE4AE-BFE0-4109-B9F9-8C750B8394BB}
+        {F2359942-3846-4D18-A314-4E5375C998F2}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {1712590B-7B4E-481C-A888-D99A89E97415}
+        {3213CAB9-0C9A-40FC-93C1-45A7084948D8}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {9A0EF1DE-70F2-45A9-ACF8-3C62A9EC915C}

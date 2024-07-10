@@ -1,0 +1,48 @@
+﻿---
+ID: "af109dc0-1a70-4fd7-ab80-65d22cda27b3"
+Parent: "bd82a5f1-4392-4f27-a80a-464dfcfd4aad"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/Astiki-Efthini-Diaxeiristi/_Local/Why Choose Us astiki euthini/aplopoioume katastaseis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <p>We show concern for the others in their time of need. </p>
+        <p>We are a friendly voice when others need one.</p>
+        <p>We look for ways to help rather than deny or hinder.</p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: We have big hearts
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190924T091206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-bf8a17a6-7fff-b6aa-c1bb-31011b7d5ed3" style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &xi;&epsilon;&kappa;ά&theta;&alpha;&rho;&omicron;&iota; &sigma;&tau;&omicron; &pi;&omicron;&iota;&omicron;&iota; &epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &kappa;&alpha;&iota; &tau;&iota; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon;. &Pi;&rho;&omicron;&sigma;&epsilon;&gamma;&gamma;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &mu;&epsilon; &alpha;&pi;&lambda;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &phi;&rho;&omicron;&nu;&tau;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &sigma;&alpha;&sigmaf; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf; &nu;&alpha; &epsilon;ί&nu;&alpha;&iota; &epsilon;ύ&kappa;&omicron;&lambda;&eta;, ά&mu;&epsilon;&sigma;&eta; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&alpha;&nu;&omicron;&eta;&tau;ή.</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απλοποιούμε τις καταστάσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

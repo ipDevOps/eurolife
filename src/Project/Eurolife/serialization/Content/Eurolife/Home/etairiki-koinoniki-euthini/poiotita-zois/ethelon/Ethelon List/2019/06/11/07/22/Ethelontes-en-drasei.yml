@@ -1,0 +1,81 @@
+﻿---
+ID: "97c13034-62fa-40e6-9d0e-5e931eb6e1a0"
+Parent: "5f4191bc-eb7a-415a-ba99-4f2531915c2b"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/ethelon/Ethelon List/2019/06/11/07/22/Ethelontes-en-drasei"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{523D53EF-F084-43D2-A6C7-B623E9903CAE}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T203337Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: «Εθελοντές εν Δράσει» από τη Eurolife ERB
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p>&Omicron; Ό&mu;&iota;&lambda;&omicron;&sigmaf; Eurolife ERB, &sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &tau;&omicron;&upsilon; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&iota;&kappa;ή&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &tau;&omicron;&upsilon; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf;, +&pi;&rho;ά&tau;&omicron;&upsilon;&mu;&epsilon;, &delta;&iota;&omicron;&rho;&gamma;ά&nu;&omega;&sigma;&epsilon; &sigma;&tau;&alpha; &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &tau;&omicron;&upsilon; &Epsilon;&beta;&delta;&omicron;&mu;ά&delta;&alpha; &Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;&iota;&sigma;&mu;&omicron;ύ, &alpha;&pi;ό &tau;&iota;&sigmaf; 16 έ&omega;&sigmaf; &kappa;&alpha;&iota; &tau;&iota;&sigmaf; 20 &Sigma;&epsilon;&pi;&tau;&epsilon;&mu;&beta;&rho;ί&omicron;&upsilon;.</p>
+        <p>
+        &Eta; &epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&alpha; &sigma;&chi;&epsilon;&delta;&iota;ά&sigma;&tau;&eta;&kappa;&epsilon; &kappa;&alpha;&iota; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;ή&theta;&eta;&kappa;&epsilon; &sigma;&epsilon; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&epsilon; &tau;&eta;&nu; ethelon. &Mu;&epsilon; &tau;&omicron; &sigma;ύ&nu;&theta;&eta;&mu;&alpha; &laquo;&Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;έ&sigmaf; &epsilon;&nu; &Delta;&rho;ά&sigma;&epsilon;&iota;&raquo;, &omicron;&iota; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&iota; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&epsilon;ί&chi;&alpha;&nu; &sigma;&epsilon; &mu;&iota;&alpha; &sigma;&epsilon;&iota;&rho;ά &alpha;&pi;ό &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;ό&tau;&eta;&tau;&epsilon;&sigmaf;, &mu;&epsilon; &sigma;&tau;ό&chi;&omicron; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&nu; &sigma;&epsilon; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &chi;&rho;&epsilon;&iota;ά&zeta;&omicron;&nu;&tau;&alpha;&iota; &upsilon;&pi;&omicron;&sigma;&tau;ή&rho;&iota;&xi;&eta; &kappa;&alpha;&iota; &beta;&omicron;ή&theta;&epsilon;&iota;&alpha;. &Kappa;ά&theta;&epsilon; &mu;έ&rho;&alpha; &omicron; Ό&mu;&iota;&lambda;&omicron;&sigmaf; &phi;&iota;&lambda;&omicron;&xi;&epsilon;&nu;&omicron;ύ&sigma;&epsilon; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ή &delta;&rho;ά&sigma;&eta; &sigma;&tau;&iota;&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon;, &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ά &tau;&omicron; έ&rho;&gamma;&omicron; &pi;έ&nu;&tau;&epsilon; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ώ&nu; &Mu;&Kappa;&Omicron;.
+        </p>
+        <p>&Eta; &Epsilon;&beta;&delta;&omicron;&mu;ά&delta;&alpha; &Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;&iota;&sigma;&mu;&omicron;ύ &xi;&epsilon;&kappa;ί&nu;&eta;&sigma;&epsilon; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά, &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;&sigmaf; &nu;&alpha; &upsilon;&pi;&omicron;&tau;&iota;&tau;&lambda;ί&zeta;&omicron;&upsilon;&nu; &pi;&alpha;&lambda;&iota;έ&sigmaf; &tau;&alpha;&iota;&nu;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;&omicron;ύ &kappa;&iota;&nu;&eta;&mu;&alpha;&tau;&omicron;&gamma;&rho;ά&phi;&omicron;&upsilon;, &beta;&omicron;&eta;&theta;ώ&nu;&tau;&alpha;&sigmaf; &mu;&epsilon; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &alpha;&upsilon;&tau;ό &nu;&alpha; &tau;&iota;&sigmaf; &alpha;&pi;&omicron;&lambda;&alpha;ύ&sigma;&omicron;&upsilon;&nu; ά&nu;&theta;&rho;&omega;&pi;&omicron;&iota; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&nu; &delta;&upsilon;&sigma;&kappa;&omicron;&lambda;ί&epsilon;&sigmaf; &sigma;&tau;&eta;&nu; &alpha;&kappa;&omicron;ή. &Mu;&epsilon; &tau;&eta; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&eta; &delta;&rho;ά&sigma;&eta;, &omicron; Ό&mu;&iota;&lambda;&omicron;&sigmaf; Eurolife ERB &upsilon;&pi;&omicron;&sigma;&tau;ή&rho;&iota;&xi;&epsilon; &tau;&eta; &Mu;&Kappa;&Omicron; &Delta;&Rho;&Omega;, &tau;&eta;&sigmaf; &omicron;&pi;&omicron;ί&alpha;&sigmaf; &tau;&omicron; έ&rho;&gamma;&omicron; &alpha;&pi;&epsilon;&upsilon;&theta;ύ&nu;&epsilon;&tau;&alpha;&iota; &kappa;&upsilon;&rho;ί&omega;&sigmaf; &sigma;&epsilon; &kappa;&omega;&phi;ά ή &beta;&alpha;&rho;ή&kappa;&omicron;&alpha; ά&tau;&omicron;&mu;&alpha;.
+        </p>
+        <p>&Sigma;&tau;&eta; &sigma;&upsilon;&nu;έ&chi;&epsilon;&iota;&alpha;, &omicron;&iota; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &mu;&epsilon;&tau;&alpha;&tau;&rho;ά&pi;&eta;&kappa;&alpha;&nu; &sigma;&epsilon; &gamma;&rho;&alpha;&mu;&mu;ή &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή&sigmaf;, &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;&sigmaf; &nu;&alpha; &epsilon;&tau;&omicron;&iota;&mu;ά&zeta;&omicron;&upsilon;&nu; &tau;&sigma;ά&nu;&tau;&epsilon;&sigmaf; &mu;&epsilon; ό&lambda;&alpha; &tau;&alpha; &alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&alpha; &epsilon;ί&delta;&eta; &gamma;&iota;&alpha; &tau;&eta;&nu; έ&nu;&alpha;&rho;&xi;&eta; &tau;&eta;&sigmaf; &nu;έ&alpha;&sigmaf; &sigma;&chi;&omicron;&lambda;&iota;&kappa;ή&sigmaf; &chi;&rho;&omicron;&nu;&iota;ά&sigmaf;. &Alpha;&pi;ό &tau;&epsilon;&tau;&rho;ά&delta;&iota;&alpha; &kappa;&alpha;&iota; &mu;&omicron;&lambda;ύ&beta;&iota;&alpha;, &mu;έ&chi;&rho;&iota; &pi;&lambda;&alpha;&sigma;&tau;&epsilon;&lambda;ί&nu;&eta; &kappa;&alpha;&iota; &tau;έ&mu;&pi;&epsilon;&rho;&epsilon;&sigmaf;, &omicron;&iota; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ά 500 &tau;&sigma;ά&nu;&tau;&epsilon;&sigmaf; &mu;&omicron;&iota;&rho;ά&sigma;&tau;&eta;&kappa;&alpha;&nu; &sigma;&epsilon; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&epsilon;&sigmaf; &mu;&epsilon; &pi;&alpha;&iota;&delta;&iota;ά &pi;&omicron;&upsilon; &zeta;&omicron;&upsilon;&nu; &kappa;ά&tau;&omega; &alpha;&pi;ό &delta;ύ&sigma;&kappa;&omicron;&lambda;&epsilon;&sigmaf; &sigma;&upsilon;&nu;&theta;ή&kappa;&epsilon;&sigmaf;, &mu;έ&sigma;&omega; &tau;&eta;&sigmaf; &Mu;&Kappa;&Omicron; Έ&nu;&alpha; &Pi;&alpha;&iota;&delta;ί &ndash; Έ&nu;&alpha;&sigmaf; &Kappa;ό&sigma;&mu;&omicron;&sigmaf;.</p>
+        <p>
+        &Omicron;&iota; &laquo;&Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;έ&sigmaf; &epsilon;&nu; &Delta;&rho;ά&sigma;&epsilon;&iota;&raquo; &sigma;&upsilon;&nu;έ&chi;&iota;&sigma;&alpha;&nu; &tau;&omicron; έ&rho;&gamma;&omicron; &tau;&omicron;&upsilon;&sigmaf;, &phi;&tau;&iota;ά&chi;&nu;&omicron;&nu;&tau;&alpha;&sigmaf; hygiene kits &mu;&epsilon; &epsilon;ί&delta;&eta; &pi;&rho;ώ&tau;&eta;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&eta;&sigmaf;, ό&pi;&omega;&sigmaf; &sigma;&alpha;&pi;&omicron;ύ&nu;&iota; &kappa;&alpha;&iota; &omicron;&delta;&omicron;&nu;&tau;ό&beta;&omicron;&upsilon;&rho;&tau;&sigma;&epsilon;&sigmaf;, &gamma;&iota;&alpha; ά&sigma;&tau;&epsilon;&gamma;&omicron;&upsilon;&sigmaf;, &chi;&rho;ό&nu;&iota;&alpha; ά&nu;&epsilon;&rho;&gamma;&omicron;&upsilon;&sigmaf;, &epsilon;&upsilon;ά&lambda;&omega;&tau;&epsilon;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&epsilon;&sigmaf; &kappa;&alpha;&iota; &eta;&lambda;&iota;&kappa;&iota;&omega;&mu;έ&nu;&omicron;&upsilon;&sigmaf;. &Sigma;&tau;&omicron; &tau;έ&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; &eta;&mu;έ&rho;&alpha;&sigmaf;, &omicron;&iota; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&iota; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &pi;&alpha;&rho;έ&delta;&omega;&sigma;&alpha;&nu; &sigma;&tau;&eta; &Mu;&Kappa;&Omicron; Emfasis Foundation 700 hygiene kits, &gamma;&iota;&alpha; &nu;&alpha; &mu;&omicron;&iota;&rho;&alpha;&sigma;&tau;&omicron;ύ&nu; &sigma;&epsilon; &sigma;&upsilon;&nu;&alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &mu;&alpha;&sigmaf;.
+        </p>
+        <p>&Sigma;&epsilon;&iota;&rho;ά &epsilon;ί&chi;&alpha;&nu; &tau;&eta;&nu; &epsilon;&pi;ό&mu;&epsilon;&nu;&eta; &eta;&mu;έ&rho;&alpha; &tau;&alpha; family kits &gamma;&iota;&alpha; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &epsilon;&upsilon;ά&lambda;&omega;&tau;&epsilon;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&epsilon;&sigmaf;. &Omicron;&iota; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&iota; &tau;&eta;&sigmaf; Eurolife ERB &sigma;&upsilon;&sigma;&kappa;&epsilon;ύ&alpha;&sigma;&alpha;&nu; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ά 700 &kappa;&iota;&beta;ώ&tau;&iota;&alpha; &mu;&epsilon; &tau;&rho;ό&phi;&iota;&mu;&alpha; &pi;&rho;ώ&tau;&eta;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&eta;&sigmaf;, ό&pi;&omega;&sigmaf; &gamma;ά&lambda;&alpha;, &mu;&alpha;&kappa;&alpha;&rho;ό&nu;&iota;&alpha; &kappa;&alpha;&iota; &rho;ύ&zeta;&iota;. &Eta; &delta;&rho;ά&sigma;&eta; &upsilon;&pi;&omicron;&sigma;&tau;ή&rho;&iota;&xi;&epsilon; &tau;&omicron; έ&rho;&gamma;&omicron; &tau;&eta;&sigmaf; &Mu;&Kappa;&Omicron; Equal Society, &eta; &omicron;&pi;&omicron;ί&alpha; &alpha;&nu;έ&lambda;&alpha;&beta;&epsilon; &nu;&alpha; &mu;&omicron;&iota;&rho;ά&sigma;&epsilon;&iota; &tau;&alpha; &kappa;&iota;&beta;ώ&tau;&iota;&alpha; &sigma;&tau;&iota;&sigmaf; &omega;&phi;&epsilon;&lambda;&omicron;ύ&mu;&epsilon;&nu;&epsilon;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&epsilon;&sigmaf;.
+        </p>
+        <p>&Eta; &Epsilon;&beta;&delta;&omicron;&mu;ά&delta;&alpha; &Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;&iota;&sigma;&mu;&omicron;ύ &omicron;&lambda;&omicron;&kappa;&lambda;&eta;&rho;ώ&theta;&eta;&kappa;&epsilon; &mu;&epsilon; &tau;&eta;&nu; &pi;&rho;&omicron;&epsilon;&tau;&omicron;&iota;&mu;&alpha;&sigma;ί&alpha; &pi;&alpha;&iota;&delta;&iota;&kappa;ώ&nu; snacks &gamma;&iota;&alpha; &tau;&omicron; &sigma;&chi;&omicron;&lambda;&epsilon;ί&omicron;. &Pi;&rho;&omicron;&omega;&theta;ώ&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; &alpha;&xi;ί&alpha; &tau;&eta;&sigmaf; &sigma;&omega;&sigma;&tau;ή&sigmaf; &kappa;&alpha;&iota; &iota;&sigma;&omicron;&rho;&rho;&omicron;&pi;&eta;&mu;έ&nu;&eta;&sigmaf; &delta;&iota;&alpha;&tau;&rho;&omicron;&phi;ή&sigmaf;, &omicron;&iota; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&iota; &tau;&eta;&sigmaf; Eurolife ERB έ&phi;&tau;&iota;&alpha;&xi;&alpha;&nu; 300 &pi;&alpha;&kappa;έ&tau;&alpha; &mu;&epsilon; snacks &kappa;&alpha;&iota; &chi;&upsilon;&mu;&omicron;ύ&sigmaf;, &gamma;&iota;&alpha; &nu;&alpha; &mu;&omicron;&iota;&rho;&alpha;&sigma;&tau;&omicron;ύ&nu;, &sigma;&tau;&eta; &sigma;&upsilon;&nu;έ&chi;&epsilon;&iota;&alpha;, &sigma;&tau;&alpha; &pi;&alpha;&iota;&delta;&iota;ά &pi;&omicron;&upsilon; &phi;&rho;&omicron;&nu;&tau;ί&zeta;&epsilon;&iota; &eta; &Mu;&Kappa;&Omicron; &Phi;ί&lambda;&omicron;&iota; &tau;&omicron;&upsilon; &Pi;&alpha;&iota;&delta;&iota;&omicron;ύ.</p>
+        <p>
+        &Eta; &Alpha;&nu;&alpha;&sigma;&tau;&alpha;&sigma;ί&alpha; &Kappa;&alpha;&phi;ί&rho;&eta;, &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &tau;&eta;&sigmaf; ethelon, &delta;ή&lambda;&omega;&sigma;&epsilon; ό&tau;&iota; &laquo;&Chi;&alpha;&iota;&rho;ό&mu;&alpha;&sigma;&tau;&epsilon; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&alpha; &gamma;&iota;&alpha; &tau;&eta; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ή &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&mu;&epsilon; &mu;&epsilon; &tau;&omicron;&nu; Ό&mu;&iota;&lambda;&omicron; Eurolife ERB, &alpha;&pi;&omicron;&tau;&epsilon;&lambda;ώ&nu;&tau;&alpha;&sigmaf; &tau;&omicron;&nu; &sigma;&upsilon;&nu;&delta;&epsilon;&tau;&iota;&kappa;ό &kappa;&rho;ί&kappa;&omicron; &mu;&epsilon; &tau;&eta;&nu; &Kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &tau;&omega;&nu; &Pi;&omicron;&lambda;&iota;&tau;ώ&nu; &kappa;&alpha;&iota; έ&chi;&omicron;&nu;&tau;&alpha;&sigmaf; &alpha;&phi;&omicron;&upsilon;&gamma;&kappa;&rho;&alpha;&sigma;&tau;&epsilon;ί &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&omega;&nu; &omicron;&rho;&gamma;&alpha;&nu;&iota;&sigma;&mu;ώ&nu;, &pi;&omicron;&upsilon; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&epsilon;ί&chi;&alpha;&nu; &sigma;&tau;&eta; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&eta; &delta;&rho;ά&sigma;&eta;&raquo;.
+        </p>
+        <p>&Omicron;&iota; &laquo;&Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;έ&sigmaf; &epsilon;&nu; &Delta;&rho;ά&sigma;&epsilon;&iota;&raquo; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&epsilon;ί&chi;&alpha;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ά &sigma;&tau;&iota;&sigmaf; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &alpha;&pi;έ&delta;&epsilon;&iota;&xi;&alpha;&nu; ό&tau;&iota; &alpha;&phi;&iota;&epsilon;&rho;ώ&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &mu;ό&lambda;&iota;&sigmaf; &lambda;ί&gamma;&alpha; &lambda;&epsilon;&pi;&tau;ά &alpha;&pi;ό &tau;&omicron; &chi;&rho;ό&nu;&omicron; &tau;&omicron;&upsilon;&sigmaf;, ή&tau;&alpha;&nu; &alpha;&rho;&kappa;&epsilon;&tau;ό &gamma;&iota;&alpha; &nu;&alpha; &kappa;ά&nu;&omicron;&upsilon;&nu; &tau;&eta; &delta;&iota;&alpha;&phi;&omicron;&rho;ά!</p>
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: Ο Όμιλος Eurolife ERB, στο πλαίσιο του προγράμματος εταιρικής κοινωνικής του ευθύνης, +πράτουμε, διοργάνωσε στα γραφεία του Εβδομάδα Εθελοντισμού, από τις 16 έως και τις 20 Σεπτεμβρίου.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{92FE9C59-3A0D-4C4D-9358-3EFFCE0CFA2E}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: «Εθελοντές εν Δράσει» από τη Eurolife ERB
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20190920T104100Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: «Εθελοντές εν Δράσει» από τη Eurolife ERB
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T072214Z

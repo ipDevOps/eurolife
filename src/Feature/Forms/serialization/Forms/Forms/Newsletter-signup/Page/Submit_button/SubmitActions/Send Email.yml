@@ -1,0 +1,29 @@
+﻿---
+ID: "29fb837f-4c21-486c-a6c0-2d07cddb3c91"
+Parent: "95143c2d-3a45-480c-a94a-4aa2777f23c8"
+Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
+Path: "/sitecore/Forms/Newsletter-signup/Page/Submit_button/SubmitActions/Send Email"
+DB: master
+SharedFields:
+- ID: "5c796924-3f06-4d1f-8510-8ad9a4244477"
+  Hint: Parameters
+  Value: |
+    {"messageId":"4ac35737-48d7-4e12-83dc-afeef7dc48c9","type":"fixedAddress","fixedEmailAddress":"g.gouvitsas@wedia.gr","fieldEmailAddressId":"","updateCurrentContact":true,"fileUploadFieldsToAttach":[]}
+- ID: "abc57b6d-5542-4ab9-a889-106225a032e6"
+  Hint: Submit Action
+  Value: "{72CCAB13-E73F-4C75-8742-F2FFDF141E31}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T140337Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

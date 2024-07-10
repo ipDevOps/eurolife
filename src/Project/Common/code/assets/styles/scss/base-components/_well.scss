@@ -1,0 +1,60 @@
+﻿.well.bg-life-insurance {
+  padding: 64px 0 8px;
+
+  .triplette {
+    position: relative;
+    align-items: baseline;
+
+    .stats__item {
+      text-align: center;
+      color: $dusky-blue;
+      background: $color-life-insurance-soft;
+      position: relative;
+      z-index: 1;
+      flex-basis: 100%;
+      padding: 20px 0;
+      margin: 20px 0;
+
+      @include breakpoint(820) {
+        flex-basis: 49%;
+      }
+
+      @include breakpoint(820) {
+        flex-basis: 30%;
+      }
+
+      &:first-child {
+        margin-top: 0;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      img {
+        margin: 0 auto;
+      }
+    }
+
+    &:after {
+      content: "";
+      position: absolute;
+      width: 2px;
+      height: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      top: 0;
+      background: $dusky-blue;
+
+      @include breakpoint(820) {
+        width: calc(100% - 40px);
+        height: 2px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+      z-index: 0;
+    }
+  }
+}

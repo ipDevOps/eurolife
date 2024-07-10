@@ -1,0 +1,29 @@
+﻿---
+ID: "9d46c7e8-75d6-4e83-8e74-7c9ad643a425"
+Parent: "3aa558c0-787b-4223-a12c-03f1d88a2050"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-ygeias/_Local/Highlights claims 1"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 244
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190911T140556Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104538Z

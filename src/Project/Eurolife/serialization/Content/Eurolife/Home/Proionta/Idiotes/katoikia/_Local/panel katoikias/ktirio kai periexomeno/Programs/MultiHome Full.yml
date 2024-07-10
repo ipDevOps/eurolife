@@ -1,0 +1,68 @@
+﻿---
+ID: "cb91faa0-e613-4eb6-af63-5220ac83ce99"
+Parent: "7d5097cc-35c9-45c7-b3a3-55a6945d276d"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Programs/MultiHome Full
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203042Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: MultiHome Ολοκληρωμένο
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {68BA308D-5EFC-459D-B767-4DAD2EF77937}
+        {3312479A-65A9-46EE-BFD2-C4DADC8BB1D3}
+        {000579D0-C473-4F05-BA9E-813E2E43DB5C}
+        {E06211D0-1BAE-4148-A48C-899180B3A06E}
+        {7A0243AC-543A-47C1-B772-6401EFC7C3E6}
+        {33C840E5-9D33-49BF-A12E-1C8FA994E672}
+        {F2B8F379-BE3F-43EC-AF6F-1A35AAD70D59}
+        {A28CFC01-0FB0-4B1D-8C42-2A3DB3B166AC}
+        {76308895-0ACB-461E-BCD8-C5EDAADC912A}
+        {12435E73-D7D3-4D94-8837-E4A77AF564FF}
+        {CE2B3CB6-E6C8-4849-AEF8-BCD4BF166C50}
+        {50D95265-9C2B-4589-BC24-B21E867E3386}
+        {07E21891-A0FF-40A5-8FCF-704ADB20C6A6}
+        {AF2EE9EE-25F9-4EF3-9331-0B0D83B30E0C}
+        {0CF29496-9B58-44EA-9C9B-12FC7F1C7D97}
+        {592AE865-339C-441F-A625-67296075A815}
+        {AE57D950-EAB3-41A3-8F52-62E789F150F3}
+        {ED651222-313B-464F-8D99-FC2D4B7AAFF2}
+        {AEDBF3F3-B4B9-4BC6-B069-86C1B0BF4D9A}
+        {6D7983AA-86BD-480A-98DE-B7060715FBB6}
+        {7DD23B78-A3C1-4973-93B0-6107E486625F}
+        {7089DD31-ABBC-4289-87A7-5D45D5C7BCD4}
+        {A4E2374E-83A9-496A-B0D4-286441BD4BEE}
+        {18976EDB-9774-413C-AF82-18C3568A99F1}
+        {44B14A4C-7A6D-4422-9160-9FCBB10EA6F8}
+        {6A1F6A6D-CBD4-424D-8D9A-CC6C2BD1318B}
+        {C9C8D0E0-8E24-46EE-A827-CA665EBFB160}
+        {D79CDB0C-48F5-4A83-AB74-1411D0EFD057}
+        {08DDB494-9C51-40C7-BE26-B7E9A827C879}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082929Z
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Save Drive Plus
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

@@ -1,0 +1,18 @@
+﻿---
+ID: "27d81a98-b7df-4d9d-9999-a46156da982b"
+Parent: "72477533-5ba1-4b77-96e7-408527460f6c"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/Oikonomika-stoixeia-omilou/Oikonomikes katastaseis Atomika/2019/10/04"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T124240Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

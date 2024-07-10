@@ -1,0 +1,32 @@
+﻿@using Wedia.Feature.EurolifeCalculatorTool.Models
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model CalculatorToolPageViewModel
+
+<section class="center center--650 m-b-32 t-c">
+  <h1 class="m-b-8 tool-title">@Html.Sitecore().Dictionary("/EurolifeCalculatorTool/Step1/Title", "Title")</h1>
+</section>
+
+<div class="target-group radio-targeted">
+  @foreach (var targetItem in Model.AvailableTargetGroups)
+  {
+    <div class="target-group__item">
+      <input type="radio" id="@targetItem.Key" name="target" value="@targetItem.Key" data-title="@targetItem.Title"
+             data-image="@targetItem.Image">
+      <label for="@targetItem.Key"></label>
+
+      <div class="target-group__icon">
+        <img src="@targetItem.Image" />
+      </div>
+
+      <h2 class="target-group__title t-c">
+        @targetItem.Title
+      </h2>
+
+      <div class="target-group__desc t-c">
+        @targetItem.Description
+      </div>
+    </div>
+  }
+</div>

@@ -1,0 +1,59 @@
+﻿---
+ID: "868dc36e-c2f5-4e0a-b5ad-c83093265e95"
+Parent: "0d51e54c-6b05-45c8-8163-09a9a269db17"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/Teasers/Our History"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Ό&lambda;&alpha; &alpha;&upsilon;&tau;ά &tau;&alpha; &chi;&rho;ό&nu;&iota;&alpha; &sigma;&tau;&epsilon;&kappa;ό&mu;&alpha;&sigma;&tau;&epsilon; &delta;ί&pi;&lambda;&alpha; &sigma;&alpha;&sigmaf;, &gamma;&iota;&alpha; &nu;&alpha; &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&phi;έ&rho;&nu;&epsilon;&tau;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&alpha; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ά
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Η ιστορία μας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T131444Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{1A457617-C901-4BB3-ACDE-19E74845262E}" querystring="" text="ΔΕΙΤΕ ΠΩΣ" linktype="internal" url="/Eurolife/Home/gnoriste-mas/our-story" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{B6C48544-8202-43FE-B963-1C5A64357EFC}" />
+    - ID: "f51dd24c-64be-4832-9f98-e03f9e84fa63"
+      Hint: TeaserDownloadCTA
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Η ιστορία μας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T084740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{E7088082-A118-422D-86EF-19D553D3D47F}" ></image>

@@ -1,0 +1,53 @@
+﻿---
+ID: "697a709c-c21c-419e-98be-623f027cdbf9"
+Parent: "3aae9479-94ce-4687-939f-3cc089d0d59c"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sixnes-erotiseis/_Local/geniki-syntaxi-apotamiefsi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191012T125012Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {0A0F7D91-F7F0-486C-857E-9EC2666FC5BE}
+        {82D4A99C-CBFD-4A8E-83D9-DCEA07FE44DD}
+        {4DB356C5-0F97-4940-838A-586FE553FC83}
+        {528F2ADB-DAD2-44EB-81EF-B373897917C8}
+        {DBE86F1C-5329-4C7A-B7A3-27C855A2EB13}
+        {88AEC898-2B7B-4F53-A91C-DE83EC923110}
+        {0805C01B-3D91-4AB9-9F4A-291E9D52F79F}
+        {89B7D6E7-A4B0-493C-A378-7B0C048CF6A7}
+        {001800EA-6463-4FEE-A3EA-9AAE4CD3D897}
+        {253FE092-5438-4DE5-BEA8-B5A2C5D0306E}
+        {643BBBE1-C526-4ED3-A57F-8F4ADBE10DE5}
+        {33CAD068-2216-4D08-9853-9B53B0CEFCD4}
+        {1D27D3A0-97BA-4E47-941B-D6A117C4AF2C}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T080516Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "7ec1f568-6626-4373-a18b-921593078af2"
+Parent: "0c97f573-9bad-4b42-aefb-0b7b9f68914b"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Aftokinito/Poia einai ta synergazomena synergeia tis etaireias opou mporo na ftiaxo to aytokinito mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Ποια είναι τα συνεργαζόμενα συνεργεία της εταιρείας όπου μπορώ να φτιάξω το αυτοκίνητό μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094136Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="text-align: left; text-decoration: none; letter-spacing: normal; color: #000000;">&Delta;&epsilon;ί&tau;&epsilon; &tau;&eta; &lambda;ί&sigma;&tau;&alpha; &mu;&epsilon; ό&lambda;&alpha; &tau;&alpha; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&alpha; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&epsilon;ί&alpha; </span><span style="text-align: left; text-decoration: none; letter-spacing: normal; color: #000000;"><a rel="noopener noreferrer" href="http://www.eurolife.gr/el/Products/Car/mechanics" target="_blank">&epsilon;&delta;ώ</a></span><span style="text-align: left; text-decoration: none; letter-spacing: normal; color: #000000;">.</span>

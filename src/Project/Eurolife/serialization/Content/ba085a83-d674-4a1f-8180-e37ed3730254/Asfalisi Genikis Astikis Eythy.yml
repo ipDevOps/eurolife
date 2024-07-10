@@ -1,0 +1,28 @@
+﻿---
+ID: "b75deadb-8b69-4bfc-99b0-79b234b551e3"
+Parent: "ba085a83-d674-4a1f-8180-e37ed3730254"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local/highlights mikres epixeiriseis/Asfalisi Genikis Astikis Eythynis"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Ασφάλιση Γενικής Αστικής Ευθύνης
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: &Pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &kappa;ά&lambda;&upsilon;&psi;&eta; &gamma;&iota;&alpha; &upsilon;&lambda;&iota;&kappa;έ&sigmaf; &zeta;&eta;&mu;&iota;έ&sigmaf;, &sigma;&omega;&mu;&alpha;&tau;&iota;&kappa;ή &beta;&lambda;ά&beta;&eta; ή &kappa;&alpha;&iota; &gamma;&iota;&alpha; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha; &zeta;&omega;ή&sigmaf;, &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &pi;&rho;&omicron;&kappa;&lambda;&eta;&theta;&epsilon;ί &sigma;&epsilon; &tau;&rho;ί&tau;&omicron;&upsilon;&sigmaf; &alpha;&pi;ό ά&delta;&iota;&kappa;&epsilon;&sigmaf; &pi;&rho;ά&xi;&epsilon;&iota;&sigmaf; ή &pi;&alpha;&rho;&alpha;&lambda;&epsilon;ί&psi;&epsilon;&iota;&sigmaf; &delta;&iota;&kappa;έ&sigmaf; &sigma;&alpha;&sigmaf; ή &tau;&omega;&nu; &pi;&rho;&omicron;&sigma;ώ&pi;&omega;&nu; &pi;&omicron;&upsilon; έ&chi;&epsilon;&tau;&epsilon; &sigma;&tau;&eta;&nu; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &pi;&omicron;&upsilon; &sigma;&chi;&epsilon;&tau;ί&zeta;&omicron;&nu;&tau;&alpha;&iota; ά&mu;&epsilon;&sigma;&alpha; &kappa;&alpha;&iota; &alpha;&pi;&omicron;&kappa;&lambda;&epsilon;&iota;&sigma;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&eta;&nu; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha; &tau;&omega;&nu; &chi;ώ&rho;&omega;&nu; &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;ή&sigmaf; &sigma;&alpha;&sigmaf;.

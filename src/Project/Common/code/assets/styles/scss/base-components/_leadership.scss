@@ -1,0 +1,306 @@
+/*------------------------------------*\
+  #TRIPLETTES
+\*------------------------------------*/
+
+/*leadership slider*/
+.leadership-slider {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  padding-right: 20px;
+
+  @include breakpoint(1700) {
+    margin-right: calc( (100vw - 1700px ) / 2 + 60px);
+  }
+
+  @include breakpoint(700) {
+    padding-right: 60px;
+  }
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+
+    @include breakpoint(820) {
+      width: calc(100% - 120px);
+    }
+
+    @include breakpoint(1140) {
+      width: calc(100% - 160px);
+    }
+
+    width: 100%;
+    height: calc(100% - 90px);
+    margin-top: 160px;
+    background-color: #eee;
+    transform: translateX(-50%);
+  }
+}
+
+.leadership-slider--image {
+  flex-basis: 100%;
+  max-width: 100%;
+  padding-right:100px;
+
+  @include breakpoint(700) {
+    flex-basis: 70%;
+    max-width: 70%;
+    padding-right: 0;
+  }
+
+  .slick-slide {
+    margin: 0 20px;
+    overflow: hidden;
+
+    img {
+      transform: scale(1.2);
+      filter: blur(10px);
+      background-color: rgba(255, 255, 255, 0.57);
+      transition: filter 0.5s ease-in-out, transform 0.5s ease-in-out;
+    }
+  }
+
+  .slick-current {
+    img {
+      filter: blur(0);
+      transform: scale(1);
+      background-color: rgba(255, 255, 255, 0.57);
+    }
+  }
+}
+
+.leadership-slider--text{
+  flex-basis: 100%;
+  max-width: 100%;
+  padding:50px 20px 0 20px;
+  @include breakpoint(1140){
+    padding:50px 40px 0 72px;
+  }
+  @include breakpoint(700){
+    flex-basis: 30%;
+    max-width: 30%;
+  }
+}
+
+.leadership__arrows {
+  position: absolute;
+  z-index: 2;
+  bottom: auto;
+  right: 23px;
+  top: 110px;
+
+  @include breakpoint(700) {
+    position: absolute;
+    z-index: 2;
+    bottom: -40px;
+    right: 33px;
+    top: auto;
+  }
+
+  @include breakpoint(820) {
+    bottom: -55px;
+    right: 93px;
+  }
+}
+
+.slick-arrow{
+    margin:0 5px;
+    cursor: pointer;
+    opacity: 1;
+    transition:opacity 1000ms ease;
+}
+
+.slick-disabled{
+  opacity: 0.4;
+  transition:opacity 200ms ease;
+}
+
+.leadership-slider__quote{
+  line-height: 1.7;
+  font-weight: 300;
+  max-height: 140px;
+
+  &:before{
+    content:"";
+    width:28px;
+    display: block;
+    height:20px;
+    margin-top:50px;
+    margin-bottom: 8px;
+    background-image: url("data:image/svg+xml;utf8,<svg width='28px' height='20px' viewBox='0 0 28 20' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g id='About-us' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd'><g id='T6---About-Us---1440' transform='translate(-903.000000, -2254.000000)' fill='%23111111' fill-rule='nonzero'><g id='Group-20' transform='translate(-242.000000, 1908.000000)'><g id='ic_format_quote_48px' transform='translate(1159.000000, 356.000000) scale(-1, -1) translate(-1159.000000, -356.000000) translate(1145.000000, 346.000000)'><path d='M2,20 L8,20 L12,12 L12,0 L0,0 L0,12 L6,12 L2,20 Z M18,20 L24,20 L28,12 L28,0 L16,0 L16,12 L22,12 L18,20 Z' id='Shape'></path></g></g></g></g></svg>");
+    @include breakpoint(700){
+      margin-top:120px;
+    }
+  }
+
+}
+
+.leadership-slider__position{
+  color:$color-black-faded;
+  font-size:14px;
+}
+
+.leadership{
+  display: grid;
+  grid-template-columns: 1fr;
+  @include breakpoint(540) {
+    grid-template-columns: 1fr 1fr;
+  }
+  @include breakpoint(700) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  @include breakpoint(1140) {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+  grid-column-gap: 17px;
+  grid-row-gap: 24px;
+}
+
+.leadership__image{
+  margin-bottom: 24px;
+}
+
+.leadership__name{
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-bottom: 0;
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+.leadership__position{
+  margin-left: 16px;
+  font-size: 14px;
+  line-height: 1.2;
+  color: $color-black-faded;
+  font-weight: 400;
+  margin-top:8px;
+}
+
+.leadership__member{
+  box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0);
+  transition: box-shadow 300ms ease-in-out;
+}
+.no-touch{
+  .leadership__member:hover{
+    box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.2);
+  }
+}
+
+
+/*inner page*/
+.leader{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  //overflow: hidden;
+  @include breakpoint-rev(820){
+    flex-direction: column-reverse;
+  }
+}
+
+.leader__photo {
+  flex-basis: 50%;
+  text-align: right;
+  margin-bottom: 112px;
+
+  @include breakpoint-rev(820) {
+    padding-top: 30px;
+    padding-bottom: 64px;
+    position: relative;
+
+    &:after {
+      content: "";
+      background: #e6ddca;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: -50%;
+      right: -50%;
+      height: 100%;
+      z-index: -1;
+      margin-bottom: 48px;
+    }
+  }
+}
+
+.leader__info{
+  padding-bottom: 45px;
+  @include breakpoint(820){
+    padding-left: 90px;
+    padding-bottom:20px;
+    padding-top:80px;
+    flex-basis:50%;
+  }
+}
+
+.leader__position{
+  margin-bottom: 90px;
+  font-size: 14px;
+  font-weight: 400;
+  color:$color-black-faded;
+}
+
+.leader__name{
+  margin-top: 60px;
+  margin-bottom: 8px;
+  @include breakpoint(820) {
+    max-width: 370px;
+    margin-top:0;
+  }
+  font-size: 32px;
+  line-height: 1.2;
+  font-weight: 500;
+}
+
+
+.leader__quote{
+  position: relative;
+  font-size: 18px;
+  font-weight: 500;
+  @include breakpoint(820) {
+    max-width: 340px;
+  }
+    margin-left: 30px;
+
+  &:before {
+    content: "";
+    width:146px;
+    height:104px;
+    position: absolute;
+    left: -30px;
+    top: -50px;
+    z-index: -1;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='146' height='104' viewBox='0 0 146 104'><path fill='%23111' fill-rule='nonzero' d='M135.667 0h-31L84 41.6V104h62V41.6h-31L135.667 0zm-84 0h-31L0 41.6V104h62V41.6H31L51.667 0z' opacity='.1'/></svg>");
+  }
+}
+
+.leader-cv{
+  .leader-cv{
+    padding:0;
+  }
+  @include breakpoint(820) {
+    background-color: #eee;
+  }
+  line-height: 1.75;
+  p{
+    margin-bottom: 30px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

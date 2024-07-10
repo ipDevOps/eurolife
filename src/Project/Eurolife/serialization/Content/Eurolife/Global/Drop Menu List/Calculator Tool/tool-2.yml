@@ -1,0 +1,32 @@
+﻿---
+ID: "0d158da1-befe-4a0c-a8d2-3fa255e6ad34"
+Parent: "3b68b535-6c4c-470d-bd8f-7686f1201166"
+Template: "7d36d3d3-f756-40c0-9245-9a2104401189"
+Path: "/sitecore/content/Eurolife/Global/Drop Menu List/Calculator Tool/tool-2"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210204T120219Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{30B6B90F-14AC-470B-A3E6-B59CB990BC21}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="Calculation tool title" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{766C59CC-6B65-465A-B40E-447BB2665D55}" />
+    - ID: "d7bd8d43-de42-4bde-8e7e-ddfce607a9c6"
+      Hint: Class
+      Value: purple
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Calculator tool

@@ -1,0 +1,25 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Storyboard
+@using Wedia.Foundation.Theming.Extensions
+@model Sitecore.Data.Items.Item
+
+@{
+    var bgClass = Model.GetBackgroundClass(Templates.StoryboardItem.Fields.BackgroundClass);
+}
+
+<li class="year-item">
+  <div class="timeline__date @bgClass">@Html.Sitecore().Field(Templates.StoryboardItem.Fields.Year, Model)</div>
+  <div class="timeline__events timeline__events--hightlighted @bgClass">
+    <div class="p-48 timeline__text">
+      <div class="inner">
+        @Html.Sitecore().Field(Templates.StoryboardItem.Fields.Content, Model)
+      </div>
+    </div>
+    <div class="timeline__events__image">
+      @Html.Sitecore().ImageField(Templates.StoryboardItem.Fields.Image, Model)
+    </div>
+  </div>
+  <span class="dot"></span>
+</li>
+
+

@@ -1,0 +1,29 @@
+﻿---
+ID: "26786ce0-2ed6-4b9b-b177-2b566c322fd6"
+Parent: "18ed5a25-0139-452c-95d1-285ede605878"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/diatrofi/_Local/Teaser List/Side Image CTA Teaser"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <b style="color: rgb(34, 34, 34); font-size: small; background-color: rgb(255, 255, 255); font-family: &quot;Times New Roman&quot;, serif;"><i><span lang="EL" style="font-family: Arial, sans-serif; color: black;">Μικρά μυστικά για καλύτερη απόδοση στο γραφείο</span></i></b>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Μικρά μυστικά για καλύτερη απόδοση στο γραφείο
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T092458Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{471C178F-B697-4FBE-B90E-FF0BF901A02E}" />

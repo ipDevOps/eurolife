@@ -1,0 +1,39 @@
+﻿---
+ID: "4b2f9f03-7e07-4c5d-a58a-e8e78e7350b6"
+Parent: "e30f09af-869a-47ff-adb4-f5126ad0ba6b"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Mazi-epitigxanoume/_Local/Highlights Circles Group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {CAE9847E-4F14-47F7-8317-6B6CB84737E3}
+        {D054400C-0D24-45DA-BF86-B853728A31BF}
+        {7DECC948-C0D2-4598-A426-4FCB4278D8EC}
+        {D40BC1C8-5F27-491A-8EC2-CA09D122ED54}
+        {2823D765-326A-42C5-A740-4A474A754E42}
+        {9FBE2CE1-8BFB-4406-A8EB-77DA794364D0}
+        {287B5137-B70D-44AB-B049-38505FF8AD90}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T124709Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Παροχές & Προνόμια
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: 
+    - ID: "db34680e-d68f-40df-835d-41238824a281"
+      Hint: HighlightClass
+      Type: TreelistEx
+      Value: 

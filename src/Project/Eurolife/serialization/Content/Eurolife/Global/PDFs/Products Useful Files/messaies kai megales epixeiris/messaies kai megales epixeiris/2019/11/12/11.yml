@@ -1,0 +1,18 @@
+﻿---
+ID: "edefc0fe-6824-4398-9068-f2921609d43d"
+Parent: "5e354ef9-fe73-4b64-8bb2-87554cb2ddf1"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/messaies kai megales epixeiriseis/messaies kai megales epixeiriseis vasika eggrafa pliroforion/2019/11/12/11
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T111524Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

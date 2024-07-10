@@ -1,0 +1,160 @@
+﻿---
+ID: "373d831e-9c31-47da-888c-986dd57b7e45"
+Parent: "8c9dfcd5-d2b6-47de-b9a4-21691658bb7c"
+Template: "1fb605bc-5576-4564-bfdd-d219ee87aaef"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/diatrofi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1"
+      s:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{962EFEB0-EA36-476E-AC5E-168D229EA058}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{06C7EE3E-E543-45E1-BA94-2A49517F9A4A}"
+              p:before="*"
+              s:ds="{46A66445-F0DD-4FAB-B2FF-598DDD551DC8}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{C34AE041-2561-4D53-B398-3194ADC61EB8}-0" />
+            <r
+              uid="{3FCEE0CD-1D97-484F-B7FB-E0ECE68C1C47}"
+              p:after="r[@uid='{06C7EE3E-E543-45E1-BA94-2A49517F9A4A}']"
+              s:ds="{62858770-49AD-4746-9AA9-6643A3602C5C}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{C34AE041-2561-4D53-B398-3194ADC61EB8}-0" />
+            <r
+              uid="{FF120804-945F-4265-9354-B36B590A525F}"
+              p:after="r[@uid='{3FCEE0CD-1D97-484F-B7FB-E0ECE68C1C47}']"
+              s:ds="{26786CE0-2ED6-4B9B-B177-2B566C322FD6}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{C34AE041-2561-4D53-B398-3194ADC61EB8}-0" />
+            <r
+              uid="{9015BC53-2AE3-455A-A1DD-879A04CC5E07}">
+              <p:d />
+            </r>
+            <r
+              uid="{B56729DD-5327-4878-810E-2008367A3B50}"
+              p:after="r[@uid='{8151902F-3D6D-4FD4-832B-AFD8AEDF4DA1}']"
+              s:ds="{19237A28-ADFA-47A1-854C-B7108DA7EC2B}"
+              s:id="{5C56D684-C340-4362-A07C-BE860714AC61}"
+              s:ph="page-layout" />
+            <r
+              uid="{C34AE041-2561-4D53-B398-3194ADC61EB8}"
+              p:after="r[@uid='{B56729DD-5327-4878-810E-2008367A3B50}']"
+              s:ds="{18ED5A25-0139-452C-95D1-285EDE605878}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{1A0B0251-02E4-42B1-82F2-891D47891767}"
+              p:after="*[1=2]" />
+          </d>
+        </r>
+    - ID: "1d7f5999-9735-4c52-9e08-47bd7df3fb40"
+      Hint: PreTitle
+      Value: Pretitle
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201029T085518Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: title
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{674BA365-2AFE-4908-BE9C-6DA8659B3AEC}" />
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ttest" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{25BCC0B2-B176-4483-8368-4ACE4DDDF0E4}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: summary
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{0358718A-7AEB-47C2-83D3-2C78D1B038FB}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C97BB3F5-6621-48A2-B67E-BCEC16156253}"
+              p:before="*"
+              s:ds="{57DB528F-E583-424D-AD0B-AA1A72A6ADF8}"
+              s:id="{B2522E02-2C05-4AD9-93C2-CD0C1D83C9A5}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{9015BC53-2AE3-455A-A1DD-879A04CC5E07}">
+              <p:d />
+            </r>
+            <r
+              uid="{8151902F-3D6D-4FD4-832B-AFD8AEDF4DA1}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201101T122728Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Thsi is title
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{674BA365-2AFE-4908-BE9C-6DA8659B3AEC}" />
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ΔΙΑΒΑΣΤΕΕ!!" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2613280E-8CE3-44AB-9A7C-349F93B7E7BA}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: this is subtitle
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{0358718A-7AEB-47C2-83D3-2C78D1B038FB}" />

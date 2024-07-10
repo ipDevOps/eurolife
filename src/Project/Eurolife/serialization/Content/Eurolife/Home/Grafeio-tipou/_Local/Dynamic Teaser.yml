@@ -1,0 +1,18 @@
+﻿---
+ID: "8de6b0e3-9c74-4a04-b77d-879c73c43540"
+Parent: "5d42fdd3-4036-4e0f-8e3a-c0cce04b6010"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/Dynamic Teaser"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191008T080157Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

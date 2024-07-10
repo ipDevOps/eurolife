@@ -1,0 +1,21 @@
+﻿---
+ID: "f10d132f-19e6-4524-b1ab-aec4f2a4931c"
+Parent: "b2963225-1335-4729-bb2c-936b2e331ba1"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Media/_HasMediaSelector/Media/MediaImage
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:/sitecore/content/*/Global/Media//*[@@templateid='{C2F594C5-783F-4F96-A24A-EA6521DD6BB1}' or @@templateid='{6DEC0D88-0878-44D4-960B-D151EDB81AE1}']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T104111Z

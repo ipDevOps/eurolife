@@ -1,0 +1,28 @@
+﻿---
+ID: "3a07caac-6eb1-4d6d-94e3-71f19d9ae2b8"
+Parent: "f111e2af-0ea1-4773-a074-ed98013839a1"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: /sitecore/content/Eurolife/Home/exipiretisi/_Local/Highlights/Highlights List
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {F6F33DE7-3D32-4C79-849C-BE7F5C7EFC16}
+        {2E79DC43-26B2-4590-BC93-EE0F916E7EBC}
+        {F5F70DA8-53B6-4825-B1BE-CCEB19C395B4}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190730T133801Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: 

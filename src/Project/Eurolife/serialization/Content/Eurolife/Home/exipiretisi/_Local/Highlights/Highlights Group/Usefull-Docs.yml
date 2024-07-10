@@ -1,0 +1,56 @@
+﻿---
+ID: "93f82e44-4d55-4ab6-94dd-bc626c8149ae"
+Parent: "789440b4-6bed-4abb-a826-e0c6dc0cf045"
+Template: "52f74fb9-cfb4-4fdd-8388-6a693d21a2d7"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/_Local/Highlights/Highlights Group/Usefull-Docs"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T140651Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: |
+        <image mediaid="{3386B2C2-1D72-4E07-A925-69B229409103}" />
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Χρήσιμα Έντυπα
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "678ca6e6-b6f0-4bb1-b09e-972ad0d9c5c4"
+      Hint: CTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΑ ΕΝΤΥΠΑ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{77742DCA-E859-4000-8A7B-6A1535FC5E09}" />
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: Εδώ βρίσκετε όλα τα έντυπα που ενδέχεται να χρειαστείτε, μαζί με οδηγίες συμπλήρωσης και παραρτήματα.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T095402Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: "{D9368E0C-C8DD-48B1-9C40-189B4970F6B5}"
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Συχνές Ερωτήσεις
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "678ca6e6-b6f0-4bb1-b09e-972ad0d9c5c4"
+      Hint: CTA
+      Value: |
+        <link id="{9F486AFA-7F59-4D25-9456-3F88ECFEE18E}" querystring="" target="" text="ΟΛΕΣ ΟΙ ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ" anchor="" url="/Eurolife/Home/exipiretisi" title="" class="" linktype="internal" />
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

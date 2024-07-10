@@ -1,0 +1,46 @@
+﻿---
+ID: "877e7442-a0d9-4a8b-80f9-c142dae7b98f"
+Parent: "e52a4706-6aa3-42d4-aa11-a533e50cc138"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/_Local/Giati na epilexete programmata igeias/Reliability
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: "Value for money: &alpha;&nu;&tau;&alpha;&gamma;&omega;&nu;&iota;&sigma;&tau;&iota;&kappa;ό &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&omicron; &sigma;&epsilon; &sigma;&chi;έ&sigma;&eta; &mu;&epsilon; &tau;&iota;&sigmaf; &pi;&alpha;&rho;&epsilon;&chi;ό&mu;&epsilon;&nu;&epsilon;&sigmaf; &kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &upsilon;&gamma;&epsilon;ί&alpha;&sigmaf;."
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Αξιόπιστοι και καινοτόμοι
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190807T150126Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span id="docs-internal-guid-339b7870-7fff-f779-bf9a-d301d24d2e83" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&kappa;&epsilon;&phi;&tau;ό&mu;&alpha;&sigma;&tau;&epsilon; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ά &kappa;&alpha;&iota; &epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&upsilon;&mu;&epsilon; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ά &sigma;&epsilon; έ&rho;&epsilon;&upsilon;&nu;&alpha; &kappa;&alpha;&iota; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;. &Eta; &sigma;&tau;&alpha;&theta;&epsilon;&rho;ά &upsilon;&psi;&eta;&lambda;ή &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;&iota;&alpha;&kappa;ή &mu;&alpha;&sigmaf; &epsilon;&pi;ά&rho;&kappa;&epsilon;&iota;&alpha; &delta;&iota;&alpha;&sigma;&phi;&alpha;&lambda;ί&zeta;&epsilon;&iota; &pi;ά&nu;&tau;&omicron;&tau;&epsilon; &tau;&iota;&sigmaf; &upsilon;&pi;&omicron;&chi;&rho;&epsilon;ώ&sigma;&epsilon;&iota;&sigmaf; &pi;&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &mu;&alpha;&sigmaf;.</span>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Αξιόπιστοι και καινοτόμοι
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190604T130019Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

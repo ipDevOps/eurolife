@@ -1,0 +1,64 @@
+﻿---
+ID: "bf3657c2-a864-4a64-b272-bfb9d3731e06"
+Parent: "8c9c5560-4f70-4285-8e33-fe715369b9f1"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/12/13/protoboulies-tis-eurolife-erb-gia-tous-pligentes-apo-tis-pyrkagies-tis-23-7"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{AF094866-CE75-4498-8E5A-87A52F8EDD86}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T121304Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Πρωτοβουλίες της Eurolife ERB για τους πληγέντες από τις πυρκαγίες της 23/7
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p>&Eta; Eurolife ERB &epsilon;&kappa;&phi;&rho;ά&zeta;&epsilon;&iota; &tau;&alpha; &theta;&epsilon;&rho;&mu;ά &tau;&eta;&sigmaf; &sigma;&upsilon;&lambda;&lambda;&upsilon;&pi;&eta;&tau;ή&rho;&iota;&alpha; &sigma;&tau;&iota;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;&epsilon;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon;&sigmaf; &omicron;&iota;&kappa;&epsilon;ί&omicron;&upsilon;&sigmaf; &tau;&omega;&nu; &theta;&upsilon;&mu;ά&tau;&omega;&nu; &kappa;&alpha;&iota; &tau;&eta; &beta;&alpha;&theta;ύ&tau;&alpha;&tau;&eta; &lambda;ύ&pi;&eta; &tau;&eta;&sigmaf; &gamma;&iota;&alpha; &tau;&iota;&sigmaf; &epsilon;&kappa;&tau;&epsilon;&tau;&alpha;&mu;έ&nu;&epsilon;&sigmaf; &kappa;&alpha;&tau;&alpha;&sigma;&tau;&rho;&omicron;&phi;έ&sigmaf; &pi;&omicron;&upsilon; &sigma;&eta;&mu;&epsilon;&iota;ώ&theta;&eta;&kappa;&alpha;&nu; &sigma;&epsilon; ό&lambda;&epsilon;&sigmaf; &tau;&iota;&sigmaf; &pi;&epsilon;&rho;&iota;&omicron;&chi;έ&sigmaf; &pi;&omicron;&upsilon; &epsilon;&pi;&lambda;ή&gamma;&eta;&sigma;&alpha;&nu; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;έ&sigmaf;. <br />
+        <br />
+        &Mu;&epsilon; &pi;&rho;&omega;&tau;&alpha;&rho;&chi;&iota;&kappa;ό &sigma;&kappa;&omicron;&pi;ό &tau;&eta; &delta;&iota;&epsilon;&upsilon;&kappa;ό&lambda;&upsilon;&nu;&sigma;&eta; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &mu;&alpha;&sigmaf; &sigma;&tau;&iota;&sigmaf; &pi;&epsilon;&rho;&iota;&omicron;&chi;έ&sigmaf; &pi;&omicron;&upsilon; &pi;&lambda;ή&gamma;&eta;&kappa;&alpha;&nu; &alpha;&pi;ό &tau;&eta;&nu; &kappa;&alpha;&tau;&alpha;&sigma;&tau;&rho;&omicron;&phi;&iota;&kappa;ή &phi;&omega;&tau;&iota;ά, &theta;&alpha; &theta;έ&lambda;&alpha;&mu;&epsilon; &nu;&alpha; &sigma;&alpha;&sigmaf; &epsilon;&nu;&eta;&mu;&epsilon;&rho;ώ&sigma;&omicron;&upsilon;&mu;&epsilon; &gamma;&iota;&alpha; &tau;&iota;&sigmaf; &epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&epsilon;&sigmaf; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&mu;&epsilon; ή&delta;&eta; &theta;έ&sigma;&epsilon;&iota; &sigma;&epsilon; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;ή.</p>
+        <ul>
+            <li>&Delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&theta;&eta;&kappa;&epsilon; <strong>&epsilon;&iota;&delta;&iota;&kappa;ή &gamma;&rho;&alpha;&mu;&mu;ή &epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf;</strong> (210 93 03 800 &epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή 8) &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &pi;&lambda;&eta;&gamma;έ&nu;&tau;&epsilon;&sigmaf; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;έ&sigmaf; &kappa;&alpha;&iota; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ό &epsilon;&nu;&eta;&mu;&epsilon;&rho;&omega;&tau;&iota;&kappa;ό&nbsp; &mu;ή&nu;&upsilon;&mu;&alpha; &sigma;&tau;&omicron; IVR &tau;&omicron;&upsilon; &tau;&eta;&lambda;&epsilon;&phi;&omega;&nu;&iota;&kappa;&omicron;ύ &kappa;έ&nu;&tau;&rho;&omicron;&upsilon; &pi;&rho;&iota;&nu; &alpha;&pi;ό &tau;&iota;&sigmaf; &upsilon;&pi;ό&lambda;&omicron;&iota;&pi;&epsilon;&sigmaf; &epsilon;&pi;&iota;&lambda;&omicron;&gamma;έ&sigmaf;.</li>
+            <li>&Theta;&alpha; &iota;&sigma;&chi;ύ&sigma;&epsilon;&iota; <strong>&chi;&rho;ό&nu;&omicron;&sigmaf; &alpha;&upsilon;&tau;&omicron;&psi;ί&alpha;&sigmaf;</strong> &zeta;&eta;&mu;&iota;&omega;&theta;έ&nu;&tau;&omega;&nu; &kappa;&iota;&nu;&delta;ύ&nu;&omega;&nu; &epsilon;&nu;&tau;ό&sigmaf; <strong>24 &omega;&rho;ώ&nu;</strong> &alpha;&pi;ό &tau;&eta;&nu; &alpha;&nu;&alpha;&gamma;&gamma;&epsilon;&lambda;ί&alpha; &kappa;&alpha;&iota; &chi;&rho;ό&nu;&omicron;&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf; (&pi;&rho;&omicron;&kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή&sigmaf; ή &omicron;&lambda;&iota;&kappa;ή&sigmaf;) <strong>&epsilon;&nu;&tau;ό&sigmaf; 48 &omega;&rho;ώ&nu;</strong> &alpha;&pi;ό &tau;&eta;&nu; &alpha;&upsilon;&tau;&omicron;&psi;ί&alpha;.</li>
+            <li>&Alpha;&pi;&omicron;&phi;&alpha;&sigma;ί&sigma;&theta;&eta;&kappa;&epsilon; &pi;&omega;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon;&sigmaf; &sigma;&tau;&omicron;&nu; &kappa;&lambda;ά&delta;&omicron; &pi;&epsilon;&rho;&iota;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf; &sigma;&tau;&iota;&sigmaf; &pi;&epsilon;&rho;&iota;&omicron;&chi;έ&sigmaf; &pi;&omicron;&upsilon; &epsilon;&pi;&lambda;ή&gamma;&eta;&sigma;&alpha;&nu; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&upsilon;&rho;&kappa;&alpha;&gamma;&iota;έ&sigmaf; &tau;&eta;&sigmaf; 23/7, <strong>&theta;&alpha; &iota;&sigma;&chi;ύ&sigma;&epsilon;&iota; 6&mu;&eta;&nu;&eta; &alpha;&nu;&alpha;&sigma;&tau;&omicron;&lambda;ή &alpha;&kappa;ύ&rho;&omega;&sigma;&eta;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omega;&nu;</strong>. </li>
+        </ul>
+        <p>&Epsilon;&iota;&delta;&iota;&kappa;ό&tau;&epsilon;&rho;&alpha;:</p>
+        <p>&Kappa;&alpha;&tau;ά &tau;&omicron; &delta;&iota;ά&sigma;&tau;&eta;&mu;&alpha; &alpha;&pi;ό&nbsp; 24/07/2018 έ&omega;&sigmaf; 24/1/2019&nbsp; &delta;&epsilon;&nu; &theta;&alpha; &alpha;&kappa;&upsilon;&rho;ώ&nu;&omicron;&nu;&tau;&alpha;&iota; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;ή&rho;&iota;&alpha; &alpha;&kappa;&iota;&nu;ή&tau;&omega;&nu; &kappa;&alpha;&tau;&omicron;&iota;&kappa;&iota;ώ&nu; &kappa;&alpha;&iota; &mu;&iota;&kappa;&rho;ώ&nu; &epsilon;&mu;&pi;&omicron;&rho;&iota;&kappa;ώ&nu; &kappa;&iota;&nu;&delta;ύ&nu;&omega;&nu;, &pi;&lambda;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omega;&nu; &alpha;&upsilon;&tau;&omicron;&kappa;&iota;&nu;ή&tau;&omicron;&upsilon;, &gamma;&iota;&alpha; &mu;&eta; &pi;&lambda;&eta;&rho;&omega;&mu;ή &delta;ό&sigma;&eta;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omicron;&upsilon; &mu;&epsilon; &eta;&mu;&epsilon;&rho;&omicron;&mu;&eta;&nu;ί&alpha; &omicron;&phi;&epsilon;&iota;&lambda;ή&sigmaf; &epsilon;&nu;&tau;ό&sigmaf; &tau;&eta;&sigmaf; &pi;&alpha;&rho;&alpha;&pi;ά&nu;&omega; &chi;&rho;&omicron;&nu;&iota;&kappa;ή&sigmaf; &pi;&epsilon;&rho;&iota;ό&delta;&omicron;&upsilon;.<br />
+        <br />
+        &Epsilon;&pi;ί&sigma;&eta;&sigmaf; &alpha;&nu; &kappa;&alpha;&tau;ά &tau;&omicron; ί&delta;&iota;&omicron; &chi;&rho;&omicron;&nu;&iota;&kappa;ό &delta;&iota;ά&sigma;&tau;&eta;&mu;&alpha; &delta;&epsilon;&nu; &pi;&lambda;&eta;&rho;&omega;&theta;&omicron;ύ&nu; &tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&alpha; &mu;&epsilon; &eta;&mu;&epsilon;&rho;&omicron;&mu;&eta;&nu;ί&alpha; &omicron;&phi;&epsilon;&iota;&lambda;ή&sigmaf; &epsilon;&nu;&tau;ό&sigmaf; &tau;&omicron;&upsilon; &pi;&alpha;&rho;&alpha;&pi;ά&nu;&omega; &delta;&iota;&alpha;&sigma;&tau;ή&mu;&alpha;&tau;&omicron;&sigmaf; &gamma;&iota;&alpha; &tau;&eta;&nu; &alpha;&nu;&alpha;&nu;έ&omega;&sigma;&eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omega;&nu; &kappa;&alpha;&tau;&omicron;&iota;&kappa;&iota;ώ&nu; &kappa;&alpha;&iota; &mu;&iota;&kappa;&rho;ώ&nu; &epsilon;&mu;&pi;&omicron;&rho;&iota;&kappa;ώ&nu; &kappa;&iota;&nu;&delta;ύ&nu;&omega;&nu;, &tau;&alpha; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&alpha; &theta;&alpha; &alpha;&nu;&alpha;&nu;&epsilon;ώ&nu;&omicron;&nu;&tau;&alpha;&iota; &kappa;&alpha;&nu;&omicron;&nu;&iota;&kappa;ά.<br />
+        <br />
+        &Pi;&omicron;&sigma;ά &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &pi;&omicron;&upsilon; &tau;&upsilon;&chi;ό&nu; &delta;&epsilon;&nu; &kappa;&alpha;&tau;&alpha;&beta;&lambda;&eta;&theta;&omicron;ύ&nu; &epsilon;&nu;&tau;ό&sigmaf; &tau;&eta;&sigmaf; &pi;&rho;&omicron;&alpha;&nu;&alpha;&phi;&epsilon;&rho;&theta;&epsilon;ί&sigma;&alpha;&sigmaf; &pi;&epsilon;&rho;&iota;ό&delta;&omicron;&upsilon; &theta;&alpha; &epsilon;ί&nu;&alpha;&iota; &alpha;&pi;&alpha;&iota;&tau;&eta;&tau;ά &alpha;&pi;ό &tau;&iota;&sigmaf; 24/1/2019 &kappa;&alpha;&iota; &eta; &mu;&eta; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &tau;&omicron;&upsilon;&sigmaf; &theta;&alpha; &epsilon;&pi;&iota;&phi;έ&rho;&epsilon;&iota; &tau;&eta;&nu; &alpha;&kappa;ύ&rho;&omega;&sigma;&eta; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omega;&nu; &epsilon;&nu;&tau;ό&sigmaf; &tau;&omega;&nu; &pi;&rho;&omicron;&theta;&epsilon;&sigma;&mu;&iota;ώ&nu; &pi;&omicron;&upsilon; &pi;&rho;&omicron;&beta;&lambda;έ&pi;&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &sigma;&upsilon;&nu;ή&theta;&epsilon;&iota;&sigmaf; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&epsilon;&sigmaf; &mu;&alpha;&sigmaf;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{AF094866-CE75-4498-8E5A-87A52F8EDD86}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Πρωτοβουλίες της Eurolife ERB για τους πληγέντες από τις πυρκαγίες της 23/7
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20180724T111300Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Πρωτοβουλίες της Eurolife ERB για τους πληγέντες από τις πυρκαγίες της 23/7

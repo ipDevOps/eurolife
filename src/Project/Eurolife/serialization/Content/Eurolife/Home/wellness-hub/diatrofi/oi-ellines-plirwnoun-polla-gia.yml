@@ -1,0 +1,141 @@
+﻿---
+ID: "2613280e-8ce3-44ab-9a7c-349f93b7e7ba"
+Parent: "373d831e-9c31-47da-888c-986dd57b7e45"
+Template: "853088f4-1362-4961-996a-3ee7b1a1f594"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/diatrofi/oi-ellines-plirwnoun-polla-gia-dimosia-ugeia"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{563FBEF1-607B-4B4A-9375-BF9F81557110}">
+          <p:d />
+        </r>
+        <r
+          uid="{61964586-89C9-4389-AA23-5370E44D2821}">
+          <p:d />
+        </r>
+        <r
+          uid="{E3EA8063-2730-4C67-8694-65090D2AD642}">
+          <p:d />
+        </r>
+        <r
+          uid="{16B15F42-2E0D-4E51-8F49-166EF5B92AEF}">
+          <p:d />
+        </r>
+        <r
+          uid="{64D41118-10BC-4650-A9B3-961C2E0CEC21}">
+          <p:d />
+        </r>
+        <r
+          uid="{ECDEB399-65F9-4113-B6D6-0BD4073327B9}">
+          <p:d />
+        </r>
+        <r
+          uid="{F3D15A07-4CC8-4C09-B608-C3E871AD0B1E}">
+          <p:d />
+        </r>
+        <r
+          uid="{CA33AB8F-7E14-4091-9FDB-2474297B0960}">
+          <p:d />
+        </r>
+        <r
+          uid="{13B67209-6EE2-4040-9C0F-C9255C1FEB89}"
+          p:before="*"
+          s:id="{20E8AA26-11C7-4A12-B7E3-A8F7C8200071}"
+          s:ph="head" />
+        <r
+          uid="{F11CC7A3-5615-4881-94E2-274A73257E2C}"
+          p:after="r[@uid='{13B67209-6EE2-4040-9C0F-C9255C1FEB89}']"
+          s:id="{9D011B20-EE03-4D6F-A99B-274105DC03DF}"
+          s:ph="header" />
+        <r
+          uid="{FF2786AB-E30D-4666-B512-43FDF28ADA77}"
+          p:after="r[@uid='{F11CC7A3-5615-4881-94E2-274A73257E2C}']"
+          s:ds="{2C6E9D55-A6C1-4600-9875-9058F9F21DBD}"
+          s:id="{DB5E61BA-9B4C-4123-B200-5F30E491EE20}"
+          s:par=""
+          s:ph="header-top-navbar" />
+        <r
+          uid="{0AA917EE-5CB2-4576-8324-4A07770B0159}"
+          p:after="r[@uid='{FF2786AB-E30D-4666-B512-43FDF28ADA77}']"
+          s:id="{0A32385C-A049-4E46-8316-8252326467EA}"
+          s:ph="page-layout" />
+        <r
+          uid="{9015BC53-2AE3-455A-A1DD-879A04CC5E07}"
+          p:after="r[@uid='{0AA917EE-5CB2-4576-8324-4A07770B0159}']"
+          s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+          s:ph="page-layout" />
+        <r
+          uid="{1FFBC5B1-3292-4FA8-B3F0-63ADDE2D48FE}"
+          p:after="r[@uid='{9015BC53-2AE3-455A-A1DD-879A04CC5E07}']"
+          s:id="{781CD8B2-3544-43B3-9EAC-1F952C95A93A}"
+          s:ph="footer" />
+        <r
+          uid="{76A831BA-6986-43AC-B5A8-D1905D213B6B}"
+          p:after="r[@uid='{1FFBC5B1-3292-4FA8-B3F0-63ADDE2D48FE}']"
+          s:id="{42FB3DFF-05D2-45D4-B920-3D771DBB813D}"
+          s:ph="footer-bottom" />
+        <r
+          uid="{F85951A2-7CE8-4C43-AEF5-ED2B17C97959}"
+          p:after="*[1=2]"
+          s:ds="{F6EC7E67-840A-4686-8368-6DC2CD9C5569}"
+          s:id="{814E1B60-9115-4FBB-BA23-150A4835C038}"
+          s:ph="footer-bottom" />
+        <r
+          uid="{26C46752-CA44-45C0-9200-E32C603AB62C}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19ac5633-7fa6-4137-b667-e82777ab987b"
+      Hint: CTA Title
+      Value: Υπολόγισε τα ασφαλιστρά  υγείας σας σε 3 απλά βήματα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201029T090146Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Οι Έλληνες πληρώνουν πολλά για δημόσια υγεία σύμφωνα με έρευνες
+    - ID: "3041a731-bfd9-4bbe-b34f-80de7e92ccd5"
+      Hint: CTA Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{25BCC0B2-B176-4483-8368-4ACE4DDDF0E4}" />
+    - ID: "5733d45b-2c7a-44fd-914c-4eb210071dfd"
+      Hint: CTA Icon
+      Value: |
+        <image mediaid="{C8FCEB4C-29D3-44C7-8723-315D16BCDB1D}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "63d9aebb-7d4c-43eb-a3ee-adc96df941d8"
+      Hint: Main Content
+      Value: "&Sigma;&epsilon; &pi;&rho;ό&sigma;&phi;&alpha;&tau;&eta; έ&kappa;&theta;&epsilon;&sigma;&eta; &pi;&omicron;&upsilon; &delta;&eta;&mu;&omicron;&sigma;ί&epsilon;&upsilon;&sigma;&epsilon; &omicron; &Pi;&alpha;&gamma;&kappa;ό&sigma;&mu;&iota;&omicron;&sigmaf; &Omicron;&rho;&gamma;&alpha;&nu;&iota;&sigma;&mu;ό&sigmaf; &Upsilon;&gamma;&epsilon;ί&alpha;&sigmaf; (&Pi;.&Omicron;.&Upsilon;.) &delta;&iota;&alpha;&pi;&iota;&sigma;&tau;ώ&theta;&eta;&kappa;&epsilon; ό&tau;&iota; &omicron;&iota; &delta;&alpha;&pi;ά&nu;&epsilon;&sigmaf; &Upsilon;&gamma;&epsilon;ί&alpha;&sigmaf; &pi;&alpha;&gamma;&kappa;&omicron;&sigma;&mu;ί&omega;&sigmaf; &alpha;&upsilon;&xi;ά&nu;&omicron;&nu;&tau;&alpha;&iota; &mu;&epsilon; &rho;&upsilon;&theta;&mu;ό &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron; &alpha;&pi;ό &kappa;ά&theta;&epsilon; ά&lambda;&lambda;&omicron; &tau;&omicron;&mu;έ&alpha; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &phi;&tau;ά&nu;&omicron;&upsilon;&nu; &sigma;&tau;&omicron; 10% &tau;&omicron;&upsilon; &pi;&alpha;&gamma;&kappa;ό&sigma;&mu;&iota;&omicron;&upsilon; &Alpha;&Epsilon;&Pi;. &Kappa;&alpha;&iota; &epsilon;&nu;ώ &eta; &delta;&eta;&mu;ό&sigma;&iota;&alpha; &upsilon;&gamma;&epsilon;ί&alpha; &kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&iota; έ&nu;&alpha; &mu;έ&rho;&omicron;&sigmaf; &alpha;&upsilon;&tau;ώ&nu; &tau;&omega;&nu; &delta;&alpha;&pi;&alpha;&nu;ώ&nu;, &eta; έ&kappa;&theta;&epsilon;&sigma;&eta; &kappa;&alpha;&tau;&alpha;&gamma;&rho;ά&phi;&epsilon;&iota; ό&tau;&iota; &omicron; &kappa;ά&theta;&epsilon; &pi;&omicron;&lambda;ί&tau;&eta;&sigmaf; &kappa;&alpha;&lambda;&epsilon;ί&tau;&alpha;&iota; &nu;&alpha; &pi;&lambda;&eta;&rho;ώ&sigma;&epsilon;&iota; &alpha;&pi;ό &tau;&eta;&nu; &tau;&sigma;έ&pi;&eta; &tau;&omicron;&upsilon; &pi;ά&nu;&omega; &alpha;&pi;ό &tau;&omicron; 35%! &Mu;ά&lambda;&iota;&sigma;&tau;&alpha;, &upsilon;&pi;&omicron;&lambda;&omicron;&gamma;ί&zeta;&epsilon;&tau;&alpha;&iota; ό&tau;&iota; 100 &epsilon;&kappa;&alpha;&tau;&omicron;&mu;&mu;ύ&rho;&iota;&alpha; ά&nu;&theta;&rho;&omega;&pi;&omicron;&iota; &sigma;&epsilon; ό&lambda;&omicron; &tau;&omicron;&nu; &kappa;ό&sigma;&mu;&omicron; &omicron;&delta;&eta;&gamma;&omicron;ύ&nu;&tau;&alpha;&iota; &sigma;&epsilon; &alpha;&kappa;&rho;&alpha;ί&alpha; &phi;&tau;ώ&chi;&epsilon;&iota;&alpha; &epsilon;&pi;&epsilon;&iota;&delta;ή &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &pi;&lambda;&eta;&rho;ώ&sigma;&omicron;&upsilon;&nu; &omicron;&iota; ί&delta;&iota;&omicron;&iota; &gamma;&iota;&alpha; &tau;&eta;&nu; &pi;&epsilon;&rho;ί&theta;&alpha;&lambda;&psi;ή &tau;&omicron;&upsilon;&sigmaf;. &Sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;, &pi;&alpha;&rho;ά &tau;&iota;&sigmaf; &pi;&rho;&omicron;&sigma;&pi;ά&theta;&epsilon;&iota;&epsilon;&sigmaf; &epsilon;&kappa;&sigma;&upsilon;&gamma;&chi;&rho;&omicron;&nu;&iota;&sigma;&mu;&omicron;ύ &mu;&epsilon; &tau;&omicron; &nu;έ&omicron; &sigma;ύ&sigma;&tau;&eta;&mu;&alpha; &Pi;&rho;&omega;&tau;&omicron;&beta;ά&theta;&mu;&iota;&alpha;&sigmaf; &Phi;&rho;&omicron;&nu;&tau;ί&delta;&alpha;&sigmaf; &Upsilon;&gamma;&epsilon;ί&alpha; (&Pi;&Phi;&Upsilon;) , &omicron;&iota; &pi;&omicron;&lambda;ί&tau;&epsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&chi;ί&zeta;&omicron;&upsilon;&nu; &nu;&alpha; &delta;&upsilon;&sigma;&pi;&iota;&sigma;&tau;&omicron;ύ&nu; &sigma;&epsilon; &sigma;&chi;έ&sigma;&eta; &mu;&epsilon; &tau;&omicron; &delta;&eta;&mu;ό&sigma;&iota;&omicron; &sigma;ύ&sigma;&tau;&eta;&mu;&alpha; &upsilon;&gamma;&epsilon;ί&alpha;&sigmaf;. &Tau;&omicron; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; infographic &pi;&alpha;&rho;&omicron;&upsilon;&sigma;&iota;ά&zeta;&epsilon;&iota; &omicron;&rho;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon;&sigmaf; &lambda;ό&gamma;&omicron;&upsilon;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &omicron;&pi;&omicron;ί&omicron;&upsilon;&sigmaf; &omicron;&iota; Έ&lambda;&lambda;&eta;&nu;&epsilon;&sigmaf; &delta;&upsilon;&sigma;&kappa;&omicron;&lambda;&epsilon;ύ&omicron;&nu;&tau;&alpha;&iota; &nu;&alpha; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;&upsilon;&tau;&omicron;ύ&nu; &tau;&omicron; &Pi;&Phi;&Upsilon;:"
+    - ID: "6e129621-73bc-403c-b4db-bf403c685630"
+      Hint: MetaDescription
+      Value: Οι Έλληνες πληρώνουν πολλά για δημόσια υγεία σύμφωνα με έρευνεςΟι Έλληνες πληρώνουν πολλά για δημόσια υγεία σύμφωνα με έρευνεςΟι Έλληνες πληρώνουν πολλά για δημόσια υγεία σύμφωνα με έρευνες
+    - ID: "93d8811c-00ae-43fb-9d2f-8cc5a3540eb2"
+      Hint: Teaser
+      Value: "&Epsilon;ί&nu;&alpha;&iota; &lambda;&omicron;&gamma;&iota;&kappa;ό &nu;&alpha; &alpha;&nu;&alpha;&rho;&omega;&tau;&iota;έ&sigma;&alpha;&iota; &gamma;&iota;&alpha;&tau;ί &sigma;&upsilon;&chi;&nu;ά &alpha;&nu;&alpha;&gamma;&kappa;ά&zeta;&epsilon;&sigma;&alpha;&iota; &nu;&alpha; &pi;&lambda;&eta;&rho;ώ&sigma;&epsilon;&iota;&sigmaf; &alpha;&pi;ό &tau;&eta;&nu; &tau;&sigma;έ&pi;&eta; &sigma;&omicron;&upsilon; &gamma;&iota;&alpha; &omicron;&rho;&iota;&sigma;&mu;έ&nu;&epsilon;&sigmaf; &iota;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf;, &epsilon;&nu;ώ &sigma;&tau;&eta;&nu; &omicron;&upsilon;&sigma;ί&alpha; έ&chi;&epsilon;&iota;&sigmaf; &delta;&eta;&mu;ό&sigma;&iota;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;. &Delta;&epsilon;&nu; &epsilon;ί&sigma;&alpha;&iota; &mu;ό&nu;&omicron;&sigmaf;/&eta; &kappa;&alpha;&iota; &tau;&alpha; &kappa;&alpha;&lambda;ά &nu;έ&alpha; &epsilon;ί&nu;&alpha;&iota; ό&tau;&iota; &upsilon;&pi;ά&rho;&chi;&epsilon;&iota; &lambda;ύ&sigma;&eta;!"
+    - ID: "c418852f-1dc2-4afb-a4f5-2c70735c8065"
+      Hint: Title
+      Value: Οι Έλληνες πληρώνουν πολλά για δημόσια υγεία σύμφωνα με έρευνες
+    - ID: "f06f4366-95e6-40ac-bf47-09f13aa071e3"
+      Hint: Image
+      Value: |
+        <image mediaid="{845EE0B0-3983-4DF6-9600-F64E20641A2B}" />

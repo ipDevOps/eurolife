@@ -1,0 +1,22 @@
+﻿---
+ID: "e2a753e2-8f6c-4bc2-bedd-3d559e542d7f"
+Parent: "691d6aff-4d02-48c5-b03d-107d2b35c821"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Project/Common/Header Top Navbar
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "header-top-navbar"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: "{B5B0DC88-B109-41EE-8714-4E2E06FC0FED}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T101629Z

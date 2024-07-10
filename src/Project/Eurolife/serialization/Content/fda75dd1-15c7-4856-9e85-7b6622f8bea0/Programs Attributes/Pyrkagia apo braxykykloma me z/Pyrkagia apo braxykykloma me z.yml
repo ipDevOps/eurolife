@@ -1,0 +1,18 @@
+﻿---
+ID: "5c0c35f4-e743-4eee-9e47-cd0ef1a92303"
+Parent: "6592ec8e-35cc-4106-a312-c7a3c340880c"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/ktirio/Programs Attributes/Pyrkagia apo braxykykloma me zimia sto idio to antikeimeno/Pyrkagia apo braxykykloma me zimia sto idio to antikeimeno no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T092206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

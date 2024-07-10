@@ -1,0 +1,47 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.EurobankHealthTool
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.EurobankListGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.EurobankListGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+}
+
+
+<section class="center center--1100 m-t-112 m-b-112">
+
+  <h1 class="h4 t-c m-b-8">@Html.Sitecore().Field(Templates.EurobankListGroup.Fields.EurobankListTitle)</h1>
+  <div class="m-b-32 center--650 center t-c">
+    @Html.Sitecore().Field(Templates.EurobankListGroup.Fields.EurobankListSubtitle)
+  </div>
+
+  <div class="eurolist">
+    @foreach (var item in Model.Item.GetMultiListValueItems(Templates.EurobankListGroup.Fields.EurobankList))
+    {
+      <article>
+
+        <figure>
+          <img src="@item.ImageUrl(Templates.EurobankListMain.Fields.Image)" alt="@Html.Sitecore().Field(Templates.EurobankListMain.Fields.Title, item, new { DisableWebEdit = true })" />
+          <a href="@item.LinkFieldUrl(Templates.EurobankListMain.Fields.CategoryLink)" class="eurolist__cat m-b-16">@Html.Sitecore().Field(Templates.EurobankListMain.Fields.Category, item)</a>
+        </figure>
+
+        <div class="eurolist__article__group">
+          <time class="eurolist__time">@Html.Sitecore().Field(Templates.EurobankListMain.Fields.Date, item)</time>
+          <h2 class="h6 eurolist__article__title">
+            <a href="@item.LinkFieldUrl(Templates.EurobankListMain.Fields.Link)">
+              @Html.Sitecore().Field(Templates.EurobankListMain.Fields.Title, item)
+            </a>
+          </h2>
+        </div>
+
+      </article>
+
+    }
+  </div>
+
+</section>

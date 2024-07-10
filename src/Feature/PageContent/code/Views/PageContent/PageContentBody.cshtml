@@ -1,0 +1,29 @@
+﻿@using Wedia.Feature.PageContent
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageBodyContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageBodyContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+@if (Sitecore.Context.PageMode.IsExperienceEditor || Html.Sitecore().HasValue(Templates.HasPageBodyContent.Fields.Body.ToString()))
+{
+  <article id="body" class="m-b-112 center center--1100 text-main">
+    @Html.Sitecore().Field(Templates.HasPageBodyContent.Fields.Body)
+  </article>
+}
+
+
+
+
+
+
+

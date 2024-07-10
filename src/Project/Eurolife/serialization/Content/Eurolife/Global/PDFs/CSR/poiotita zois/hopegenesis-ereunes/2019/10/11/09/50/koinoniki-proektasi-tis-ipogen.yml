@@ -1,0 +1,35 @@
+﻿---
+ID: "e2fe7bd8-35ec-466a-bb17-7b619c61b3dc"
+Parent: "b5bb89cd-02a6-4313-a0b8-b72471f05fd2"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/CSR/poiotita zois/hopegenesis-ereunes/2019/10/11/09/50/koinoniki-proektasi-tis-ipogennitikotitas-kai-i-shesi-tis-me-tin-ipogonimotita"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20191010T210000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191011T095030Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: Έρευνα για την κοινωνική προέκταση της υπογεννητικότητας και τη σχέση της με την υπογονιμότητα
+    - ID: "502ab0b3-d1f6-4079-a6f4-c91ea0cce9a1"
+      Hint: MediaPublishSource
+      Value: Σε συνεργασία με το Εθνικό Καποδιστριακό Πανεπιστήμιο Αθηνών και την ομάδα της 1ης Μαιευτικής και Γυναικολογικής Κλινικής της Ιατρικής Σχολής.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Έρευνα για την κοινωνική προέκταση της υπογεννητικότητας και τη σχέση της με την υπογονιμότητα

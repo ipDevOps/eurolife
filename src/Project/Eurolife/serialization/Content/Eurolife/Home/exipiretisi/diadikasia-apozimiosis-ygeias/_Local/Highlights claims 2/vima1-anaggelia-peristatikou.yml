@@ -1,0 +1,29 @@
+﻿---
+ID: "2eeb18ae-a8fa-4b3a-883b-8c6a9b49f65e"
+Parent: "2cc10015-abf3-4922-b7a7-20385466a923"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-ygeias/_Local/Highlights claims 2/vima1-anaggelia-peristatikou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T171706Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: "ΒΗΜΑ 1: Εξαγωγή από το νοσοκομείο / Ολοκλήρωση νοσηλείας"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <strong id="docs-internal-guid-5aa8c929-7fff-00ed-9a8f-f28f785a7ef4"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&alpha;&tau;ά &tau;&eta;&nu; &epsilon;&xi;&alpha;&gamma;&omega;&gamma;ή &sigma;&alpha;&sigmaf; &alpha;&pi;ό &tau;&omicron; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron;, &kappa;&alpha;&tau;&alpha;&beta;ά&lambda;&epsilon;&tau;&epsilon; &tau;&omicron; &kappa;ό&sigma;&tau;&omicron;&sigmaf; &tau;&eta;&sigmaf; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&tau;&epsilon; &tau;&alpha; &alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&alpha; &delta;&iota;&kappa;&alpha;&iota;&omicron;&lambda;&omicron;&gamma;&eta;&tau;&iota;&kappa;ά</span></p>
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: 

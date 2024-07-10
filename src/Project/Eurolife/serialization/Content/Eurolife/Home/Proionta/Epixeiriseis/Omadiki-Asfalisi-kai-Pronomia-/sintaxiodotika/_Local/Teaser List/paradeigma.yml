@@ -1,0 +1,58 @@
+﻿---
+ID: "fd352311-b373-44eb-a043-57a15fa1cf56"
+Parent: "c3c3a627-d8d2-475a-90d9-a56ff698c232"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/sintaxiodotika/_Local/Teaser List/paradeigma"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <sub><strong>&Epsilon;&nu;&delta;&epsilon;&iota;&kappa;&tau;&iota;&kappa;ό &pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha;</strong><br />
+        &Alpha;&sigmaf; &upsilon;&pi;&omicron;&theta;έ&sigma;&omicron;&upsilon;&mu;&epsilon; ό&tau;&iota; &eta; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &sigma;&alpha;&sigmaf; έ&chi;&epsilon;&iota; &epsilon;&pi;&iota;&lambda;έ&xi;&epsilon;&iota; έ&nu;&alpha; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &sigma;&tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &sigma;&upsilon;&nu;&epsilon;&iota;&sigma;&phi;έ&rho;&epsilon;&iota; &tau;ό&sigma;&omicron; &eta; ί&delta;&iota;&alpha;, ό&sigma;&omicron; &kappa;&alpha;&iota; &omicron; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&sigmaf;, &mu;&epsilon; έ&nu;&alpha; &pi;&omicron;&sigma;ό &pi;&omicron;&upsilon; &iota;&sigma;&omicron;ύ&tau;&alpha;&iota; &mu;&epsilon; &tau;&omicron; 3% &tau;&omega;&nu; &mu;&iota;&kappa;&tau;ώ&nu; &alpha;&pi;&omicron;&delta;&omicron;&chi;ώ&nu; &kappa;ά&theta;&epsilon; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;. Έ&sigma;&tau;&omega; ό&tau;&iota; &omicron;&iota; &mu;&iota;&kappa;&tau;έ&sigmaf; &mu;&eta;&nu;&iota;&alpha;ί&epsilon;&sigmaf; &alpha;&pi;&omicron;&delta;&omicron;&chi;έ&sigmaf; &epsilon;&nu;ό&sigmaf; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &euro;2.000, &kappa;&alpha;&iota; &omicron;&iota; &kappa;&alpha;&theta;&alpha;&rho;έ&sigmaf; &tau;&omicron;&upsilon; &mu;&eta;&nu;&iota;&alpha;ί&epsilon;&sigmaf; &alpha;&pi;&omicron;&delta;&omicron;&chi;έ&sigmaf; &alpha;&nu;έ&rho;&chi;&omicron;&nu;&tau;&alpha;&iota; &sigma;&epsilon; &euro;1.415 (&tau;&omicron; &pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha; &alpha;&phi;&omicron;&rho;ά έ&gamma;&gamma;&alpha;&mu;&omicron; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron; &mu;&epsilon; έ&nu;&alpha; &pi;&alpha;&iota;&delta;ί, &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&eta;&nu; &iota;&sigma;&chi;ύ&omicron;&upsilon;&sigma;&alpha; &nu;&omicron;&mu;&omicron;&theta;&epsilon;&sigma;ί&alpha; (&Nu;. 4172 / 2013 ά&rho;&theta;&rho;&omicron; 15&omicron; ).<br />
+        <br />
+        <strong>&Omicron;&iota; &epsilon;&iota;&sigma;&phi;&omicron;&rho;έ&sigmaf; &sigma;&tau;&omicron; &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &alpha;&nu;&alpha;&lambda;ύ&omicron;&nu;&tau;&alpha;&iota; &omega;&sigmaf; &epsilon;&xi;ή&sigmaf;:</strong><br />
+        &nbsp;&nbsp;&nbsp; - &Epsilon;&rho;&gamma;&omicron;&delta;&omicron;&tau;&iota;&kappa;έ&sigmaf; &Epsilon;&iota;&sigma;&phi;&omicron;&rho;έ&sigmaf;: 3% &mu;&iota;&sigma;&theta;&omicron;ύ, &delta;&eta;&lambda;&alpha;&delta;ή &euro;60 &mu;&eta;&nu;&iota;&alpha;ί&omega;&sigmaf;.<br />
+        &nbsp;&nbsp;&nbsp; - &Epsilon;&theta;&epsilon;&lambda;&omicron;&nu;&tau;&iota;&kappa;έ&sigmaf; &Epsilon;&iota;&sigma;&phi;&omicron;&rho;έ&sigmaf; &Epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;: 3% &mu;&iota;&sigma;&theta;&omicron;ύ, &delta;&eta;&lambda;&alpha;&delta;ή &euro;60 &mu;&eta;&nu;&iota;&alpha;ί&omega;&sigmaf;, &pi;&omicron;&upsilon; &alpha;&nu;&tau;&iota;&sigma;&tau;&omicron;&iota;&chi;&epsilon;ί &sigma;&epsilon; &euro;42 &kappa;&alpha;&theta;&alpha;&rho;έ&sigmaf; &mu;&eta;&nu;&iota;&alpha;ί&epsilon;&sigmaf; &alpha;&pi;&omicron;&delta;&omicron;&chi;έ&sigmaf;.<br />
+        &Sigma;&epsilon; &delta;&iota;ά&sigma;&tau;&eta;&mu;&alpha; 20 &epsilon;&tau;ώ&nu; &omicron; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&sigmaf; &theta;&alpha; έ&chi;&epsilon;&iota; &sigma;&upsilon;&gamma;&kappa;&epsilon;&nu;&tau;&rho;ώ&sigma;&epsilon;&iota; &euro;40.808 &sigma;&tau;&omicron;&nu; &alpha;&tau;&omicron;&mu;&iota;&kappa;ό &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ό &lambda;&omicron;&gamma;&alpha;&rho;&iota;&alpha;&sigma;&mu;ό &tau;&omicron;&upsilon;, &epsilon;&nu;ώ &theta;&alpha; έ&chi;&epsilon;&iota; &laquo;&sigma;&tau;&epsilon;&rho;&eta;&theta;&epsilon;ί&raquo; &kappa;&alpha;&theta;&alpha;&rho;έ&sigmaf; &alpha;&pi;&omicron;&delta;&omicron;&chi;έ&sigmaf; ύ&psi;&omicron;&upsilon;&sigmaf;&nbsp; &euro;11.760 (ή&tau;&omicron;&iota; &euro;42 &alpha;&nu;ά &mu;ή&nu;&alpha; &Chi; 14 &mu;ή&nu;&epsilon;&sigmaf; &Chi; 20 έ&tau;&eta;).</sub><br />
+        <br />
+        <sub><sub><strong>&Sigma;&eta;&mu;&epsilon;&iota;ώ&sigma;&epsilon;&iota;&sigmaf;</strong>: &Eta; &epsilon;&xi;έ&lambda;&iota;&xi;&eta; &tau;&omicron;&upsilon; &alpha;&tau;&omicron;&mu;&iota;&kappa;&omicron;ύ &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;&omicron;ύ &lambda;&omicron;&gamma;&alpha;&rho;&iota;&alpha;&sigma;&mu;&omicron;ύ έ&chi;&epsilon;&iota; &upsilon;&pi;&omicron;&lambda;&omicron;&gamma;&iota;&sigma;&tau;&epsilon;ί &mu;&epsilon; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&omicron; &epsilon;&pi;&iota;&tau;ό&kappa;&iota;&omicron; 1,5% &kappa;&alpha;&iota; &epsilon;&pi;&iota;&tau;ό&kappa;&iota;&omicron; &epsilon;&pi;&epsilon;&nu;&delta;ύ&sigma;&epsilon;&omega;&nu; 3%. &Sigma;&tau;&omicron; &alpha;&nu;&omega;&tau;έ&rho;&omega; &pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha; έ&chi;&omicron;&upsilon;&nu; &upsilon;&pi;&omicron;&lambda;&omicron;&gamma;&iota;&sigma;&tau;&epsilon;ί &delta;&iota;&alpha;&chi;&epsilon;&iota;&rho;&iota;&sigma;&tau;&iota;&kappa;ά έ&xi;&omicron;&delta;&alpha; &epsilon;&pi;ί &tau;&omega;&nu; &epsilon;&iota;&sigma;&phi;&omicron;&rho;ώ&nu; 2% &gamma;&iota;&alpha; 20 &chi;&rho;ό&nu;&iota;&alpha; &kappa;&alpha;&iota; έ&xi;&omicron;&delta;&alpha; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta;&sigmaf; &epsilon;&pi;ί &tau;&omicron;&upsilon; &Sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;&omicron;ύ &lambda;&omicron;&gamma;&alpha;&rho;&iota;&alpha;&sigma;&mu;&omicron;ύ 0,25% &kappa;ά&theta;&epsilon; έ&tau;&omicron;&sigmaf;. &Sigma;&tau;&omicron; &alpha;&nu;&omega;&tau;έ&rho;&omega; &pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha; &delta;&epsilon;&nu; έ&chi;&omicron;&upsilon;&nu; &lambda;&eta;&phi;&theta;&epsilon;ί &upsilon;&pi;ό&psi;&eta; &tau;&upsilon;&chi;ό&nu; &epsilon;&pi;&iota;&beta;&alpha;&rho;ύ&nu;&sigma;&epsilon;&iota;&sigmaf; &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&eta;&nu; &iota;&sigma;&chi;ύ&omicron;&upsilon;&sigma;&alpha; &phi;&omicron;&rho;&omicron;&lambda;&omicron;&gamma;&iota;&kappa;ή &nu;&omicron;&mu;&omicron;&theta;&epsilon;&sigma;ί&alpha;.</sub></sub>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T102606Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{7192D8AE-99FD-44BB-806D-5A91AECF321F}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: In Any Case
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

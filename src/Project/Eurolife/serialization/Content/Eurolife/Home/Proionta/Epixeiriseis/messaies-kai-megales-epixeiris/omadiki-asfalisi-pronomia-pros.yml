@@ -1,0 +1,311 @@
+﻿---
+ID: "73ecd58a-7d64-46ba-b23a-2e03e919c940"
+Parent: "0c1844cf-7006-418e-8a41-f8bed0e40b55"
+Template: "dc12306a-5c27-4986-840c-aa47154f0051"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/omadiki-asfalisi-pronomia-prosopikou"
+DB: master
+SharedFields:
+- ID: "3da3fb00-31f6-432d-979a-57cee52b9d8a"
+  Hint: Color
+  Value: "{9DA6F5F2-6BAD-448B-A50B-16AD57FBE0A4}"
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CD122B45-B303-41ED-BABF-8D2213F6D640}"
+              p:before="*"
+              s:ds="{F7FA6383-008C-4E8D-A150-4CE066C5EE16}"
+              s:id="{EEAE1258-7BE1-4922-A25E-767AA3A0BF8C}"
+              s:ph="/page-layout/toolkit-glossary" />
+            <r
+              uid="{1DEC4C1C-47AB-49F7-A2FF-4604F7EAE34D}"
+              p:after="r[@uid='{CD122B45-B303-41ED-BABF-8D2213F6D640}']"
+              s:id="{2FF3A175-2A41-4088-820A-749360BE65FA}"
+              s:ph="/page-layout/toolkit-how-it-works" />
+            <r
+              uid="{7D15514C-CDA3-4174-9964-0AFD27EC4A90}"
+              p:after="r[@uid='{1DEC4C1C-47AB-49F7-A2FF-4604F7EAE34D}']"
+              s:ds=""
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:ph="/page-layout/toolkit-faq-group" />
+            <r
+              uid="{11383B9F-7C38-4FD4-897E-792F87323D70}"
+              p:after="r[@uid='{7D15514C-CDA3-4174-9964-0AFD27EC4A90}']"
+              s:ds="{A14F78D5-2317-4E08-8D07-6AEEF714EE16}"
+              s:id="{907DF28B-FE15-4286-AD29-109BC7C0B98A}"
+              s:ph="/page-layout/toolkit-documents" />
+            <r
+              uid="{63038218-9890-493A-82E2-B14543559A2C}"
+              p:after="r[@uid='{11383B9F-7C38-4FD4-897E-792F87323D70}']"
+              s:ds="{D759F8E2-1C1B-495A-BB97-AEF83AA50677}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-2-{91396B48-882F-4086-81B1-22BC08B9A475}-0" />
+            <r
+              uid="{29E204BF-6FED-4180-AB9A-B4E3001A670F}"
+              p:after="r[@uid='{63038218-9890-493A-82E2-B14543559A2C}']"
+              s:ds="{B740C2B0-03DC-422B-9FB1-6696D0BCF8D6}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-1-{91396B48-882F-4086-81B1-22BC08B9A475}-0" />
+            <r
+              uid="{B82E0904-1D00-4C6E-B339-EE80B0CFA726}"
+              p:after="r[@uid='{29E204BF-6FED-4180-AB9A-B4E3001A670F}']"
+              s:ds="{E0C51254-DB48-4ECB-9149-CAFE143DC1F3}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-3-{91396B48-882F-4086-81B1-22BC08B9A475}-0" />
+            <r
+              uid="{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}"
+              s:ds="{3432000B-0ABA-42DF-BCB2-D6E2123913F0}"
+              s:par="" />
+            <r
+              uid="{808DB0C9-D175-46EC-8A97-0F5B9601B93D}">
+              <p:d />
+            </r>
+            <r
+              uid="{FC2B5171-94FA-4493-A45A-5F8037DEEB55}"
+              p:after="r[@uid='{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}']"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190911T135547Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Πρόγραμμα Ασφάλισης Κατοικίας
+    - ID: "328f77a3-08cc-4496-b8c9-184e3c194993"
+      Hint: ToolkitHowItWorks
+      Value: |
+        <h2 class="h2 m-b-24 moto-heading">&Beta;&Eta;&Mu;&Alpha; 1. </h2>
+        <h1>&Alpha;&nu;&alpha;&gamma;&gamma;&epsilon;&lambda;ί&alpha; &Pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;&omicron;ύ</h1>
+        <h2 class="h2 m-b-24 moto-heading">&Beta;&Eta;&Mu;&Alpha; 2.</h2>
+        <h1>&Alpha;&nu;ά&theta;&epsilon;&sigma;&eta; &sigma;&epsilon; &Epsilon;&iota;&delta;&iota;&kappa;ό</h1>
+        <h2 class="h2 m-b-24 moto-heading">&Beta;&Eta;&Mu;&Alpha; 3.</h2>
+        <h1>&Alpha;&nu;&alpha;&kappa;&omicron;ί&nu;&omega;&sigma;&eta; &Alpha;&pi;ό&phi;&alpha;&sigma;&eta;&sigmaf;</h1>
+        <h2 class="h2 m-b-24 moto-heading">&Beta;&Eta;&Mu;&Alpha; 4.</h2>
+        <h1>Έ&kappa;&delta;&omicron;&sigma;&eta; &Epsilon;&pi;&iota;&tau;&alpha;&gamma;ή&sigmaf; ή &Kappa;&alpha;&tau;ά&theta;&epsilon;&sigma;&eta; &Pi;&omicron;&sigma;&omicron;ύ</h1>
+        <p>&nbsp;</p>
+        <h2 style="text-align:center;">&Delta;&Epsilon;&Iota;&Tau;&Epsilon; &Pi;&Epsilon;&Rho;&Iota;&Sigma;&Sigma;&Omicron;&Tau;&Epsilon;&Rho;&Alpha; </h2>
+    - ID: "4791fadd-9bb5-4efd-b542-4d2f8bb634e4"
+      Hint: ToolkitSubhead
+      Value: |
+        Στις ενότητες που ακολουθούν θα βρείτε όλες τις 
+        συμπληρωματικές πληροφορίες που χρειάζεστε.
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Μεσαίες και Μεγάλες Επιχειρήσεις
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{24AE0B3D-6545-473C-B77C-53885BC44594}" />
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ΕΚΔΗΛΩΣΗ ΕΝΔΙΑΦΕΡΟΝΤΟΣ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7EE29A0B-3DB1-4893-9E14-1304004071E0}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <h3>&Omicron;&mu;&alpha;&delta;&iota;&kappa;ή &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &kappa;&alpha;&iota; &pi;&rho;&omicron;&nu;ό&mu;&iota;&alpha; &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;&omicron;ύ</h3>
+        <p><strong>&Delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&sigma;&tau;&epsilon; έ&nu;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;έ&sigmaf; &pi;&epsilon;&rho;&iota;&beta;ά&lambda;&lambda;&omicron;&nu; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;&sigmaf; &sigma;&alpha;&sigmaf;.</strong> &Alpha;&nu;&alpha;&gamma;&nu;&omega;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; ό&tau;&iota; &tau;&omicron; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό&tau;&epsilon;&rho;&omicron; &kappa;&epsilon;&phi;ά&lambda;&alpha;&iota;&omicron; &mu;&iota;&alpha;&sigmaf; &epsilon;&pi;&iota;&chi;&epsilon;ί&rho;&eta;&sigma;&eta;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &omicron;&iota; ά&nu;&theta;&rho;&omega;&pi;&omicron;&iota; &tau;&eta;&sigmaf;. &Gamma;&iota;&alpha; &alpha;&upsilon;&tau;ό &tau;&omicron; &sigma;&kappa;&omicron;&pi;ό &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&sigma;&alpha;&mu;&epsilon; &omicron;&mu;&alpha;&delta;&iota;&kappa;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &pi;&omicron;&upsilon; &tau;&omicron;&upsilon;&sigmaf; &epsilon;&pi;&iota;&tau;&rho;έ&pi;&omicron;&upsilon;&nu; &nu;&alpha; &pi;&rho;&omicron;&sigma;&eta;&lambda;&omega;&theta;&omicron;ύ&nu; &alpha;&nu;&epsilon;&nu;ό&chi;&lambda;&eta;&tau;&alpha; &sigma;&tau;&eta; &pi;&rho;&omega;&tau;&alpha;&rho;&chi;&iota;&kappa;ή &alpha;&pi;&omicron;&sigma;&tau;&omicron;&lambda;ή &tau;&omicron;&upsilon;&sigmaf;, &tau;&eta;&nu; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ί&alpha; &alpha;&xi;ί&alpha;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &sigma;&alpha;&sigmaf;.
+        </p>
+        <p style="text-align: center;"><strong><a href="~/link.aspx?_id=47F584B136B74C4D92045CB52412E278&amp;_z=z">&Delta;&epsilon;ί&tau;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&alpha; &epsilon;&delta;ώ</a></strong></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+      Hint: ToolkitTitle
+      Value: Εργαλεία Ενημέρωσης
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: |
+        Προστατέψτε το ενεργητικό, τα οικονομικά αποτελέσματα και το προσωπικό της επιχείρησής σας 
+        και διασφαλίστε τη στρατηγική της ανάπτυξη.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{24AE0B3D-6545-473C-B77C-53885BC44594}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Πρόγραμμα Ασφάλισης Κατοικίας
+- Language: en
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0C201241-B5D9-43E2-938B-84326B500EC7}"
+              p:before="*"
+              s:ds=""
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:ph="/page-layout/toolkit-faq-group" />
+            <r
+              uid="{B0542EFE-F30E-4117-9576-0ED982FD34E9}"
+              p:after="r[@uid='{0C201241-B5D9-43E2-938B-84326B500EC7}']"
+              s:ds="{A14F78D5-2317-4E08-8D07-6AEEF714EE16}"
+              s:id="{907DF28B-FE15-4286-AD29-109BC7C0B98A}"
+              s:par=""
+              s:ph="/page-layout/toolkit-documents" />
+            <r
+              uid="{9AD2DCF9-16FF-41F1-9E6C-964166EAAB8F}"
+              p:after="r[@uid='{B0542EFE-F30E-4117-9576-0ED982FD34E9}']"
+              s:ds="{54B99C9D-0A71-428A-85E8-D17AC605589C}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-3-{3E2592A1-ED97-4B78-B7A3-9597117F620B}-0" />
+            <r
+              uid="{B19B323A-2061-4029-8B1C-B95C20A707DE}"
+              p:after="r[@uid='{9AD2DCF9-16FF-41F1-9E6C-964166EAAB8F}']"
+              s:ds="{8503D913-0493-4977-87F1-3E3CDF7C1E60}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-2-{3E2592A1-ED97-4B78-B7A3-9597117F620B}-0" />
+            <r
+              uid="{21804CD6-8D93-4EC8-A19A-A975C6CB80E5}"
+              p:after="r[@uid='{B19B323A-2061-4029-8B1C-B95C20A707DE}']"
+              s:ds="{8B7E058C-F026-4D43-940D-4AEC15014491}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-1-{3E2592A1-ED97-4B78-B7A3-9597117F620B}-0" />
+            <r
+              uid="{6D5DBB40-CD2D-464E-8E86-50DDEA5A59B2}"
+              p:after="r[@uid='{21804CD6-8D93-4EC8-A19A-A975C6CB80E5}']"
+              s:id="{2FF3A175-2A41-4088-820A-749360BE65FA}"
+              s:ph="/page-layout/toolkit-how-it-works" />
+            <r
+              uid="{0A11C4DB-8BF8-423B-9367-2CB6EE66BAFE}"
+              p:after="r[@uid='{6D5DBB40-CD2D-464E-8E86-50DDEA5A59B2}']"
+              s:id="{4DE00D68-7C8B-440A-A4D9-BB82355E20BD}"
+              s:ph="/page-layout/toolkit-contact-transfer" />
+            <r
+              uid="{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}"
+              s:ds="{077EE9C6-86DE-4CF4-A4ED-0933E87BB243}"
+              s:par="" />
+            <r
+              uid="{808DB0C9-D175-46EC-8A97-0F5B9601B93D}">
+              <p:d />
+            </r>
+            <r
+              uid="{BEF66B0D-1DEF-479D-A928-72FBF9B29EA7}"
+              p:after="r[@uid='{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}']"
+              s:ds=""
+              s:id="{BC33BB52-419D-4118-9D08-EE4009C50D3E}"
+              s:ph="page-layout" />
+            <r
+              uid="{D821B61A-F276-462C-BBC1-8A1D26C0F8EB}"
+              p:after="r[@uid='{BEF66B0D-1DEF-479D-A928-72FBF9B29EA7}']"
+              s:ds="{A2BFAE0E-D0A4-4841-B54E-2334F36E3656}"
+              s:id="{54928386-719D-48B9-8A91-524D9961E36D}"
+              s:ph="page-layout" />
+            <r
+              uid="{CFEDCB08-4BE6-4AD3-AA19-80CF443C0FCD}"
+              p:after="r[@uid='{D821B61A-F276-462C-BBC1-8A1D26C0F8EB}']"
+              s:ds=""
+              s:id="{F3136503-1EEB-41D2-B47C-89FBC34BC540}"
+              s:ph="page-layout" />
+            <r
+              uid="{D7CAC5B3-7072-4BA9-A4C3-FA76E51E6683}"
+              p:after="r[@uid='{CFEDCB08-4BE6-4AD3-AA19-80CF443C0FCD}']"
+              s:ds="{8E2F1FE5-C41A-432A-8C7F-4367BC5BADDD}"
+              s:id="{FFB4450F-586B-47D1-9008-DA761EA95DE3}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{3E2592A1-ED97-4B78-B7A3-9597117F620B}"
+              p:after="r[@uid='{D7CAC5B3-7072-4BA9-A4C3-FA76E51E6683}']"
+              s:ds="{E7E7F6D0-F959-48D3-AD9E-682B77EE6C5F}"
+              s:id="{885784F0-9175-4BFB-AF11-8184E69ABB14}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{4166DA35-44B7-4B62-A9C4-A2A4851BD80F}"
+              p:after="*[1=2]"
+              s:id="{8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T074619Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Κατοικία
+    - ID: "328f77a3-08cc-4496-b8c9-184e3c194993"
+      Hint: ToolkitHowItWorks
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "4791fadd-9bb5-4efd-b542-4d2f8bb634e4"
+      Hint: ToolkitSubhead
+      Value: Στις ενότητες που ακολουθούν
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Πρόγραμμα Ασφάλισης Κατοικίας
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="Ζητήστε Προσφορά" linktype="external" url="https://gihub.com" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "6271f1c8-d91e-47ed-8f4a-99fe75d004a5"
+      Hint: ToolkitContactTransfer
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+      Hint: ToolkitTitle
+      Value: Εργαλεία Ενημέρωσης
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Εξασφαλίζουμε την ηρεμία σα;, για να μπορείτε να απολαύσετε κάθε στιγμή σας.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="Habitat-004-wide" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{71BC2865-797C-4F65-95D6-3CA4EBACD0D7}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Κατοικία

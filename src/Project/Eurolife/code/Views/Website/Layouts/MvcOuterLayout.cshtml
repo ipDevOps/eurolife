@@ -1,0 +1,55 @@
+﻿@using Wedia.Foundation.Assets.Services
+@using Wedia.Foundation.Assets.Models
+@using Sitecore.Mvc.Analytics.Extensions
+@using Sitecore.ExperienceForms.Mvc.Html
+@using Wedia.Foundation.Theming.Extensions
+
+@{
+  Layout = null;
+}
+<!DOCTYPE html>
+<html lang="@Sitecore.Context.Language.CultureInfo.TwoLetterISOLanguageName">
+<head>
+  <meta name="facebook-domain-verification" content="twv7f6iemfcik7fk72q36sadwntxli" />
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KQJ4XV');</script>
+  <!-- End Google Tag Manager -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  @if (!Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    @Html.Sitecore().Placeholder("head")
+  }
+  @Html.RenderFormStyles()
+  <script type="text/javascript" src="/js/vendor/jquery-3.4.1.min.js"></script>
+  @Html.RenderFormScripts()
+  @RenderAssetsService.Current.RenderScript(ScriptLocation.Head)
+  @RenderAssetsService.Current.RenderStyles()
+
+  @Html.Sitecore().VisitorIdentification()
+</head>
+<body class="@Sitecore.Sites.SiteContext.Current.GetThemeColor()">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJ4XV"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  @RenderBody()
+
+  @if (!Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    @RenderAssetsService.Current.RenderScript(ScriptLocation.Body)
+  }
+  <script data-account="TnIfsihjhh" src="https://cdn.userway.org/widget.js"></script>
+</body>
+</html>

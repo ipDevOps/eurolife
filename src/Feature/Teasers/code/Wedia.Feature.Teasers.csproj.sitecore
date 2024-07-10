@@ -1,0 +1,14 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="eurolife.local" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+  <File Include="Views\Teasers\TeaserList.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{310E1794-E0B6-43C9-BE24-792171657C38}</Item>
+  </File>
+  <File Include="Views\Teasers\BorderedTeaser.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{79FE3C38-ED6A-4F45-A910-9939FDBA0075}</Item>
+  </File>
+  <File Include="Views\Teasers\TeaserWithLabelAndIcon.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{1BE547E4-8F8B-4717-A241-CB1D19631F1D}</Item>
+  </File>
+</Project>

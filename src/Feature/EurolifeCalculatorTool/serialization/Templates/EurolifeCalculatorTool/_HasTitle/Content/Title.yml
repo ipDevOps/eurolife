@@ -1,0 +1,18 @@
+﻿---
+ID: "b3b537a3-31d9-447f-89c4-413fb43c287e"
+Parent: "b829af4d-6c9b-4a06-a414-00176914ed06"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/EurolifeCalculatorTool/_HasTitle/Content/Title
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201215T160042Z

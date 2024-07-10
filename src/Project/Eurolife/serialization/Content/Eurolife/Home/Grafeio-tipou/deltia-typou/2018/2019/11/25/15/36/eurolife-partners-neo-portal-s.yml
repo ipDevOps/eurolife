@@ -1,0 +1,79 @@
+﻿---
+ID: "01184026-b7c4-40d6-837e-977da7611ac3"
+Parent: "16c2b547-7148-4e45-801b-8410a663d73b"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/15/36/eurolife-partners-neo-portal-synergaton-apo-ti-eurolife-erb"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{15D0FEE7-58A1-4C4C-ACA8-1655DFC6D704}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T153641Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "Eurolife Partners - Νέο Portal συνεργατών από τη Eurolife ERB"
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p><strong>&Omicron; &nu;έ&omicron;&sigmaf; &pi;&rho;&omicron;&omicron;&rho;&iota;&sigma;&mu;ό&sigmaf; &sigma;&tau;&omicron; &tau;&alpha;&xi;ί&delta;&iota; &tau;&omicron;&upsilon; &psi;&eta;&phi;&iota;&alpha;&kappa;&omicron;ύ &mu;&epsilon;&tau;&alpha;&sigma;&chi;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ Eurolife 2.0 &epsilon;ί&nu;&alpha;&iota; &gamma;&epsilon;&gamma;&omicron;&nu;ό&sigmaf;</strong></p>
+        <p>&Eta; Eurolife ERB &sigma;&upsilon;&nu;&epsilon;&chi;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά &tau;&eta;&nu; &upsilon;&lambda;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; έ&rho;&gamma;&omega;&nu; &pi;&omicron;&upsilon; &delta;ί&nu;&omicron;&upsilon;&nu; ώ&theta;&eta;&sigma;&eta; &sigma;&tau;&omicron; &tau;&alpha;&xi;ί&delta;&iota; &pi;&omicron;&upsilon; &xi;&epsilon;&kappa;ί&nu;&eta;&sigma;&epsilon; &omicron; Ό&mu;&iota;&lambda;&omicron;&sigmaf; &sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &tau;&omicron;&upsilon; &psi;&eta;&phi;&iota;&alpha;&kappa;&omicron;ύ &mu;&epsilon;&tau;&alpha;&sigma;&chi;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ Eurolife 2.0, &pi;&alpha;&rho;&omicron;&upsilon;&sigma;&iota;ά&zeta;&epsilon;&iota; &tau;&omicron; &nu;έ&omicron; portal &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&omicron;&upsilon; &mu;&epsilon; &tau;&eta;&nu; &omicron;&nu;&omicron;&mu;&alpha;&sigma;ί&alpha; <strong>Eurolife Partners</strong>.</p>
+        <p>&Tau;&omicron; Eurolife Partners &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί έ&nu;&alpha;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&tau;&upsilon;&alpha;&kappa;ό &chi;ώ&rho;&omicron; &mu;&epsilon; &mu;&omicron;&nu;&alpha;&delta;&iota;&kappa;έ&sigmaf; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&epsilon;&sigmaf; &kappa;&alpha;&iota; &pi;&lambda;&epsilon;&omicron;&nu;&epsilon;&kappa;&tau;ή&mu;&alpha;&tau;&alpha; &pi;&omicron;&upsilon; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&theta;&eta;&kappa;&epsilon; &mu;&epsilon; &beta;ά&sigma;&eta; &tau;&iota;&sigmaf; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&iota;&kappa;έ&sigmaf; &kappa;&alpha;&iota; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&epsilon;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf; Eurolife ERB. &Pi;&rho;ό&kappa;&epsilon;&iota;&tau;&alpha;&iota; &gamma;&iota;&alpha; έ&nu;&alpha; <strong>&nu;έ&omicron;, &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&omicron; &psi;&eta;&phi;&iota;&alpha;&kappa;ό &epsilon;&rho;&gamma;&alpha;&lambda;&epsilon;ί</strong>&omicron; &gamma;&iota;&alpha; &tau;&eta; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ί&alpha; &tau;&omicron;&upsilon; &omicron;&pi;&omicron;ί&omicron;&upsilon; &alpha;&xi;&iota;&omicron;&pi;&omicron;&iota;ή&theta;&eta;&kappa;&alpha;&nu; &omicron;&iota; &pi;&iota;&omicron; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&epsilon;&sigmaf; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&epsilon;&sigmaf;, &epsilon;&phi;&alpha;&rho;&mu;ό&sigma;&tau;&eta;&kappa;&alpha;&nu; &tau;&alpha; &pi;&iota;&omicron; &upsilon;&psi;&eta;&lambda;ά &sigma;&tau;ά&nu;&tau;&alpha;&rho;/ &pi;&rho;ό&tau;&upsilon;&pi;&alpha; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha;&sigmaf; &kappa;&alpha;&iota; &alpha;&kappa;&omicron;&lambda;&omicron;&upsilon;&theta;ή&theta;&eta;&kappa;&epsilon; &pi;&rho;&omega;&tau;ό&tau;&upsilon;&pi;&eta; &mu;&epsilon;&theta;&omicron;&delta;&omicron;&lambda;&omicron;&gamma;ί&alpha;. &Beta;&alpha;&sigma;&iota;&kappa;ό&sigmaf; &sigma;&tau;ό&chi;&omicron;&sigmaf; &tau;&omicron;&upsilon; portal &epsilon;ί&nu;&alpha;&iota; &eta; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &alpha;&nu;&alpha;&beta;ά&theta;&mu;&iota;&sigma;&eta; &tau;&omega;&nu; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &kappa;&alpha;&iota; &tau;&eta;&sigmaf; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha;&sigmaf; &epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &kappa;&alpha;&iota; &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;.</p>
+        <p>&Sigma;&epsilon; &alpha;&upsilon;&tau;ό &tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron;, &tau;&omicron; portal &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; &chi;&rho;ή&sigma;&tau;&epsilon;&sigmaf; &tau;&omicron;&upsilon; &mu;&iota;&alpha; &sigma;&epsilon;&iota;&rho;ά &alpha;&pi;ό &kappa;&alpha;&iota;&nu;&omicron;&tau;ό&mu;&epsilon;&sigmaf; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf; &mu;&epsilon; &gamma;&nu;ώ&mu;&omicron;&nu;&alpha; &tau;&eta;&nu; &epsilon;&upsilon;&epsilon;&lambda;&iota;&xi;ί&alpha;, &tau;&eta;&nu; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;&alpha;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &tau;&eta;&nu; &tau;&alpha;&chi;ύ&tau;&eta;&tau;&alpha; &sigma;&tau;&eta;&nu; &alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&omega;&nu; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&omega;&nu;. &Pi;&alpha;&rho;ά&lambda;&lambda;&eta;&lambda;&alpha;, &eta; &nu;έ&alpha; &alpha;&upsilon;&tau;ή έ&xi;&upsilon;&pi;&nu;&eta; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;ή &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &pi;&alpha;&rho;έ&chi;&epsilon;&iota; &epsilon;ύ&kappa;&omicron;&lambda;&eta; &pi;&rho;ό&sigma;&beta;&alpha;&sigma;&eta; &alpha;&pi;ό &delta;&iota;ά&phi;&omicron;&rho;&epsilon;&sigmaf; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;έ&sigmaf;, &epsilon;&pi;&iota;&tau;&upsilon;&gamma;&chi;ά&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &gamma;&rho;ή&gamma;&omicron;&rho;&eta; &kappa;&alpha;&iota; &alpha;&pi;&rho;ό&sigma;&kappa;&omicron;&pi;&tau;&eta; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf;.</p>
+        <p>&Epsilon;&iota;&delta;&iota;&kappa;ό&tau;&epsilon;&rho;&alpha;, &omicron;&iota; &beta;&alpha;&sigma;&iota;&kappa;έ&sigmaf; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon; portal &pi;&epsilon;&rho;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&omicron;&upsilon;&nu; &tau;&alpha; &alpha;&kappa;ό&lambda;&omicron;&upsilon;&theta;&alpha;:</p>
+        <p><strong>&Epsilon;&upsilon;&epsilon;&lambda;&iota;&xi;ί&alpha;</strong></p>
+        <ul>
+            <li>&Sigma;ύ&nu;&delta;&epsilon;&sigma;&eta; &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &alpha;&pi;ό &omicron;&pi;&omicron;&upsilon;&delta;ή&pi;&omicron;&tau;&epsilon;</li>
+            <li>&Eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ή &upsilon;&pi;&omicron;&gamma;&rho;&alpha;&phi;ή &pi;&epsilon;&lambda;ά&tau;&eta; &kappa;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&eta;</li>
+            <li>Quick Quotation (&Gamma;&rho;ή&gamma;&omicron;&rho;&eta; &Pi;&rho;&omicron;&sigma;&phi;&omicron;&rho;ά)</li>
+        </ul>
+        <p> <strong>&Alpha;&upsilon;&tau;&omicron;&mu;&alpha;&tau;&iota;&sigma;&mu;ό&sigmaf;</strong></p>
+        <ul>
+            <li>&Sigma;&upsilon;&nu;&tau;&omicron;&mu;&epsilon;ύ&sigma;&epsilon;&iota;&sigmaf; &gamma;&rho;ή&gamma;&omicron;&rho;&eta;&sigmaf; &pi;&rho;ό&sigma;&beta;&alpha;&sigma;&eta;&sigmaf;</li>
+            <li>&Phi;ό&rho;&tau;&omega;&sigma;&eta; &kappa;&alpha;&iota; &mu;&epsilon;&tau;&alpha;&phi;ό&rho;&tau;&omega;&sigma;&eta; &delta;&iota;&kappa;&alpha;&iota;&omicron;&lambda;&omicron;&gamma;&eta;&tau;&iota;&kappa;ώ&nu;</li>
+            <li>&Epsilon;ύ&kappa;&omicron;&lambda;&eta; &pi;&lambda;&omicron;ή&gamma;&eta;&sigma;&eta;</li>
+            <li>&Alpha;&pi;&omicron;&theta;ή&kappa;&epsilon;&upsilon;&sigma;&eta; &epsilon;&rho;&gamma;&alpha;&sigma;&iota;ώ&nu; &pi;&rho;&omicron;&sigmaf; &epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &sigma;&epsilon; &delta;&epsilon;ύ&tau;&epsilon;&rho;&omicron; &chi;&rho;ό&nu;&omicron;</li>
+        </ul>
+        <p><strong>&Alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;&alpha;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha;</strong></p>
+        <ul>
+            <li>&Kappa;&alpha;&theta;&omicron;&delta;ή&gamma;&eta;&sigma;&eta; &kappa;&alpha;&tau;ά &tau;&eta;&nu; &pi;&rho;ώ&tau;&eta; &chi;&rho;ή&sigma;&eta;</li>
+            <li>Dashboard &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu;</li>
+        </ul>
+        <p><strong>&Alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&nbsp; &Delta;&epsilon;&delta;&omicron;&mu;έ&nu;&omega;&nu;</strong></p>
+        <ul>
+            <li>&Sigma;&upsilon;&nu;&epsilon;&chi;ή&sigmaf; &beta;&epsilon;&lambda;&tau;ί&omega;&sigma;&eta; &tau;&omega;&nu; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;&iota;ώ&nu; &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&alpha; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&alpha; &pi;&omicron;&upsilon; &epsilon;&iota;&sigma;ά&gamma;&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&omicron; &sigma;ύ&sigma;&tau;&eta;&mu;&alpha;</li>
+        </ul>
+        <p>&Eta; &pi;&rho;ώ&tau;&eta; &epsilon;&nu;ό&tau;&eta;&tau;&alpha; &tau;&omicron;&upsilon; Eurolife Partners &pi;&omicron;&upsilon; &tau;ί&theta;&epsilon;&tau;&alpha;&iota; ά&mu;&epsilon;&sigma;&alpha; &sigma;&epsilon; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha; &alpha;&phi;&omicron;&rho;ά &tau;&eta;&nu; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;ί&alpha; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &Upsilon;&gamma;&epsilon;ί&alpha;&sigmaf;, &epsilon;&nu;ώ &sigma;&tau;&alpha;&delta;&iota;&alpha;&kappa;ά &mu;έ&sigma;&alpha; &sigma;&tau;&omicron; 2018 &theta;&alpha; &lambda;&alpha;&nu;&sigma;ά&rho;&omicron;&nu;&tau;&alpha;&iota; &kappa;&alpha;&iota; &omicron;&iota; &upsilon;&pi;ό&lambda;&omicron;&iota;&pi;&epsilon;&sigmaf; &epsilon;&nu;ό&tau;&eta;&tau;&epsilon;&sigmaf; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon; portal &mu;&epsilon; &epsilon;&pi;ό&mu;&epsilon;&nu;&eta; &tau;&omicron; &Alpha;&upsilon;&tau;&omicron;&kappa;ί&nu;&eta;&tau;&omicron;.</p>
+        <p>&Omicron; &kappa;. <strong>&Sigma;&omega;&tau;ή&rho;&iota;&omicron;&sigmaf; &Mu;&alpha;&tau;&sigma;&iota;&omicron;ύ&lambda;&alpha;&sigmaf;, &Alpha;&nu;&alpha;&pi;&lambda;&eta;&rho;&omega;&tau;ή&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Epsilon;&rho;&gamma;&alpha;&sigma;&iota;ώ&nu; &amp; &Epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB</strong> &delta;ή&lambda;&omega;&sigma;&epsilon;: &laquo;&Tau;&omicron; &Epsilon;urolife Partners &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;&iota;&alpha; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;ή &mu;&epsilon; &alpha;&mu;έ&tau;&rho;&eta;&tau;&epsilon;&sigmaf; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&epsilon;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&nu; &pi;&rho;ώ&tau;&omicron; &mu;&epsilon;&gamma;ά&lambda;&omicron; &sigma;&tau;&alpha;&theta;&mu;ό &tau;&omicron;&upsilon; &psi;&eta;&phi;&iota;&alpha;&kappa;&omicron;ύ &mu;&epsilon;&tau;&alpha;&sigma;&chi;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;. &Tau;&omicron; &tau;&alpha;&xi;ί&delta;&iota; &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&tau;&upsilon;&chi;ί&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &sigma;&tau;&omicron; &chi;έ&rho;&iota; &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &alpha;&upsilon;&tau;ό &epsilon;ί&nu;&alpha;&iota; &mu;ό&nu;&omicron; &eta; &alpha;&rho;&chi;ή. &Kappa;&alpha;&theta;ώ&sigmaf; &sigma;&upsilon;&nu;&epsilon;&chi;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &nu;&alpha; &omicron;&delta;&eta;&gamma;&omicron;ύ&mu;&epsilon; &tau;&iota;&sigmaf; &epsilon;&xi;&epsilon;&lambda;ί&xi;&epsilon;&iota;&sigmaf; &sigma;&tau;&omicron;&nu; &kappa;&lambda;ά&delta;&omicron;, &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;&alpha;&tau;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &nu;&alpha; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;&iota;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&alpha;&delta;&iota;&alpha;&kappa;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &theta;&alpha; &mu;&alpha;&sigmaf; &omicron;&delta;&eta;&gamma;ή&sigma;&omicron;&upsilon;&nu; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά &sigma;&tau;&eta; &nu;έ&alpha; &epsilon;&pi;&omicron;&chi;ή &kappa;&alpha;&iota; &tau;&eta;&nu; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &tau;&eta;&sigmaf; Eurolife ERB&raquo;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{15D0FEE7-58A1-4C4C-ACA8-1655DFC6D704}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: "Eurolife Partners - Νέο Portal συνεργατών από τη Eurolife ERB"
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20180201T153700Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: "Eurolife Partners - Νέο Portal συνεργατών από τη Eurolife ERB"

@@ -1,0 +1,25 @@
+﻿---
+ID: "67aa3765-29d9-4cbd-a58b-bd675352d91c"
+Parent: "c7147d77-f4c1-4b72-a4f5-3beee4dc45c1"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground/Page Layout/Background
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "{FA97C3B9-9B1D-4B6B-95AA-6F72A9BDFB23}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T150256Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "034938ba-453d-4d0d-acd2-bd8fd5e9663b"
+Parent: "2bb88d51-eae0-4aa1-ac42-d14ab7f3d866"
+Template: "4199becf-21aa-4aaa-a99d-7a64cae7fd94"
+Path: /sitecore/content/Eurolife/Global/Teasers/Contact Ways
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Ό&lambda;&omicron;&iota; &omicron;&iota; &tau;&rho;ό&pi;&omicron;&iota; &mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &omicron;&pi;&omicron;ί&omicron;&upsilon; &mu;&pi;&omicron;&rho;&omicron;ύ&mu;&epsilon; &nu;&alpha; έ&rho;&theta;&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; &epsilon;&pi;&alpha;&phi;ή
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Τρόποι Επικοινωνίας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190918T141721Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Όλοι οι τρόποι με τους οποίους μπορούμε να έρθουμε σε επαφή.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Όλοι οι τρόποι με τους οποίους μπορούμε να έρθουμε σε επαφή.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T092547Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

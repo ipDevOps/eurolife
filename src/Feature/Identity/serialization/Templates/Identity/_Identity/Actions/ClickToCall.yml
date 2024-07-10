@@ -1,0 +1,18 @@
+﻿---
+ID: "a3b0f0f0-cac4-496a-aca7-8f80fc52bb6a"
+Parent: "fd218aa0-8b7c-4b5b-8f81-06034735fc83"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Identity/_Identity/Actions/ClickToCall
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T110202Z

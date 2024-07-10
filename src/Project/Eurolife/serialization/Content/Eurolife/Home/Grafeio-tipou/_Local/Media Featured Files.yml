@@ -1,0 +1,28 @@
+﻿---
+ID: "e941c6b7-952c-4b01-9790-efb706df73d6"
+Parent: "5d42fdd3-4036-4e0f-8e3a-c0cce04b6010"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/Media Featured Files"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T113925Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {A397DD16-4A48-44CC-BCE6-2DBCC86D33EC}
+        {974DA142-E342-4D12-A968-8A255F3349B0}
+        {66F089CA-50C7-4072-9A86-124B2E35A819}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: τεστ

@@ -1,0 +1,38 @@
+﻿@using Wedia.Feature.Navigation
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Newtonsoft.Json
+@model Wedia.Feature.Navigation.Models.NavigationItems
+
+@{
+  var json = new List<object>();
+}
+
+<ul class="breadcrumbs center center--1700">
+  @foreach (var item in Model.NavItems.Select((value, index) => new { value, index }))
+  {
+    <li>
+      <a href="@item.value.Item.Url()">@Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, item.value.Item)</a>
+    </li>
+
+    json.Add(new
+    {
+      @type = "ListItem",
+      position = item.index,
+      item = new
+      {
+        @id = item.value.Item.Url(new Sitecore.Links.UrlOptions { AlwaysIncludeServerUrl = true }),
+        name = @Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, item.value.Item, new { DisableWebEdit = true })
+      }
+    });
+
+  }
+</ul>
+
+
+<script type="application/ld+json">
+  {
+  "@@context": "http://schema.org",
+  "@@type": "BreadcrumbList",
+  "itemListElement": @Html.Raw(JsonConvert.SerializeObject(json))
+  }
+</script>

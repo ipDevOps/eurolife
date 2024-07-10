@@ -1,0 +1,18 @@
+﻿---
+ID: "adf828c8-e5cf-40a6-8130-ea9b28ed0881"
+Parent: "89e25dc8-85f3-421d-b41e-9d5e3e40f8a5"
+Template: "15d489c4-ebf5-4f3b-bd82-d2e846ab73e4"
+Path: "/sitecore/content/Eurolife/Settings/Datasources/extra-info-item"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190523T140904Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

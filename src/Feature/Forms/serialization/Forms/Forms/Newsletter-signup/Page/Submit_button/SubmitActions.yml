@@ -1,0 +1,18 @@
+﻿---
+ID: "95143c2d-3a45-480c-a94a-4aa2777f23c8"
+Parent: "6e391bf0-9f3d-4eed-8ce3-50b028d4c346"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/Forms/Newsletter-signup/Page/Submit_button/SubmitActions"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T194127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

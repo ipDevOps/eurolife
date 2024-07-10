@@ -1,0 +1,77 @@
+﻿@using Wedia.Feature.News
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+
+  if (!Model?.Item?.DescendsFrom(Templates.NewsArticle.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.NewsArticle.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+      return;
+    }
+
+
+    var mediaUrlOptions = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = Contants.ImageDimensions.LandingBannerWidth,
+      //Height = Contants.ImageDimensions.LandingBannerHeight
+    };
+
+    var mobileMediaUrlOptions = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = Contants.ImageDimensions.LandingBannerResponsiveWidth,
+      //Height = Contants.ImageDimensions.LandingBannerResponsiveHeight
+    };
+
+    var desktopImage = Model.Item.ImageUrl(Templates.NewsArticle.Fields.DesktopImage, mediaUrlOptions);
+    var mobileImage = Model.Item.ImageUrl(Templates.NewsArticle.Fields.MobileImage, mobileMediaUrlOptions);
+    var containerColor = (string.IsNullOrEmpty(desktopImage) && string.IsNullOrEmpty(mobileImage)) ? "bg-life-insurance" : "";
+}
+
+<div class="@containerColor news__intro">
+  @Html.Sitecore().Placeholder("page-layout-top")
+  <section class="center center--1700 p-t-48 p-b-48">
+
+    <h1 class="h3 m-b-8">@Html.Sitecore().Field(Templates.NewsArticle.Fields.Title, Model.Item)</h1>
+    @if (Model.Item.FieldHasValue(Templates.NewsArticle.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="m-w-820">
+        <p>
+          @Html.Sitecore().Field(Templates.NewsArticle.Fields.Summary, Model.Item)
+        </p>
+      </div>
+    }
+  </section>
+</div>
+
+
+@if (Model.Item.FieldHasValue(Templates.NewsArticle.Fields.DesktopImage)
+    || Model.Item.FieldHasValue(Templates.NewsArticle.Fields.MobileImage)
+    || Sitecore.Context.PageMode.IsExperienceEditor)
+{
+  <section class="news__image center center--920 m-t-112 m-b-64">
+    @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+    {
+      <picture>
+        @if (!string.IsNullOrEmpty(desktopImage) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+
+          <source media="(min-width: 900px)" srcset="@desktopImage">
+
+        }
+
+        @if (!string.IsNullOrEmpty(mobileImage) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <source srcset="@mobileImage">
+        }
+
+        <img src="@desktopImage" alt="eurolife product" />
+      </picture>
+    }
+  </section>
+}
+
+

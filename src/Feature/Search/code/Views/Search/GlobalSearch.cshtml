@@ -1,0 +1,41 @@
+﻿@using Wedia.Foundation.Dictionary.Repositories
+@model Wedia.Feature.Search.Models.SearchContext
+  @{ 
+      var root = "/en";   
+      var lang = "EN";
+
+      if(Sitecore.Context.Language.CultureInfo.TwoLetterISOLanguageName.ToLower() == "en")
+      {
+        lang = "EL";
+        root = "/el-GR";
+      }
+  }
+
+<a class="language-switch" href="@root">@lang</a>
+
+<div class="search-switch js-search-switch">
+  <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <path fill="#ef3340" fill-rule="nonzero" d="M53.361 50.275a2.182 2.182 0 0 1-3.086 3.086l-9.818-9.818a2.182 2.182 0 0 1 3.086-3.086l9.818 9.818zm-27.725-5.002C14.791 45.273 6 36.48 6 25.636S14.791 6 25.636 6c10.845 0 19.637 8.791 19.637 19.636 0 10.845-8.792 19.637-19.637 19.637zm0-4.364c8.435 0 15.273-6.838 15.273-15.273 0-8.435-6.838-15.272-15.273-15.272-8.435 0-15.272 6.837-15.272 15.272S17.2 40.91 25.636 40.91z" />
+  </svg>
+</div>
+<div class="search-opener">
+  <div class="search-opener__in center center--1700">
+    <a href="/" class="logo" style="opacity:0;" role="link" aria-label="Eurolife Logo Link to Homepage" title="Logo">Eurolife</a>
+    <div class="search-close js-search-close">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+        <defs>
+          <path id="search" d="M47.979 12.021a2.859 2.859 0 0 0-4.043 0L30 25.957 16.064 12.021a2.859 2.859 0 1 0-4.043 4.043L25.957 30 12.021 43.936a2.859 2.859 0 1 0 4.043 4.043L30 34.043l13.936 13.936a2.859 2.859 0 1 0 4.043-4.043L34.043 30l13.936-13.936a2.859 2.859 0 0 0 0-4.043z" />
+        </defs>
+        <use fill="#ef3340" fill-rule="nonzero" xlink:href="#search" />
+      </svg>
+    </div>
+  </div>
+  <div class="center center--650 p-t-80 p-b-80 search-form-modal">
+    <form action="@Model.SearchResultsUrl">
+      <input type="text" name="query" placeholder="@Model.SearchBoxTitle" autocomplete="off">
+      <input type="submit" id="searchInputBox" value="@Model.SearchBoxTitle">
+    </form>
+    <h3>@DictionaryPhraseRepository.Current.Get("/Search/Global Search/Popular Searches", "Popular Searches")</h3>
+    @Html.Sitecore().Placeholder("popular-searches")
+  </div>
+</div>

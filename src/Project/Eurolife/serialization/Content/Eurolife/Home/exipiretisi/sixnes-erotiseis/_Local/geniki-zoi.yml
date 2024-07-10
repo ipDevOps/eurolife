@@ -1,0 +1,42 @@
+﻿---
+ID: "34568b1a-8377-479a-9fc7-b4f4d7c435cd"
+Parent: "3aae9479-94ce-4687-939f-3cc089d0d59c"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sixnes-erotiseis/_Local/geniki-zoi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191012T125012Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {1AEBD46B-3B61-4A17-9668-C3D0038B73F1}
+        {4AAF691E-A120-4D1E-8EB0-40C00B706B21}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T080516Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

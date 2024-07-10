@@ -1,0 +1,26 @@
+﻿---
+ID: "d36ec7b4-e7f5-433d-a868-f84fba7ed0bb"
+Parent: "04c3387e-4bbb-4cf8-a267-3103ca395645"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/extra hospital care/_Local/extra hospital care/kalipsis ektatou peristetikou 500
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Κάλυψη έκτακτου περιστατικού έως €500
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <strong>&Pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &kappa;ά&lambda;&upsilon;&psi;&eta; &mu;έ&chi;&rho;&iota; &tau;&omicron;&upsilon; &pi;&omicron;&sigma;&omicron;ύ &tau;&omega;&nu; &euro;500 &alpha;&nu;ά &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό.</strong><br />
+        &Alpha;&phi;&omicron;&rho;ά έ&kappa;&tau;&alpha;&kappa;&tau;&alpha; &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ά &tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &alpha;&nu;&tau;&iota;&mu;&epsilon;&tau;&omega;&pi;ί&zeta;&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&alpha; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;ά &iota;&alpha;&tau;&rho;&epsilon;ί&alpha; &Sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&omicron;&upsilon; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron;&upsilon;. &Tau;&alpha; έ&xi;&omicron;&delta;&alpha; &pi;&omicron;&upsilon; &kappa;&alpha;&lambda;ύ&pi;&tau;&omicron;&nu;&tau;&alpha;&iota; &alpha;&phi;&omicron;&rho;&omicron;ύ&nu; &iota;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &alpha;&mu;&omicron;&iota;&beta;έ&sigmaf;, &delta;&iota;&alpha;&gamma;&nu;&omega;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&xi;&epsilon;&tau;ά&sigma;&epsilon;&iota;&sigmaf;, &phi;&alpha;&rho;&mu;&alpha;&kappa;&epsilon;&upsilon;&tau;&iota;&kappa;ή &alpha;&gamma;&omega;&gamma;ή, &iota;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &pi;&rho;ά&xi;&epsilon;&iota;&sigmaf;, &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &upsilon;&lambda;&iota;&kappa;ά &gamma;&iota;&alpha; &tau;&eta; &delta;&iota;&epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&alpha; &tau;&omega;&nu; &iota;&alpha;&tau;&rho;&iota;&kappa;ώ&nu; &pi;&rho;ά&xi;&epsilon;&omega;&nu;.

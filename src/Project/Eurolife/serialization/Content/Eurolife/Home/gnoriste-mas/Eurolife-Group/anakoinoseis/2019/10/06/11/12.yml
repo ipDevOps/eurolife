@@ -1,0 +1,18 @@
+﻿---
+ID: "2c9576af-5238-4cb3-8abb-2d122eb991a4"
+Parent: "bb0bb454-9afc-4b13-898e-53d19a01441a"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/anakoinoseis/2019/10/06/11/12"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T111220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

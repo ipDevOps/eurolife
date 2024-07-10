@@ -1,0 +1,29 @@
+﻿---
+ID: "4c7ebc89-31a0-4fe0-b0fe-87c700acfdfe"
+Parent: "980319da-11d0-4e87-960f-3bedf12f17a2"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/_Local/Highlights Circles Group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {1C5F21B6-0FE7-435D-BB6E-951C29AD3E2F}
+        {F935B0F4-8FFC-4C91-9A0B-BD4FD57F50F9}
+        {91F86BA1-0F89-4D73-A96F-636BB68DEEB8}
+        {31EDF000-0AB6-4C71-B00E-FA368324F01F}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T124709Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

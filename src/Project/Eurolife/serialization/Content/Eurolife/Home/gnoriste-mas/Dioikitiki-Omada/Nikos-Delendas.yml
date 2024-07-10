@@ -1,0 +1,74 @@
+﻿---
+ID: "60df4870-0158-4921-a92a-2ad7183b7c06"
+Parent: "16351d16-de59-4f85-b750-07e16e068026"
+Template: "ce1d7e61-0867-4d85-8661-ebea1d8b48ea"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Dioikitiki-Omada/Nikos-Delendas"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FE34DC65-63FE-447A-BC21-D9FB66E402A3}"
+              p:before="*"
+              s:id="{FFE84079-A9DA-410E-A281-0ED31C52FE96}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191116T155558Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Νίκος Δελένδας
+    - ID: "3a28c78d-3c5e-4d7b-837b-9f511fb70d80"
+      Hint: PersonBody
+      Value: &Omicron; &kappa;. &Delta;&epsilon;&lambda;έ&nu;&delta;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &mu;έ&lambda;&omicron;&sigmaf; &tau;&omega;&nu; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;ώ&nu; &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omega;&nu; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; &sigma;&epsilon; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &kappa;&alpha;&iota; &Rho;&omicron;&upsilon;&mu;&alpha;&nu;ί&alpha; &kappa;&alpha;&iota; &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &kappa;&alpha;&iota; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB &alpha;&pi;ό &tau;&omicron; 2005. &Epsilon;ί&nu;&alpha;&iota; &pi;&tau;&upsilon;&chi;&iota;&omicron;ύ&chi;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Tau;&mu;ή&mu;&alpha;&tau;&omicron;&sigmaf; &Omicron;&rho;&gamma;ά&nu;&omega;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &Delta;&iota;&omicron;ί&kappa;&eta;&sigma;&eta;&sigmaf; &Epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&omega;&nu; &Omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;&omicron;ύ &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;&eta;&mu;ί&omicron;&upsilon; &Alpha;&theta;&eta;&nu;ώ&nu; (&pi;&rho;ώ&eta;&nu; &Alpha;&Sigma;&Omicron;&Epsilon;&Epsilon;) &mu;&epsilon; &mu;&epsilon;&tau;&epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta; &sigma;&epsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &Theta;έ&mu;&alpha;&tau;&alpha; &sigma;&epsilon; &Epsilon;&upsilon;&rho;ώ&pi;&eta; &kappa;&alpha;&iota; &Alpha;&mu;&epsilon;&rho;&iota;&kappa;ή. &Sigma;&tau;&omicron; &pi;&alpha;&rho;&epsilon;&lambda;&theta;ό&nu;, έ&chi;&epsilon;&iota; &epsilon;&rho;&gamma;&alpha;&sigma;&tau;&epsilon;ί &omega;&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;&omicron;ύ &Sigma;&chi;&epsilon;&delta;&iota;&alpha;&sigma;&mu;&omicron;ύ &kappa;&alpha;&iota; MIS,&nbsp; &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ώ&nu; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &sigma;&epsilon; &pi;&omicron;&lambda;&upsilon;&epsilon;&theta;&nu;&iota;&kappa;έ&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf;, &kappa;&upsilon;&rho;ί&omega;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &sigma;&tau;&eta; &Gamma;&epsilon;&rho;&mu;&alpha;&nu;ί&alpha; &kappa;&alpha;&iota; &tau;&eta;&nu; &Epsilon;&lambda;&beta;&epsilon;&tau;ί&alpha;.
+    - ID: "47e95858-efcc-4862-8a26-3905105ece5b"
+      Hint: PersonQuote
+      Value: Στόχος μας είναι η αποτελεσματική διαχείριση της πολυκαναλικής μας στρατηγικής και ταυτόχρονα να είμαστε η Εταιρεία πρώτης επιλογής για όλα μας τα Δίκτυα.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Νίκος Δελένδας
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Νίκος Δελένδας
+    - ID: "a212c93a-7c83-4fed-bc5a-5b035baeff50"
+      Hint: PersonImage
+      Value: |
+        <image mediaid="{6344C52D-FEE7-41E3-A2BA-DB634B921894}"></image>
+    - ID: "e57a5fee-e68d-4d37-ac1f-edc51e551121"
+      Hint: PersonPosition
+      Value: Γενικός Διευθυντής Πωλήσεων & Εκπαίδευσης
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Νίκος Δελένδας

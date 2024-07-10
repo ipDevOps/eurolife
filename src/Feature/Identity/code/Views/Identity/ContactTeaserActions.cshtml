@@ -1,0 +1,44 @@
+﻿@using Wedia.Feature.Identity
+@using Wedia.Feature.Identity.Repositories
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+  var identity = IdentityRepository.Get(Model.Item);
+  if (identity == null)
+  {
+    return;
+  }
+}
+
+<div class="flex-spread__half c-t-c">
+  <div class="c-t-c__intro">
+    @Html.Sitecore().Dictionary("/Identity/Contact Teaser/Teaser Content", "")
+  </div>
+  <a href="#" class="btn btn--ghost btn--default btn--c-t-call" onclick="return window.open('@identity.LinkFieldUrl(Templates.Identity.Fields.ClickToCall)','ClickToCall','width=430,height=541');">
+    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="28" viewBox="0 0 25 28">
+      <path fill="#FFF" fill-rule="nonzero" d="M8.437 26.143h-.848c-2.808 0-5.085-2.303-5.085-5.143v-1.123a5.586 5.586 0 0 1-1.695-4.02c0-1.092.31-2.11.848-2.97V8.57C1.657 3.838 5.45 0 10.132 0h5.085c4.68 0 8.475 3.838 8.475 8.571v4.316c.537.86.847 1.878.847 2.97 0 3.077-2.466 5.572-5.509 5.572-.508 0-1.01-.074-1.502-.215a.856.856 0 0 1-.616-.825v-9.064c0-.383.251-.72.616-.825a5.431 5.431 0 0 1 4.469.662v-2.59c0-3.788-3.036-6.858-6.78-6.858h-5.085c-3.745 0-6.78 3.07-6.78 6.857v2.59a5.438 5.438 0 0 1 4.468-.66.856.856 0 0 1 .617.824v9.064c0 .384-.252.72-.617.825a5.431 5.431 0 0 1-3.621-.212c0 1.892 1.518 3.427 3.39 3.427h.848V24c0-.473.379-.857.847-.857h6.78c.468 0 .848.384.848.857v2.571c0 .474-.38.858-.848.858h-6.78a.852.852 0 0 1-.847-.858v-.428zm13.752-12.448a.86.86 0 0 1-.073-.106 3.795 3.795 0 0 0-3.51-1.564v7.664c.142.017.283.025.424.025 2.107 0 3.814-1.727 3.814-3.857a3.87 3.87 0 0 0-.655-2.162zm-18.32 5.12a3.772 3.772 0 0 0 2.872.874v-7.664a3.797 3.797 0 0 0-3.547 1.618 3.87 3.87 0 0 0-.69 2.214c0 1.188.531 2.25 1.366 2.958zm6.263 6.042v.857h5.085v-.857h-5.085z" />
+    </svg>
+    @identity.LinkFieldOptions(Templates.Identity.Fields.ClickToCall, LinkFieldOption.Text)
+  </a>
+
+  <a href="#" class="btn btn--ghost btn--default btn--c-t-chat" onclick="return window.open('@identity.LinkFieldUrl(Templates.Identity.Fields.ClickToChat)','ClickToChat','width=430,height=432');">
+    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="22" viewBox="0 0 25 22">
+      <path fill="#FFF" fill-rule="nonzero" d="M20.09 6.375v4.875c0 1.45-1.162 2.625-2.596 2.625H11.47l-5.723 5.064c-.48.425-1.23.08-1.23-.564v-4.5H3.404a2.58 2.58 0 0 1-1.835-.769 2.64 2.64 0 0 1-.76-1.856V2.625C.809 1.175 1.971 0 3.404 0h14.09c1.434 0 2.596 1.175 2.596 2.625v2.25h1.854c1.433 0 2.595 1.175 2.595 2.625V15a2.64 2.64 0 0 1-.76 1.856 2.58 2.58 0 0 1-1.835.769h-.371v3c0 .61-.682.965-1.173.61l-4.997-3.61H11.19a.746.746 0 0 1-.742-.75c0-.414.332-.75.742-.75h4.45c.154 0 .305.049.43.14l4.019 2.903v-2.293c0-.414.332-.75.741-.75h1.113c.295 0 .578-.119.786-.33.209-.21.326-.497.326-.795V7.5c0-.621-.498-1.125-1.112-1.125H20.09zm-9.387 6.186a.737.737 0 0 1 .488-.186h6.303c.615 0 1.113-.504 1.113-1.125V2.625c0-.621-.498-1.125-1.113-1.125H3.404c-.614 0-1.112.504-1.112 1.125v8.625c0 .298.117.585.326.795.209.211.491.33.786.33h1.854c.41 0 .742.336.742.75v3.597l4.703-4.161z" />
+    </svg>
+    @identity.LinkFieldOptions(Templates.Identity.Fields.ClickToChat, LinkFieldOption.Text)
+  </a>
+
+  <div class="c-t-c__note">
+    @Html.Sitecore().Dictionary("/Identity/Contact Teaser/Teaser Summary", "")
+  </div>
+
+  <a href="@identity.LinkFieldUrl(Templates.Identity.Fields.ContactForm)" class="btn btn--white btn--c-t-c">
+    <svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+      <path fill="#ef3340" fill-rule="nonzero" d="M45.963 15.81a1.555 1.555 0 0 1 2.19.05c.59.615.567 1.59-.052 2.176L31.07 34.19a1.556 1.556 0 0 1-2.138 0L11.899 18.036a1.532 1.532 0 0 1-.051-2.175 1.555 1.555 0 0 1 2.189-.05L30 30.95l15.963-15.14zM14.195 42.476c-.521.674-1.494.8-2.171.282a1.532 1.532 0 0 1-.284-2.158l7.742-10a1.555 1.555 0 0 1 2.172-.281c.678.518.804 1.484.283 2.157l-7.742 10zm23.868-10a1.532 1.532 0 0 1 .283-2.157 1.555 1.555 0 0 1 2.172.281l7.742 10c.52.674.394 1.64-.284 2.158a1.555 1.555 0 0 1-2.171-.282l-7.742-10zM6 15.385C6 12.41 8.426 10 11.42 10h37.16c2.994 0 5.42 2.41 5.42 5.385v29.23C54 47.59 51.574 50 48.58 50H11.42C8.425 50 6 47.59 6 44.615v-29.23zm3.097 0v29.23a2.315 2.315 0 0 0 2.322 2.308h37.162a2.315 2.315 0 0 0 2.322-2.308v-29.23a2.315 2.315 0 0 0-2.322-2.308H11.419a2.315 2.315 0 0 0-2.322 2.308z" />
+    </svg>
+    @identity.LinkFieldOptions(Templates.Identity.Fields.ContactForm, LinkFieldOption.Text)
+  </a>
+</div>

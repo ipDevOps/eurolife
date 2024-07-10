@@ -1,0 +1,18 @@
+﻿---
+ID: "59735523-4427-4972-984a-43651b426131"
+Parent: "3b04a43c-5b9f-498a-85b7-87ed2501504d"
+Template: "89a59513-f418-4dae-890b-0d0dda79f62b"
+Path: "/sitecore/content/Eurolife/Global/Highlights/Career-reason-to-join"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T090337Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

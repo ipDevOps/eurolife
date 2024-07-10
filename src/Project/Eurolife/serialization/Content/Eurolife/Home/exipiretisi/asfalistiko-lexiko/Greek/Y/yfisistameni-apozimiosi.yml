@@ -1,0 +1,24 @@
+﻿---
+ID: "8ccabfa6-2857-4a9f-9339-178b283635d9"
+Parent: "5b797465-b523-48fd-8d9f-e2c12656a681"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/Y/yfisistameni-apozimiosi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Υφιστάμενη Αποζημίωση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T080919Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Κατάσταση κατά την οποία μπορεί να απαιτηθεί πληρωμή, σύμφωνα με τους όρους του συμβολαίου.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

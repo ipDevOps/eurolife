@@ -1,0 +1,50 @@
+﻿---
+ID: "c1fe2501-cb57-463d-ae5d-c7d4a8fa924a"
+Parent: "889720ba-e7f3-47cb-9d9d-46d3202ec9ff"
+Template: "5515c419-66cb-4e45-b3c1-8501562a105a"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New Investment Plan/Card2/Pie Chart"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1772d62b-16cf-4f15-8824-0ff83ddb723c"
+      Hint: "Value-1"
+      Value: 34.8
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T150741Z
+    - ID: "40ed1ba9-13ae-40df-ae34-21c181b6ad38"
+      Hint: Tooltip
+      Value: |
+        <h2>Ταμειακά διαθεσιμα</h2>
+                        <p>Καλύπτουμε την αστική ευθύνη του ασφαλισμένου για υλικές ζημιές σε περιουσία τρίτων λόγω πυρκαγιάς ή έκρηξης που θα εκδηλωθεί μέσα στο ασφαλισμένο κτίριο ή σε αυτό που βρίσκεται το ασφαλισμένο περιεχόμενο.</p>
+                        <h2>Ταμειακά διαθεσιμα</h2>
+                        <p>Καλύπτουμε την αστική ευθύνη του ασφαλισμένου για υλικές ζημιές σε περιουσία τρίτων λόγω πυρκαγιάς ή έκρηξης που θα εκδηλωθεί μέσα στο ασφαλισμένο κτίριο ή σε αυτό που βρίσκεται το ασφαλισμένο περιεχόμενο.</p>
+        
+    - ID: "49f97460-3f80-4654-a453-a9c2069c45d9"
+      Hint: Description
+      Value: Το μεγαλύτερο μέρος του χαρτοφυλακίου σας θα επενδυθεί σε ταμειακά διαθέσιμα και ομόλογα.
+    - ID: "4ac3a72c-37b8-46fc-ad6b-f3ab48378bbc"
+      Hint: "Value-2"
+      Value: 52.94
+    - ID: "4dd8b5b6-98a8-4c1b-a59e-45b343c939ea"
+      Hint: "Value-3"
+      Value: 12.97
+    - ID: "54efd029-2983-4a72-b95d-1cdceb991189"
+      Hint: "Title-1"
+      Value: Δχ/σης διαθεσιμών
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a47b8fd6-edb0-41d9-a324-2ed86dd7baf3"
+      Hint: "Title-3"
+      Value: Μετοχές
+    - ID: "b19f2b4d-c2ce-4684-9df8-21bf0f4b0762"
+      Hint: "Title-2"
+      Value: Ομόλογα
+    - ID: "d255187d-6894-46a2-b8b8-878b5e2b920b"
+      Hint: Title
+      Value: Κατανομή Επενδύσεων

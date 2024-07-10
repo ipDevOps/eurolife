@@ -1,0 +1,25 @@
+﻿---
+ID: "aba012b1-e150-42bd-b4b2-7b4f83be9f21"
+Parent: "ca1ffc72-4262-4558-a53f-f7a9ac46b805"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Programs Attributes/klopi
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1543892b-a690-4e90-a05f-c496fee76c18"
+      Hint: PanelsIsCheckbox
+      Type: Checkbox
+      Value: 1
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Κλοπή
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073555Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

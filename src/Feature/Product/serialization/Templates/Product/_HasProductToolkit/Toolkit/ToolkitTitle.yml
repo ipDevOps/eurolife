@@ -1,0 +1,18 @@
+﻿---
+ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+Parent: "c6efb3d5-dbad-4645-a85a-ffe58b871821"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Product/_HasProductToolkit/Toolkit/ToolkitTitle
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190521T093829Z

@@ -1,0 +1,24 @@
+﻿---
+ID: "fa69ab01-018a-4e06-81c3-24d7ac84455a"
+Parent: "5c1004d6-c9ac-4375-84f5-6e0bbbbeaafe"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/N/nosokomeiako-epidoma"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Νοσοκομειακό Επίδομα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072757Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: "Το ημερήσιο χρηματικό ποσό για τις ημέρες νοσηλείας που θα μείνει ο ασφαλισμένος στο νοσοκομείο. Μπορεί να συνεχιστεί και ως επίδομα ανάρρωσης με όριο ημερών. Χρειάζεται γνωμάτευση και το εισιτήριο-εξιτήριο από το νοσοκομείο."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

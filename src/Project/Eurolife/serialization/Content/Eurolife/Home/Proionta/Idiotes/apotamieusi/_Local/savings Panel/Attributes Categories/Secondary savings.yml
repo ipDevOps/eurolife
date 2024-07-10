@@ -1,0 +1,56 @@
+﻿---
+ID: "71d23cd4-1307-43f6-9b46-7a07cbab344a"
+Parent: "f19e8fb0-7311-4578-a4d3-977298d2c579"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Attributes Categories/Secondary savings
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {74706C86-3E1D-431D-818C-EE2974F53E81}
+        {7A0C69AB-46A9-4C64-B28E-34CFAA1D5767}
+        {82E1D01E-DA12-4C33-91BC-2298C36CA5D3}
+        {05C1BE78-3DD1-4C65-A221-E08CC64C73FA}
+        {12F70804-CC63-4758-A131-343F4D1FC9DD}
+        {C65B954B-808D-4127-91A8-F07C727DD149}
+        {F815C506-83B4-477C-A17D-B6DA837AF360}
+        {813A2635-6545-48EF-AE60-47DF75579892}
+        {8AE7F068-E15A-4438-83D5-238C6974B1FE}
+        {4D5CA0D6-D12E-46E3-908B-80CBD2315D3D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T090316Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {82BC50B5-B707-4205-A202-2CA476CC2C02}
+        {14D82DBC-F4C7-439D-BBE0-6FAA919A3EF4}
+        {1E316EB4-42DF-489E-A557-5094C36ED039}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T102427Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c7a77ab1-e14b-4ab5-aea0-e3d6e3db5941"
+      Hint: Title
+      Value: Δευτεροβάθμια περίθαλψη

@@ -1,0 +1,18 @@
+﻿---
+ID: "b87c11a9-085c-4c21-b46c-8f6bb273e622"
+Parent: "ec4923f8-c881-4246-8193-e8d9dd473dca"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Financial Reports/2019/07/01/13
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T132507Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

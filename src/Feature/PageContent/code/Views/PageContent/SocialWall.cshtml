@@ -1,0 +1,87 @@
+﻿@using Sitecore.Mvc
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.PageContent
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.SocialWall.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.SocialWall.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<!-- SOCIAL WALL -->
+<section class="social-wall m-b-112">
+  <div class="center center--1100">
+    <div class="social-wall__grid">
+      <!-- TEXT -->
+      <div class="item text">
+        @if (Html.Sitecore().HasValue(Templates.HasTitle.Fields.Title.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <h1 class="h4">@Html.Sitecore().Field(Templates.HasTitle.Fields.Title)</h1>
+        }
+
+        @if (Html.Sitecore().HasValue(Templates.HasSubTitle.Fields.SubTitle.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <h5>@Html.Sitecore().Field(Templates.HasSubTitle.Fields.SubTitle)</h5>
+        }
+
+        @if (Html.Sitecore().HasValue(Templates.HasDescription.Fields.Description.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <div class="m-b-48">
+            @Html.Sitecore().Field(Templates.HasDescription.Fields.Description)
+          </div>
+        }
+
+        <!-- SOCIALS -->
+      <div class="social-grid">
+        @if (Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          @Html.Sitecore().Field(Templates.HasSocialLinks.Fields.Facebook, new { @class = "item" })
+          @Html.Sitecore().Field(Templates.HasSocialLinks.Fields.LinkedIn, new { @class = "item" })
+          @Html.Sitecore().Field(Templates.HasSocialLinks.Fields.YouTube, new { @class = "item" })
+        }
+        else
+        {
+          if (Html.Sitecore().HasValue(Templates.HasSocialLinks.Fields.Facebook.ToString()))
+          {
+            var linkURL = Model.Rendering.Item.LinkFieldUrl(Templates.HasSocialLinks.Fields.Facebook);
+            <a class="item" href="@linkURL" target="_blank">
+              <img src="~/images/social-wall/facebook.svg" alt="facebook" />
+            </a>
+          }
+          if (Html.Sitecore().HasValue(Templates.HasSocialLinks.Fields.LinkedIn.ToString()))
+          {
+            var linkURL = Model.Rendering.Item.LinkFieldUrl(Templates.HasSocialLinks.Fields.LinkedIn);
+            <a class="item" href="@linkURL" target="_blank">
+                 <img src="~/images/social-wall/linkedin.svg" alt="linkedin" />
+            </a>
+          }
+          if (Html.Sitecore().HasValue(Templates.HasSocialLinks.Fields.YouTube.ToString()))
+          {
+            var linkURL = Model.Rendering.Item.LinkFieldUrl(Templates.HasSocialLinks.Fields.YouTube);
+            <a class="item" href="@linkURL" target="_blank">
+              <img src="~/images/social-wall/youtube.svg" alt="youtube" />
+            </a>
+          }
+        }
+      </div>
+        <!-- SOCIALS -->
+
+      </div>
+      <!-- TEXT -->
+      <!-- IMAGES -->
+      <div class="item images">
+        @Html.Sitecore().ImageField(Templates.HasSocialImages.Fields.Image_1, Model.Item,0,500)
+        @Html.Sitecore().ImageField(Templates.HasSocialImages.Fields.Image_2, Model.Item,0,500)
+        @Html.Sitecore().ImageField(Templates.HasSocialImages.Fields.Image_3, Model.Item,0,500)      
+      </div>
+      <!-- IMAGES -->
+    </div>
+  </div>
+</section>
+<!-- SOCIAL WALL -->

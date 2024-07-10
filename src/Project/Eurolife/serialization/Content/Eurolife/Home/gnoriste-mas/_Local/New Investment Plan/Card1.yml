@@ -1,0 +1,30 @@
+﻿---
+ID: "2c6dbc9e-98f7-4289-948f-be41fc6ed287"
+Parent: "e24ee195-6a6f-49d5-ab66-f1c5f4190b86"
+Template: "7ee9a785-e169-474e-a73e-7833892be2a9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/New Investment Plan/Card1"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T150331Z
+    - ID: "49f97460-3f80-4654-a453-a9c2069c45d9"
+      Hint: Description
+      Value: |
+        Για εσάς που θέλετε να διαφοροποιήσετε τις οικονομίες σας από τις πιο παραδοσιακές τραπεζικές
+        καταθέσεις, αλλά είστε διατεθειμένοι να δεχτείτε μόνο οριακές απώλειες στο κεφάλαιό σας.
+        Αυτή η στρατηγική συνήθως έχει βραχυπρόθεσμο επενδυτικό ορίζοντα.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ab009181-46a0-4fb0-8d89-218fe421d122"
+      Hint: SubTitle
+      Value: Συντηρητική
+    - ID: "d255187d-6894-46a2-b8b8-878b5e2b920b"
+      Hint: Title
+      Value: Επενδυτική Στρατηγική

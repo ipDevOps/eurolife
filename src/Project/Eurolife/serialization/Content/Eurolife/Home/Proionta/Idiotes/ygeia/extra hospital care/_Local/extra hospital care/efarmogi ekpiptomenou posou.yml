@@ -1,0 +1,29 @@
+﻿---
+ID: "72bdd42b-8d5b-4ac6-ad38-31788d81bca7"
+Parent: "04c3387e-4bbb-4cf8-a267-3103ca395645"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/extra hospital care/_Local/extra hospital care/efarmogi ekpiptomenou posou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Εφαρμογή εκπιπτόμενου ποσού του Νοσοκομειακού Προγράμματος μόνο μία φορά ανά ασφαλιστικό έτος
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        &Mu;&epsilon; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; &alpha;&upsilon;&tau;ή, &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &tau;&omicron;&upsilon; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;&omicron;ύ &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &epsilon;&phi;&alpha;&rho;&mu;ό&zeta;&epsilon;&tau;&alpha;&iota; &mu;ό&nu;&omicron; &mu;ί&alpha; &phi;&omicron;&rho;ά &alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό έ&tau;&omicron;&sigmaf; &kappa;&alpha;&iota; ό&chi;&iota; &alpha;&nu;ά &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό - ό&tau;&alpha;&nu; &eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha; &epsilon;ί&nu;&alpha;&iota; &pi;ά&nu;&omega; &alpha;&pi;ό &mu;ί&alpha; &mu;έ&rho;&alpha;. <br />
+        <br />
+        <strong>&Pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha;</strong><br />
+        &Epsilon;ά&nu; έ&nu;&alpha;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;, &omicron; &omicron;&pi;&omicron;ί&omicron;&sigmaf; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &tau;&eta;&sigmaf; Eurolife ERB &mu;&epsilon; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &euro;1.500, έ&chi;&epsilon;&iota; &epsilon;&pi;&iota;&lambda;έ&xi;&epsilon;&iota; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; Extra Hospital Care, &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &tau;&omicron;&upsilon; 2 &phi;&omicron;&rho;έ&sigmaf; &mu;έ&sigma;&alpha; &sigma;&tau;&omicron; ί&delta;&iota;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό έ&tau;&omicron;&sigmaf; &gamma;&iota;&alpha; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ό &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό &upsilon;&gamma;&epsilon;ί&alpha;&sigmaf; &mu;&epsilon; &kappa;ό&sigma;&tau;&omicron;&sigmaf; &euro;2.000 &gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό, &theta;&alpha; &epsilon;&pi;&iota;&beta;&alpha;&rho;&upsilon;&nu;&theta;&epsilon;ί &mu;ί&alpha; &phi;&omicron;&rho;ά &mu;&epsilon; &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό. <br />
+        &Alpha;&nu;&tau;ί&theta;&epsilon;&tau;&alpha;, &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; &pi;&omicron;&upsilon; &delta;&epsilon;&nu; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; Extra Hospital Care, &theta;&alpha; &epsilon;&pi;&iota;&beta;&alpha;&rho;&upsilon;&nu;&theta;&epsilon;ί &mu;&epsilon; &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &tau;ό&sigma;&omicron; &sigma;&tau;&eta;&nu; 1&eta; ό&sigma;&omicron; &kappa;&alpha;&iota; &sigma;&tau;&eta;&nu; 2&eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;.

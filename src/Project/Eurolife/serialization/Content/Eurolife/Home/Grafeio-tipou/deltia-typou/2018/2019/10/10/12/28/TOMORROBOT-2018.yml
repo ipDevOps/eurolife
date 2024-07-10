@@ -1,0 +1,71 @@
+﻿---
+ID: "0de8f929-e13f-49fb-8894-6e4474e2d680"
+Parent: "acbbe79f-4f22-42cc-a31a-c2f0bcba8030"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/10/10/12/28/TOMORROBOT-2018"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1AB62D8B-9157-471E-8974-AFE1CC48AC0C}"
+              s:ds="{DA398985-63F4-403B-9307-CAFB23561466}" />
+          </d>
+        </r>
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{CCCBC000-A7C6-4D37-830C-C7F9ED8E7D62}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T122829Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "TOMORROBOT 2018: Η Eurolife ERB συνεχίζει τις πρωτότυπες εκπαιδευτικές δράσεις της"
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <strong id="docs-internal-guid-65761073-7fff-7e10-7e62-0891cc60c1b2"></strong>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Kappa;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&zeta;&epsilon;&tau;&alpha;&iota; &xi;&alpha;&nu;ά &mu;&epsilon; &tau;&eta;&nu; eduACT, &delta;ί&nu;&omicron;&nu;&tau;&alpha;&sigmaf; έ&mu;&phi;&alpha;&sigma;&eta; &sigma;&tau;&eta;&nu; &kappa;&alpha;&iota;&nu;&omicron;&tau;ό&mu;&omicron; &epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;ή &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&alpha;</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Sigma;&tau;&eta;&nu; </span><a href="https://www.eurolife.gr/" style="text-decoration: none;"><span style="background-color: #ffffff; text-decoration: none; color: #003399;">Eurolife ERB</span></a><span style="background-color: #ffffff; text-decoration: none; color: #000000;">, &omicron;&iota; &pi;&rho;&omega;&tau;ό&tau;&upsilon;&pi;&epsilon;&sigmaf; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &gamma;&iota;&alpha; &pi;&alpha;&iota;&delta;&iota;ά &kappa;&alpha;&iota; &epsilon;&nu;ή&lambda;&iota;&kappa;&epsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&chi;ί&sigma;&tau;&eta;&kappa;&alpha;&nu; &kappa;&alpha;&iota; &tau;&omicron; 2018, &sigma;&epsilon; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&epsilon; &tau;&eta;&nu; eduACT &ndash; &tau;&omicron;&nu; &epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;ό &phi;&omicron;&rho;έ&alpha; &pi;&omicron;&upsilon; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;&epsilon;ί &epsilon;&rho;&gamma;&alpha;&sigma;&tau;ή&rho;&iota;&alpha; &kappa;&alpha;&iota; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &beta;&alpha;&sigma;&iota;&sigma;&mu;έ&nu;&epsilon;&sigmaf; &sigma;&tau;&eta; &rho;&omicron;&mu;&pi;&omicron;&tau;&iota;&kappa;ή &kappa;&alpha;&iota; &tau;&eta;&nu; &epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta; &sigma;&tau;&eta;&nu; &psi;&eta;&phi;&iota;&alpha;&kappa;ή &epsilon;&pi;&omicron;&chi;ή.</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &tau;&eta;&sigmaf; &sigma;&epsilon;&iota;&rho;ά&sigmaf; &delta;&rho;ά&sigma;&epsilon;&omega;&nu; TOMORROBOT &tau;&eta;&sigmaf; Eurolife ERB, &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&omicron;&pi;&omicron;&iota;ή&theta;&eta;&kappa;&epsilon; &sigma;&tau;&alpha; &gamma;&rho;&alpha;&phi;&epsilon;ί&alpha; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf;, έ&nu;&alpha; &sigma;&upsilon;&nu;&alpha;&rho;&pi;&alpha;&sigma;&tau;&iota;&kappa;ό workshop &gamma;&iota;&alpha; 45 &epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&epsilon;&nu;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; &tau;&alpha; &pi;&alpha;&iota;&delta;&iota;ά &tau;&omicron;&upsilon;&sigmaf;, &eta;&lambda;&iota;&kappa;ί&alpha;&sigmaf; 4 έ&omega;&sigmaf; 14 &epsilon;&tau;ώ&nu;. &Tau;&omicron; workshop &pi;&epsilon;&rho;&iota;&lambda;ά&mu;&beta;&alpha;&nu;&epsilon; &mu;&iota;&alpha; &sigma;&epsilon;&iota;&rho;ά &alpha;&pi;ό robot challenges &kappa;&alpha;&iota; έ&delta;&iota;&nu;&epsilon; έ&mu;&phi;&alpha;&sigma;&eta; &sigma;&tau;&omicron; &pi;ώ&sigmaf; &eta; &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha; &mu;&epsilon;&tau;&alpha;&mu;&omicron;&rho;&phi;ώ&nu;&epsilon;&iota; &tau;&eta;&nu; &epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;ή &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&alpha; &kappa;&alpha;&iota; &sigma;&upsilon;&mu;&beta;ά&lambda;&lambda;&epsilon;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ά &sigma;&tau;&eta;&nu; &kappa;&alpha;&lambda;&lambda;&iota;έ&rho;&gamma;&epsilon;&iota;&alpha; &tau;&omega;&nu; &delta;&epsilon;&xi;&iota;&omicron;&tau;ή&tau;&omega;&nu; &epsilon;&kappa;&epsilon;ί&nu;&omega;&nu; &pi;&omicron;&upsilon; &theta;&epsilon;&omega;&rho;&omicron;ύ&nu;&tau;&alpha;&iota; &alpha;&pi;&alpha;&rho;&alpha;ί&tau;&eta;&tau;&epsilon;&sigmaf; &sigma;&epsilon; έ&nu;&alpha; &psi;&eta;&phi;&iota;&alpha;&kappa;ό &mu;έ&lambda;&lambda;&omicron;&nu;.&nbsp;</span></p>
+        <p dir="ltr" style="background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 8pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Tau;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &pi;&omicron;&upsilon; &epsilon;ί&chi;&epsilon; &sigma;&chi;&epsilon;&delta;&iota;ά&sigma;&epsilon;&iota; &eta; eduACT ή&tau;&alpha;&nu; &gamma;&epsilon;&mu;ά&tau;&omicron;&hellip; &pi;&rho;&omicron;&kappa;&lambda;ή&sigma;&epsilon;&iota;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;έ&chi;&omicron;&nu;&tau;&epsilon;&sigmaf;, &omicron;&iota; &omicron;&pi;&omicron;ί&omicron;&iota; &kappa;&lambda;ή&theta;&eta;&kappa;&alpha;&nu; &nu;&alpha; &tau;&iota;&sigmaf; &pi;&rho;&omicron;&sigma;&epsilon;&gamma;&gamma;ί&sigma;&omicron;&upsilon;&nu; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ά &kappa;&alpha;&iota; &nu;&alpha; &delta;ώ&sigma;&omicron;&upsilon;&nu; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf;! &Omicron;&iota; &mu;&iota;&kappa;&rho;&omicron;ί Eurolifers &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&epsilon;ί&chi;&alpha;&nu; &sigma;&epsilon; &laquo;&Alpha;&gamma;ώ&nu;&epsilon;&sigmaf; Sumo&raquo;, &mu;&epsilon; &pi;&omicron;&lambda;&lambda;ή &alpha;&gamma;&omega;&nu;ί&alpha; &kappa;&alpha;&iota; έ&nu;&tau;&alpha;&sigma;&eta;, &sigma;&epsilon; έ&nu;&alpha;&nu; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&omicron; &laquo;&Alpha;&gamma;ώ&nu;&alpha; Hockey&raquo; &pi;&omicron;&upsilon; &alpha;&pi;&alpha;&iota;&tau;&omicron;ύ&sigma;&epsilon; &sigma;&upsilon;&gamma;&kappa;έ&nu;&tau;&rho;&omega;&sigma;&eta; &kappa;&alpha;&iota; &alpha;&kappa;&rho;ί&beta;&epsilon;&iota;&alpha;, &sigma;&tau;&omicron; &laquo;&Kappa;&upsilon;&nu;ή&gamma;&iota; &tau;&omicron;&upsilon; &tau;&upsilon;&rho;&iota;&omicron;ύ&raquo;, ό&pi;&omicron;&upsilon; &omicron; &sigma;&omega;&sigma;&tau;ό&sigmaf; &sigma;&upsilon;&nu;&tau;&omicron;&nu;&iota;&sigma;&mu;ό&sigmaf; ή&tau;&alpha;&nu; &tau;&omicron; &mu;&upsilon;&sigma;&tau;&iota;&kappa;ό &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&tau;&upsilon;&chi;ί&alpha;&sigmaf;, &kappa;&alpha;&iota; &sigma;&tau;&eta; &mu;&epsilon;&gamma;ά&lambda;&eta; &mu;&omicron;&nu;&omicron;&mu;&alpha;&chi;ί&alpha; &tau;&eta;&sigmaf; &laquo;&Sigma;&kappa;&upsilon;&tau;&alpha;&lambda;&omicron;&delta;&rho;&omicron;&mu;ί&alpha;&sigmaf;&raquo;, &mu;&epsilon; &tau;&eta;&nu; &tau;&alpha;&chi;ύ&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &tau;&eta;&nu; &omicron;&mu;&alpha;&delta;&iota;&kappa;ό&tau;&eta;&tau;&alpha; &nu;&alpha; &alpha;&nu;&alpha;&delta;&epsilon;&iota;&kappa;&nu;ύ&omicron;&upsilon;&nu; &tau;&epsilon;&lambda;&iota;&kappa;ά &tau;&omicron;&upsilon;&sigmaf; &nu;&iota;&kappa;&eta;&tau;έ&sigmaf;!&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&Eta; &kappa;&alpha;. &Beta;ά&sigma;&iota;&alpha; &Chi;&alpha;&nu;&iota;ώ&tau;&eta;, &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&tau;&rho;&iota;&alpha; &Alpha;&nu;&theta;&rho;ώ&pi;&iota;&nu;&omicron;&upsilon; &Delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;&omicron;ύ &tau;&eta;&sigmaf; Eurolife ERB, &sigma;&eta;&mu;&epsilon;ί&omega;&sigma;&epsilon; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά &mu;&epsilon; &tau;&eta; &delta;&iota;&omicron;&rho;&gamma;ά&nu;&omega;&sigma;&eta;: </span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">&laquo;&Sigma;&epsilon; &mu;ί&alpha; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;, ό&pi;&omega;&sigmaf; &eta; Eurolife ERB, &pi;&omicron;&upsilon; &sigma;&upsilon;&nu;&epsilon;&chi;ώ&sigmaf; &mu;&epsilon;&tau;&alpha;&mu;&omicron;&rho;&phi;ώ&nu;&epsilon;&tau;&alpha;&iota; &psi;&eta;&phi;&iota;&alpha;&kappa;ά &kappa;&alpha;&iota; &sigma;&epsilon; έ&nu;&alpha; &sigma;&upsilon;&nu;&alpha;&rho;&pi;&alpha;&sigma;&tau;&iota;&kappa;ό &mu;έ&lambda;&lambda;&omicron;&nu; &gamma;&epsilon;&mu;ά&tau;&omicron; &mu;&epsilon; &psi;&eta;&phi;&iota;&alpha;&kappa;έ&sigmaf; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&epsilon;&sigmaf;, &tau;&alpha; &pi;&alpha;&iota;&delta;&iota;ά, &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &epsilon;&mu;&epsilon;ί&sigmaf; &omicron;&iota; ί&delta;&iota;&omicron;&iota;, &pi;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; έ&chi;&omicron;&upsilon;&mu;&epsilon; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha;. &Mu;&epsilon; &tau;&omicron; TOMORROBOT έ&chi;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &nu;&alpha; &alpha;&nu;&alpha;&delta;&epsilon;ί&xi;&omicron;&upsilon;&mu;&epsilon; &tau;&alpha; &tau;&alpha;&lambda;έ&nu;&tau;&alpha; &tau;&omega;&nu; &pi;&alpha;&iota;&delta;&iota;ώ&nu; &kappa;&alpha;&iota; &nu;&alpha; &tau;&omicron;&upsilon;&sigmaf; &delta;ώ&sigma;&omicron;&upsilon;&mu;&epsilon; &epsilon;&rho;&epsilon;&theta;ί&sigma;&mu;&alpha;&tau;&alpha;, &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&eta;&nu; &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha; &kappa;&alpha;&iota; &tau;&eta; &delta;&iota;&alpha;&sigma;&kappa;έ&delta;&alpha;&sigma;&eta;, ώ&sigma;&tau;&epsilon; &nu;&alpha; &epsilon;&xi;&epsilon;&lambda;ί&sigma;&sigma;&omicron;&upsilon;&nu; &tau;&eta; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;&iota;&kappa;ό&tau;&eta;&tau;ά &tau;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&iota; &nu;&alpha; &epsilon;ί&nu;&alpha;&iota; &sigma;&epsilon; &theta;έ&sigma;&eta; &nu;&alpha; &delta;&iota;&alpha;&mu;&omicron;&rho;&phi;ώ&sigma;&omicron;&upsilon;&nu; &tau;&alpha; &beta;ή&mu;&alpha;&tau;ά &tau;&omicron;&upsilon;&sigmaf;. &Mu;ό&nu;&omicron;&nu; &mu;&epsilon; &alpha;&upsilon;&tau;ό&nu; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &theta;&alpha; &gamma;ί&nu;&omicron;&upsilon;&mu;&epsilon; ό&lambda;&omicron;&iota; &mu;&alpha;&sigmaf; &pi;&rho;&omega;&tau;&alpha;&gamma;&omega;&nu;&iota;&sigma;&tau;έ&sigmaf; &sigma;&tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu;&raquo;</span><span style="background-color: #ffffff; text-decoration: none; color: #000000;">.</span></p>
+        <br class="Apple-interchange-newline" />
+    - ID: "554286b4-e1f0-49d5-a706-9739f30830bf"
+      Hint: NewsSummary
+      Value: Στην Eurolife ERB, οι πρωτότυπες δράσεις εκπαίδευσης για παιδιά και ενήλικες συνεχίστηκαν και το 2018, σε συνεργασία με την eduACT – τον εκπαιδευτικό φορέα που υλοποιεί εργαστήρια και πρωτοβουλίες βασισμένες στη ρομποτική και την εκπαίδευση στην ψηφιακή εποχή.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: "TOMORROBOT 2018: Η Eurolife ERB συνεχίζει τις πρωτότυπες εκπαιδευτικές δράσεις της"
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: "TOMORROBOT 2018: Η Eurolife ERB συνεχίζει τις πρωτότυπες εκπαιδευτικές δράσεις της"

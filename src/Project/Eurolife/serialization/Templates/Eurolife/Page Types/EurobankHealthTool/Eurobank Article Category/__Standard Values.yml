@@ -1,0 +1,82 @@
+﻿---
+ID: "4ad80e56-59e2-4331-946e-f606fc3ffbed"
+Parent: "1fb605bc-5576-4564-bfdd-d219ee87aaef"
+Template: "1fb605bc-5576-4564-bfdd-d219ee87aaef"
+Path: /sitecore/templates/Project/Eurolife/Page Types/EurobankHealthTool/Eurobank Article Category/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{853088F4-1362-4961-996A-3EE7B1A1F594}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{373393A6-AA10-4771-B9C2-2EA1EB0583F5}">
+        <r
+          id="{20E8AA26-11C7-4A12-B7E3-A8F7C8200071}"
+          ph="head"
+          uid="{13B67209-6EE2-4040-9C0F-C9255C1FEB89}" />
+        <r
+          id="{9D011B20-EE03-4D6F-A99B-274105DC03DF}"
+          ph="header"
+          uid="{40D7835A-6B6F-43A4-B68C-303A2A3A04EB}" />
+        <r
+          ds="{2C6E9D55-A6C1-4600-9875-9058F9F21DBD}"
+          id="{DB5E61BA-9B4C-4123-B200-5F30E491EE20}"
+          ph="header-top-navbar"
+          uid="{FF2786AB-E30D-4666-B512-43FDF28ADA77}" />
+        <r
+          id="{95D1E643-B2D1-4F13-AF6F-1A09BCA69302}"
+          ph="page-layout"
+          uid="{4C3C4129-F47A-4308-ABC9-FA0E3BD5E9A5}" />
+        <r
+          id="{5C56D684-C340-4362-A07C-BE860714AC61}"
+          ph="page-layout"
+          uid="{962EFEB0-EA36-476E-AC5E-168D229EA058}" />
+        <r
+          id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+          ph="page-layout"
+          uid="{9015BC53-2AE3-455A-A1DD-879A04CC5E07}" />
+        <r
+          id="{781CD8B2-3544-43B3-9EAC-1F952C95A93A}"
+          ph="footer"
+          uid="{1FFBC5B1-3292-4FA8-B3F0-63ADDE2D48FE}" />
+        <r
+          id="{42FB3DFF-05D2-45D4-B920-3D771DBB813D}"
+          ph="footer-bottom"
+          uid="{76A831BA-6986-43AC-B5A8-D1905D213B6B}" />
+        <r
+          ds="{F6EC7E67-840A-4686-8368-6DC2CD9C5569}"
+          id="{814E1B60-9115-4FBB-BA23-150A4835C038}"
+          ph="footer-bottom"
+          uid="{F85951A2-7CE8-4C43-AEF5-ED2B17C97959}" />
+      </d>
+    </r>
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T162046Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201029T174148Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

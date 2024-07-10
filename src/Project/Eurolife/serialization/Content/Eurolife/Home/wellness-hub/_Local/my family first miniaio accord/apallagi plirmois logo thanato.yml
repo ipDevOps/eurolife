@@ -1,0 +1,56 @@
+﻿---
+ID: "1b916971-6b63-4dc6-9834-caad5d8ecb42"
+Parent: "b1a50b3f-65ca-4d54-bf27-66b537e06d78"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/_Local/my family first miniaio accordion highlights/apallagi plirmois logo thanatoy"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Απαλλαγή Πληρωμής Ασφαλίστρων λόγω Θανάτου του Αντισυμβαλλομένου
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Epsilon;&xi;&alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &tau;&eta;&sigmaf; &sigma;&upsilon;&nu;έ&chi;&epsilon;&iota;&alpha;&sigmaf; &tau;&omicron;&upsilon; &Pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;ό&sigmaf; &sigma;&alpha;&sigmaf; &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha;&sigmaf; &zeta;&omega;ή&sigmaf; &tau;&omicron;&upsilon; &alpha;&nu;&tau;&iota;&sigma;&upsilon;&mu;&beta;&alpha;&lambda;&lambda;&omicron;&mu;έ&nu;&omicron;&upsilon; (&pi;&omicron;&upsilon; έ&chi;&epsilon;&iota; &alpha;&nu;&alpha;&lambda;ά&beta;&epsilon;&iota; &nu;&alpha; &pi;&lambda;&eta;&rho;ώ&nu;&epsilon;&iota; &tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;&alpha;)&nbsp;</div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&tau;&eta;&nu; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &alpha;&pi;ώ&lambda;&epsilon;&iota;&alpha;&sigmaf; &zeta;&omega;ή&sigmaf; &tau;&omicron;&upsilon; &alpha;&nu;&tau;&iota;&sigma;&upsilon;&mu;&beta;&alpha;&lambda;&lambda;&omicron;&mu;έ&nu;&omicron;&upsilon;, &eta; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &alpha;&nu;&alpha;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&iota; &tau;&eta;&nu; &pi;&lambda;&eta;&rho;&omega;&mu;ή &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &delta;&iota;&alpha;&tau;&eta;&rho;ώ&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; &iota;&sigma;&chi;ύ &tau;&eta;&sigmaf; &kappa;ά&lambda;&upsilon;&psi;ή&sigmaf; &sigma;&alpha;&sigmaf;. <br />
+            &Eta; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&eta; &kappa;ά&lambda;&upsilon;&psi;&eta; &sigma;&upsilon;&nu;&delta;&upsilon;ά&zeta;&epsilon;&tau;&alpha;&iota; &epsilon;ί&tau;&epsilon; &mu;&epsilon; &alpha;&pi;&omicron;&tau;&alpha;&mu;&iota;&epsilon;&upsilon;&tau;&iota;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &epsilon;ί&tau;&epsilon; &mu;&epsilon; &kappa;ά&pi;&omicron;&iota;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &zeta;&omega;ή&sigmaf;.<br />
+            <br />
+            . </span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>

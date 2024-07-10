@@ -1,0 +1,18 @@
+﻿---
+ID: "c768bd4d-226f-4de1-9645-8a94fbd3bbb6"
+Parent: "2f7199f6-08b9-4da3-8f3d-b0126a580218"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio kai periexomeno/Programs Attributes/THraysi yalopinakwn tzamiwn/THraysi yalopinakwn tzamiwn no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

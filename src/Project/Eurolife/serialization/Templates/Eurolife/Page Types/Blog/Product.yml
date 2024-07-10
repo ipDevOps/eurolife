@@ -1,0 +1,37 @@
+﻿---
+ID: "70dbea9e-f842-4f79-a111-dd9d803526ee"
+Parent: "1a0bd310-1f2c-47f3-b5af-82cb0ad9b5d5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Eurolife/Page Types/Blog/Product
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/listmanagement.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {E5F4F03B-3264-4FB8-ACB9-1A24E024C9BA}
+    {A5A87E16-7A80-47F8-AD2B-C27DCA24EB46}
+    {AE8B3FD1-CD52-49C5-9CFD-FDE8B7D58751}
+    {68DC8ED7-3248-4897-B179-7516EA3ED3C3}
+    {ED2D2057-7FF2-437F-8010-B506D226B964}
+    {963F5D1D-DD7B-4BD4-8D67-B16730BE4EE5}
+    {20F5520E-D561-4DED-8926-8A973145909C}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{9DDC2755-EBA8-4E20-B36F-7E2160D8351B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T091047Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

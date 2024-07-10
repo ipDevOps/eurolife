@@ -1,0 +1,43 @@
+﻿---
+ID: "1fe65e9d-2b4f-4519-8a4c-ff7aac3241c6"
+Parent: "a2bb8e7b-3841-49b7-b028-29a09d6ddcd9"
+Template: "537eda0b-cad9-414a-a01f-33356d9305ab"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local/Storyboard Items/2002"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143245Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2002
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: |
+        &Lambda;&alpha;&nu;&sigma;ά&rho;&alpha;&mu;&epsilon; &tau;&omicron; &Pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &Delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ί&alpha;&sigmaf; &Kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; Flexi &ndash; έ&nu;&alpha; &pi;&rho;&omega;&tau;&omicron;&pi;&omicron;&rho;&iota;&alpha;&kappa;ό &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &pi;&omicron;&upsilon; &delta;ί&nu;&epsilon;&iota; &sigma;&epsilon; &kappa;ά&theta;&epsilon; ά&nu;&theta;&rho;&omega;&pi;&omicron; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &nu;&alpha; &alpha;&pi;&omicron;&tau;&alpha;&mu;&iota;&epsilon;ύ&epsilon;&iota; &gamma;&iota;&alpha; &tau;&eta; &sigma;ύ&nu;&tau;&alpha;&xi;ή &tau;&omicron;&upsilon;, &alpha;&nu;ά&lambda;&omicron;&gamma;&alpha; &mu;&epsilon; &tau;&alpha; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ά &tau;&omicron;&upsilon;.
+        &Eta; &epsilon;&pi;&iota;&tau;&upsilon;&chi;ί&alpha; &tau;&omicron;&upsilon; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; Flexi &delta;ί&nu;&epsilon;&iota; &iota;&sigma;&chi;&upsilon;&rho;ή ώ&theta;&eta;&sigma;&eta; &sigma;&tau;&eta;&nu; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &zeta;&omega;ή&sigmaf;.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110910Z
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2000
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

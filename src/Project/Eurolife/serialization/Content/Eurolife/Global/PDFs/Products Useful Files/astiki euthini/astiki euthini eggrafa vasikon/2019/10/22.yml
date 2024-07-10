@@ -1,0 +1,18 @@
+﻿---
+ID: "c8194c06-56c2-420c-b85c-2b7c742c545f"
+Parent: "9ce708d4-fb50-407d-8d62-079c3a080928"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/astiki euthini/astiki euthini eggrafa vasikon pliroforion/2019/10/22
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T124858Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

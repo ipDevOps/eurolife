@@ -1,0 +1,47 @@
+﻿---
+ID: "63b26e6c-230c-4fa7-be88-099dd0e93f05"
+Parent: "36462b4b-d511-4da6-ace4-25fbaa0e1ffc"
+Template: "41277a6d-ff43-46db-af83-303b916940f5"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Oikonomika-stoixeia/OMILOS/oikonomikes katastaseis"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 88
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191003T205951Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: "{7566EC7E-75EE-4564-BCC8-E12725BDEB24}"
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Οικονομικές καταστάσεις - Ενοποιημένες"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190701T134159Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f4543aeb-0454-4609-afec-d2ab0dd4fa11"
+      Hint: MediaFileFolderGroup
+      Type: Multilist with Search
+      Value: "{FCAADED3-358B-47ED-B0E2-7330F18FF5C1}"
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Οικονομικές καταστάσεις

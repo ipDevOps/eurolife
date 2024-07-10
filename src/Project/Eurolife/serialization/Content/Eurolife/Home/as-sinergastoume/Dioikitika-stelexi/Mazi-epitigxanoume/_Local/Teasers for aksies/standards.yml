@@ -1,0 +1,59 @@
+﻿---
+ID: "8b15fb85-1d26-4e16-a25e-544b9922ec18"
+Parent: "6fe24fd1-c28b-45b5-8fc1-515d0bc5d1f5"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Mazi-epitigxanoume/_Local/Teasers for aksies/standards"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &sigma;&kappa;&lambda;&eta;&rho;ά, &alpha;&lambda;&lambda;ά &pi;&omicron;&tau;έ &sigma;&epsilon; &beta;ά&rho;&omicron;&sigmaf; ά&lambda;&lambda;&omega;&nu;, ό&pi;&omega;&sigmaf; &omicron;&iota; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;έ&sigmaf; &mu;&alpha;&sigmaf;.
+        &Pi;&omicron;&tau;έ &delta;&epsilon;&nu; &theta;&alpha; &sigma;&tau;&omicron;&iota;&chi;&eta;&mu;&alpha;&tau;ί&zeta;&alpha;&mu;&epsilon; &tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf; &sigma;&epsilon; &kappa;&alpha;&nu;έ&nu;&alpha; project ή &epsilon;&xi;&alpha;&gamma;&omicron;&rho;ά.
+        &Epsilon;&pi;&iota;&delta;&iota;ώ&kappa;&omicron;&upsilon;&mu;&epsilon; &tau;&iota;&sigmaf; &pi;&rho;&omicron;&kappa;&lambda;ή&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &alpha;&nu;&alpha;&zeta;&eta;&tau;&omicron;ύ&mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &tau;&rho;ό&pi;&omicron;&upsilon;&sigmaf; &gamma;&iota;&alpha; &nu;&alpha; &tau;&iota;&sigmaf; &kappa;&alpha;&tau;&alpha;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon;. &Sigma;&tau;&epsilon;&kappa;ό&mu;&alpha;&sigma;&tau;&epsilon; &delta;ί&pi;&lambda;&alpha; &tau;&omicron;&upsilon;&sigmaf;, &mu;&epsilon; &sigma;&epsilon;&beta;&alpha;&sigma;&mu;ό &sigma;&epsilon; ό,&tau;&iota; &tau;&omicron;&upsilon;&sigmaf; &kappa;ά&nu;&epsilon;&iota; &nu;&alpha; &pi;&rho;&omicron;&sigma;&pi;&alpha;&theta;&omicron;ύ&nu; &gamma;&iota;&alpha; &mu;&iota;&alpha; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&eta; &zeta;&omega;ή.
+        &Kappa;ά&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;&iota;&alpha;&phi;&omicron;&rho;ά &sigma;&tau;&iota;&sigmaf; &zeta;&omega;έ&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &mu;&alpha;&sigmaf;, &delta;ί&nu;&omicron;&nu;&tau;&alpha;&sigmaf; έ&mu;&phi;&alpha;&sigma;&eta; &sigma;&epsilon; ό&lambda;&alpha; &epsilon;&kappa;&epsilon;ί&nu;&alpha; &tau;&alpha; &pi;&rho;ά&gamma;&mu;&alpha;&tau;&alpha; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&nu; &sigma;&eta;&mu;&alpha;&sigma;ί&alpha; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; ί&delta;&iota;&omicron;&upsilon;&sigmaf;. &Gamma;&iota;&alpha;&tau;ί &pi;ί&sigma;&omega; &alpha;&pi;ό &kappa;ά&theta;&epsilon; ό&nu;&epsilon;&iota;&rho;ό &tau;&omicron;&upsilon;&sigmaf;, &upsilon;&pi;ά&rho;&chi;&epsilon;&iota; &alpha;&upsilon;&tau;ό &pi;&omicron;&upsilon; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&iota;&kappa;ά &epsilon;&pi;&iota;&theta;&upsilon;&mu;&omicron;ύ&nu; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&kappa;&tau;ή&sigma;&omicron;&upsilon;&nu;.
+        &Alpha;&pi;&omicron;&mu;&alpha;&kappa;&rho;ύ&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron; &beta;ά&rho;&omicron;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron; ά&gamma;&chi;&omicron;&sigmaf; &alpha;&pi;ό &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf;, &kappa;ά&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&alpha; &pi;&rho;ά&gamma;&mu;&alpha;&tau;&alpha; &gamma;&iota;&alpha; &epsilon;&kappa;&epsilon;ί&nu;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron; &epsilon;ύ&kappa;&omicron;&lambda;&alpha; &kappa;&alpha;&iota; &xi;&epsilon;&kappa;ά&theta;&alpha;&rho;&alpha;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Προοδεύουμε δυναμικά και με θετική διάθεση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T120421Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{370A5D8B-BF7A-4E94-AA25-E25A8A681EBF}" ></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <b style="font-weight:normal;" id="docs-internal-guid-25f647db-7fff-ff67-e400-c1090172007b"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Δουλεύουμε με μοναδικό στόχο να επεκτείνουμε τις δυνατότητές σας και να δημιουργούμε πραγματική αξία στη ζωή σας. Για εμάς σημασία έχει η ουσία των πραγμάτων, γι’ αυτό και φροντίζουμε να την εφαρμόζουμε σε ό,τι κι αν κάνουμε.</span></b>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εστιάζουμε στην ουσία των πραγμάτων.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T105455Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

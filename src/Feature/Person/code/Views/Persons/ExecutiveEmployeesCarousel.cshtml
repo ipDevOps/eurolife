@@ -1,0 +1,85 @@
+﻿@using Wedia.Feature.Person
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+@{
+    if (Model == null || !Model.Any())
+    {
+        return;
+    }
+
+    string quotes = string.Empty;
+}
+
+<section class="m-t-112 m-b-272 leadership-container">
+  <h1 class="h4 center center--1100 m-b-48">@Html.Sitecore().Dictionary("/Person/Employees Carousel/Title", "Our leadership team")</h1>
+  <div class="leadership-slider">
+    <div class="leadership-slider--image">
+      <div class="js-leadership-slider-image" dir="rtl">
+        @foreach (var item in Model)
+        {
+          quotes += $@"<div>
+                                  <h2 class='h5 m-b-8'><a href='{@item.Url()}'>{item.Field(Templates.Person.Fields.Name)}</a></h2>";
+
+          if (item.DescendsFrom(Templates.HasPersonQuote.ID)
+          && (item.FieldHasValue(Templates.HasPersonQuote.Fields.Quote) || item.FieldHasValue(Templates.HasPersonQuote.Fields.Quote)))
+          {
+
+
+            quotes += $@"<div class='leadership-slider__position'>{item.Field(Templates.HasPersonPosition.Fields.Position)}</div>";
+          }
+
+
+          if (item.DescendsFrom(Templates.HasPersonQuote.ID)
+          && (item.FieldHasValue(Templates.HasPersonQuote.Fields.Quote) || item.FieldHasValue(Templates.HasPersonQuote.Fields.Quote)))
+          {
+            quotes += $@"<div class='leadership-slider__quote'>
+                                        {item.Field(Templates.HasPersonQuote.Fields.Quote)}
+                                  </div>";
+          }
+
+
+          quotes += "</div>";
+
+
+          if (item.DescendsFrom(Templates.HasPersonImage.ID)
+             && (item.FieldHasValue(Templates.HasPersonImage.Fields.Image) || Sitecore.Context.PageMode.IsExperienceEditor))
+          {
+            <div>
+              <a href="@item.Url()">
+                @Html.Sitecore().ImageField(Templates.HasPersonImage.Fields.Image,
+                  item,
+                  Constants.ImageDimensions.Carousel.Height,
+                  Constants.ImageDimensions.Carousel.Width)
+                </a>
+             </div>
+          }
+        }
+
+      </div>
+    </div>
+
+    <div class="leadership-slider--text">
+      <div class="js-leadership-slider-text">
+        @Html.Raw(quotes)
+      </div>
+    </div>
+
+    <div class="leadership__arrows">
+      <span class="slick-prev">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+        <path id="Arrow_Forward" fill="#121313" d="M0,16.009c0,0.267,0.109,0.522,0.293,0.714l9.898,9.999c0.392,0.396,1.024,0.395,1.414,0c0.392-0.394,0.392-1.034,0-1.428l-8.192-8.275H31c0.552,0,1-0.452,1-1.01s-0.448-1.011-1-1.011H3.414l8.191-8.274c0.392-0.394,0.391-1.034,0-1.429c-0.391-0.394-1.023-0.394-1.414,0l-9.898,10C0.105,15.483,0.003,15.744,0,16.009z" />
+
+      </svg>
+      </span>
+      <span class="slick-next">
+        <svg enable-background="new 0 0 32 32" height="32px" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <path clip-rule="evenodd" d="M32,16.009c0-0.267-0.11-0.522-0.293-0.714  l-9.899-9.999c-0.391-0.395-1.024-0.394-1.414,0c-0.391,0.394-0.391,1.034,0,1.428l8.193,8.275H1c-0.552,0-1,0.452-1,1.01  s0.448,1.01,1,1.01h27.586l-8.192,8.275c-0.391,0.394-0.39,1.034,0,1.428c0.391,0.394,1.024,0.394,1.414,0l9.899-9.999  C31.894,16.534,31.997,16.274,32,16.009z" fill="#121313" fill-rule="evenodd" id="Arrow_Forward" /><g /><g /><g /><g /><g /><g />
+
+      </svg>
+      </span>
+    </div>
+
+  </div>
+</section>

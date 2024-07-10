@@ -1,0 +1,47 @@
+﻿@using Sitecore.Mvc
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.PageContent
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageImageContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+    
+<section class="center center--1700 m-t-48 m-b-48 iconed-header">
+  <div class="iconed-header__content">
+    @if (Html.Sitecore().HasValue(Templates.HasPageContent.Fields.Title.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <h1 class="h3 m-b-8">
+        @Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)
+      </h1>
+    }
+    @if (Html.Sitecore().HasValue(Templates.HasPageContent.Fields.Summary.ToString()) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <div class="m-w-820">
+        <p>
+          @Html.Sitecore().Field(Templates.HasPageContent.Fields.Summary)
+        </p>
+      </div>
+    }
+  </div>
+
+  @if (@Html.Sitecore().HasValue(Templates.HasPageIconContent.Fields.Image.ToString()))
+  {
+    var mediaUrlOptions = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 200,
+      Height = 0
+    };
+    var image = Model.Item.ImageUrl(Templates.HasPageIconContent.Fields.Image, mediaUrlOptions);
+    <div class="iconed-header__icon">
+      <img src="@image" alt="@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title)">
+    </div>
+  }   
+</section>

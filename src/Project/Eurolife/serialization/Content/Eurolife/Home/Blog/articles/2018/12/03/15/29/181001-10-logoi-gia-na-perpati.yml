@@ -1,0 +1,42 @@
+﻿---
+ID: "880d9951-a0f1-4da7-bd06-f76b9e02e434"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/181001-10-logoi-gia-na-perpatisete"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152936Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "10 λόγοι για να περπατάτε κάθε μέρα [video]"
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F5595893-93CA-43C1-A382-A5CEA55D9393}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p>Δείτε γιατί:</p><iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/60bOEUSk2og"" frameborder=""0"" allow=""autoplay; encrypted-media""></iframe><p>Γνωρίζατε ότι το περπάτημα εκτός από καλή γυμναστική είναι και ένας τρόπος να μειώσετε το κόστος της ασφάλισής σας; <a href=""https://www.as-milisoume.gr/pages/walk-to-win-ebook?utm_source=asmilisoume&amp;utm_medium=post&amp;utm_campaign=walktowin&amp;utm_content=10-logoi"" style=""text-decoration-line: none;"">Κατεβάστε το νέο eBook</a> του Ας μιλήσουμε και μάθετε περισσότερα.</p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: Το περπάτημα είναι μια εύκολη, ανέξοδη και ήπια μορφή άσκησης, ιδανική για κάθε ηλικία και κάθε σωματότυπο. Με λίγα λόγια, είναι κάτι που όλοι μπορούν να κάνουν, ώστε να επωφεληθούν από τις θετικές επιδράσεις του. Γι’ αυτό και είναι πολύ σημαντικό να το εντάξετε στην καθημερινότητά σας.
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{F69548E1-831B-40F6-865E-201B77CD3C10}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: "10 λόγοι για να περπατάτε κάθε μέρα [video]"
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20181001T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{5333A4BC-00DF-469D-B222-D1D4460C2C8E}"

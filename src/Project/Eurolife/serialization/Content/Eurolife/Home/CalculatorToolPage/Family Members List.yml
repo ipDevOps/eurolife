@@ -1,0 +1,29 @@
+﻿---
+ID: "20016e82-d6ba-4e33-a1ca-59b15002f45a"
+Parent: "766c59cc-6b65-465a-b40e-447bb2665d55"
+Template: "65cf9701-9958-40a0-91e5-5e31afb872c8"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Family Members List
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201221T104428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201221T104425Z

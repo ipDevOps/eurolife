@@ -1,0 +1,46 @@
+﻿---
+ID: "b73b9a42-30fd-4b98-b25b-d705960f3841"
+Parent: "920f028d-4f64-4f3d-9c87-6445823b4d74"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/Teaser List/aplopoioyme tis katastaseis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; ά&mu;&epsilon;&sigma;&eta;&sigmaf; &epsilon;&nu;&eta;&mu;έ&rho;&omega;&sigma;&eta;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron; &chi;&alpha;&rho;&tau;&omicron;&phi;&upsilon;&lambda;ά&kappa;&iota;&omicron; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &sigma;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omega;&nu; 24/7 &mu;έ&sigma;&omega; &tau;&eta;&sigmaf; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ή&sigmaf; &pi;&lambda;&alpha;&tau;&phi;ό&rho;&mu;&alpha;&sigmaf; <a rel="noopener noreferrer" href="https://connect.eurolife.gr/" target="_blank">EurolifeConnect.</a>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απλοποιούμε τις καταστάσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T103905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Start Before
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

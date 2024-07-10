@@ -1,0 +1,18 @@
+﻿---
+ID: "d8903241-3d8a-4778-b4ef-2810b5fd8f13"
+Parent: "97189f81-e7e7-484d-bfaa-67608044acbd"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Programs Attributes/Antikatastasi kleidariwn/Antikatastasi kleidariwn no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073609Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

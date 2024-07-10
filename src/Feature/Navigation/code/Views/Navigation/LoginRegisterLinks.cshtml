@@ -1,0 +1,43 @@
+﻿@using Wedia.Feature.Navigation
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Feature.Navigation.Models.NavigationItems
+
+@{
+    if (Model?.NavItems == null)
+    {
+      return;
+    }
+
+    bool linksVisible = true;
+
+    if(Sitecore.Mvc.Presentation.RenderingContext.Current.PageContext.Item.Paths.Path.ToLower().Contains("blog"))
+    {
+      linksVisible = false;
+    }
+}
+
+
+@if (Model.NavItems != null && Model.NavItems.Any() && linksVisible)
+{    
+  <div class="access">
+    <div class="access__label">
+      @Model.Title
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+        <defs>
+          <path id="accesssvg" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z" />
+        </defs>
+        <use fill="#FFF" fill-rule="nonzero" transform="rotate(90 29.99 30)" xlink:href="#accesssvg" />
+      </svg>
+    </div>
+    <ul class="access__list">
+      @foreach (var link in Model.NavItems)
+      {
+        <li>
+          <a href="@link.Item.LinkFieldUrl(Templates.Link.Fields.Link)" target="_blank">
+            @Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, link.Item)
+          </a>
+        </li>
+      }
+    </ul>
+  </div>
+}

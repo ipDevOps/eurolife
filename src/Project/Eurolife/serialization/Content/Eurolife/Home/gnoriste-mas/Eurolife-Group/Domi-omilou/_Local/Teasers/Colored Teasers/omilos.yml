@@ -1,0 +1,34 @@
+﻿---
+ID: "be816d61-767f-41f3-8a3a-83e56d535fa3"
+Parent: "57aa074c-ac04-4bb5-9b9b-b948877e7f30"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Domi-omilou/_Local/Teasers/Colored Teasers/omilos"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Iota;&sigma;&chi;&upsilon;&rho;ή &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;&iota;&alpha;&kappa;ή &epsilon;&pi;ά&rho;&kappa;&epsilon;&iota;&alpha;,
+        &sigma;&tau;&alpha;&theta;&epsilon;&rho;ά &upsilon;&psi;&eta;&lambda;ή &kappa;&epsilon;&rho;&delta;&omicron;&phi;&omicron;&rho;ί&alpha;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ο Όμιλος Eurolife ERB
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T140444Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{C65D8F70-3364-489B-B8B5-71D02F602D95}" querystring="" target="" text="ΔΕΙΤΕ ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" url="/Eurolife/Home/gnoriste-mas/Eurolife-Group" title="" class="" linktype="internal" />

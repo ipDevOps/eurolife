@@ -1,0 +1,27 @@
+﻿---
+ID: "f7c567e5-6d2b-44e3-a64f-fc31f35b06bc"
+Parent: "b08dcf72-ad7b-4d0f-bfa9-55405301eb1f"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/frontida-ygeias/_Local/Media File List igeia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T100619Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {D4199364-EBC7-4B5F-AA89-12BD584799D1}
+        {809AF03A-5606-41D2-861F-F05E8931D743}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα

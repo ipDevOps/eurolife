@@ -1,0 +1,75 @@
+﻿---
+ID: "5c102570-9479-49c8-8cc1-e4b1dae202b0"
+Parent: "b0694c17-5831-4dab-866f-2ff161af8cb9"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local/astiki euthini mesaies epixeiriseis/Multihome Full"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T082745Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Multihome Ολοκληρωμένο
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        &Pi;&alpha;&kappa;έ&tau;&omicron;</div>
+        <div class="contentgroup__info">
+        <span id="docs-internal-guid-3d561b52-7fff-a5f9-0614-e4360e5994df" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-a5d2db45-7fff-30dd-a8fb-cad74af5bbd7" style="background-color: transparent; text-decoration: none; color: #000000;">&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf;</span></span></div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-f914687d-7fff-3ec9-507d-99942c2b475a" style="background-color: transparent; text-decoration: none; color: #000000;">&Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; ά&mu;&epsilon;&sigma;&eta;&sigmaf; &epsilon;&pi;έ&mu;&beta;&alpha;&sigma;&eta;&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-3eb36972-7fff-87c7-54a8-e0760da6e03a" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;&epsilon;&upsilon;&tau;&iota;&kappa;ή &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &beta;&omicron;ή&theta;&epsilon;&iota;&alpha;&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-d9889461-7fff-be60-91bf-f108b7eee633" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-b8a563c8-7fff-c734-dadf-8f931cbd46e2" style="background-color: transparent; text-decoration: none; color: #000000;">&Nu;&omicron;&mu;&iota;&kappa;ή &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;</span></span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        <span id="docs-internal-guid-15297726-7fff-b2e1-696e-adee48ae1b47" style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&epsilon;&mu;&omicron;&nu;&omega;&mu;έ&nu;&epsilon;&sigmaf; &lambda;&omicron;&iota;&pi;έ&sigmaf; &kappa;&alpha;&lambda;ύ&psi;&epsilon;&iota;&sigmaf;</span></div>
+        </div>
+        <div class="contentgroup__right contentgroup__tick">
+        <ul>
+            <li><span id="docs-internal-guid-54fa2e7a-7fff-04fc-9a7e-b552c7f18c92" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-a61ac8fe-7fff-4eb3-8252-55199ff6178c" style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&alpha;&theta;ί&zeta;&eta;&sigma;&eta; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&omicron;&lambda;ί&sigma;&theta;&eta;&sigma;&eta; &epsilon;&delta;ά&phi;&omicron;&upsilon;&sigmaf;</span></span></li>
+            <li><span id="docs-internal-guid-2f74532c-7fff-7b10-0b77-3c72f8eaf8ac" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-c43b3cb7-7fff-9646-f17d-aadfc51432e1" style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&epsilon;&iota;&sigma;&mu;ό&sigmaf;</span></span></li>
+        </ul>
+        </div>
+        </div>
+        <div class="contentgroup">
+        <div class="contentgroup__left">
+        <div class="contentgroup__title">
+        </div>
+        </div>
+        </div>

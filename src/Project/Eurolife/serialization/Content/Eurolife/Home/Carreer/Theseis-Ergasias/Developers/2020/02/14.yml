@@ -1,0 +1,14 @@
+﻿---
+ID: "7bc6fdc2-03c0-494d-8588-94f1b347b2e5"
+Parent: "2c4dd9c2-438d-4444-9d59-d4d618cfff53"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/Carreer/Theseis-Ergasias/Developers/2020/02/14"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T142152Z

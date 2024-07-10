@@ -1,0 +1,28 @@
+﻿---
+ID: "974dc9da-6fe8-4f36-bc28-92b012a4b1e4"
+Parent: "19d9a4fd-99b3-46c2-88dc-c321d4931c08"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings ti prosferoun/dinatotita exagoras
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Δυνατότητα εξαγοράς
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: &Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &pi;&omicron;&upsilon; &epsilon;&pi;&iota;&theta;&upsilon;&mu;&epsilon;ί&tau;&epsilon;, &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &epsilon;&xi;&alpha;&gamma;&omicron;&rho;ά&sigma;&epsilon;&tau;&epsilon; &tau;&omicron; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;ό &sigma;&alpha;&sigmaf; (&sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&omicron;&nu; &pi;ί&nu;&alpha;&kappa;&alpha; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&omega;&nu; &alpha;&xi;&iota;ώ&nu; &epsilon;&xi;&alpha;&gamma;&omicron;&rho;ά&sigmaf; &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&alpha;&sigmaf;) &pi;&rho;&iota;&nu; &tau;&eta; &lambda;ή&xi;&eta; &tau;&omicron;&upsilon; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf;.

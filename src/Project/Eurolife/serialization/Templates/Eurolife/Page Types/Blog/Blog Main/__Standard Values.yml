@@ -1,0 +1,112 @@
+﻿---
+ID: "775c186e-308c-494e-a5b2-268b43de1c9b"
+Parent: "417da68a-f3a5-4f0e-b96d-8fbff6ff72e1"
+Template: "417da68a-f3a5-4f0e-b96d-8fbff6ff72e1"
+Path: /sitecore/templates/Project/Eurolife/Page Types/Blog/Blog Main/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{373393A6-AA10-4771-B9C2-2EA1EB0583F5}">
+        <r
+          id="{20E8AA26-11C7-4A12-B7E3-A8F7C8200071}"
+          ph="head"
+          uid="{019640F2-806F-4891-B930-1D0297D7AACD}" />
+        <r
+          id="{EF0BEAD8-DD54-4579-8F4A-2A4971C29F73}"
+          ph="header"
+          uid="{306A6C33-969E-4C23-8FB2-FE029F14B7F6}" />
+        <r
+          id="{100F42AE-7160-4F29-B6DB-E01C388B3891}"
+          ph="before-header"
+          uid="{9A55A4BA-D055-4E12-9131-BA063C179E68}" />
+        <r
+          id="{B5B0DC88-B109-41EE-8714-4E2E06FC0FED}"
+          ph="main-burger"
+          uid="{8E472309-7984-4F19-97F2-FB3F0D85FA43}" />
+        <r
+          id="{A0A0A73C-2CBD-49D4-A343-802315C97B33}"
+          ph="header-content"
+          uid="{57820A49-4B8D-4CF2-8AB9-778B3AED0B0E}" />
+        <r
+          id="{B5B0DC88-B109-41EE-8714-4E2E06FC0FED}"
+          ph="header-top-navbar"
+          uid="{4387EB90-EE5D-4552-AA21-69DCE4C1DB08}" />
+        <r
+          ds="{1DC8C6E2-A9B8-40A8-B4B0-5B5ACDE42D32}"
+          id="{DB5E61BA-9B4C-4123-B200-5F30E491EE20}"
+          ph="header-top-navbar"
+          uid="{38863FA2-3F06-4D42-9329-52B87C82B3E9}" />
+        <r
+          id="{8350EF42-974D-44FB-9105-4655872C7741}"
+          ph="header-top-navbar"
+          uid="{461519C4-D295-4D2E-85A5-FB23C542F95A}" />
+        <r
+          ds="{281383DB-C1D6-4557-B5EF-3163F9DFE725}"
+          id="{DF10DE99-F5AE-474C-A6F3-4DF2E22ED8F2}"
+          ph="header-content"
+          uid="{B061EA3F-EEC1-4470-83BC-0B5DC4939F2C}" />
+        <r
+          ds="{41DFEE5F-CC0B-40A1-9456-2810FEBC7478}"
+          id="{7F3E7BBF-DA49-4B36-8B2E-01C733DC4902}"
+          ph="popular-searches"
+          uid="{785B34D1-6D55-46B8-84D3-70B17834591A}" />
+        <r
+          ds="{76C9E52F-0BD6-4A1F-B2BB-8509568EAACA}"
+          id="{CF9A98B4-8C85-463D-A91B-43549CF5813C}"
+          ph="login-register-menu"
+          uid="{737A7CE9-8CFA-47B2-B02E-E51A8112AFAA}" />
+        <r
+          id="{ECEA9D7D-DEFD-4B60-ABD0-198B4B59D3A3}"
+          ph="login-register-link"
+          uid="{024F79E6-BEBC-47AF-9DE5-E95F8E3F3E65}" />
+        <r
+          id="{933BD912-6B98-461D-A66C-550915E30F03}"
+          ph="page-layout"
+          uid="{05FB4DB5-7DEF-4088-8D99-8989AD50E9BA}" />
+        <r
+          ds="{FD08FA85-572B-446D-BD88-82176122BC81}"
+          id="{53CE901A-6B39-4154-855F-6FBB2FD7C681}"
+          ph="page-layout"
+          uid="{49FA109B-9A74-4D19-A47C-17BDDE5A93B6}" />
+        <r
+          id="{012CF397-C34B-4F4B-83BE-14E6FA88D0AE}"
+          ph="page-layout"
+          uid="{E2D0FB35-09ED-4354-8384-2B4E2DDDF280}" />
+        <r
+          id="{A1270D8D-3E10-4CCF-9542-21D78B0AE4D0}"
+          ph="footer"
+          uid="{A4276508-5F0F-4DDD-8B07-F93E6EEECB45}" />
+        <r
+          ds="{CD586CC0-02F0-49E5-B173-B26C9E691573}"
+          id="{32D4C6A5-EAA6-4126-A8E8-EE0327F4685A}"
+          ph="footer-lists"
+          uid="{3DC8066B-0F9A-4A5E-8304-CCCA58C41351}" />
+        <r
+          id="{42FB3DFF-05D2-45D4-B920-3D771DBB813D}"
+          ph="footer-bottom"
+          uid="{0407DF8C-4E14-46F3-816C-7714A944E728}" />
+        <r
+          ds="{F6EC7E67-840A-4686-8368-6DC2CD9C5569}"
+          id="{814E1B60-9115-4FBB-BA23-150A4835C038}"
+          ph="footer-bottom"
+          uid="{E7070ADB-8E55-4FE1-81CD-8C187358A005}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T092030Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

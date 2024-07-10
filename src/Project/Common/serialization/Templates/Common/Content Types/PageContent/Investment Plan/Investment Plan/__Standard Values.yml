@@ -1,0 +1,23 @@
+﻿---
+ID: "4c2e11ee-f781-4c4c-8be2-ea123c658a8c"
+Parent: "296d6535-40da-4099-9c0f-c21724a22a2c"
+Template: "296d6535-40da-4099-9c0f-c21724a22a2c"
+Path: /sitecore/templates/Project/Common/Content Types/PageContent/Investment Plan/Investment Plan/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{7EE9A785-E169-474E-A73E-7833892BE2A9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T122817Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

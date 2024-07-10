@@ -1,0 +1,25 @@
+﻿---
+ID: "aa9c2bd6-7c77-4c6b-8371-f9e24b5fc76a"
+Parent: "bf28aa5c-d111-4785-93ee-99d425d076eb"
+Template: "bf28aa5c-d111-4785-93ee-99d425d076eb"
+Path: /sitecore/templates/Project/Eurolife/Content Types/Site Root/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {703C5D3C-BCF5-47C7-B645-1DA6028F6701}
+    {84AFB503-8CB7-44E1-BEF1-FF918002894D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T112108Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

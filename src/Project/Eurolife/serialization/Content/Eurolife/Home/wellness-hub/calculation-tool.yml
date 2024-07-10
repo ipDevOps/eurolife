@@ -1,0 +1,53 @@
+﻿---
+ID: "d85d93d2-dd29-433b-af66-89b6304bd363"
+Parent: "8c9dfcd5-d2b6-47de-b9a4-21691658bb7c"
+Template: "a993bf0c-93ef-4453-ae3a-1b3f93c05d40"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/calculation-tool"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "189b06cf-ca5b-4587-8766-45b0b3eeb05b"
+      Hint: CTA Text
+      Value: Dynamic@Η ακριβής ασφαλιστική ηλικία ενδέχεται να επηρεάσει τα τελικά ασφάλιστρα. Ως επάγγελμα θεωρείται για τους γονείς “Ιδιωτικός υπάλληλος” και για τέκνα άνω των 18 φοιτητές. Για βρέφη κάτω των 3 μηνών παρακαλώ απευθύνθείτε στον ασφαλιστικό σας σύμβουλο.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201103T111121Z
+    - ID: "3c37000c-2807-4cf8-bab3-5ad6a8841f8a"
+      Hint: CTA Title
+      Value: Θέλω να ενημερωθώ
+    - ID: "45e01379-e7ec-46ff-acdd-0be5462f3e5f"
+      Hint: ExcelFile
+      Value: |
+        <file mediaid="{7358303E-FD39-4E1B-BB20-256B69C86AB9}" src="-/media/7358303EFD394E1BBB20256B69C86AB9.ashx" />
+    - ID: "5c09ae1d-5d01-4f12-ac56-4f5302581b9e"
+      Hint: CTA Link
+      Value: |
+        <link text="test" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{25BCC0B2-B176-4483-8368-4ACE4DDDF0E4}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "189b06cf-ca5b-4587-8766-45b0b3eeb05b"
+      Hint: CTA Text
+      Value: "!Η ακριβής ασφαλιστική ηλικία ενδέχεται να επηρεάσει τα τελικά ασφάλιστρα. Ως επάγγελμα θεωρείται για τους γονείς “Ιδιωτικός υπάλληλος” και για τέκνα άνω των 18 φοιτητές. Για βρέφη κάτω των 3 μηνών παρακαλώ απευθύνθείτε στον ασφαλιστικό σας σύμβουλο!"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201103T110924Z
+    - ID: "3c37000c-2807-4cf8-bab3-5ad6a8841f8a"
+      Hint: CTA Title
+      Value: "CTA Title!"
+    - ID: "45e01379-e7ec-46ff-acdd-0be5462f3e5f"
+      Hint: ExcelFile
+      Value: |
+        <file mediaid="{37F43845-4B7F-491D-A70D-5C2BBDAD91FB}" src="-/media/37F438454B7F491DA70D5C2BBDAD91FB.ashx" mediapath="/Feature/Eurobank/ToolFile/testsExcel" />
+    - ID: "5c09ae1d-5d01-4f12-ac56-4f5302581b9e"
+      Hint: CTA Link
+      Value: |
+        <link text="Description" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{25BCC0B2-B176-4483-8368-4ACE4DDDF0E4}" />

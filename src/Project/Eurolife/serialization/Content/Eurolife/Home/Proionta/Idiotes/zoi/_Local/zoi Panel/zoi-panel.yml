@@ -1,0 +1,38 @@
+﻿---
+ID: "37c58fd6-9c18-46dc-a7a4-8d2b8672d72d"
+Parent: "4e0c7422-465e-4655-960a-facc7d2d0add"
+Template: "f1e8aa8c-0acb-4186-b3fb-448897ca0831"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/zoi-panel"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: Χρησιμοποιήστε τους πίνακες που ακολουθούν για να συγκρίνετε τα προγράμματα και να επιλέξετε εκείνο που σας ταιριάζει περισσότερο.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T204734Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Σύγκριση Προγράμματων
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: |
+        {802ED94B-E0D8-4CCC-9A7F-DAFEA9B502F9}
+        {24438252-0B4A-4F3A-AA61-B6E30D0A9713}
+        {7DC85996-E9B7-44C5-AAB1-5391F8BFD2C0}
+        {A4E5C5A2-6763-48DB-94B5-31CF331C800B}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: |
+        {928A3E6E-AFDF-4C16-A294-9EE449C3027F}
+        {1FE0CAF8-16AF-4967-988F-C1CCA73FC501}

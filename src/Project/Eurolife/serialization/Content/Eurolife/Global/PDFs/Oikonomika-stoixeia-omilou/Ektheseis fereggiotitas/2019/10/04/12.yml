@@ -1,0 +1,18 @@
+﻿---
+ID: "289278d4-8386-4d49-9bfd-951fc70682c6"
+Parent: "0b5d7425-d8d0-4424-84c5-f5fc7f8ccaef"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/Oikonomika-stoixeia-omilou/Ektheseis fereggiotitas/2019/10/04/12"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T124119Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

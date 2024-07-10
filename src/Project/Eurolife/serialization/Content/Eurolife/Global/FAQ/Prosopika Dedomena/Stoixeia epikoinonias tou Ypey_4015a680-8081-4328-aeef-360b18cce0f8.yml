@@ -1,0 +1,25 @@
+﻿---
+ID: "4015a680-8081-4328-aeef-360b18cce0f8"
+Parent: "57db528f-e583-424d-ad0b-aa1a72a6adf8"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Prosopika Dedomena/Stoixeia epikoinonias tou Ypeythynou Prostasias Dedomenon
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Στοιχεία επικοινωνίας του Υπεύθυνου Προστασίας Δεδομένων
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T102854Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span id="docs-internal-guid-2bbce76f-7fff-8f1c-7738-2ef92b0f0ae5" style="background-color: #ffffff; text-decoration: none; color: #000000;">&Gamma;&iota;&alpha; &omicron;&pi;&omicron;&iota;&omicron;&delta;ή&pi;&omicron;&tau;&epsilon; &theta;έ&mu;&alpha; &alpha;&phi;&omicron;&rho;ά &tau;&eta;&nu; &epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &tau;&omega;&nu; &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ώ&nu; &sigma;&alpha;&sigmaf; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&omega;&nu; &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &alpha;&pi;&epsilon;&upsilon;&theta;&upsilon;&nu;&theta;&epsilon;ί&tau;&epsilon; &sigma;&tau;&omicron;&nu; &Upsilon;&pi;&epsilon;ύ&theta;&upsilon;&nu;&omicron; &Pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha;&sigmaf; &Pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ώ&nu; &Delta;&epsilon;&delta;&omicron;&mu;έ&nu;&omega;&nu; &sigma;&tau;&eta;&nu; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;&omicron;ύ &tau;&alpha;&chi;&upsilon;&delta;&rho;&omicron;&mu;&epsilon;ί&omicron;&upsilon;: dpo@eurolife.gr</span>

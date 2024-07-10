@@ -1,0 +1,59 @@
+﻿---
+ID: "ca0143e2-96a3-4090-8006-0d726d601f08"
+Parent: "5ab969a5-f8b1-4bfa-8ea5-e6e09065dd32"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/_Local/Companies/dummy2"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Mu;&alpha;&zeta;ί &mu;&epsilon; &tau;&eta; HOPEgenesis &alpha;&nu;&alpha;&pi;&tau;ύ&sigma;&sigma;&omicron;&upsilon;&mu;&epsilon; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&nu; &sigma;&tau;ό&chi;&omicron; &nu;&alpha; &alpha;&nu;&alpha;&tau;&rho;έ&psi;&omicron;&upsilon;&nu; &tau;&eta;&nu; &upsilon;&pi;&omicron;&gamma;&epsilon;&nu;&nu;&eta;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: HOPEgenesis
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T123848Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{9205CD23-FD6F-4A9F-9079-97A705F4612D}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" title="" class="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        Η HOPEgenesis είναι μια αστική μη κερδοσκοπική εταιρία που ιδρύθηκε το 2015 και δραστηριοποιείτεαι
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: HOPEgenesis
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T073753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="HOPEgenesis" linktype="internal" url="" anchor="" title="" class="" querystring="" target="" id="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

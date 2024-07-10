@@ -1,0 +1,31 @@
+﻿---
+ID: "010d1b45-50e3-4476-a170-a1d628b45add"
+Parent: "df62c364-0c48-4273-8a34-bbda10aa55e4"
+Template: "029f90fa-6f63-4d1d-ba0e-de4ea54426de"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/_Local/Glossary List"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Glossaryyy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T143611Z
+    - ID: "58ae458f-3ad1-41d4-962d-d5b11002576d"
+      Hint: GlossaryItems
+      Type: TreelistEx
+      Value: |
+        {DF117CEF-1E58-4FAB-A17A-DC92F5BD3F32}
+        {DD931152-97C4-4677-8ED0-513D457BA3D8}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

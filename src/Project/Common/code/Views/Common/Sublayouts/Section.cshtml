@@ -1,0 +1,10 @@
+﻿@using Sitecore.Mvc
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+
+}
+
+<section>
+    @Html.Sitecore().DynamicPlaceholder("section", Model.Rendering.GetUseStaticPlaceholderNames())
+</section>

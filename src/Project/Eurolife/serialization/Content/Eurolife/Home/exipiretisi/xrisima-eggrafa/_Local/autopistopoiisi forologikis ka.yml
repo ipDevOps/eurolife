@@ -1,0 +1,33 @@
+﻿---
+ID: "641a765a-c004-481b-8c61-af64ef3096eb"
+Parent: "73047f68-664e-4419-9728-afbf28ce3a49"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/xrisima-eggrafa/_Local/autopistopoiisi forologikis katoikias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T105253Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {9315BC7F-2E58-49E7-952B-8F5A69944940}
+        {A972B005-7ACD-4810-910C-4B681BE677E6}
+        {508289B5-E9DC-4C9F-A76B-3EB27B8DD52E}
+        {2849C748-2E50-430C-B5AC-2B66C92710EB}
+        {51C75803-5647-4C15-8CFF-62F66DC49622}
+        {902D1D47-472F-40BF-86B9-968C93BC8EBD}
+        {D489B30D-5621-497A-957E-C3A3E9105688}
+        {3B51C17B-6DD9-4B18-B5E5-761A0061ECF6}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: "Αυτοπίστοποίηση Φορολογικής Κατοικίας - Αποταμίευση / Ζωή"

@@ -1,0 +1,39 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Media
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.MediaFileGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.MediaFileGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+  var items = Model.Item.GetMultiListValueItems(Templates.MediaFileGroup.Fields.Files);
+}
+
+@if ((items == null || !items.Any()) && Sitecore.Context.PageMode.IsNormal)
+{
+  return;
+}
+
+
+<section class="list center center--1100 m-b-112 m-t-112">
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    if (Model.Item.FieldHasValue(Templates.HasMediaGroupTitle.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      <h1 class="h4 m-b-48">@Html.Sitecore().Field(Templates.HasMediaGroupTitle.Fields.Title)</h1>
+    }
+
+
+    foreach (var item in items)
+    {
+      @Html.Partial("../MediaFeature/FileListItem", item)
+    }
+  }
+</section>
+
+

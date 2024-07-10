@@ -1,0 +1,41 @@
+﻿---
+ID: "59c01224-17ab-4dec-94df-aca4551537ed"
+Parent: "5719432f-10f4-4c31-b5da-654c1277ce46"
+Template: "9173d3f0-9885-48f6-b345-6b99cb549523"
+Path: /sitecore/content/Eurolife/Global/Identity/Athens
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T132619Z
+    - ID: "4105155b-c61a-4db2-8d92-640d956d5700"
+      Hint: IdentityStreet
+      Value: "Πανεπιστημίου 33-35 & Κοραή, 10564"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "75da3499-d2ae-4c77-911e-0cbebe3c1891"
+      Hint: IdentityCity
+      Value: Αθήνα
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T105135Z
+    - ID: "4105155b-c61a-4db2-8d92-640d956d5700"
+      Hint: IdentityStreet
+      Value: Πανεπιστημίου
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "75da3499-d2ae-4c77-911e-0cbebe3c1891"
+      Hint: IdentityCity
+      Value: Αθήνα

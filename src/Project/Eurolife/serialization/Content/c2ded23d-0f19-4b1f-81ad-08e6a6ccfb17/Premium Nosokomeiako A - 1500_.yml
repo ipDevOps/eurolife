@@ -1,0 +1,39 @@
+﻿---
+ID: "67a1c723-2c00-4b93-aedd-502bf32f2d36"
+Parent: "c2ded23d-0f19-4b1f-81ad-08e6a6ccfb17"
+Template: "906a3de5-2dd5-43ec-82e1-87d97d7c336c"
+Path: "/sitecore/content/Eurolife/Global/PDFs/Products Useful Files/ygeia/ygeia vasika eggrafa pliroforion/2019/10/22/12/37/Premium Nosokomeiako A - 1500 Economy"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+      Hint: MediaPublishDate
+      Value: 20191029T220000Z
+    - ID: "1eac664f-71c3-4f5b-8d1d-22c4363720b1"
+      Hint: MediaFirstPublishDate
+      Value: 20191029T220000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T123723Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: "Premium Νοσοκομειακό Α΄- 1500 Economy"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: "Premium Νοσοκομειακό Α΄- 1500 Economy"
+    - ID: "bf50c27a-312f-408d-a49b-2e34d6a1e715"
+      Hint: MediaFile
+      Value: |
+        <file mediaid="{12DE79EB-2695-4509-A459-E70EBBD2B436}" src="-/media/12DE79EB26954509A459E70EBBD2B436.ashx" />

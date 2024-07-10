@@ -1,0 +1,261 @@
+/*tool suggestions*/
+
+.pick__item{
+  border:1px solid #DEDEDE;
+  border-radius: 8px;
+  box-shadow: 0;
+  &--selected{
+    border:1px solid $color-black;
+    box-shadow: 0 2px 4px 1px rgba(92,83,83,0.5);
+  }
+}
+
+.pick__head{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  @include breakpoint-rev(700){
+    padding-bottom: 24px;
+  }
+  @include breakpoint(700){
+    height: 190px;
+  }
+  @include breakpoint(1140){
+    height: 100px;
+  }
+   > *{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     padding-left: 24px;
+     @include breakpoint(700){
+       &:not(:last-child) {
+         border-right: 1px solid #DEDEDE;
+       }
+     }
+
+   }
+}
+
+.pick__titles{
+  padding-left:24px;
+  flex-basis: 100%;
+
+
+  @include breakpoint-rev(700){
+    margin-bottom: 24px;
+  }
+
+  @include breakpoint(1140){
+    flex-basis: 30%;
+  }
+
+  @include breakpoint-rev(1140){
+    border-bottom: 1px solid #DEDEDE;
+    height: 90px;
+    border-right: 0;
+  }
+  position: relative;
+}
+
+.pick__title{
+  margin:0;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.pick__sup-title{
+  margin-bottom:4px;
+  font-size: 16px;
+  color: $color-black-faded;
+}
+
+.pick__main-title{
+  font-size: 32px;
+  color: $color-health;
+}
+
+.pick__big-title{
+  font-size: 32px;
+  @include breakpoint(920){
+    font-size: 36px;
+  }
+}
+
+.pick__expander{
+  position: absolute;
+  top: 32px;
+  right: 20px;
+  cursor: pointer;
+  svg{
+    width: 28px;
+  }
+}
+
+.pick__sec-title{
+  font-size: 24px;
+  margin-bottom: 8px;
+  @include breakpoint(700){
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+}
+
+.pick__exemption{
+  flex-basis: 100%;
+  @include breakpoint(700){
+    flex-basis: 28%;
+    height: 100px;
+  }
+  @include breakpoint(920){
+    flex-basis: 29%;
+  }
+
+  @include breakpoint(1140){
+    flex-basis: 18%;
+  }
+
+}
+
+.pick__seat{
+
+  flex-basis: 100%;
+  @include breakpoint(700){
+    flex-basis: 28%;
+  }
+  @include breakpoint(920){
+    flex-basis: 29%;
+  }
+
+  @include breakpoint(1140){
+    flex-basis: 18%;
+  }
+}
+
+.pick__premium{
+  flex-basis: 100%;
+  @include breakpoint(700){
+    flex-basis: 31%;
+  }
+  @include breakpoint(1140){
+    flex-basis: 24%;
+  }
+}
+
+.pick__radio{
+  flex-basis: 13%;
+  @include breakpoint(920){
+    flex-basis: 10%;
+  }
+
+  input[type="radio"] + label{
+    width:40px;
+    height: 40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 0;
+    top: 0;
+
+    @include breakpoint(700) {
+      top: 31px;
+    }
+
+
+    &:before{
+      left: 0;
+      width: 36px;
+      height: 36px;
+      border: 1px solid #999;
+    }
+    &:after{
+      left: 3px;
+      width:32px;
+      height:32px;
+    }
+  }
+  @include breakpoint-rev(700) {
+    position: absolute;
+    right: 16px;
+    bottom: 24px;
+    height: 40px;
+    width: 40px;
+  }
+}
+
+.pick__body{
+  padding: 24px;
+
+  h3, h4{
+    margin:8px 0 4px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  h3{
+    margin:0 0 16px;
+  }
+
+  p{
+    color: $color-black-faded;
+    font-weight: 500;
+  }
+
+}
+
+.pick__insured{
+  display: flex;
+
+  figure{
+    margin-right: 24px;
+    text-align: center;
+  }
+
+
+  figcaption{
+    font-size: 12px;
+    margin-top: 4px;
+    font-weight: 500;
+    color: $color-black;
+  }
+
+
+  img{
+    border-radius: 50%;
+    border: 2px solid #ef3340;
+    padding:3px;
+    width: 56px;
+    height: 56px;
+  }
+}
+
+.pick__body-expander{
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 300ms ease-in;
+}
+
+.pick-on + .pick__body-expander{
+  max-height: 200vh;
+  svg{
+    fill: $color-health;
+  }
+}
+.pick__titles {
+  svg {
+    fill: #383B38;
+    transform: rotate(180deg);
+  }
+}
+
+
+.pick-on {
+  .pick__titles {
+    svg {
+      transform: rotate(0deg);
+      fill: $color-health;
+    }
+  }
+}

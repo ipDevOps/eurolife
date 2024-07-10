@@ -1,0 +1,23 @@
+﻿---
+ID: "3acb82a8-6c8b-40e3-bbdd-66799650e31c"
+Parent: "146ef2b6-e4d2-49da-a327-54e8a93978e0"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Programs Attributes/elaxisti megisti katavoli asfalistrou/Min 3000 Max 15000
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T210302Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: |
+        Min: 3.000€
+        Max: 150.000€

@@ -1,0 +1,31 @@
+﻿---
+ID: "599c3283-d481-46d1-8857-d3ad1e0f6f3a"
+Parent: "8f202705-0ed0-405a-a275-03674b974e84"
+Template: "e1ebfaf1-d607-4ee2-a8a6-fcfb2d6475e1"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Bundles List/ACCIDENT CARE 1
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210114T113843Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "914dac4d-527a-4440-a014-55e7ac76499e"
+      Hint: Key
+      Value: 17
+    - ID: "b3b537a3-31d9-447f-89c4-413fb43c287e"
+      Hint: Title
+      Value: ACCIDENT CARE 1 (ΕΤΗΣΙΟ ΑΝΑΝΕΟΥΜΕΝΟ) 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210114T113838Z

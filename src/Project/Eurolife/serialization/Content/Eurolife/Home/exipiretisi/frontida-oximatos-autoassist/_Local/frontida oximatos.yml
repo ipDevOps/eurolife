@@ -1,0 +1,18 @@
+﻿---
+ID: "27593046-d70b-4a35-9c55-33dd69a694c0"
+Parent: "83d67445-3749-4083-845e-2bd41e997a0a"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/frontida-oximatos-autoassist/_Local/frontida oximatos"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T081850Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

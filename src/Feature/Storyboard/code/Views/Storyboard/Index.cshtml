@@ -1,0 +1,21 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Storyboard
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+
+
+<section class="center center--1100 m-b-112 m-t-112">
+  <ul class="timeline" id="timeline">
+    @foreach (var item in Model)
+    {
+      if (item.FieldHasValue(Templates.StoryboardItem.Fields.Image))
+      {
+        @Html.Partial("../Storyboard/StoryboardItemWithImage", item)
+      }
+      else
+      {
+        @Html.Partial("../Storyboard/StoryboardItem", item)
+      }
+    }
+  </ul>
+</section>

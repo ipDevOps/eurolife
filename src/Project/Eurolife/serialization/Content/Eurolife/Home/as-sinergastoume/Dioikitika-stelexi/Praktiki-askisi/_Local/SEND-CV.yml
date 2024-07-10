@@ -1,0 +1,30 @@
+﻿---
+ID: "92b56274-1356-4b9a-b6b0-836ed9f17dae"
+Parent: "0003f06d-ca88-49bf-bedd-c1d92b20e46f"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Praktiki-askisi/_Local/SEND-CV"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <span class="scWebEditInput" id="fld_6217F5AD355A4E448F84334B243C15EA_5C95201B69ED40AEABDA9EB83141D8E9_el-GR_1_aa6e181cefcb4241970c7cc6fb45cc03_1485_edit" sc-part-of="field" contenteditable="false"></span>Επίλεξε τη θέση που σε ενδιαφέρει για την πρακτική σου άσκηση πατώντας ‘ΔΕΙΤΕ ΤΙΣ ΘΕΣΕΙΣ’ και συμπλήρωσε τα στοιχεία σου στις φόρμες που ακολουθούν.
+        <br /><p>Εάν δεν υπάρχει διαθέσιμη θέση που να ανταποκρίνεται στην επαγγελματική σου κατεύθυνση, πιο κάτω μπορείς να μας στείλεις το βιογραφικό σου όποια στιγμή επιθυμείς.</p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Διαθέσιμες θέσεις
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191019T102650Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΔΕΙΤΕ ΤΙΣ ΘΕΣΕΙΣ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{834816B5-4D7C-4417-ACAF-65E46A21CD32}" />

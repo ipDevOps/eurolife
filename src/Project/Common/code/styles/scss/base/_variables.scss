@@ -1,0 +1,57 @@
+/*------------------------------------*\
+  #VARIABLES
+\*------------------------------------*/
+
+//Colors
+$color-base:                #EF3340;
+$color-black:               #383b38;
+$color-black-faded:         rgba(56,59,56,.6);
+$color-base-grey:           #eeeeee;
+$color-health:              #ff303d;
+$color-health-soft:         #fdeaeb;
+$color-business:            #ff7d22;
+$color-business-soft:       #ff7d22;
+$color-home:                #ffb100;
+$color-home-soft:           #fdf7e5;
+$color-motor:               #00945f;
+$color-motor-soft:          #ecf4ef;
+$color-non-category:        #01c4b5;
+$color-finance:             #018195;
+$color-finance-soft:        #018195;
+$color-life-insurance:      #485294;
+$color-life-insurance-soft: #ecedf4;
+$dusky-blue:                #485294;
+$dusky-blue-soft:           rgba(72,83,148, 0.6);
+$charcoal:                  #383b38;
+$tealish:                   #21c4b5;
+$pale-salmon:               #ffb3ab;
+$cerulean:                  #0491db;
+$duck-egg-blue:             #e8f9f7;
+$strawberry:                #ef3340;
+$light-forest-green:        #479463;
+$dusty-orange:              #eb7d2e;
+$light-grey-blue:           #8fa1d4;
+$dusky-blue-two:            #4a5294;
+$color-savings:             #73cfd4;
+$color-civil:               #21c5b6;
+
+//button colors
+$color-btn-dark:            #485294;
+$color-btn-dark-hover:      rgba(143, 161, 212, 1.0);
+$color-btn-light:           rgba(0, 59, 77, .2);
+
+//fluid typeset
+$min_width: 320px;
+$max_width: 1370px;
+$min_h1: 34px;
+$max_h1: 52px;
+$min_h2: 28px;
+$max_h2: 45px;
+$min_h3: 24px;
+$max_h3: 32px;
+$min_h4: 22px;
+$max_h4: 28px;
+$min_h5: 20px;
+$max_h5: 22px;
+$min_h6: 16px;
+$max_h6: 18px;

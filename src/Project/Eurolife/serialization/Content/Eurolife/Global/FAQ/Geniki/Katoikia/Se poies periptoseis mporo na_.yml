@@ -1,0 +1,25 @@
+﻿---
+ID: "be9c2968-1eb1-40d0-a2e7-51b82896f8e7"
+Parent: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia/Se poies periptoseis mporo na kaleso texniki boitheia
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Σε ποιές περιπτώσεις μπορώ να καλέσω τεχνική βοήθεια;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T085915Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&epsilon; &tau;&eta;&nu; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&upsilon;ή&sigmaf; &zeta;&eta;&mu;&iota;ώ&nu;, &tau;&omicron; &mu;ό&nu;&omicron; &pi;&omicron;&upsilon; &theta;&alpha; &chi;&rho;&epsilon;&iota;&alpha;&sigma;&tau;&epsilon;ί &nu;&alpha; &kappa;ά&nu;&epsilon;&tau;&epsilon; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &delta;&eta;&lambda;ώ&sigma;&epsilon;&tau;&epsilon; &tau;&eta; &zeta;&eta;&mu;&iota;ά, 24 ώ&rho;&epsilon;&sigmaf; &tau;&omicron; 24&omega;&rho;&omicron;. &Tau;&eta;&nu; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&upsilon;ά&zeta;&omicron;&upsilon;&mu;&epsilon; &mu;&epsilon; &delta;&iota;&kappa;ά &mu;&alpha;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&epsilon;ί&alpha; &kappa;&alpha;&iota; &delta;ί&nu;&omicron;&upsilon;&mu;&epsilon; &epsilon;&xi;ά&mu;&eta;&nu;&eta; &epsilon;&gamma;&gamma;ύ&eta;&sigma;&eta; &gamma;&iota;&alpha; &tau;&eta;&nu; &epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &tau;&omicron;&upsilon;&sigmaf;. Έ&tau;&sigma;&iota;, &delta;&epsilon;&nu; &theta;&alpha; &chi;&rho;&epsilon;&iota;&alpha;&sigma;&tau;&epsilon;ί &nu;&alpha; &alpha;&nu;&alpha;&zeta;&eta;&tau;ή&sigma;&epsilon;&tau;&epsilon; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&epsilon;ί&omicron; ή &chi;&rho;ή&mu;&alpha;&tau;&alpha;, &epsilon;&nu;ώ &theta;&alpha; &kappa;&epsilon;&rho;&delta;ί&sigma;&epsilon;&tau;&epsilon; &alpha;&pi;ό &tau;&eta; &mu;&epsilon;ί&omega;&sigma;&eta; &tau;&omega;&nu; &alpha;&pi;&alpha;&lambda;&lambda;&alpha;&gamma;ώ&nu; (&eta; &pi;&rho;&omicron;&beta;&lambda;&epsilon;&pi;ό&mu;&epsilon;&nu;&eta; &alpha;&pi;&alpha;&lambda;&lambda;&alpha;&gamma;ή &gamma;&iota;&alpha; &tau;&eta; &zeta;&eta;&mu;ί&alpha; &theta;&alpha; &epsilon;ί&nu;&alpha;&iota; &kappa;&alpha;&tau;ά &euro;150 &chi;&alpha;&mu;&eta;&lambda;ό&tau;&epsilon;&rho;&eta;). H &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&alpha; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&upsilon;ή&sigmaf; &zeta;&eta;&mu;&iota;ώ&nu; &pi;&epsilon;&rho;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&eta; &beta;&alpha;&sigma;&iota;&kappa;ή &kappa;ά&lambda;&upsilon;&psi;&eta; &tau;&omega;&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu; &kappa;&alpha;&tau;&omicron;&iota;&kappa;ί&alpha;&sigmaf; Multihome O&lambda;&omicron;&kappa;&lambda;&eta;&rho;&omega;&mu;έ&nu;&omicron;, &sigma;&tau;&epsilon;&gamma;&alpha;&sigma;&tau;&iota;&kappa;&omicron;ύ &kappa;&alpha;&iota; &sigma;&epsilon; &kappa;ά&pi;&omicron;&iota;&alpha; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&omega;&nu;, &epsilon;&nu;ώ &sigma;&tau;&omicron; Multi Home &Epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&omicron; &delta;&epsilon;&nu; &pi;&alpha;&rho;έ&chi;&epsilon;&tau;&alpha;&iota;</span>

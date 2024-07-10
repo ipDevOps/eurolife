@@ -1,0 +1,23 @@
+﻿---
+ID: "c0532507-0be4-457c-897d-f6dca5588592"
+Parent: "fd007b52-675a-4b1d-ad21-d95fddd946a0"
+Template: "fd007b52-675a-4b1d-ad21-d95fddd946a0"
+Path: /sitecore/templates/Project/Common/Content Types/Storyboard/Storyboard Items Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{537EDA0B-CAD9-414A-A01F-33356D9305AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110747Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,173 @@
+﻿---
+ID: "c65d8f70-3364-489b-b8b5-71d02f602d95"
+Parent: "25bcc0b2-b176-4483-8368-4ace4dddf0e4"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F30ADFE4-ED52-4423-8D8C-9609278F6C87}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{BBED9516-66A5-4392-B72B-18E051B05733}"
+              s:id="{E49EABF7-D73F-4C34-B47B-C14505556162}"
+              s:ph="page-layout" />
+            <r
+              uid="{9B7D0672-C138-4B54-830B-FED4C855BF92}"
+              p:after="r[@uid='{F30ADFE4-ED52-4423-8D8C-9609278F6C87}']"
+              s:ds="{2EA7FD7B-865C-4AD5-B8E0-47CBD29E1726}"
+              s:id="{D1DD7390-C774-4C86-8904-FD074B9BD21D}"
+              s:ph="page-layout" />
+            <r
+              uid="{1718F0E7-697B-44F5-AE48-E6B00E1DF948}"
+              p:after="r[@uid='{9B7D0672-C138-4B54-830B-FED4C855BF92}']"
+              s:ds="{6184B4DA-CFBB-4BB3-AF1C-8541B7606B66}"
+              s:id="{5C56B6E0-DD5D-4A0F-ABC8-1AA48481841F}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{5652B911-B681-43D0-9E9B-6A15E9CAD181}"
+              p:after="r[@uid='{1718F0E7-697B-44F5-AE48-E6B00E1DF948}']"
+              s:id="{11E9B746-7617-4D8F-BD7F-AEC929DD3F72}"
+              s:ph="page-layout" />
+            <r
+              uid="{DFBAD083-3B9C-443B-828D-0D61E8040955}"
+              p:after="r[@uid='{5652B911-B681-43D0-9E9B-6A15E9CAD181}']"
+              s:ds="{DE70EE94-3354-4117-94EB-C507F67F92C1}"
+              s:id="{5C56B6E0-DD5D-4A0F-ABC8-1AA48481841F}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T120739Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ο Ασφαλιστικός Όμιλος Eurolife ERB
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ο Ασφαλιστικός Όμιλος Eurolife ERB
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p dir="ltr" id="docs-internal-guid-f6cd94fc-7fff-ae35-c1e7-652b6afdfd0e" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; έ&nu;&alpha;&sigmaf; &alpha;&pi;ό &tau;&omicron;&upsilon;&sigmaf; &kappa;&omicron;&rho;&upsilon;&phi;&alpha;ί&omicron;&upsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &omicron;&mu;ί&lambda;&omicron;&upsilon;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;, &mu;&epsilon; &pi;&epsilon;&rho;ί&pi;&omicron;&upsilon;</span><span style="color: #000000;"> 11%</span><span style="color: #000000;"> * &mu;&epsilon;&rho;ί&delta;&iota;&omicron; &tau;&eta;&sigmaf; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ή&sigmaf; &alpha;&gamma;&omicron;&rho;ά&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&epsilon;&iota;ώ&nu; &zeta;&omega;ή&sigmaf; &kappa;&alpha;&iota; &gamma;&epsilon;&nu;&iota;&kappa;ώ&nu; &gamma;&iota;&alpha; &tau;&omicron;</span><span style="color: #000000;"> <strong>2018</strong></span><span style="color: #000000;">.&nbsp;</span></p>
+        <br />
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&Xi;&epsilon;&kappa;&iota;&nu;ή&sigma;&alpha;&mu;&epsilon; &tau;&eta; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;ό&tau;&eta;&tau;ά &mu;&alpha;&sigmaf; &tau;&omicron; 2000, &omega;&sigmaf; &mu;&omicron;&nu;ά&delta;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&tau;ή&tau;&omega;&nu; &tau;&eta;&sigmaf; &Tau;&rho;ά&pi;&epsilon;&zeta;&alpha;&sigmaf; Eurobank. &Tau;&omicron;&nu; &Delta;&epsilon;&kappa;έ&mu;&beta;&rho;&iota;&omicron; &tau;&omicron;&upsilon; 2015, &eta; Fairfax Financial Holdings S.A., έ&nu;&alpha;&sigmaf; &delta;&iota;&epsilon;&theta;&nu;ή&sigmaf; &epsilon;&pi;&epsilon;&nu;&delta;&upsilon;&tau;&iota;&kappa;ό&sigmaf; ό&mu;&iota;&lambda;&omicron;&sigmaf; &mu;&epsilon; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ή &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &kappa;&alpha;&iota; &epsilon;&xi;&epsilon;&iota;&delta;ί&kappa;&epsilon;&upsilon;&sigma;&eta; &sigma;&tau;&omicron;&nu; &kappa;&lambda;ά&delta;&omicron; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&epsilon;&iota;ώ&nu;, &mu;&alpha;&sigmaf; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;ύ&tau;&eta;&kappa;&epsilon;, &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&omicron;&nu; &Alpha;ύ&gamma;&omicron;&upsilon;&sigma;&tau;&omicron; &tau;&omicron;&upsilon; 2016 &epsilon;&lambda;έ&gamma;&chi;&epsilon;&iota; &tau;&omicron; 80% &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;.&nbsp;&nbsp;</span></p>
+        <br />
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&Omicron;&iota; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;έ&sigmaf; &theta;&upsilon;&gamma;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &mu;&alpha;&sigmaf; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&pi;&omicron;&iota;&omicron;ύ&nu;&tau;&alpha;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; &kappa;&lambda;ά&delta;&omicron;&upsilon;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu; &Zeta;&omega;ή&sigmaf; &kappa;&alpha;&iota; &Gamma;&epsilon;&nu;&iota;&kappa;ώ&nu; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu;, &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &alpha;&gamma;&omicron;&rho;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &sigma;&epsilon; ό&lambda;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &kappa;ύ&rho;&iota;&omicron;&upsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &kappa;&lambda;ά&delta;&omicron;&upsilon;&sigmaf;, &mu;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &alpha;&pi;ό </span><span style="color: #000000;"><strong>450.000</strong></span><strong><span style="color: #000000;"> </span></strong><span style="color: #000000;"><strong>&pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf;</strong>.</span></p>
+        <br />
+        <sub><br />
+        *&Omega;&sigmaf; &sigma;ύ&nu;&omicron;&lambda;&omicron; &tau;&eta;&sigmaf; &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &Alpha;&gamma;&omicron;&rho;ά&sigmaf; &mu;&epsilon; &beta;ά&sigma;&eta; &tau;&eta;&nu; <span style="text-decoration: underline;">&epsilon;&tau;ή&sigma;&iota;&alpha; </span><a href="http://www1.eaee.gr/sites/default/files/annualreport2018.pdf"><span style="text-decoration: underline;">&delta;&eta;&mu;&omicron;&sigma;ί&epsilon;&upsilon;&sigma;&eta; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;</span>&nu;</a> &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &Epsilon;&tau;&alpha;&iota;&rho;&iota;ώ&nu; &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf; (&Epsilon;&Alpha;&Epsilon;&Epsilon;) &omicron;&rho;ί&zeta;&epsilon;&tau;&alpha;&iota; &eta; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &mu;ό&nu;&omicron; &tau;&omega;&nu; &mu;&epsilon;&lambda;ώ&nu; &tau;&eta;&sigmaf; &Epsilon;&Alpha;&Epsilon;&Epsilon;.</sub>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{D1EAFF65-090D-4403-8DA1-1BF8F646BB77}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ο Ασφαλιστικός Όμιλος Eurolife ERB
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{46643B2F-92A4-4AE3-AEA8-4EF7CA8B754E}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{BBED9516-66A5-4392-B72B-18E051B05733}"
+              s:id="{E49EABF7-D73F-4C34-B47B-C14505556162}"
+              s:ph="page-layout" />
+            <r
+              uid="{7B728F4F-84B1-4764-A135-C2CD7D59592E}"
+              p:after="r[@uid='{46643B2F-92A4-4AE3-AEA8-4EF7CA8B754E}']"
+              s:ds="{5411F802-E353-431F-8B8E-862275FE4EBE}"
+              s:id="{D1DD7390-C774-4C86-8904-FD074B9BD21D}"
+              s:par=""
+              s:ph="page-layout" />
+            <r
+              uid="{AF61DC36-395E-488D-8C77-03DBE06ED876}"
+              p:after="*[1=2]"
+              s:ds="{DE70EE94-3354-4117-94EB-C507F67F92C1}"
+              s:id="{5C56B6E0-DD5D-4A0F-ABC8-1AA48481841F}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "0ce01372-9068-4424-8ec1-81005fbcfe3b"
+      Hint: SeoFollowLinks
+      Type: Checkbox
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190619T104924Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Όμιλος Eurolife ERB Insurance Group
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Όμιλος Eurolife ERB Insurance Group
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p dir="ltr" id="docs-internal-guid-f6cd94fc-7fff-ae35-c1e7-652b6afdfd0e" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; έ&nu;&alpha;&sigmaf; &alpha;&pi;ό &tau;&omicron;&upsilon;&sigmaf; &kappa;&omicron;&rho;&upsilon;&phi;&alpha;ί&omicron;&upsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &omicron;&mu;ί&lambda;&omicron;&upsilon;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;, &mu;&epsilon; &pi;&epsilon;&rho;ί&pi;&omicron;&upsilon;</span><span style="background-color: transparent; text-decoration: none; color: #000000;">*</span><span style="background-color: transparent; text-decoration: none; color: #000000;"> &mu;&epsilon;&rho;ί&delta;&iota;&omicron; &tau;&eta;&sigmaf; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ή&sigmaf; &alpha;&gamma;&omicron;&rho;ά&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&epsilon;&iota;ώ&nu; &zeta;&omega;ή&sigmaf; &kappa;&alpha;&iota; &gamma;&epsilon;&nu;&iota;&kappa;ώ&nu; &gamma;&iota;&alpha; &tau;&omicron;</span><span style="background-color: transparent; text-decoration: none; color: #000000;"> 2018</span><span style="background-color: transparent; text-decoration: none; color: #000000;">.&nbsp;</span></p>
+        <br />
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Xi;&epsilon;&kappa;&iota;&nu;ή&sigma;&alpha;&mu;&epsilon; &tau;&eta; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;ό&tau;&eta;&tau;ά &mu;&alpha;&sigmaf; &tau;&omicron; 2000, &omega;&sigmaf; &mu;&omicron;&nu;ά&delta;&alpha; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&tau;ή&tau;&omega;&nu; &tau;&eta;&sigmaf; &Tau;&rho;ά&pi;&epsilon;&zeta;&alpha;&sigmaf; Eurobank. &Tau;&omicron;&nu; &Delta;&epsilon;&kappa;έ&mu;&beta;&rho;&iota;&omicron; &tau;&omicron;&upsilon; 2015, &eta; Fairfax Financial Holdings S.A., έ&nu;&alpha;&sigmaf; &delta;&iota;&epsilon;&theta;&nu;ή&sigmaf; &epsilon;&pi;&epsilon;&nu;&delta;&upsilon;&tau;&iota;&kappa;ό&sigmaf; ό&mu;&iota;&lambda;&omicron;&sigmaf; &mu;&epsilon; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ή &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &kappa;&alpha;&iota; &epsilon;&xi;&epsilon;&iota;&delta;ί&kappa;&epsilon;&upsilon;&sigma;&eta; &sigma;&tau;&omicron;&nu; &kappa;&lambda;ά&delta;&omicron; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&epsilon;&iota;ώ&nu;, &mu;&alpha;&sigmaf; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;ύ&tau;&eta;&kappa;&epsilon;, &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&omicron;&nu; &Alpha;ύ&gamma;&omicron;&upsilon;&sigma;&tau;&omicron; &tau;&omicron;&upsilon; 2016 &epsilon;&lambda;έ&gamma;&chi;&epsilon;&iota; &tau;&omicron; 80% &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;.&nbsp;&nbsp;</span></p>
+        <br />
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Omicron;&iota; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;έ&sigmaf; &theta;&upsilon;&gamma;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &mu;&alpha;&sigmaf; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&pi;&omicron;&iota;&omicron;ύ&nu;&tau;&alpha;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; &kappa;&lambda;ά&delta;&omicron;&upsilon;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu; &Zeta;&omega;ή&sigmaf; &kappa;&alpha;&iota; &Gamma;&epsilon;&nu;&iota;&kappa;ώ&nu; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu;, &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &alpha;&gamma;&omicron;&rho;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &sigma;&epsilon; ό&lambda;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &kappa;ύ&rho;&iota;&omicron;&upsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &kappa;&lambda;ά&delta;&omicron;&upsilon;&sigmaf;, &mu;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &alpha;&pi;ό </span><span style="background-color: transparent; text-decoration: none; color: #000000;">450.000</span><span style="background-color: transparent; text-decoration: none; color: #000000;"> </span><span style="background-color: transparent; text-decoration: none; color: #000000;">&pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf;.</span></p>
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="Habitat-004-wide" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{71BC2865-797C-4F65-95D6-3CA4EBACD0D7}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Όμιλος Eurolife ERB Insurance Group

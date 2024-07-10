@@ -1,0 +1,115 @@
+/*------------------------------------*\
+  #FOOTER
+\*------------------------------------*/
+footer{
+  border-top: 4px solid $color-base;
+  padding-top:45px;
+}
+
+
+
+.footer__info{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top:20px;
+  padding-bottom:24px;
+  border-top:1px solid #eee;
+  color: rgba(56,59,56, 0.6);
+  font-size:14px;
+  @include breakpoint-rev(1140){
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.footer__legal{
+  display: flex;
+  a{
+    color: rgba(56,59,56, 0.6);
+    margin:0 10px;
+  }
+  @include breakpoint-rev(1140){
+    flex-direction: column;
+    margin-bottom: 24px;
+  }
+}
+
+.footer__madeyby{
+  color: rgba(56,59,56, 0.6);
+  line-height: 1;
+  order:3;
+}
+
+.footer__lists{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer__list{
+  flex-basis: 100%;
+  margin-bottom: 34px;
+  @include breakpoint(820){
+    flex-basis: 30%;
+  }
+  @include breakpoint(1140){
+    flex-basis: 20%;
+  }
+  a{
+    display: block;
+    margin-bottom:16px;
+    font-size: 14px;
+  }
+}
+
+.footer__label{
+  font-size:14px;
+  color:rgba(56,59,56,0.6);
+}
+
+.footer__prompt{
+  font-weight: 500;
+}
+
+.footer__list__head{
+  display: block;
+  margin-bottom: 24px;
+  font-weight: 800;
+  color:$color-base;
+}
+.footer__social {
+  display:flex;
+  width:100%;
+  li {
+    margin: 0 15px 0 0;
+  }
+  @include breakpoint(1140) {
+    justify-content: flex-end;
+    li {
+      margin: 0 0 0 10px;
+    }
+  }
+  svg{
+    width: 28px;
+    height: 28px;
+    path{
+      fill: $color-base;
+    }
+  }
+}
+
+a.footer__subscription{
+  display: block;
+  font-weight: 800;
+  font-size:16px;
+  @include breakpoint(1140) {
+    text-align: right;
+  }
+}
+@include breakpoint-rev(1140) {
+  .footer__copy {
+    order: 2;
+  }
+}

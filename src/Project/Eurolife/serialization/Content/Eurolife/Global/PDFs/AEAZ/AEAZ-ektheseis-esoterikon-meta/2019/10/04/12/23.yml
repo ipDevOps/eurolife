@@ -1,0 +1,18 @@
+﻿---
+ID: "aeb05ae9-0f1d-43d4-a020-2264f36d8325"
+Parent: "92e103a6-4418-4125-931f-7700336328df"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEAZ/AEAZ-ektheseis-esoterikon-metavliton/2019/10/04/12/23"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191004T122346Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,33 @@
+﻿---
+ID: "308969eb-5603-4750-b8d4-e792ae0a46c4"
+Parent: "57aa074c-ac04-4bb5-9b9b-b948877e7f30"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/Domi-omilou/_Local/Teasers/Colored Teasers/Random"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <b style="font-weight:normal;" id="docs-internal-guid-25f647db-7fff-ff67-e400-c1090172007b"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Δουλεύουμε με μοναδικό στόχο να επεκτείνουμε τις δυνατότητές σας και να δημιουργούμε πραγματική αξία στη ζωή σας. Για εμάς σημασία έχει η ουσία των πραγμάτων, γι’ αυτό και φροντίζουμε να την εφαρμόζουμε σε ό,τι κι αν κάνουμε.</span></b>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εστιάζουμε στην ουσία των πραγμάτων.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T105455Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

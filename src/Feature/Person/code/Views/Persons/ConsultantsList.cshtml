@@ -1,0 +1,98 @@
+﻿@using Wedia.Feature.Person.Models
+@using Wedia.Feature.Person
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model IEnumerable<ConsultantsGroup>
+
+@{
+  if (Model == null || !Model.Any())
+  {
+    return;
+  }
+}
+
+<section class="center center--1100 m-t-112 m-b-112">
+  <div class="droplist__sup m-b-8">@Html.Sitecore().Dictionary("/Person/Consultants List/City", "City")</div>
+  <div class="droplist js-droplist m-b-48">
+    <label class="droplist-trigger" role="button">
+      @Html.Sitecore().Dictionary("/Person/Consultants List/Select Default", "All")
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+        <defs>
+          <path id="a" d="M41.118 32.08L23.029 50.137a2.948 2.948 0 0 1-4.166 0 2.938 2.938 0 0 1 0-4.159l16.005-15.98-16.005-15.978a2.938 2.938 0 0 1 0-4.16 2.95 2.95 0 0 1 4.166 0l18.09 18.06c.574.574.862 1.326.862 2.079a2.93 2.93 0 0 1-.863 2.08z"></path>
+        </defs>
+        <use fill="#003B4D" fill-rule="nonzero" transform="rotate(90 29.99 30)" xlink:href="#a"></use>
+      </svg>
+    </label>
+    <div class="droplist__options">
+      <ul>
+        @foreach (var group in Model)
+        {
+          <li><a href="#selectorItems" class="js-selected-item" data-value="@group.Item.ID">@Html.Sitecore().Field(Templates.HasPersonGroupName.Fields.Name, group.Item, new { DisableWebEdit = true })</a></li>
+        }
+      </ul>
+    </div>
+  </div>
+
+  <div id="selectorItems">
+
+    @foreach (var group in Model)
+    {
+      <div class="m-b-48 m-t-48 selected-content selected-content--visible" id="@group.Item.ID">
+        <h2 class="h4 m-b-24">@group.Item.Field(Templates.HasPersonGroupName.Fields.Name)</h2>
+
+        @if (group.Consultants == null || !group.Consultants.Any())
+        {
+          continue;
+        }
+
+          <div class="list list--partners">
+
+            @foreach (var consultant in group.Consultants)
+            {
+              <div class="list--partners__item">
+                <div class="list--partners__col-1">
+                  <div class="list--partners__name">@consultant.Item.Field(Templates.Person.Fields.Name)</div>
+                  <div class="list--partners__address">@consultant.Item.Field(Templates.HasPersonContact.Fields.Address)</div>
+                </div>
+                <div class="list--partners__col-2">
+                  @if (@consultant.Item.Field(Templates.HasPersonContact.Fields.Telephone) != null) {
+                      <div class="list--partners__contact">
+                        <strong>
+                          @Html.Sitecore().Dictionary("/Person/Consultants List/Telephone Leading Letter", "P."):
+                        </strong>@consultant.Item.Field(Templates.HasPersonContact.Fields.Telephone)
+                      </div>
+                    }
+                    @if (@consultant.Item.Field(Templates.HasPersonContact.Fields.Mobile) != null)
+                    {
+                      <div class="list--partners__contact">
+                        <strong>
+                          @Html.Sitecore().Dictionary("/Person/Consultants List/Mobile Leading Letter", "M."):
+                        </strong>@consultant.Item.Field(Templates.HasPersonContact.Fields.Mobile)
+                      </div>
+                    }
+                    </div>
+                <div class="list--partners__col-3">
+                  @if (@consultant.Item.Field(Templates.HasPersonContact.Fields.Email) != null) {
+                    <div class="list--partners__contact">
+                      <strong>
+                        @Html.Sitecore().Dictionary("/Person/Consultants List/Email Leading Letter", "E."):
+                      </strong>@consultant.Item.Field(Templates.HasPersonContact.Fields.Email)
+                    </div>
+                  }
+                </div>
+              </div>
+          
+            }
+
+          </div>
+        </div>
+      }
+
+  </div>
+</section>
+
+
+
+
+
+

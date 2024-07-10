@@ -1,0 +1,18 @@
+﻿---
+ID: "be2b364a-9bc6-4b97-a537-01e998681041"
+Parent: "420e817a-95ab-46ac-91c2-1bbb09acad4e"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/zoi/zoi eggrafa vasikon pliroforion/2019
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T123155Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

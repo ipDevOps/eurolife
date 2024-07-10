@@ -1,0 +1,33 @@
+﻿---
+ID: "dd6542f2-0dc1-43b4-a3bf-84477e8b795a"
+Parent: "d45d7932-e187-4b4b-a64b-0d442589008e"
+Template: "340a7ce1-04ea-4572-bc4a-6d8e9a448be7"
+Path: /sitecore/content/Eurolife/Global/Drop Menu List/Eurolife Connect
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210204T115026Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{0A18100B-0F1A-4E0B-AB4A-C834D6840404}" ></image>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="Eurolife connect" linktype="external" url="https://connect.eurolife.gr/" anchor="" target="_blank" />
+    - ID: "bb0d84e8-dea5-4bcd-9fb9-191c50d652e6"
+      Hint: Title
+      Value: Eurolife Connect

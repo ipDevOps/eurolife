@@ -1,0 +1,25 @@
+﻿---
+ID: "096c7012-152a-4caf-95e7-7d9a91e06691"
+Parent: "859b86b7-5a4a-49f3-9bec-c1375e33ecbc"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Katoikia/Mporo na asfaliso mono ta antikeimena pou exo sto spiti mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Μπορώ να ασφαλίσω μόνο τα αντικείμενα που έχω στο σπίτι μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T085316Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &sigma;&pi;&iota;&tau;&iota;&omicron;ύ Multihome &Epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&omicron; &epsilon;ί&nu;&alpha;&iota; &upsilon;&pi;&omicron;&chi;&rho;&epsilon;&omega;&tau;&iota;&kappa;ή &eta; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &tau;&omicron;&upsilon; &kappa;&tau;&iota;&rho;ί&omicron;&upsilon; (&tau;&eta;&sigmaf; &kappa;&alpha;&tau;&omicron;&iota;&kappa;ί&alpha;&sigmaf;). &Mu;&alpha;&zeta;&iota; &mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &tau;&omicron;&upsilon; &kappa;&tau;&iota;&rho;ί&omicron;&upsilon;, &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &epsilon;ά&nu; &theta;έ&lambda;&epsilon;&tau;&epsilon; &nu;&alpha; &kappa;&alpha;&lambda;ύ&psi;&epsilon;&tau;&epsilon; &kappa;&alpha;&iota; &tau;&omicron; &pi;&epsilon;&rho;&iota;&epsilon;&chi;ό&mu;&epsilon;&nu;&omicron; &tau;&eta;&sigmaf; &kappa;&alpha;&tau;&omicron;&iota;&kappa;ί&alpha;&sigmaf; &sigma;&alpha;&sigmaf;, &delta;&eta;&lambda;&alpha;&delta;ή &tau;&alpha; &kappa;&iota;&nu;&eta;&tau;ά &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&alpha; &pi;&omicron;&upsilon; &beta;&rho;ί&sigma;&kappa;&omicron;&nu;&tau;&alpha;&iota; &mu;έ&sigma;&alpha; &sigma;&epsilon; &alpha;&upsilon;&tau;ή &kappa;&alpha;&iota; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&omicron;ύ&nu; &tau;&omicron;&nu; &omicron;&iota;&kappa;&iota;&alpha;&kappa;ό &epsilon;&xi;&omicron;&pi;&lambda;&iota;&sigma;&mu;ό, ό&pi;&omega;&sigmaf; έ&pi;&iota;&pi;&lambda;&alpha;, &epsilon;&delta;ύ&mu;&alpha;&tau;&alpha;, &lambda;&epsilon;&upsilon;&kappa;έ&sigmaf; &sigma;&upsilon;&sigma;&kappa;&epsilon;&upsilon;έ&sigmaf;, &upsilon;&pi;&omicron;&lambda;&omicron;&gamma;&iota;&sigma;&tau;έ&sigmaf;, &sigma;&tau;&epsilon;&rho;&epsilon;&omicron;&phi;&omega;&nu;&iota;&kappa;ά, &chi;&alpha;&lambda;&iota;ά, &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&alpha; &alpha;&xi;ί&alpha;&sigmaf;, &kappa;.&lambda;&pi;.</span>

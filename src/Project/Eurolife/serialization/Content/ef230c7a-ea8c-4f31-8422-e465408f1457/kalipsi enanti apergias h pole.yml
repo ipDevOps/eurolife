@@ -1,0 +1,24 @@
+﻿---
+ID: "c29004e1-2a22-4acf-b8be-d43141f30290"
+Parent: "ef230c7a-ea8c-4f31-8422-e465408f1457"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/metafores/_Local/Highlights metafores/Vechile Highlights/kalipsi enanti apergias h polemou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T145102Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Κάλυψη έναντι απεργίας ή πολέμου
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: &Epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu;, &sigma;&alpha;&sigmaf; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; έ&nu;&alpha;&nu;&tau;&iota; &tau;&omega;&nu; &kappa;&iota;&nu;&delta;ύ&nu;&omega;&nu; &alpha;&pi;&epsilon;&rho;&gamma;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &pi;&omicron;&lambda;έ&mu;&omicron;&upsilon;.

@@ -1,0 +1,40 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HighlightsGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightsGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+}
+  
+@foreach (var item in Model.Item.GetMultiListValueItems(Templates.HighlightsGroup.Fields.Highlights))
+{
+ 
+  <div class="material__card @(item?.TargetItem(Templates.HighlightMain.Fields.Class)?[Templates.Icon.Fields.CssClass])">
+    @using (Html.BeginEditFrame(item.ID.ToString(), ""))
+    {
+      if (item.FieldHasValue(Templates.HasHighlightIcon.Fields.Icon))
+      {
+        <div class="material__icon">
+          <img src="@item.ImageUrl(Templates.HasHighlightIcon.Fields.Icon)"
+               alt="@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title, item, new { DisableWebEdit = true })" />
+        </div>
+      }
+
+      <h2 class="material__title">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title, item)</h2>
+
+      if (item.DescendsFrom(Templates.HasHighlightCTA.ID))
+      {
+        @Html.Sitecore().Field(Templates.HasHighlightCTA.Fields.CTA, item, new { @class = "btn btn--material" })
+      }
+    }
+
+  </div>
+  
+}
+  

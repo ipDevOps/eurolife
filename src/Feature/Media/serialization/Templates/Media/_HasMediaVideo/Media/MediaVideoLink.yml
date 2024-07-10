@@ -1,0 +1,18 @@
+﻿---
+ID: "66db8f07-eeb8-4b8b-9aa1-75146826ce42"
+Parent: "e8b9a8f0-7f8e-41f1-952f-ce5c22c55e90"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Media/_HasMediaVideo/Media/MediaVideoLink
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T104809Z

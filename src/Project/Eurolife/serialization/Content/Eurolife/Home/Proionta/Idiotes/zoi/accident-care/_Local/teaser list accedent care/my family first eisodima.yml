@@ -1,0 +1,50 @@
+﻿---
+ID: "af73a202-f5d9-4656-a62f-d70432c5b033"
+Parent: "498a8979-887d-407f-bae0-f54c9455aa26"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/accident-care/_Local/teaser list accedent care/my family first eisodima"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Eta; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &sigma;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &pi;&rho;&omicron;&sigma;&tau;&alpha;&tau;&epsilon;&upsilon;&mu;έ&nu;&eta; &mu;&epsilon; &mu;&eta;&nu;&iota;&alpha;ί&alpha; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή &epsilon;&iota;&sigma;&omicron;&delta;ή&mu;&alpha;&tau;&omicron;&sigmaf; &gamma;&iota;&alpha; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&omicron; &chi;&rho;&omicron;&nu;&iota;&kappa;ό &delta;&iota;ά&sigma;&tau;&eta;&mu;&alpha;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Πρόγραμμα My Family First Μηνιαίο εισόδημα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T103905Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{EF92007C-8579-4AB6-A80B-BF67D61D5AEE}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" title="" class="" url="/Eurolife/Home/Proionta/Idiotes/zoi/my-family-first-miniaio-eisodima" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="demo1" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{D5652BCE-BA5A-42A5-A695-4CCDDD76ED4B}"></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Start Before
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

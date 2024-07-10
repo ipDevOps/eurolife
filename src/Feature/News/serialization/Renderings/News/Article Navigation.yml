@@ -1,0 +1,21 @@
+﻿---
+ID: "d85651d7-3b84-4ed4-80e9-777efd97a38e"
+Parent: "c1251aa0-4d6c-47b1-a594-1d5051c2df42"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/News/Article Navigation
+DB: master
+SharedFields:
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: ArticleNavigation
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Wedia.Feature.News.Controllers.NewsController, Wedia.Feature.News
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T091636Z

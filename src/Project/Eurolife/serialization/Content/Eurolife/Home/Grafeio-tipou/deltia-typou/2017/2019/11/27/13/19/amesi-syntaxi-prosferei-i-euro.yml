@@ -1,0 +1,54 @@
+﻿---
+ID: "a5f96698-d78e-4ad1-a5bf-383ac2953908"
+Parent: "4aba2cda-5422-439f-b946-6706fbd83ff7"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2017/2019/11/27/13/19/amesi-syntaxi-prosferei-i-eurolife-erb-me-to-neo-programma-axiopoiisis-kefalaiou-efapax-asfalistrou"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{0CC4AD4A-E2C9-4F0D-BE7D-E8AACF63DAD5}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T131918Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Άμεση Σύνταξη προσφέρει η Eurolife ERB με το νέο πρόγραμμα αξιοποίησης κεφαλαίου εφάπαξ ασφαλίστρου
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p>&Eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &Epsilon;urolife ERB &alpha;&phi;&omicron;&upsilon;&gamma;&kappa;&rho;ά&zeta;&epsilon;&tau;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&chi;ώ&sigmaf; &tau;&iota;&sigmaf; &iota;&delta;&iota;&alpha;&iota;&tau;&epsilon;&rho;ό&tau;&eta;&tau;&epsilon;&sigmaf; &tau;&omicron;&upsilon; &mu;&epsilon;&tau;&alpha;&beta;&alpha;&lambda;&lambda;ό&mu;&epsilon;&nu;&omicron;&upsilon; &pi;&epsilon;&rho;&iota;&beta;ά&lambda;&lambda;&omicron;&nu;&tau;&omicron;&sigmaf; &kappa;&alpha;&iota; &sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&epsilon;&iota; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &alpha;&pi;&alpha;&nu;&tau;&omicron;ύ&nu; &sigma;&tau;&iota;&sigmaf; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;έ&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &pi;&omicron;&upsilon; έ&chi;&epsilon;&iota; &pi;&lambda;έ&omicron;&nu; &eta; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &mu;&alpha;&sigmaf; &sigma;&epsilon; ό,&tau;&iota; &alpha;&phi;&omicron;&rho;ά &tau;&eta;&nu; &alpha;&pi;&omicron;&tau;&alpha;&mu;ί&epsilon;&upsilon;&sigma;&eta; &kappa;&alpha;&iota; &tau;&eta; &sigma;ύ&nu;&tau;&alpha;&xi;&eta;. &Alpha;&nu;&tau;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&tau;&alpha;&iota; &tau;&eta;&nu; &alpha;&nu;ά&gamma;&kappa;&eta; &gamma;&iota;&alpha; &epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; &sigma;&tau;&alpha; &chi;&rho;ό&nu;&iota;&alpha; &tau;&eta;&sigmaf; &sigma;ύ&nu;&tau;&alpha;&xi;&eta;&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&omicron;&sigma;&alpha;&rho;&mu;ό&zeta;&epsilon;&iota; &tau;&iota;&sigmaf; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf; &pi;&rho;&omicron;&kappa;&epsilon;&iota;&mu;έ&nu;&omicron;&upsilon; &nu;&alpha; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &tau;&eta; &delta;&iota;&alpha;&tau;ή&rho;&eta;&sigma;&eta; &tau;&omicron;&upsilon; &epsilon;&pi;&iota;&pi;έ&delta;&omicron;&upsilon; &delta;&iota;&alpha;&beta;ί&omega;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &mu;&epsilon;&tau;ά &tau;&eta; &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;ό&tau;&eta;&sigma;ή &tau;&omicron;&upsilon;&sigmaf;.</p>
+        <p>&Sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &alpha;&upsilon;&tau;ό &eta; Eurolife ERB &epsilon;&nu;&iota;&sigma;&chi;ύ&epsilon;&iota; &tau;&eta;&nu; &gamma;&kappa;ά&mu;&alpha; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &alpha;&pi;&omicron;&tau;&alpha;&mu;&iota;&epsilon;&upsilon;&tau;&iota;&kappa;ώ&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu; &pi;&omicron;&upsilon; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&omicron; &delta;ί&kappa;&tau;&upsilon;&omicron; &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf; &mu;&epsilon; έ&nu;&alpha; &nu;έ&omicron; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha; &alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &epsilon;&phi;ά&pi;&alpha;&xi; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omicron;&upsilon; &mu;&epsilon; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&omicron; &tau;&epsilon;&chi;&nu;&iota;&kappa;ό &epsilon;&pi;&iota;&tau;ό&kappa;&iota;&omicron;. &Tau;&omicron; Easy Plan ά&mu;&epsilon;&sigma;&eta; &sigma;ύ&nu;&tau;&alpha;&xi;&eta; &alpha;&pi;&epsilon;&upsilon;&theta;ύ&nu;&epsilon;&tau;&alpha;&iota; &sigma;&epsilon; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &pi;&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &kappa;&omicron;&nu;&tau;ά &sigma;&tau;&eta;&nu; &omicron;&lambda;&omicron;&kappa;&lambda;ή&rho;&omega;&sigma;&eta; &tau;&omicron;&upsilon; &epsilon;&rho;&gamma;&alpha;&sigma;&iota;&alpha;&kappa;&omicron;ύ &tau;&omicron;&upsilon;&sigmaf; &beta;ί&omicron;&upsilon; &kappa;&alpha;&iota; &epsilon;&pi;&iota;&theta;&upsilon;&mu;&omicron;ύ&nu; &nu;&alpha; &mu;&epsilon;&tau;&alpha;&tau;&rho;έ&psi;&omicron;&upsilon;&nu; έ&nu;&alpha; &mu;έ&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon; &delta;&iota;&alpha;&theta;έ&sigma;&iota;&mu;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &tau;&omicron;&upsilon;&sigmaf; &sigma;&epsilon; &iota;&sigma;ό&beta;&iota;&alpha; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&eta; &sigma;ύ&nu;&tau;&alpha;&xi;&eta;. &Sigma;&epsilon; &alpha;&upsilon;&tau;ή &tau;&eta;&nu; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &eta; έ&nu;&alpha;&rho;&xi;&eta; &kappa;&alpha;&tau;&alpha;&beta;&omicron;&lambda;ή&sigmaf; &tau;&eta;&sigmaf; &sigma;ύ&nu;&tau;&alpha;&xi;&eta;&sigmaf; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &epsilon;ί&nu;&alpha;&iota; ά&mu;&epsilon;&sigma;&eta; ή &mu;έ&chi;&rho;&iota; &kappa;&alpha;&iota; 5 &chi;&rho;ό&nu;&iota;&alpha; &alpha;&pi;ό &tau;&eta;&nu; &eta;&mu;&epsilon;&rho;&omicron;&mu;&eta;&nu;ί&alpha; έ&nu;&alpha;&rho;&xi;&eta;&sigmaf; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf;.</p>
+        <p>&Tau;&omicron; &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &epsilon;ί&nu;&alpha;&iota; &kappa;&alpha;&tau;ά&lambda;&lambda;&eta;&lambda;&omicron; &gamma;&iota;&alpha; ό&sigma;&omicron;&upsilon;&sigmaf; &epsilon;&pi;&iota;&theta;&upsilon;&mu;&omicron;ύ&nu;, &mu;έ&sigma;&omega; &tau;&eta;&sigmaf; &alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &delta;&iota;&alpha;&theta;έ&sigma;&iota;&mu;&omicron;&upsilon; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon;, &sigma;&tau;&eta; &beta;ά&sigma;&eta; &tau;&omega;&nu; &delta;&iota;&kappa;ώ&nu; &tau;&omicron;&upsilon;&sigmaf; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ώ&nu; &delta;&upsilon;&nu;&alpha;&tau;&omicron;&tau;ή&tau;&omega;&nu;, &nu;&alpha; &sigma;&upsilon;&mu;&pi;&lambda;&eta;&rho;ώ&sigma;&omicron;&upsilon;&nu; &tau;&eta; &sigma;ύ&nu;&tau;&alpha;&xi;&eta; &tau;&omicron;&upsilon;&sigmaf;.</p>
+        <p>&Eta; Eurolife ERB &mu;&epsilon; &beta;&alpha;&sigma;&iota;&kappa;ό &tau;&eta;&sigmaf; &sigma;&tau;ό&chi;&omicron; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;ή &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &sigma;&tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;&epsilon;ί &omicron;&lambda;&omicron;&kappa;&lambda;&eta;&rho;&omega;&mu;έ&nu;&epsilon;&sigmaf; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf; &alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omicron;&upsilon; &mu;&epsilon; &mu;&alpha;&kappa;&rho;&omicron;&pi;&rho;ό&theta;&epsilon;&sigma;&mu;&omicron; &alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&mu;&alpha;. &Eta; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ή &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; &sigma;&tau;&eta;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά &mu;&epsilon; &tau;&eta; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ή &sigma;&tau;ή&rho;&iota;&xi;&eta; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Fairfax &alpha;&nu;&tau;&alpha;&pi;&omicron;&kappa;&rho;ί&nu;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf;, &kappa;&iota;&nu;&omicron;ύ&mu;&epsilon;&nu;&eta; &pi;ά&nu;&tau;&alpha; &mu;&epsilon; &epsilon;&upsilon;&epsilon;&lambda;&iota;&xi;ί&alpha; &pi;&rho;&omicron;&sigmaf; &alpha;&tau;&omicron;&mu;&iota;&kappa;έ&sigmaf; &kappa;&alpha;&iota; &omicron;&mu;&alpha;&delta;&iota;&kappa;έ&sigmaf; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &pi;&omicron;&upsilon; &alpha;&pi;&omicron;&pi;&nu;έ&omicron;&upsilon;&nu; &tau;&omicron; &alpha;ί&sigma;&theta;&eta;&mu;&alpha; &tau;&eta;&sigmaf; &sigma;&tau;&alpha;&theta;&epsilon;&rho;ό&tau;&eta;&tau;&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&eta; &sigma;&iota;&gamma;&omicron;&upsilon;&rho;&iota;ά &tau;&eta;&sigmaf; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;&sigmaf;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{0CC4AD4A-E2C9-4F0D-BE7D-E8AACF63DAD5}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Άμεση Σύνταξη προσφέρει η Eurolife ERB με το νέο πρόγραμμα αξιοποίησης κεφαλαίου εφάπαξ ασφαλίστρου
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20171023T121900Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Άμεση Σύνταξη προσφέρει η Eurolife ERB με το νέο πρόγραμμα αξιοποίησης κεφαλαίου εφάπαξ ασφαλίστρου

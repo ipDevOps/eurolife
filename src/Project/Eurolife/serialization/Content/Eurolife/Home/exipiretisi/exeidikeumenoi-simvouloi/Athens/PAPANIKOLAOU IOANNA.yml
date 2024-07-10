@@ -1,0 +1,71 @@
+﻿---
+ID: "4d5a14c6-94be-4afb-a71b-39f8ed716f06"
+Parent: "4f003648-a4a6-4be6-b277-4aa891b1a217"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/exeidikeumenoi-simvouloi/Athens/PAPANIKOLAOU IOANNA"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T132526Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65fc9b13-4667-4c78-b222-428faf91b1a7"
+      Hint: Fax
+      Value: 
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: "ΠΑΠΑΝΙΚΟΛΑΟΥ ΙΩΑΝΝΑ - ΜΑΡΙΑ"
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6974948084
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: ipapanikolaou@eurolife.gr
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: "ΠΑΠΑΝΙΚΟΛΑΟΥ ΙΩΑΝΝΑ - ΜΑΡΙΑ"
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: "ΠΑΝΕΠΙΣΤΗΜΙΟΥ  33-35 10564  ΑΘΗΝΑ"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T110752Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "65fc9b13-4667-4c78-b222-428faf91b1a7"
+      Hint: Fax
+      Value: 211 45654 5668
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Another Consultant
+    - ID: "674e1ef9-c125-4bd4-98cc-ed2936e09845"
+      Hint: Mobile
+      Value: 6981145544
+    - ID: "6c65bd46-bbcd-4af7-9419-04a1e6f8315c"
+      Hint: Telephone
+      Value: 211 32654 5666
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: test@test.gr
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Another Consultant
+    - ID: "dbdd034d-8648-4144-ab97-71ff82fe9c58"
+      Hint: Address
+      Value: "Πανεπιστημίου 33-35, 105 64, Αθήνα"

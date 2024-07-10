@@ -1,0 +1,54 @@
+﻿---
+ID: "8b581b8a-2e1b-4cb8-975b-57a72ab9fcd8"
+Parent: "f50a4720-070f-4f97-b27a-9d9dce704a1e"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/14/27/eurolife-erb-o-giannis-basilatos-neos-digital-transformation-officer"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{AF094866-CE75-4498-8E5A-87A52F8EDD86}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T142716Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "Eurolife ERB: O Γιάννης Βασιλάτος νέος Digital Transformation Officer"
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p>&Alpha;&nu;&alpha;&gamma;&nu;&omega;&rho;ί&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&iota;&sigmaf; &pi;&rho;&omicron;&kappa;&lambda;ή&sigma;&epsilon;&iota;&sigmaf; &tau;&omega;&nu; &kappa;&alpha;&iota;&rho;ώ&nu;, &eta; Eurolife ERB &kappa;&alpha;&tau;&alpha;&tau;ά&sigma;&sigma;&epsilon;&iota; &tau;&iota;&sigmaf; &nu;έ&epsilon;&sigmaf; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&epsilon;&sigmaf; &alpha;&nu;ά&mu;&epsilon;&sigma;&alpha; &sigma;&tau;&iota;&sigmaf; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;έ&sigmaf; &pi;&rho;&omicron;&tau;&epsilon;&rho;&alpha;&iota;ό&tau;&eta;&tau;έ&sigmaf; &tau;&eta;&sigmaf; &kappa;&alpha;&iota; &sigma;&upsilon;&sigma;&tau;ή&nu;&epsilon;&iota; &tau;&eta; &Gamma;&epsilon;&nu;&iota;&kappa;ή &Delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta; Digital Transformation.</p>
+        <p>&Omicron; &kappa;. &Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&sigmaf;, &epsilon;ί&nu;&alpha;&iota; &kappa;ά&tau;&omicron;&chi;&omicron;&sigmaf; BBA &sigma;&tau;&eta;&nu; &Delta;&iota;&omicron;ί&kappa;&eta;&sigma;&eta; &Epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&omega;&nu; &alpha;&pi;ό &tau;&omicron; &Omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ό &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;ή&mu;&iota;&omicron; &Pi;&epsilon;&iota;&rho;&alpha;&iota;ά &kappa;&alpha;&iota; έ&chi;&epsilon;&iota; &mu;&alpha;&kappa;&rho;ό&chi;&rho;&omicron;&nu;&eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &sigma;&epsilon; &theta;έ&sigma;&epsilon;&iota;&sigmaf; &epsilon;&upsilon;&theta;ύ&nu;&eta;&sigmaf; &sigma;&tau;&omicron;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό &kappa;&lambda;ά&delta;&omicron;. &Sigma;&kappa;&omicron;&pi;ό&sigmaf; &tau;&eta;&sigmaf; &Gamma;&epsilon;&nu;&iota;&kappa;ή&sigmaf; &Delta;&iota;&epsilon;ύ&theta;&upsilon;&nu;&sigma;&eta;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &eta; &pi;&alpha;&rho;&alpha;&kappa;&omicron;&lambda;&omicron;ύ&theta;&eta;&sigma;&eta; &tau;&omega;&nu; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&omega;&nu; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;&iota;ώ&nu; &kappa;&alpha;&iota; &eta; &delta;&iota;&epsilon;&rho;&epsilon;ύ&nu;&eta;&sigma;&eta; &tau;&omicron;&upsilon; &tau;&rho;ό&pi;&omicron;&upsilon; &alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;ή&sigmaf; &tau;&omicron;&upsilon;&sigmaf;, &gamma;&iota;&alpha; &tau;&eta;&nu; &alpha;&nu;&alpha;&beta;ά&theta;&mu;&iota;&sigma;&eta; &tau;&omega;&nu; &pi;&rho;&omicron;ϊό&nu;&tau;&omega;&nu; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;, &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &gamma;&iota;&alpha; &tau;&eta; &beta;&epsilon;&lambda;&tau;ί&omega;&sigma;&eta; &tau;&eta;&sigmaf; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha;&sigmaf; &pi;&omicron;&upsilon; &pi;&alpha;&rho;έ&chi;&epsilon;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; &pi;&epsilon;&lambda;ά&tau;&epsilon;&sigmaf; &kappa;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&omicron;&upsilon;.</p>
+        <p>&Omicron; <strong>&kappa;. &Alpha;&lambda;έ&xi;&alpha;&nu;&delta;&rho;&omicron;&sigmaf; &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon;, &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &amp; &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB</strong>, &tau;ό&nu;&iota;&sigma;&epsilon;: &laquo;&Epsilon;ί&nu;&alpha;&iota; &mu;&epsilon;&gamma;ά&lambda;&eta; &mu;&omicron;&upsilon; &chi;&alpha;&rho;ά &kappa;&alpha;&iota; &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ό&sigmaf; &mu;&omicron;&upsilon; &sigma;&tau;ό&chi;&omicron;&sigmaf; &nu;&alpha; &beta;&lambda;έ&pi;&omega; &tau;&omicron;&nu; Ό&mu;&iota;&lambda;&omicron; &nu;&alpha; &alpha;&nu;&alpha;&pi;&tau;ύ&sigma;&sigma;&epsilon;&tau;&alpha;&iota; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ά, &tau;ό&sigma;&omicron; &alpha;&rho;&iota;&theta;&mu;&eta;&tau;&iota;&kappa;ά ό&sigma;&omicron; &kappa;&alpha;&iota; &pi;&omicron;&iota;&omicron;&tau;&iota;&kappa;ά, &sigma;&upsilon;&nu;ά&pi;&tau;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&epsilon;&sigmaf; &mu;&epsilon; &epsilon;&xi;&epsilon;&iota;&delta;&iota;&kappa;&epsilon;&upsilon;&mu;έ&nu;&alpha; &kappa;&alpha;&iota; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά &sigma;&tau;&epsilon;&lambda;έ&chi;&eta; ό&pi;&omega;&sigmaf; &omicron; &kappa;. &Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&sigmaf;. &Alpha;&pi;ό &tau;&eta; &nu;&epsilon;&upsilon;&rho;&alpha;&lambda;&gamma;&iota;&kappa;ή &theta;έ&sigma;&eta; &tau;&omicron;&upsilon; Digital Transformation Officer, &omicron; &kappa;. &Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&sigmaf; &theta;&alpha; &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&xi;&epsilon;&iota; &tau;&eta; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ή &tau;&omicron;&upsilon; &psi;&eta;&phi;&iota;&alpha;&kappa;&omicron;ύ &mu;&epsilon;&tau;&alpha;&sigma;&chi;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;, &sigma;&tau;&omicron;&chi;&epsilon;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&tau;&eta; &beta;&epsilon;&lambda;&tau;&iota;&sigma;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&eta;&sigmaf; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha;&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &kappa;&alpha;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&eta;&nu; &pi;&epsilon;&rho;&alpha;&iota;&tau;έ&rho;&omega; &alpha;&pi;&lambda;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &kappa;&rho;ί&sigma;&iota;&mu;&omega;&nu; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;&iota;ώ&nu;. &Tau;&omicron;&upsilon; &epsilon;ύ&chi;&omicron;&mu;&alpha;&iota; &kappa;&alpha;&lambda;ή &epsilon;&pi;&iota;&tau;&upsilon;&chi;ί&alpha; &sigma;&tau;&alpha; &nu;έ&alpha; &tau;&omicron;&upsilon; &kappa;&alpha;&theta;ή&kappa;&omicron;&nu;&tau;&alpha;&raquo;.</p>
+        <p>&Alpha;&nu;&tau;ί&sigma;&tau;&omicron;&iota;&chi;&alpha;, &omicron; &kappa;. <strong>&Beta;&alpha;&sigma;&iota;&lambda;ά&tau;&omicron;&sigmaf;</strong> &delta;ή&lambda;&omega;&sigma;&epsilon;: &laquo;H Eurolife ERB &delta;&iota;&alpha;&tau;&eta;&rho;&epsilon;ί &tau;&eta;&nu; &kappa;&omicron;&upsilon;&lambda;&tau;&omicron;ύ&rho;&alpha; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;&eta;&mu;&alpha;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha;&sigmaf; &mu;&iota;&alpha;&sigmaf; start up &epsilon;&tau;&alpha;&iota;&rho;ί&alpha;&sigmaf; 19 &chi;&rho;ό&nu;&iota;&alpha; &mu;&epsilon;&tau;ά &tau;&eta;&nu; ί&delta;&rho;&upsilon;&sigma;ή &tau;&eta;&sigmaf;. &Epsilon;ί&mu;&alpha;&iota; &epsilon;&nu;&theta;&omicron;&upsilon;&sigma;&iota;&alpha;&mu;έ&nu;&omicron;&sigmaf; &pi;&omicron;&upsilon; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;έ&chi;&omega; &sigma;&tau;&eta;&nu; &omicron;&mu;ά&delta;&alpha; &alpha;&upsilon;&tau;ή &kappa;&alpha;&iota; &sigma;&upsilon;&mu;&beta;ά&lambda;&omega; &sigma;&tau;&eta;&nu; &upsilon;&lambda;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&omicron;&upsilon; &psi;&eta;&phi;&iota;&alpha;&kappa;&omicron;ύ &mu;&alpha;&tau;&alpha;&sigma;&chi;&eta;&mu;&alpha;&tau;&iota;&sigma;&mu;&omicron;ύ &tau;&eta;&sigmaf; &Epsilon;&tau;&alpha;&iota;&rho;ί&alpha;&sigmaf; &pi;&rho;&omicron;&sigmaf; ό&phi;&epsilon;&lambda;&omicron;&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu;, &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &kappa;&alpha;&iota; &tau;&omega;&nu; &epsilon;&rho;&gamma;&alpha;&zeta;&omicron;&mu;έ&nu;&omega;&nu; &tau;&eta;&sigmaf;. &Eta; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ή &alpha;&upsilon;&tau;ή &epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;&iota;&chi;&theta;&epsilon;ί &mu;ό&nu;&omicron; &alpha;&pi;ό &omicron;&rho;&gamma;&alpha;&nu;&iota;&sigma;&mu;&omicron;ύ&sigmaf; &pi;&omicron;&upsilon; έ&chi;&omicron;&upsilon;&nu; &tau;&eta;&nu; &alpha;&pi;&omicron;&phi;&alpha;&sigma;&iota;&sigma;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &tau;&omicron;&upsilon;&sigmaf; &pi;ό&rho;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &alpha;&pi;&alpha;&iota;&tau;&omicron;ύ&nu;&tau;&alpha;&iota;. &Eta; Eurolife ERB &epsilon;ί&nu;&alpha;&iota; &sigma;ί&gamma;&omicron;&upsilon;&rho;&alpha; &mu;&iota;&alpha; &alpha;&pi;ό &alpha;&upsilon;&tau;έ&sigmaf;&raquo; .</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{AF094866-CE75-4498-8E5A-87A52F8EDD86}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: "Eurolife ERB: O Γιάννης Βασιλάτος νέος Digital Transformation Officer"
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20180618T132700Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: "Eurolife ERB: O Γιάννης Βασιλάτος νέος Digital Transformation Officer"

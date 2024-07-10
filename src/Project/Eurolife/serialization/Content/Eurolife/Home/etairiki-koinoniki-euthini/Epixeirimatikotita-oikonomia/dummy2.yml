@@ -1,0 +1,105 @@
+﻿---
+ID: "da14e42f-f932-4b4c-a055-99ce38dc953a"
+Parent: "9b399889-7f44-4a25-8adc-03bb67cd543d"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia/dummy2"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E45DD7E5-C42F-48AB-BF75-9F8AF86092FB}"
+              p:before="*"
+              s:ds="{D8DB7B18-F41B-47EA-8447-A851528DBD78}"
+              s:id="{62FFEA7C-0F0E-430E-A315-6E77E2B5E468}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{DD61F6EA-A16F-4352-8C33-8780166956FC}"
+              p:after="r[@uid='{88B91DF2-05C4-4CE5-A2AF-B1506006B971}']"
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T125050Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: HOPEgenesis
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: HOPEgenesis
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <strong id="docs-internal-guid-4686b0d3-7fff-1fd1-a031-a344ff63ae7b"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Eta; HOPEgenesis &epsilon;ί&nu;&alpha;&iota; &mu;&iota;&alpha; &alpha;&sigma;&tau;&iota;&kappa;ή &mu;&eta; &kappa;&epsilon;&rho;&delta;&omicron;&sigma;&kappa;&omicron;&pi;&iota;&kappa;ή &epsilon;&tau;&alpha;&iota;&rho;ί&alpha; &pi;&omicron;&upsilon; &iota;&delta;&rho;ύ&theta;&eta;&kappa;&epsilon; &tau;&omicron; 2015 &kappa;&alpha;&iota; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; &sigma;&tau;&omicron;&nu; &tau;&omicron;&mu;έ&alpha; &tau;&eta;&sigmaf; &upsilon;&gamma;&epsilon;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&eta;&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &pi;&rho;ό&nu;&omicron;&iota;&alpha;&sigmaf;, &mu;&epsilon; ό&rho;&alpha;&mu;&alpha; &nu;&alpha; &alpha;&nu;&alpha;&tau;&rho;έ&psi;&epsilon;&iota; &tau;&omicron; &kappa;&lambda;ί&mu;&alpha; &tau;&eta;&sigmaf; &upsilon;&pi;&omicron;&gamma;&epsilon;&nu;&nu;&eta;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;.</span></p>
+        <strong id="docs-internal-guid-4686b0d3-7fff-1fd1-a031-a344ff63ae7b"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Tau;&alpha; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&alpha; &chi;&rho;ό&nu;&iota;&alpha; &eta; &chi;ώ&rho;&alpha; &mu;&alpha;&sigmaf; &beta;&alpha;&delta;ί&zeta;&epsilon;&iota; &pi;&rho;&omicron;&sigmaf; &delta;&eta;&mu;&omicron;&gamma;&rho;&alpha;&phi;&iota;&kappa;ό &alpha;&delta;&iota;έ&xi;&omicron;&delta;&omicron;. &Omicron;&iota; &sigma;&tau;&alpha;&tau;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; έ&rho;&epsilon;&upsilon;&nu;&epsilon;&sigmaf; &tau;&omicron;&upsilon; &Omicron;&Eta;&Epsilon; &delta;&epsilon;ί&chi;&nu;&omicron;&upsilon;&nu; ό&tau;&iota; &tau;&omicron; &alpha;&rho;&nu;&eta;&tau;&iota;&kappa;ό &pi;&rho;ό&sigma;&eta;&mu;&omicron; &tau;&omega;&nu; &gamma;&epsilon;&nu;&nu;ή&sigma;&epsilon;&omega;&nu; &theta;&alpha; &omicron;&delta;&eta;&gamma;ή&sigma;&epsilon;&iota; &sigma;&tau;&eta;&nu; &pi;&tau;ώ&sigma;&eta; &tau;&omicron;&upsilon; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;&omicron;ύ &pi;&lambda;&eta;&theta;&upsilon;&sigma;&mu;&omicron;ύ.</span></p>
+        <strong id="docs-internal-guid-4686b0d3-7fff-1fd1-a031-a344ff63ae7b"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Beta;&alpha;&sigma;&iota;&kappa;ό&sigmaf; &sigma;&tau;ό&chi;&omicron;&sigmaf; &tau;&eta;&sigmaf; HOPEgenesis &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&epsilon;&iota; &epsilon;&gamma;&kappa;ύ&omicron;&upsilon;&sigmaf; &gamma;&upsilon;&nu;&alpha;ί&kappa;&epsilon;&sigmaf; &pi;&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &mu;ό&nu;&iota;&mu;&omicron;&iota; &kappa;ά&tau;&omicron;&iota;&kappa;&omicron;&iota; &alpha;&kappa;&rho;&iota;&tau;&iota;&kappa;ώ&nu; &nu;&eta;&sigma;&iota;&omega;&tau;&iota;&kappa;ώ&nu; &kappa;&alpha;&iota; &eta;&pi;&epsilon;&iota;&rho;&omega;&tau;&iota;&kappa;ώ&nu; &pi;&epsilon;&rho;&iota;&omicron;&chi;ώ&nu; &tau;&eta;&sigmaf; &Epsilon;&lambda;&lambda;ά&delta;&alpha;&sigmaf;. &Eta; &omicron;&mu;ά&delta;&alpha; &tau;&omega;&nu; &mu;&alpha;&iota;&epsilon;&upsilon;&tau;ή&rho;&omega;&nu;-&gamma;&upsilon;&nu;&alpha;&iota;&kappa;&omicron;&lambda;ό&gamma;&omega;&nu; &tau;&eta;&sigmaf; HOPEgenesis &pi;&alpha;&rho;&alpha;&kappa;&omicron;&lambda;&omicron;&upsilon;&theta;&epsilon;ί &tau;&iota;&sigmaf; &gamma;&upsilon;&nu;&alpha;ί&kappa;&epsilon;&sigmaf; &kappa;&alpha;&tau;ά &tau;&eta; &delta;&iota;ά&rho;&kappa;&epsilon;&iota;&alpha; &tau;&eta;&sigmaf; &kappa;ύ&eta;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon;&sigmaf; &delta;ί&nu;&epsilon;&iota; &tau;&eta;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &nu;&alpha; &gamma;&epsilon;&nu;&nu;&omicron;ύ&nu; &delta;&omega;&rho;&epsilon;ά&nu;. &Mu;&epsilon; &alpha;&upsilon;&tau;ό&nu; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron;, &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &sigma;&tau;&iota;&sigmaf; &gamma;&upsilon;&nu;&alpha;ί&kappa;&epsilon;&sigmaf; &pi;&omicron;&upsilon; ή&delta;&eta; &kappa;&upsilon;&omicron;&phi;&omicron;&rho;&omicron;ύ&nu;, &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &kappa;ί&nu;&eta;&tau;&rho;&omicron; &sigma;&tau;&iota;&sigmaf; &upsilon;&pi;ό&lambda;&omicron;&iota;&pi;&epsilon;&sigmaf; &nu;&alpha; &kappa;&upsilon;&omicron;&phi;&omicron;&rho;ή&sigma;&omicron;&upsilon;&nu;.&nbsp;</span></p>
+        <strong id="docs-internal-guid-4686b0d3-7fff-1fd1-a031-a344ff63ae7b"><br />
+        </strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Omicron; &alpha;&rho;&iota;&theta;&mu;ό&sigmaf; &tau;&omega;&nu; &omega;&phi;&epsilon;&lambda;&omicron;ύ&mu;&epsilon;&nu;&omega;&nu; &pi;&omicron;&upsilon; &pi;&rho;&omicron;&kappa;ύ&pi;&tau;&epsilon;&iota; &alpha;&pi;ό &tau;&eta; &delta;&rho;ά&sigma;&eta; &tau;&eta;&sigmaf; &omicron;&rho;&gamma;ά&nu;&omega;&sigma;&eta;&sigmaf; &alpha;&nu;έ&rho;&chi;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; 99 &gamma;&upsilon;&nu;&alpha;ί&kappa;&epsilon;&sigmaf; &kappa;&alpha;&iota; &mu;έ&chi;&rho;&iota; &sigma;&tau;&iota;&gamma;&mu;ή&sigmaf; έ&chi;&omicron;&upsilon;&nu; &gamma;&epsilon;&nu;&nu;&eta;&theta;&epsilon;ί 55 &mu;&omega;&rho;ά &mu;&epsilon; &tau;&eta;&nu; &alpha;&rho;&omega;&gamma;ή &tau;&eta;&sigmaf; HOPEgenesis.</span></p>
+        <br class="Apple-interchange-newline" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Μαζί με τη HOPEgenesis αναπτύσσουμε δράσεις και πρωτοβουλίες που έχουν στόχο να ανατρέψουν την υπογεννητικότητα στην Ελλάδα.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{8427819A-9FA1-40D9-B8FB-91325460B6FD}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: HOPEgenesis
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T093213Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: HOPEgenesis
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: HOPEgenesis

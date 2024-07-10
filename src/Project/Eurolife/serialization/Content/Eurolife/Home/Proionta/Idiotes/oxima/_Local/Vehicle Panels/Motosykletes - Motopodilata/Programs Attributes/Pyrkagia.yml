@@ -1,0 +1,25 @@
+﻿---
+ID: "81309f00-2367-4fbf-89fe-bd2ca91da652"
+Parent: "46959180-a2ea-4a2d-9bc4-f8b520aac4e5"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Vehicle Panels/Motosykletes - Motopodilata/Programs Attributes/Pyrkagia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1543892b-a690-4e90-a05f-c496fee76c18"
+      Hint: PanelsIsCheckbox
+      Type: Checkbox
+      Value: 1
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Πυρκαγιά
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T140625Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

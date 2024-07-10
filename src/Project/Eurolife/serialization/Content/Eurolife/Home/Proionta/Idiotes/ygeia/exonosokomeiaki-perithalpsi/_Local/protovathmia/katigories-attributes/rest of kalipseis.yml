@@ -1,0 +1,28 @@
+﻿---
+ID: "065c3fb4-19c5-43c4-85f5-31f30fce79d8"
+Parent: "c4f2a9a8-d204-4bef-8b13-e4fda174e3ce"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/exonosokomeiaki-perithalpsi/_Local/protovathmia/katigories-attributes/rest of kalipseis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {D2F4F0AC-AB1D-417E-80BF-AA26099B8472}
+        {45B8ABF5-32EA-47C9-952A-250F28254053}
+        {C149E6E7-F85F-4F03-A1E8-52733448D88E}
+        {78CB8E33-F96F-4A25-8D14-FF7DDBD2D552}
+        {8013F65E-A01A-4F00-B0F1-65D37279FA93}
+        {5C9DEFF1-393C-483E-A51A-21A057B9C5E3}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T130124Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

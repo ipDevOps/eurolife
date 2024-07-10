@@ -1,0 +1,43 @@
+﻿---
+ID: "611ff8d2-0c22-4dbb-a7f3-06a84cf4423d"
+Parent: "a2bb8e7b-3841-49b7-b028-29a09d6ddcd9"
+Template: "537eda0b-cad9-414a-a01f-33356d9305ab"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local/Storyboard Items/2005"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143241Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2005
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: |
+        &Kappa;&alpha;&tau;&alpha;&kappa;&tau;ή&sigma;&alpha;&mu;&epsilon; &tau;&eta;&nu; 1&eta; &theta;έ&sigma;&eta; &sigma;&tau;&eta;&nu; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &Zeta;&omega;ή&sigmaf; &sigma;&tau;&eta;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, &xi;&epsilon;&pi;&epsilon;&rho;&nu;ώ&nu;&tau;&alpha;&sigmaf; &tau;&alpha; &euro;385 &epsilon;&kappa;&alpha;&tau;. &Tau;&alpha;&upsilon;&tau;ό&chi;&rho;&omicron;&nu;&alpha;, &theta;έ&sigma;&alpha;&mu;&epsilon; &tau;&iota;&sigmaf; &beta;ά&sigma;&epsilon;&iota;&sigmaf; &gamma;&iota;&alpha; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &nu;έ&omega;&nu; &delta;&iota;&kappa;&tau;ύ&omega;&nu; &pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu;, &pi;&alpha;&nu;&epsilon;&lambda;&lambda;&alpha;&delta;&iota;&kappa;ά, &mu;&epsilon; &epsilon;&iota;&delta;&iota;&kappa;ά &epsilon;&pi;&iota;&lambda;&epsilon;&gamma;&mu;έ&nu;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf;.
+        &Tau;&eta;&nu; ί&delta;&iota;&alpha; &chi;&rho;&omicron;&nu;&iota;ά &alpha;&pi;&omicron;&kappa;&tau;ή&sigma;&alpha;&mu;&epsilon; &nu;έ&epsilon;&sigmaf; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &epsilon;&nu;&iota;&sigma;&chi;ύ&sigma;&alpha;&mu;&epsilon; &tau;&iota;&sigmaf; &upsilon;&pi;&omicron;&delta;&omicron;&mu;έ&sigmaf; &mu;&alpha;&sigmaf;.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110951Z
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2004
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

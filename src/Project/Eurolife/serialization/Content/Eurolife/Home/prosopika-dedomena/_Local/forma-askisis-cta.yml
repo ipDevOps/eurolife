@@ -1,0 +1,25 @@
+﻿---
+ID: "042d1e49-02ca-430f-900d-eee23231e8a0"
+Parent: "0524e650-59f4-44df-a208-e5a6eb32cf7c"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/prosopika-dedomena/_Local/forma-askisis-cta"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Φόρμα Άσκησης Διακαιωμάτων
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T151954Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΣΥΜΠΛΗΡΩΣΤΕ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CA29CDA6-D718-4ADB-BF7C-8B45CF1498A6}" />

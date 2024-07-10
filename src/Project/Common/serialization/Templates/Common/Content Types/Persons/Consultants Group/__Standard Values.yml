@@ -1,0 +1,23 @@
+﻿---
+ID: "4591e79f-19a9-445a-b0fa-b0fa1b0b7542"
+Parent: "92bdd493-96ef-45fd-8036-f4855d59885f"
+Template: "92bdd493-96ef-45fd-8036-f4855d59885f"
+Path: /sitecore/templates/Project/Common/Content Types/Persons/Consultants Group/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{AD888DC7-06E0-46F4-A47D-548689E81318}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T105613Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

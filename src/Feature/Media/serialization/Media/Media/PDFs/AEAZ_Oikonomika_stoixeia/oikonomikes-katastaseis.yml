@@ -1,0 +1,18 @@
+﻿---
+ID: "43382777-8bd3-4471-a232-b274bb648758"
+Parent: "f2a9a06e-924d-4bc7-85ad-0633d692eef0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Feature/Media/PDFs/AEAZ_Oikonomika_stoixeia/oikonomikes-katastaseis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T191355Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,21 @@
+﻿---
+ID: "7370c8ef-7e8e-4acb-9700-70114f1ba73d"
+Parent: "fc596d36-f097-44ed-a06d-a38f41b0e49f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Blog/_HasColor/Color/Selected Color
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "{C9198FB2-0F71-4699-A21B-BA16AA9AD4AD}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Droplink
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200123T105016Z

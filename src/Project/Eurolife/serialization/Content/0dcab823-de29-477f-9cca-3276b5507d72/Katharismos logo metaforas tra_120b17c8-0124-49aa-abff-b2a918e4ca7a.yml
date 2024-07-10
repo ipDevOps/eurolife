@@ -1,0 +1,25 @@
+﻿---
+ID: "120b17c8-0124-49aa-abff-b2a918e4ca7a"
+Parent: "0dcab823-de29-477f-9cca-3276b5507d72"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Car/Programs Attributes/Katharismos logo metaforas traymatia/Katharismos logo metaforas traymatia yes
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T141005Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: Αποζημιώνουμε τον ιδιοκτήτη του ασφαλισμένου οχήματος για τα έξοδα καθαρισμού του εσωτερικού του, αν έχει λερωθεί κατά τη μεταφορά τραυματία, μέχρι του ποσού των €500.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "79f18c52-1570-4ecb-b32e-a55df2fb321d"
+      Hint: Check
+      Type: Checkbox
+      Value: 1

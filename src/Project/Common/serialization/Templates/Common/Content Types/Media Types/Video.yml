@@ -1,0 +1,33 @@
+﻿---
+ID: "6dec0d88-0878-44d4-960b-d151edb81ae1"
+Parent: "c6d97ab3-6f2f-4908-aca0-5e49b9683b0e"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/Media Types/Video
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: multimedia/16x16/film_clip.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {C0C03229-5BD7-4D32-82F3-A1A71D97F727}
+    {9D7CD402-28C2-4E3B-BD70-19371AD5B493}
+    {97AFB237-A504-4CEA-87EB-02B9F8934717}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{63BE2989-DDBD-4E62-B3D5-73E09AD7CD2D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T104957Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

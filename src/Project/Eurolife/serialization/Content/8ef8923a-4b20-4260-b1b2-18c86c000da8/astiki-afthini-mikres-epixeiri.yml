@@ -1,0 +1,36 @@
+﻿---
+ID: "beb7adcc-1eab-42b2-82a9-7466b43ea798"
+Parent: "8ef8923a-4b20-4260-b1b2-18c86c000da8"
+Template: "e8da73b3-8edf-4ca3-9f9a-b3fb540ef441"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/astiki-efthini/_Local/panel-mikres-epixeiriseis-astiki-euthini/astiki-afthini-mikres-epixeiriseis"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T155702Z
+    - ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+      Hint: Panels
+      Type: Multilist
+      Value: |
+        {136DC6CA-954C-429B-9ED7-DF8AEA201764}
+        {0EAD00BA-A6BF-4145-81A2-70B94A12CAAC}
+        {77F0E787-E4A8-4A68-9745-5FADE5F123FE}
+        {9F7C1CF3-3AC9-46DD-A514-71486EA54EB6}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f5d19984-678a-4fef-919d-4cf92f68f464"
+      Hint: PanelGroupTitle
+      Value: Πίνακας Καλύψεων Προγραμμάτων
+    - ID: "fb7552f8-587d-4b90-ae31-7e3ec84ae7f0"
+      Hint: PanelGroupSummary
+      Value: Ασφάλιση Αστικής Ευθύνης από την λειτουργία των χώρων

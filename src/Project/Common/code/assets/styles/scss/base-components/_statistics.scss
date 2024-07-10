@@ -1,0 +1,23 @@
+/*------------------------------------*\
+  #statistics
+\*------------------------------------*/
+.stats{
+  display: flex;
+  justify-content: space-between;
+  color:$dusky-blue;
+  font-weight: 500;
+}
+
+.stats__number{
+  font-size: 52px;
+  line-height: 1;
+}
+
+.stats__unit{
+  font-size: 32px;
+  line-height: 1;
+}
+
+.stats__label{
+  font-size: 18px;
+}

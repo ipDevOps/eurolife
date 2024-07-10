@@ -1,0 +1,46 @@
+﻿---
+ID: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Parent: "74cdf335-ba3a-42bc-af08-b63f952e4d3b"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Eurolife/Page Types/News/Article Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/document_text.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {E5F4F03B-3264-4FB8-ACB9-1A24E024C9BA}
+    {3F38EA70-1F98-4A1C-BCB7-01E63046EEF6}
+    {672FFC13-EA1C-476F-8B06-2BFACE235A8F}
+    {5014D264-A8D3-44F3-B092-B9FB6E5B9DDC}
+    {37C0600D-B62F-40D3-BB5E-51F9777ED47A}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{DADAE90E-315C-48C0-8987-934306B01704}"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190823T100752Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T095132Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

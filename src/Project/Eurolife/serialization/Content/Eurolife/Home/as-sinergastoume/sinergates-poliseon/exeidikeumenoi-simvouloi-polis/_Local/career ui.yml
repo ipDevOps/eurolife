@@ -1,0 +1,28 @@
+﻿---
+ID: "9c835933-c208-4636-96d3-4b25755b2128"
+Parent: "88d37eb4-bc0e-4036-80f2-d343db31c4e7"
+Template: "be41d8d0-15b8-4fb4-b7a5-f34a3fc054e1"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/_Local/career ui"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T104814Z
+    - ID: "5160eade-b54a-4c64-b1dd-6f4eb7339f76"
+      Hint: UIHeaderTitle
+      Value: Τι κερδίζετε από την καριέρα Ασφαλιστικού Διαμεσολαβητή στη Eurolife ERB;
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d532b85-dadf-4513-8e22-adec9a80bdda"
+      Hint: UIHeaderSummary
+      Value: 

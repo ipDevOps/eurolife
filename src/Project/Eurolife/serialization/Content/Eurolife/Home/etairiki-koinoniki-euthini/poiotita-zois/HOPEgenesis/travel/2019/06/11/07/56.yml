@@ -1,0 +1,14 @@
+﻿---
+ID: "fa64bb54-a848-46ea-bbf9-d60755590dba"
+Parent: "1165f6c1-6fa1-4f3b-9de1-1c015ccd2eb6"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/HOPEgenesis/travel/2019/06/11/07/56"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T075630Z

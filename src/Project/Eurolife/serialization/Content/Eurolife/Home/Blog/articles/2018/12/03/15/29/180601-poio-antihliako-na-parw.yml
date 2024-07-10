@@ -1,0 +1,43 @@
+﻿---
+ID: "7e28b817-e05d-4921-9f49-393027629f87"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/180601-poio-antihliako-na-parw"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152934Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ποιο αντιηλιακό να πάρω;
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F5595893-93CA-43C1-A382-A5CEA55D9393}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Η προστασία του δέρματος από τις βλαβερές ακτίνες του ήλιου είναι πολύ σημαντική στην καθημερινότητα ακόμα και τους χειμερινούς μήνες. <strong>Ο καρκίνος του δέρματος αποτελεί πλέον ένα από τα 10 είδη καρκίνων που εμφανίζονται συχνότερα στους ευρωπαϊκούς πληθυσμούς</strong>. Περίπου 130.000 μελανώματα εμφανίζονται παγκοσμίως και περίπου 37.000 άνθρωποι πεθαίνουν κάθε χρόνο από μελάνωμα. Η ετήσια αύξηση του αριθμού των νέων περιπτώσεων που διαγιγνώσκονται στην Ευρώπη φτάνει μέχρι και 8%.</p><p style="text-align: justify;">Στην Ελλάδα, σύμφωνα με την εκστρατεία για την Εβδομάδα Κατά του Καρκίνου του Δέρματος έχουμε 80% ηλιοφάνεια. Επίσης, 9 στους 10 Έλληνες κινδυνεύουν από ηλιακό έγκαυμα και αυτό γιατί δεν είναι λίγοι εκείνοι που δεν γνωρίζουν πώς να χρησιμοποιούν σωστά το αντηλιακό. Ενημερωθείτε για τα συχνότερα <a href="http://www.as-milisoume.gr/el/Articles/10-syxna-lathi-pou-einai-enantia-sthn-antiliaki-prostasia">λάθη που είναι ενάντια στην αντηλιακή προστασία</a> και προφυλάξτε εσάς και τους αγαπημένους σας από τον δυνατό ήλιο.</p><p style="text-align: justify;">Σύμφωνα με το <strong>Skin</strong><strong> </strong><strong>Cancer</strong><strong> </strong><strong>Foundation</strong>, η χρήση αντηλιακού είναι ακόμα πιο σημαντική κατά τους καλοκαιρινούς μήνες, όπου ο ήλιος είναι ακόμα πιο δυνατός και που περνάμε πολλές ώρες εκτός σπιτιού. Επίσης, επισημαίνει ότι <strong>είναι πολύ σημαντικό όταν επιλέγουμε ένα αντηλιακό να κοιτάμε πάντοτε την ετικέτα.</strong></p><p style="text-align: justify;">Παρακάτω θα δείτε τον οδηγό που προτείνει, ώστε να κάνετε τη σωστή επιλογή αντηλιακού, τόσο για εσάς όσο και για τα μέλη της οικογένειάς σας.</p><p style="text-align: justify;"><strong>Συμβουλές για τη σωστή επιλογή αντηλιακού από το </strong><strong>Skin</strong><strong> </strong><strong>Cancer</strong><strong> </strong><strong>Foundation</strong><strong>: </strong></p><ul>    <li style="text-align: justify;">Αντηλιακό ευρέως φάσματος (broad spectrum)</li></ul><p style="text-align: justify;">Τα αντηλιακά ευρέως φάσματος σας <strong>παρέχουν κάλυψη από τις ακτίνες </strong><strong>UVA</strong><strong> και </strong><strong>UVB</strong>. Η κάλυψη και από τις δύο ακτίνες είναι σημαντική καθώς οι ακτίνες UVA ευθύνονται για τη γήρανση του δέρματος και την εμφάνιση καρκίνου του δέρματος και οι UVB για τα εγκαύματα και τον καρκίνο του δέρματος. Όλα τα αντηλιακά παρέχουν κάλυψη από τις ακτίνες UVB. Όμως, εάν δεν είναι ευρέως φάσματος, τότε θα πρέπει να γνωρίζετε ότι σας παρέχουν κάλυψη μόνο στην περίπτωση εγκαύματος.</p><ul>    <li style="text-align: justify;">Δείκτης SPF </li></ul><p style="text-align: justify;">O δείκτης SPF υποδεικνύει <strong>το μέγεθος της κάλυψης που σας παρέχει ένα αντηλιακό</strong> από τις ακτίνες UVB. Όσο υψηλότερο το SPF τόσο υψηλότερη και η προστασία, γι’ αυτό θα πρέπει να φροντίσετε τα αντηλιακά που επιλέγετε να έχουν δείκτη από 30 και πάνω. </p><p style="text-align: justify;">Κανένα αντηλιακό δεν σας προσφέρει πλήρη κάλυψη. Ο δείκτης SPF 30 σας καλύπτει κατά 97%, ο SPF 50 κατά 98% και ο SPF 100 κατά 99%. Τα αντηλιακά με δείκτη SPF 15 σας καλύπτουν κατά 93% και έτσι σας προστατεύουν μόνο από εγκαύματα. </p><ul>    <li style="text-align: justify;">Ανθεκτικό στο νερό vs αδιάβροχο</li></ul><p style="text-align: justify;"><strong>Κανένα αντηλιακό δεν είναι αδιάβροχο ή ανθεκτικό στο νερό και τον ιδρώτα.</strong> Γι’ αυτό συνίσταται η συχνή εφαρμογή του (<strong>κάθε δύο ώρες</strong>). Επίσης, όταν ένα αντηλιακό αναφέρει ότι είναι ανθεκτικό στο νερό συνήθως αναφέρει και το διάστημα για το οποίο συμβαίνει αυτό. </p><p style="text-align: justify;">Ελπίζουμε τα παραπάνω να σας βοήθησαν να κατανοήσετε τα χαρακτηριστικά των αντηλιακών και τις μεταξύ τους διαφορές προκειμένου να επιλέξετε το κατάλληλο αντηλιακό για εσάς και τους αγαπημένους σας και σας ευχόμαστε Καλό Καλοκαίρι!</p><p style="text-align: justify;"><strong><span style="text-decoration: underline;">Πηγές: </span></strong></p><p style="text-align: justify;"><a href="https://www.euromelanoma-greece.gr/">https://www.euromelanoma-greece.gr/</a> </p><p style="text-align: justify;"><a href="http://www.tovima.gr/science/article/?aid=973977">http://www.tovima.gr/science/article/?aid=973977</a> </p><p style="text-align: justify;"><a href="https://www.skincancer.org/prevention/sun-protection/sunscreen/choosing">https://www.skincancer.org/prevention/sun-protection/sunscreen/choosing</a></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">Οι θερμοκρασίες ανεβαίνουν. Ακόμα κι αν δεν πρόκειται σύντομα να βρεθείτε σε κάποια παραλία, αυτό δεν σημαίνει ότι δεν πρέπει να φοράτε αντηλιακό, τόσο στο πρόσωπο όσο και στο σώμα. Κάντε μια διαλογή των αντηλιακών που έχετε στο ντουλάπι, πετάξτε τα παλιά και μάθετε ποιο αντηλιακό πρέπει να πάρετε.</p><div style="text-align: justify;"></div>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{40DC5A9D-80DA-4946-A5E3-B1968428101B}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Ποιο αντιηλιακό να πάρω;
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180601T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{5333A4BC-00DF-469D-B222-D1D4460C2C8E}"

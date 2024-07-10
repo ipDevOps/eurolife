@@ -1,0 +1,61 @@
+﻿---
+ID: "17930365-41f1-4ac3-b142-d91eaf364000"
+Parent: "52faeae8-a7a0-44be-ba58-88d10642cd2f"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/_Local/Pillars/Life Quality"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: <p>&Upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha; &sigma;ή&mu;&epsilon;&rho;&alpha;, &mu;&epsilon; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;ί&epsilon;&sigmaf; &kappa;&alpha;&iota; &pi;&rho;ά&xi;&epsilon;&iota;&sigmaf; &pi;&omicron;&upsilon; &alpha;&nu;&alpha;&delta;&epsilon;&iota;&kappa;&nu;ύ&omicron;&upsilon;&nu; &tau;&eta;&nu; &alpha;&upsilon;&tau;&omicron;&pi;&epsilon;&pi;&omicron;ί&theta;&eta;&sigma;&eta; &kappa;ά&theta;&epsilon; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon; &kappa;&alpha;&iota; &tau;&omicron;&nu; &epsilon;&nu;&delta;&upsilon;&nu;&alpha;&mu;ώ&nu;&omicron;&upsilon;&nu; &nu;&alpha; &pi;&rho;&omicron;&sigma;&pi;&alpha;&theta;&epsilon;ί &gamma;&iota;&alpha; ό,&tau;&iota; &epsilon;ί&nu;&alpha;&iota; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό &gamma;&iota;&alpha; &tau;&omicron;&nu; ί&delta;&iota;&omicron;.</p>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ποιότητα Ζωής
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T111238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{98D0C2F9-5683-4D5E-BF97-40EE0BB990ED}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" title="" class="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{189EFEB7-AD8A-4757-9B6D-C390E11B7C81}"></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ποιότητα Ζωής
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T105034Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{98D0C2F9-5683-4D5E-BF97-40EE0BB990ED}" querystring="" linktype="internal" text="Περισσότερα" anchor="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

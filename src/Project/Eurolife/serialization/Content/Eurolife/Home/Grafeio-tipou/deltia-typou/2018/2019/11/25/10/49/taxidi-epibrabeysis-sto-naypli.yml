@@ -1,0 +1,55 @@
+﻿---
+ID: "48f2fe6e-51fb-4229-ba46-a32cf095e48b"
+Parent: "0f357e12-0ece-415e-9562-2e27f0ce7354"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/10/49/taxidi-epibrabeysis-sto-nayplio-gia-to-diktyo-ton-synergaton-tis"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{518367E0-EE33-43C1-973F-C663A3A6AFA1}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T104925Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ταξίδι επιβράβευσης στο Ναύπλιο για το δίκτυο των συνεργατών της
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        &Mu;&epsilon; έ&nu;&alpha; &tau;&alpha;&xi;ί&delta;&iota; &sigma;&tau;&omicron; &mu;&alpha;&gamma;&epsilon;&upsilon;&tau;&iota;&kappa;ό &Nu;&alpha;ύ&pi;&lambda;&iota;&omicron; &epsilon;&pi;&iota;&beta;&rho;ά&beta;&epsilon;&upsilon;&sigma;&epsilon; &eta; <strong>Eurolife ERB</strong> &tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf;, &pi;&omicron;&upsilon; &delta;&iota;&alpha;&kappa;&rho;ί&theta;&eta;&kappa;&alpha;&nu; &gamma;&iota;&alpha; &tau;&iota;&sigmaf; &epsilon;&pi;&iota;&delta;ό&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &sigma;&epsilon; έ&nu;&alpha; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ό &Delta;&iota;&alpha;&gamma;&omega;&nu;&iota;&sigma;&mu;ό &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu;, &alpha;&upsilon;&tau;ό &tau;&omega;&nu; &Kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omega;&nu; &Alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha;&sigmaf; &Zeta;&omega;ή&sigmaf;, &omega;&sigmaf; &alpha;&nu;&alpha;&gamma;&nu;ώ&rho;&iota;&sigma;&eta; &tau;&eta;&sigmaf; &pi;&omicron;&lambda;ύ&tau;&iota;&mu;&eta;&sigmaf; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;ή&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &sigma;&tau;&eta; &sigma;&upsilon;&nu;&epsilon;&chi;ή &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &kappa;&alpha;&iota; &epsilon;&xi;έ&lambda;&iota;&xi;&eta; &tau;&omega;&nu; &epsilon;&rho;&gamma;&alpha;&sigma;&iota;ώ&nu; &tau;&eta;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&sigmaf; &kappa;&alpha;&iota; &gamma;&iota;&alpha; &tau;&eta; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&nu;ά&gamma;&kappa;&eta;. <br />
+        <br />
+        &Omicron;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &tau;&eta;&sigmaf; Eurolife ERB &alpha;&pi;ό&lambda;&alpha;&upsilon;&sigma;&alpha;&nu;, &sigma;&epsilon; &chi;&alpha;&lambda;&alpha;&rho;ό &kappa;&lambda;ί&mu;&alpha;, έ&nu;&alpha; &sigma;&upsilon;&nu;&alpha;&rho;&pi;&alpha;&sigma;&tau;&iota;&kappa;ό &tau;&rho;&iota;ή&mu;&epsilon;&rho;&omicron; &sigma;&tau;&eta;&nu; &iota;&sigma;&tau;&omicron;&rho;&iota;&kappa;ή &alpha;&upsilon;&tau;ή &pi;ό&lambda;&eta;, &gamma;&nu;ώ&rho;&iota;&sigma;&alpha;&nu; &tau;&alpha; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ά &alpha;&xi;&iota;&omicron;&theta;έ&alpha;&tau;ά &tau;&eta;&sigmaf;, &epsilon;&pi;&iota;&sigma;&kappa;έ&phi;&theta;&eta;&kappa;&alpha;&nu; &gamma;&nu;&omega;&sigma;&tau;ό &omicron;&iota;&nu;&omicron;&pi;&omicron;&iota;&epsilon;ί&omicron; &tau;&eta;&sigmaf; &pi;&epsilon;&rho;&iota;&omicron;&chi;ή&sigmaf;, &epsilon;&nu;ώ &pi;&epsilon;&rho;&iota;&eta;&gamma;ή&theta;&eta;&kappa;&alpha;&nu; &kappa;&alpha;&iota; &sigma;&tau;&alpha; &gamma;&rho;&alpha;&phi;&iota;&kappa;ά &sigma;&omicron;&kappa;ά&kappa;&iota;&alpha; &tau;&omicron;&upsilon; &Nu;&alpha;&upsilon;&pi;&lambda;ί&omicron;&upsilon; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;έ&chi;&omicron;&nu;&tau;&alpha;&sigmaf; &sigma;&epsilon; έ&nu;&alpha; &epsilon;&iota;&delta;&iota;&kappa;ά &sigma;&chi;&epsilon;&delta;&iota;&alpha;&sigma;&mu;έ&nu;&omicron; &kappa;&upsilon;&nu;ή&gamma;&iota; &theta;&eta;&sigma;&alpha;&upsilon;&rho;&omicron;ύ &sigma;&tau;&eta;&nu; &kappa;&alpha;&rho;&delta;&iota;ά &tau;&eta;&sigmaf; &pi;&alpha;&lambda;&iota;ά&sigmaf; &pi;ό&lambda;&eta;&sigmaf;. <br />
+        <br />
+        &Omicron; &kappa;. <strong>&Nu;ί&kappa;&omicron;&sigmaf; &Delta;&epsilon;&lambda;έ&nu;&delta;&alpha;&sigmaf;</strong>, &Gamma;&epsilon;&nu;&iota;&kappa;ό&sigmaf; &Delta;&iota;&epsilon;&upsilon;&theta;&upsilon;&nu;&tau;ή&sigmaf; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &amp; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta;&sigmaf;, &alpha;&nu;έ&phi;&epsilon;&rho;&epsilon; &sigma;&chi;&epsilon;&tau;&iota;&kappa;ά: <em>&laquo;&Epsilon;ί&nu;&alpha;&iota; &pi;ά&nu;&tau;&alpha; &chi;&alpha;&rho;ά &mu;&alpha;&sigmaf; &nu;&alpha; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;&omicron;ύ&mu;&epsilon; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &mu;&alpha;&sigmaf; &phi;έ&rho;&nu;&omicron;&upsilon;&nu; &alpha;&kappa;ό&mu;&alpha; &pi;&iota;&omicron; &kappa;&omicron;&nu;&tau;ά &sigma;&tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &mu;&alpha;&sigmaf;, &gamma;&iota;&omicron;&rho;&tau;ά&zeta;&omicron;&nu;&tau;&alpha;&sigmaf; &mu;ά&lambda;&iota;&sigma;&tau;&alpha; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&pi;&iota;&tau;&upsilon;&chi;ί&epsilon;&sigmaf;. &Sigma;&epsilon; έ&nu;&alpha; &pi;&epsilon;&rho;&iota;&beta;ά&lambda;&lambda;&omicron;&nu; &gamma;&epsilon;&mu;ά&tau;&omicron; &pi;&rho;&omicron;&kappa;&lambda;ή&sigma;&epsilon;&iota;&sigmaf;, &eta; Eurolife ERB έ&chi;&epsilon;&iota; &kappa;&alpha;&tau;&alpha;&phi;έ&rho;&epsilon;&iota; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf;, &kappa;&alpha;&lambda;ύ&pi;&tau;&omicron;&nu;&tau;&alpha;&sigmaf; &kappa;ά&theta;&epsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&nu;ά&gamma;&kappa;&eta;. &Epsilon;&iota;&delta;&iota;&kappa;ά &sigma;&tau;&alpha; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;&alpha;&tau;&alpha; &tau;&eta;&sigmaf; &Alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &Zeta;&omega;ή&sigmaf;, &tau;&omicron; My FamilyFirst &alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&epsilon; &gamma;&iota;&alpha; &mu;&iota;&alpha; &alpha;&kappa;ό&mu;&alpha; &chi;&rho;&omicron;&nu;&iota;ά έ&nu;&alpha; &alpha;&pi;ό &tau;&alpha; &pi;&iota;&omicron; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά &kappa;&alpha;&iota; &alpha;&nu;&tau;&alpha;&gamma;&omega;&nu;&iota;&sigma;&tau;&iota;&kappa;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &mu;&alpha;&sigmaf;, &delta;ί&nu;&omicron;&nu;&tau;&alpha;&sigmaf; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &sigma;&tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &mu;&alpha;&sigmaf; &nu;&alpha; &pi;&epsilon;&tau;ύ&chi;&omicron;&upsilon;&nu; &epsilon;&xi;&alpha;&iota;&rho;&epsilon;&tau;&iota;&kappa;ά &alpha;&pi;&omicron;&tau;&epsilon;&lambda;έ&sigma;&mu;&alpha;&tau;&alpha;, &epsilon;&nu;ώ &pi;&alpha;&rho;ά&lambda;&lambda;&eta;&lambda;&alpha; &kappa;ά&lambda;&upsilon;&psi;&alpha;&nu; &mu;&epsilon; &tau;&omicron;&nu; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron; &tau;&rho;ό&pi;&omicron; &mu;&iota;&alpha; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&alpha; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ή &alpha;&nu;ά&gamma;&kappa;&eta; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &tau;&omicron;&upsilon;&sigmaf;. &Sigma;&upsilon;&nu;&epsilon;&chi;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ά, &epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&nu;&tau;&alpha;&sigmaf; &mu;&epsilon; &sigma;&upsilon;&nu;έ&pi;&epsilon;&iota;&alpha; &sigma;&epsilon; έ&nu;&alpha; &alpha;&pi;ό &tau;&alpha; &pi;&omicron;&lambda;&upsilon;&tau;&iota;&mu;ό&tau;&epsilon;&rho;&alpha; &pi;&epsilon;&rho;&omicron;&upsilon;&sigma;&iota;&alpha;&kappa;ά &sigma;&tau;&omicron;&iota;&chi;&epsilon;ί&alpha; &mu;&alpha;&sigmaf;, &tau;&omicron;&upsilon;&sigmaf; ί&delta;&iota;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &mu;&alpha;&sigmaf;&raquo;</em>.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{518367E0-EE33-43C1-973F-C663A3A6AFA1}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Ταξίδι επιβράβευσης στο Ναύπλιο για το δίκτυο των συνεργατών της
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20181126T104900Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ταξίδι επιβράβευσης στο Ναύπλιο για το δίκτυο των συνεργατών της

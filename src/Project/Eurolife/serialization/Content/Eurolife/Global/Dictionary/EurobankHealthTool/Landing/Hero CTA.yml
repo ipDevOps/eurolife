@@ -1,0 +1,21 @@
+﻿---
+ID: "df42ba6b-900d-4650-9538-def0df7649bb"
+Parent: "6134b379-3540-478a-970f-05da88985940"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/EurobankHealthTool/Landing/Hero CTA
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201105T110144Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: ΔΕΣ ΠΕΡΙΣΣΟΤΕΡΑ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

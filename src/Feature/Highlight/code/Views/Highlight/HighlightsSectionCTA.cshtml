@@ -1,0 +1,32 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HighlightsGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightsGroup.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+}
+
+
+<section id="higlights-section-cta" class="m-t-64 m-b-112 center center--1100 triplette">
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    foreach (var item in Model.Item.GetMultiListValueItems(Templates.HighlightsGroup.Fields.Highlights))
+    {
+      <a class="triplette-item triplette-item--linked radius-t" href="@item.LinkFieldUrl(Templates.HasHighlightCTA.Fields.CTA)">
+        <h3 class="h6 m-b-8 triplette-item--linked__title">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title, item)</h3>
+        <p>
+          @Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary, item)
+        </p>
+      </a>
+    }
+  }
+</section>
+

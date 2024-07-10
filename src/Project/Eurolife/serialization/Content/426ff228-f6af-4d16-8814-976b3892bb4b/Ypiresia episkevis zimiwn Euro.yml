@@ -1,0 +1,18 @@
+﻿---
+ID: "3540b096-c4a8-461d-9fb1-ad0c87e86414"
+Parent: "426ff228-f6af-4d16-8814-976b3892bb4b"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/ktirio/Programs Attributes/Ypiresia episkevis zimiwn Eurolife ERB Repair/Ypiresia episkevis zimiwn Eurolife ERB Repair no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073955Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

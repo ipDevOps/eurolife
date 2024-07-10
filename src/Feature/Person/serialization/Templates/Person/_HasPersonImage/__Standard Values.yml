@@ -1,0 +1,22 @@
+﻿---
+ID: "dcbfd451-96fc-4470-989b-bba08e96616a"
+Parent: "ccbe09a4-4e2b-43f2-be19-5ec382143924"
+Template: "ccbe09a4-4e2b-43f2-be19-5ec382143924"
+Path: /sitecore/templates/Feature/Person/_HasPersonImage/__Standard Values
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T094052Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a212c93a-7c83-4fed-bc5a-5b035baeff50"
+      Hint: PersonImage
+      Value: |
+        <image mediapath="" alt="248-512" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{A6075585-F449-475E-8804-8F092F59F22D}" />

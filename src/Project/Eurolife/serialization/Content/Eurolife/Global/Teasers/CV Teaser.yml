@@ -1,0 +1,36 @@
+﻿---
+ID: "68466347-4f65-4085-8166-dabf74910f66"
+Parent: "2bb88d51-eae0-4aa1-ac42-d14ab7f3d866"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Global/Teasers/CV Teaser
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Στην Eurolife ERB Ασφαλιστική πάντα αναζητάμε τα επόμενα ταλέντα που θα στελεχώσουν την ομάδα μας.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Αποστολή βιογραφικού
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190724T075557Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link linktype="external" text="ΣΤΕΙΛΕ ΒΙΟΓΡΑΦΙΚΟ" url="https://github.com" anchor="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="service-demo" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{8D2FB8A9-A455-424E-A208-06B460AAD0B5}"></image>

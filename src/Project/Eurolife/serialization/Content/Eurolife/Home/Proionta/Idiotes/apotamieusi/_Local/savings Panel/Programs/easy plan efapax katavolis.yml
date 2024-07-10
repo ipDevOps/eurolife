@@ -1,0 +1,39 @@
+﻿---
+ID: "752a34bc-8b6d-4c0d-bb7f-ba131a2f6984"
+Parent: "b193f7ba-c80e-46c1-a697-7efb214b0578"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs/easy plan efapax katavolis
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T121140Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Easy Plan Εφάπαξ Καταβολής
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {ADE0EA38-C4FC-4214-A060-72F3E4BF98B1}
+        {1B822858-418E-4C28-B347-74DB488F8EA3}
+        {6454DC56-96A1-416D-BD76-01D0F067D87D}
+        {B6E62D7E-E7F1-42A8-8CEA-AC4470A05343}
+        {4FD84B02-7F80-4BA8-86C3-E49934202CDC}
+        {30D4F84C-59C1-47E3-9EC1-97A140751A1B}
+        {0FC21A99-6B5C-4EA6-8BEE-F4CDBBAC661A}
+        {239095FB-86DA-4B0E-91BA-DA0E660F2572}
+        {DDFBED55-E881-4D72-9AB9-3C8E855DC65F}
+        {74CC75E9-2A0A-40D5-87F2-35613B118003}
+        {C71C95D4-BC7F-447A-AC58-014DBE51D47B}
+        {8305B3D4-7D2D-4DAA-9FB8-EAB5FDE0E5EA}
+        {9A086C86-0FCC-40A4-AF67-07926BF5E1A0}
+        {08D4E7EF-0479-4974-9CE6-E6AE65A55502}

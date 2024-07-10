@@ -1,0 +1,18 @@
+﻿---
+ID: "2e94190a-a2e6-4afa-8f5a-b201e5f80b92"
+Parent: "68aa0581-492a-442e-8e7b-cc52209103c5"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Eurolife/Global/PDFs/publicity/publicity 2019/2019/10/10/15/07
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T150756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

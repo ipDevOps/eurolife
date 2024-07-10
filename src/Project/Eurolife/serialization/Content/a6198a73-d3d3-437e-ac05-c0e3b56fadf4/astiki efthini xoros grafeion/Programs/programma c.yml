@@ -1,0 +1,54 @@
+﻿---
+ID: "747e4798-6cfa-473f-b1ea-9559e083a7fd"
+Parent: "b3954e61-4227-450b-a395-8d8a02974963"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/stolos/_Local/panel mikres epixeiriseis astiki euthini/astiki efthini xoros grafeion/Programs/programma c"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T085608Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Πρόγραμμα Γ
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {214D612B-9385-4FAD-8E48-5A232C26DD23}
+        {296A9B64-28B7-4E87-8F1E-21B69A6692D7}
+        {046B2A37-3978-4CEA-9C45-7D0ED64767C1}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T085215Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Hospital
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {1712590B-7B4E-481C-A888-D99A89E97415}
+        {3213CAB9-0C9A-40FC-93C1-45A7084948D8}
+        {9A1264F3-C05B-443A-8537-DE65FFBBB27B}
+        {9A0EF1DE-70F2-45A9-ACF8-3C62A9EC915C}

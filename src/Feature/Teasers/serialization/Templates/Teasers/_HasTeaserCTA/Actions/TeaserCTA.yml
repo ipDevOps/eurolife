@@ -1,0 +1,18 @@
+﻿---
+ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+Parent: "fc015e14-4f90-470b-944a-889ecb07b9d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Teasers/_HasTeaserCTA/Actions/TeaserCTA
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190509T093009Z

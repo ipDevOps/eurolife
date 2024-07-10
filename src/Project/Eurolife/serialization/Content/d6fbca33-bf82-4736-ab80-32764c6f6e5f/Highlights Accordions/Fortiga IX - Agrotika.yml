@@ -1,0 +1,45 @@
+﻿---
+ID: "7a5edfde-036d-4bb0-b668-d60de68a4481"
+Parent: "5cf4cccc-576a-4ee5-b272-22f1b0749c76"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/metafores/_Local/Highlights metafores/Highlights Accordions/Fortiga IX - Agrotika"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {750A9B20-EDE6-427F-8D8A-B9709DF5913C}
+        {947111E4-64B3-4D46-821D-A3461BFF41BE}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T131316Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Προαιρετικές επιπλέον καλύψεις
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {1BF6AE19-2087-4948-A929-5C08087D4BE8}
+        {AA091B09-CBA0-4E31-920D-66321C7C1486}
+        {143AA0B6-B85B-469A-9A5E-72547C0623E8}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T110814Z

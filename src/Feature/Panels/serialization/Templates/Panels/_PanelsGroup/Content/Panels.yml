@@ -1,0 +1,21 @@
+﻿---
+ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+Parent: "b9f71cc4-8686-4e40-8fc0-d3f505ab7324"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Panels/_PanelsGroup/Content/Panels
+DB: master
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:..//*[@@templateid='{F1E8AA8C-0ACB-4186-B3FB-448897CA0831}']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T090749Z

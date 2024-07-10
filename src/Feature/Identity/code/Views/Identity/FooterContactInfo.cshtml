@@ -1,0 +1,42 @@
+﻿@using Wedia.Feature.Identity
+@using Wedia.Feature.Identity.Repositories
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+  var identity = IdentityRepository.Get(Model.Item);
+  if (identity == null)
+  {
+    return;
+  }
+}
+
+<ul class="footer__list">
+  <li>
+    <span class="footer__list__head">
+      @Html.Sitecore().Dictionary("/Identity/Footer Contact Information/Title", "Contact")
+    </span>
+  </li>
+  <li>
+    <div class="footer__label">
+      @Html.Sitecore().Dictionary("/Identity/Footer Contact Information/Phone", "Phone")
+    </div>
+    <a href="tel: @Html.Sitecore().Field(Templates.Identity.Fields.OrganizationPhone, identity, new { DisableWebEdit = true})" 
+       class="footer__prompt">
+      @Html.Sitecore().Field(Templates.Identity.Fields.OrganizationPhone, identity)
+    </a>
+  </li>
+  <li>
+    <div class="footer__label">
+      @Html.Sitecore().Dictionary("/Identity/Footer Contact Information/Email", "Email")
+    </div>
+    <a href="mailto: @Html.Sitecore().Field(Templates.Identity.Fields.OrganizationEmail, identity, new { DisableWebEdit = true})"
+       class="footer__prompt">
+      @Html.Sitecore().Field(Templates.Identity.Fields.OrganizationEmail, identity)
+    </a>
+  </li>
+</ul>
+
+<div id="back-to-top"></div>

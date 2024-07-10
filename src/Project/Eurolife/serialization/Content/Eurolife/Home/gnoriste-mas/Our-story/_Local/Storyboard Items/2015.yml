@@ -1,0 +1,48 @@
+﻿---
+ID: "9aa38332-5b7c-4fb3-9902-2cfe8abed39a"
+Parent: "a2bb8e7b-3841-49b7-b028-29a09d6ddcd9"
+Template: "537eda0b-cad9-414a-a01f-33356d9305ab"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local/Storyboard Items/2015"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143233Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2015
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: &Mu;&epsilon;&tau;&alpha;&kappa;&iota;&nu;&eta;&theta;ή&kappa;&alpha;&mu;&epsilon; &sigma;&epsilon; &nu;έ&alpha; &iota;&delta;&iota;ό&kappa;&tau;&eta;&tau;&alpha; &kappa;&tau;ί&rho;&iota;&alpha; &sigma;&tau;&omicron; &kappa;έ&nu;&tau;&rho;&omicron; &tau;&eta;&sigmaf; &Alpha;&theta;ή&nu;&alpha;&sigmaf;, &sigma;&epsilon; έ&nu;&alpha; &kappa;&tau;&iota;&rho;&iota;&alpha;&kappa;ό &sigma;&upsilon;&gamma;&kappa;&rho;ό&tau;&eta;&mu;&alpha; &pi;&omicron;&upsilon; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &sigma;ύ&mu;&beta;&omicron;&lambda;&omicron; &gamma;&iota;&alpha; &tau;&eta;&nu; &pi;ό&lambda;&eta; &mu;&alpha;&sigmaf;
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19e2ddeb-92cb-4aeb-876c-040437f0f4bf"
+      Hint: StoryboardItemBgClass
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110951Z
+    - ID: "ca468a9d-b4bc-4c66-b9b2-a3b7db1793a5"
+      Hint: StoryboardItemImage
+      Value: 
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2015
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: |
+        <span id="docs-internal-guid-60c82292-7fff-3385-35b6-999cbb075e80" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-ac1a8e0d-7fff-23f4-c1c5-10478773512a" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-2d789a57-7fff-9d03-1fc3-8a15f613712d" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-cc4978aa-7fff-dbc7-6646-f3806ac1f745" style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&epsilon;&tau;&alpha;&kappa;&iota;&nu;&eta;&theta;ή&kappa;&alpha;&mu;&epsilon; &sigma;&epsilon; &nu;έ&alpha; &iota;&delta;&iota;ό&kappa;&tau;&eta;&tau;&alpha; &kappa;&tau;ί&rho;&iota;&alpha; &sigma;&tau;&omicron; &kappa;έ&nu;&tau;&rho;&omicron; &tau;&eta;&sigmaf; &Alpha;&theta;ή&nu;&alpha;&sigmaf;, &sigma;&epsilon; έ&nu;&alpha; &kappa;&tau;&iota;&rho;&iota;&alpha;&kappa;ό &sigma;&upsilon;&gamma;&kappa;&rho;ό&tau;&eta;&mu;&alpha; &pi;&omicron;&upsilon; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &sigma;ύ&mu;&beta;&omicron;&lambda;&omicron; &gamma;&iota;&alpha; &tau;&eta;&nu; &pi;ό&lambda;&eta; &mu;&alpha;&sigmaf;.</span></span></span></span>

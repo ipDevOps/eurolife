@@ -1,0 +1,14 @@
+﻿---
+ID: "67b6b3d0-a7c0-4c9a-ae14-28d8a83d33b3"
+Parent: "cdc6f16c-9c6b-4b6b-8a03-87f369744172"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/astiki-efthini/_Local"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104442Z

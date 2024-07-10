@@ -1,0 +1,34 @@
+﻿---
+ID: "33726179-f2ee-4c3f-a24a-d5a3be6852e7"
+Parent: "325fddca-e189-4058-9410-12ff38d0e36f"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Attributes Categories/vasikes kalipseis
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {59B1BC84-2FBC-4F9B-ACCA-1D38F584176D}
+        {3A27DE4D-7115-4578-A0DE-199C04647C5F}
+        {046E643E-4AEB-4AC3-98DF-7CE0C9FEDF6A}
+        {017E9A4C-727B-41A6-BA06-2B2F61F03C34}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T142420Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

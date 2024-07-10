@@ -1,0 +1,18 @@
+﻿---
+ID: "6fb8566b-a5a1-4b3d-8f30-d36c9206a453"
+Parent: "6c1280c7-b2d9-4a46-84c1-ff6f310df42d"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Blog/Articles Intro
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/Blog/ArticlesIntro.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200128T120426Z

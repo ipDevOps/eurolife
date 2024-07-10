@@ -1,0 +1,14 @@
+﻿---
+ID: "87931f9a-f51b-4e9a-b4e0-6bcf4cab22cb"
+Parent: "3ce8f3c3-6ea6-4924-8e6c-c3dfa50a95f1"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Search/Paged Search Results
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190823T122719Z

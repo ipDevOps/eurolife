@@ -1,0 +1,14 @@
+﻿---
+ID: "3d97dc73-32cf-4524-81ec-957a231a9bb4"
+Parent: "bc2e9e3c-e8bc-4ebd-a5b9-f5ce7b36685d"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/EurolifeCalculatorTool
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201216T102417Z

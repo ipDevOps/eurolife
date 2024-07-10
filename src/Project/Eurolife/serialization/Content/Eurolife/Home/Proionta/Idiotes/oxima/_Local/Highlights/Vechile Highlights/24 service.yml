@@ -1,0 +1,48 @@
+﻿---
+ID: "e9aa1cca-f1f7-45f1-b200-6f78f1ef6cb2"
+Parent: "0d4498ff-f402-4f59-a130-9beaf031427d"
+Template: "52f74fb9-cfb4-4fdd-8388-6a693d21a2d7"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/_Local/Highlights/Vechile Highlights/24 service
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T131324Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: |
+        <image mediaid="{CC1E6EDC-CD02-4668-B2F5-76744DE18F97}" />
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Φροντίδα Ατυχήματος
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: Άμεση εξυπηρέτηση 24 ώρες το 24ωρο, 365 μέρες το χρόνο.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T105509Z
+    - ID: "3dff77f8-1841-43f4-980a-8c7ce45836bc"
+      Hint: HighlightContentIcon
+      Value: "{A12161E6-0CEA-4E32-B7DC-6D7845D79AA9}"
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: 24ωρη εξηπηρέτηση
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

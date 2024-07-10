@@ -1,0 +1,57 @@
+﻿---
+ID: "d523337f-e207-407f-8495-301c55090579"
+Parent: "76a74131-0cb4-4c09-9bf1-8fa70e132dc6"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio kai periexomeno/Programs/Business Care extra"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Business Care  Έξτρα
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {269CAD3B-FCAE-4CB0-9F03-5A7408D85DE2}
+        {B5B05557-3B13-41A9-A098-58B1938BC637}
+        {65B02B31-1908-4B22-8B0C-E52B4C4CEE98}
+        {90949ECF-515B-4D44-89D4-482C8B359C59}
+        {D00BAE7B-EDD9-4AF9-A1D5-B5C1608486C1}
+        {2475ADCF-7A32-4865-8D7E-4FE77977C929}
+        {FA363A7E-8DC7-4467-8043-D36A18958937}
+        {5B2530D9-F876-4253-8A3C-88065690C273}
+        {E383C0AF-6D0B-4177-9653-C4E9E33E5956}
+        {CBFF40B4-F6ED-415F-88C9-29B381CCEFA0}
+        {0019D71A-562F-41A6-87A0-C2E80615EC50}
+        {2C1E43E4-0FD4-4B21-BF74-099BB0D428AB}
+        {7A269761-F75E-4A53-A0DF-8FF40366F168}
+        {006ECC53-046D-4233-A427-699E48D4DDAD}
+        {415C0B88-E489-4D82-8174-40EFDEFA7118}
+        {19AB5850-E9F9-471B-81F9-3F55B6DB8603}
+        {0FE99AC5-BE11-41FF-863D-6A20B4B6D4E5}
+        {353C9AB4-3A1E-4550-9CC6-C7A0293E48E5}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T082857Z
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Safe Drive Standard
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: 

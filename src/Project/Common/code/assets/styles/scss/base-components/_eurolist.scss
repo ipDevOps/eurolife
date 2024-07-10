@@ -1,0 +1,265 @@
+﻿/* ==================================================
+   Eurolist: Eurobank blog list
+   ================================================== */
+
+.eurolist {
+  display: flex;
+  justify-content: space-between;
+
+  img {
+    border-radius: 7px 7px 0 0;
+  }
+
+  article {
+    position: relative;
+    flex-basis: 23%;
+    transition: box-shadow 300ms ease, border-color 200ms ease;
+    box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0);
+    border-radius: 8px;
+    border: solid 1px #d7d7d7;
+
+    &:hover {
+      box-shadow: 0 15px 35px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    @include breakpoint-rev(1140) {
+      min-width: 245px;
+      margin-right: 32px;
+    }
+  }
+
+  @include breakpoint-rev(1140) {
+    overflow-x: auto;
+  }
+
+  time {
+    margin-bottom: 4px;
+  }
+}
+
+.eurolist__cat {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  z-index: 2;
+  padding: 4px 8px;
+  line-height: 1;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 13px;
+
+  @include breakpoint(1140) {
+    font-size: 14px;
+  }
+
+  border-radius: 3px;
+  background-color: #ffffff;
+  color: #727971;
+
+  &:hover {
+    color: #ef3340;
+  }
+}
+
+.eurolist__article__group {
+  padding: 23px 16px;
+  border-top: 8px solid #ef3340;
+}
+
+.eurolist__article__title {
+  a {
+    color: #383b38;
+
+    &:after {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      content: '';
+    }
+  }
+}
+
+
+
+/*footer*/
+.footer__info.footer__info--plain {
+  padding-top: 0;
+  padding-bottom: 45px;
+  align-items: center;
+  border: 0;
+
+  .footer__social {
+    order: 3;
+    width: auto;
+  }
+
+  @include breakpoint-rev(540) {
+    position: relative;
+
+    .footer__legal {
+      text-align: left;
+      margin-left: 135px;
+
+      li {
+        margin: 3px 0;
+      }
+    }
+
+    .footer__social {
+      float: left;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+  }
+}
+
+
+
+
+/*header*/
+
+.header-mobile.header-mobile--simple {
+  @include breakpoint-rev(920) {
+    padding: 12px 16px;
+  }
+
+  .menu-switch {
+    align-self: center;
+    margin-left: 40px;
+  }
+}
+
+.nav-simple {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 24px;
+
+  @include breakpoint-rev(920) {
+    height: 100%;
+    align-items: center;
+
+    .logo {
+      display: none;
+    }
+  }
+
+  .nav-main__list {
+    margin-top: 20px;
+
+    @include breakpoint-rev(920) {
+      margin-top: -40px;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      width: 100%;
+    }
+
+
+
+    > li {
+      font-weight: 400;
+      font-size: 16px;
+      margin-left: 8px;
+      margin-right: 8px;
+
+      @include breakpoint-rev(920) {
+        font-size: 22px;
+      }
+
+      @include breakpoint-rev(540) {
+        font-size: 20px;
+      }
+
+      @include breakpoint(1140) {
+        margin-left: 24px;
+        margin-right: 24px;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      &.active {
+        font-weight: 500;
+      }
+    }
+  }
+}
+
+
+.logo.logo--eurobank {
+  border-right: 1px solid #285090;
+  margin-right: 16px;
+  padding: 4px 16px 24px 0;
+
+  @include breakpoint(920) {
+    margin-right: 20px;
+    padding: 4px 20px 24px 0;
+  }
+
+  img {
+    width: 124px;
+
+    @include breakpoint(920) {
+      width: 134px;
+    }
+  }
+}
+
+.logo.logo--eurolife {
+  padding: 20px 0 0 0;
+  margin-right: auto;
+
+  img {
+    width: 115px;
+
+    @include breakpoint(920) {
+      width: 125px;
+    }
+  }
+}
+
+.hero-simple {
+  img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    height: 400px;
+
+    @include breakpoint(540) {
+      height: 516px;
+    }
+  }
+}
+
+
+.hero-simple__contents {
+  position: absolute;
+  top: 0;
+  border: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100%;
+  justify-content: center;
+  color: #fff;
+
+  p {
+    font-size: 18px;
+  }
+
+  &:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+}

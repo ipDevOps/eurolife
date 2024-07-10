@@ -1,0 +1,18 @@
+﻿---
+ID: "82e30119-0b35-4ff7-b5bb-562803dd1265"
+Parent: "2023b8ee-3341-4b6e-aa88-06c90b09d9cc"
+Template: "2023b8ee-3341-4b6e-aa88-06c90b09d9cc"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_HasBackground/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T084159Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

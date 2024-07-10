@@ -1,0 +1,32 @@
+﻿---
+ID: "a0c50348-eeaa-4b85-8b2b-a5c37b4b3b35"
+Parent: "ad884652-5702-425f-a316-48fbcfa23fed"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/diadikasia-apozimiosis-oximatos/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}
+    {F8FF2EBE-AB6A-41AB-A0C9-30656F056DFA}
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T142649Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T093416Z

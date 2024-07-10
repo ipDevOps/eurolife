@@ -1,0 +1,24 @@
+﻿---
+ID: "4166a7f9-7443-4572-88df-858ece278dae"
+Parent: "1c08b182-ad40-4129-9b29-1d876ec8d4cd"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/B/veltiosis-ktiriou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Βελτιώσεις Κτιρίου
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T210529Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Οι προσθήκες και βελτιώσεις του κτιρίου που έγιναν με δαπάνη του ενοικιαστή.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

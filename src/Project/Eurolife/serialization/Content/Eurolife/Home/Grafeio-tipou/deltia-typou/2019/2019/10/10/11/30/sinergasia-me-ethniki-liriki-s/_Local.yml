@@ -1,0 +1,26 @@
+﻿---
+ID: "a463a1df-310f-4732-8737-b672536c1c9f"
+Parent: "de570864-3035-434b-a879-22063161630b"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2019/2019/10/10/11/30/sinergasia-me-ethniki-liriki-skini/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{99A565EA-EDEA-4761-AAF1-77F4D4B2768C}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191018T093050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

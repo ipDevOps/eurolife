@@ -1,0 +1,42 @@
+﻿---
+ID: "b5f290bc-f817-486c-9e1e-b91b2d86da05"
+Parent: "d74a7b60-3a64-42dd-96ff-23d0a7a9c9ac"
+Template: "548c64c6-f5e0-495e-847e-9d6aa78962e6"
+Path: /sitecore/content/Eurolife/Home/CalculatorToolPage/Target Group List/For Me
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201221T082656Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "914dac4d-527a-4440-a014-55e7ac76499e"
+      Hint: Key
+      Value: me
+    - ID: "abbb94ba-d620-428b-8187-839c5df8d354"
+      Hint: Image
+      Value: |
+        <image mediaid="{B130C9D6-147E-4DA9-B319-6477FEE807E6}" />
+    - ID: "b3b537a3-31d9-447f-89c4-413fb43c287e"
+      Hint: Title
+      Value: Για εμένα
+    - ID: "fdcbda9b-d895-40c7-b9be-28b6f0881ebb"
+      Hint: Description
+      Value: "ME- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201221T082653Z

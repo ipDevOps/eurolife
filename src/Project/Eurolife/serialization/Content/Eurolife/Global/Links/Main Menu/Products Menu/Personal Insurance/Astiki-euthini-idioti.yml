@@ -1,0 +1,44 @@
+﻿---
+ID: "7a2e525d-658f-43d3-bcbc-2b14e6bac2de"
+Parent: "401f1e3c-91c6-4fd7-96b0-a0e3d4d34f21"
+Template: "d3d187f8-cef5-4dbb-b634-e56cbf866512"
+Path: "/sitecore/content/Eurolife/Global/Links/Main Menu/Products Menu/Personal Insurance/Astiki-euthini-idioti"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T084202Z
+    - ID: "48dd8f9d-3a6e-46de-b185-4b1b53bff3fd"
+      Hint: Icon
+      Value: |
+        <image mediaid="{E6E4B6C5-987F-4EE2-BE36-87EA94C0C8E9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6d1acb3f-339c-4760-8419-dc7d47272005"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{EBF9149A-C920-4B17-ADE1-BA621F77015B}" />
+    - ID: "b8c12c18-dcef-4edf-a030-50a4a55bedac"
+      Hint: DividerBefore
+      Type: Checkbox
+      Value: 1
+    - ID: "d7bd8d43-de42-4bde-8e7e-ddfce607a9c6"
+      Hint: Class
+      Value: petrol
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Αστική Ευθύνη

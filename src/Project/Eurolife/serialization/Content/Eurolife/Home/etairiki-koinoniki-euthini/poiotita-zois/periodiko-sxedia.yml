@@ -1,0 +1,116 @@
+﻿---
+ID: "f0ec7600-e9f6-40bd-ae1f-5f76ace5fef1"
+Parent: "98d0c2f9-5683-4d5e-bf97-40ee0bb990ed"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/periodiko-sxedia"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{96C58298-456C-4130-A0BF-C552B4F9E2EC}"
+              p:before="*"
+              s:ds="{D4273E59-5896-4FA7-8B0D-A2C0641BCB61}"
+              s:id="{62FFEA7C-0F0E-430E-A315-6E77E2B5E468}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{39C4098A-9AB4-4F0E-8D4B-9A118A798615}"
+              p:after="r[@uid='{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}']"
+              s:id="{34504938-755D-431A-BB30-FD36F57B6595}"
+              s:ph="page-layout" />
+            <r
+              uid="{1F67DA35-CA47-4DC3-8BBA-B239DFE1B9D9}"
+              p:after="r[@uid='{88B91DF2-05C4-4CE5-A2AF-B1506006B971}']"
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "23ef204d-df36-447d-9e7d-8862c8b6455f"
+      Hint: IconImage
+      Value: |
+        <image mediaid="{E4BD4F77-EA16-4F91-ADE8-5804641C907A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T125050Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Περιοδικό δρόμου «Σχεδία»
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Περιοδικό δρόμου «Σχεδία»
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{40EBEDC3-DB84-430A-BFEC-7ABD9BDE4CCE}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p>&Alpha;&pi;ό &tau;&omicron; 2013, &eta; &laquo;&Sigma;&chi;&epsilon;&delta;ί&alpha;&raquo; έ&chi;&epsilon;&iota; &nu;&alpha; &epsilon;&pi;&iota;&delta;&epsilon;ί&xi;&epsilon;&iota; έ&nu;&alpha; &iota;&delta;&iota;&alpha;ί&tau;&epsilon;&rho;&alpha; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ό &kappa;&alpha;&iota; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&nu; έ&rho;&gamma;&omicron;. &Epsilon;ί&nu;&alpha;&iota; &tau;&omicron; &mu;&omicron;&nu;&alpha;&delta;&iota;&kappa;ό &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ό &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;ό &delta;&rho;ό&mu;&omicron;&upsilon; &kappa;&alpha;&iota; &mu;έ&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Delta;&iota;&epsilon;&theta;&nu;&omicron;ύ&sigmaf; &Delta;&iota;&kappa;&tau;ύ&omicron;&upsilon; &Epsilon;&phi;&eta;&mu;&epsilon;&rho;ί&delta;&omega;&nu; &Delta;&rho;ό&mu;&omicron;&upsilon; (<a href="https://insp.ngo/">International Network of Street Papers-INSP</a>), &tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &alpha;&pi;&alpha;&rho;&iota;&theta;&mu;&epsilon;ί 122 &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;ά &delta;&rho;ό&mu;&omicron;&upsilon;, &sigma;&epsilon; 41 &chi;ώ&rho;&epsilon;&sigmaf;, &mu;&epsilon; 14.000 ά&sigma;&tau;&epsilon;&gamma;&omicron;&upsilon;&sigmaf;, ά&nu;&epsilon;&rho;&gamma;&omicron;&upsilon;&sigmaf; &pi;&omega;&lambda;&eta;&tau;έ&sigmaf; &kappa;&alpha;&iota; 6.000.000 &delta;&iota;&epsilon;&theta;&nu;&epsilon;ί&sigmaf; &alpha;&nu;&alpha;&gamma;&nu;ώ&sigma;&tau;&epsilon;&sigmaf;.
+        </p>
+        <p>&Eta; &laquo;&Sigma;&chi;&epsilon;&delta;ί&alpha;&raquo;, ό&pi;&omega;&sigmaf; &sigma;&upsilon;&mu;&beta;&alpha;ί&nu;&epsilon;&iota; &mu;&epsilon; ό&lambda;&alpha; &tau;&alpha; &pi;&epsilon;&rho;&iota;&omicron;&delta;&iota;&kappa;ά &delta;&rho;ό&mu;&omicron;&upsilon; &tau;&omicron;&upsilon; &kappa;ό&sigma;&mu;&omicron;&upsilon;, &delta;&epsilon;&nu; &pi;&omega;&lambda;&epsilon;ί&tau;&alpha;&iota; &sigma;&tau;&alpha; &sigma;&upsilon;&nu;ή&theta;&eta; &sigma;&eta;&mu;&epsilon;ί&alpha; &delta;&iota;ά&theta;&epsilon;&sigma;&eta;&sigmaf; &Tau;ύ&pi;&omicron;&upsilon;, ό&pi;&omega;&sigmaf; &pi;&epsilon;&rho;ί&pi;&tau;&epsilon;&rho;&alpha;, &alpha;&lambda;&lambda;ά &alpha;&pi;&omicron;&kappa;&lambda;&epsilon;&iota;&sigma;&tau;&iota;&kappa;ά &kappa;&alpha;&iota; &mu;ό&nu;&omicron; &sigma;&tau;&omicron;&upsilon;&sigmaf; &delta;&rho;ό&mu;&omicron;&upsilon;&sigmaf; &tau;&eta;&sigmaf; &pi;ό&lambda;&eta;&sigmaf; &alpha;&pi;ό &delta;&iota;&alpha;&pi;&iota;&sigma;&tau;&epsilon;&upsilon;&mu;έ&nu;&omicron;&upsilon;&sigmaf; &pi;&omega;&lambda;&eta;&tau;έ&sigmaf;. &Omicron;&iota; &pi;&omega;&lambda;&eta;&tau;έ&sigmaf; &pi;&rho;&omicron;έ&rho;&chi;&omicron;&nu;&tau;&alpha;&iota; &alpha;&pi;ό &epsilon;&upsilon;ά&lambda;&omega;&tau;&epsilon;&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ά &pi;&lambda;&eta;&theta;&upsilon;&sigma;&mu;&iota;&alpha;&kappa;έ&sigmaf; &omicron;&mu;ά&delta;&epsilon;&sigmaf;: ά&sigma;&tau;&epsilon;&gamma;&omicron;&iota;, ά&nu;&epsilon;&rho;&gamma;&omicron;&iota; &kappa;&alpha;&iota; &gamma;&epsilon;&nu;&iota;&kappa;ώ&sigmaf; ά&nu;&theta;&rho;&omega;&pi;&omicron;&iota; &pi;&omicron;&upsilon; &alpha;&pi;&omicron;&delta;&epsilon;&delta;&epsilon;&iota;&gamma;&mu;έ&nu;&alpha; &zeta;&omicron;&upsilon;&nu; &kappa;ά&tau;&omega; &alpha;&pi;ό &tau;&omicron; ό&rho;&iota;&omicron; &tau;&eta;&sigmaf; &phi;&tau;ώ&chi;&epsilon;&iota;&alpha;&sigmaf;.
+        </p>
+        <p>&Alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;&iota;&alpha; &xi;&epsilon;&chi;&omega;&rho;&iota;&sigma;&tau;ή &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &nu;&alpha; &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&omicron;&upsilon;&nu; έ&nu;&alpha; &epsilon;&lambda;ά&chi;&iota;&sigma;&tau;&omicron;, &alpha;&xi;&iota;&omicron;&pi;&rho;&epsilon;&pi;έ&sigmaf; &epsilon;&iota;&sigma;ό&delta;&eta;&mu;&alpha;, &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &mu;έ&sigma;&omicron; &alpha;&pi;&epsilon;&gamma;&kappa;&lambda;&omega;&beta;&iota;&sigma;&mu;&omicron;ύ &alpha;&pi;ό &tau;&omicron; &phi;&alpha;ύ&lambda;&omicron; &kappa;ύ&kappa;&lambda;&omicron; &tau;&eta;&sigmaf; &kappa;&omicron;&iota;&nu;&omega;&nu;&iota;&kappa;ή&sigmaf; &alpha;&pi;&omicron;&mu;ό&nu;&omega;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &alpha;&pi;&omicron;&kappa;&lambda;&epsilon;&iota;&sigma;&mu;&omicron;ύ. &Alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &epsilon;&pi;ί&sigma;&eta;&sigmaf; έ&nu;&alpha; &epsilon;&pi;&iota;&pi;&lambda;έ&omicron;&nu; &kappa;ί&nu;&eta;&tau;&rho;&omicron; &nu;&alpha; &xi;&alpha;&nu;&alpha;&chi;&tau;ί&sigma;&omicron;&upsilon;&nu; &tau;&iota;&sigmaf; &zeta;&omega;έ&sigmaf; &tau;&omicron;&upsilon;&sigmaf;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Υποστηρίζουμε το κοινωνικό έργο του περιοδικού δρόμου «Σχεδία», με τη συμμετοχή όλων των εργαζόμενων στη βάση συνδρομητών του.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{BDF45448-DA71-4FE8-A3D1-E34AAEEA907B}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Περιοδικό δρόμου «Σχεδία»
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T093213Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: HOPEgenesis
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: HOPEgenesis

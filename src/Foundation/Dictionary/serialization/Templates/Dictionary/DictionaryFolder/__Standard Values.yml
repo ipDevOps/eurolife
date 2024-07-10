@@ -1,0 +1,25 @@
+﻿---
+ID: "0b10d14b-45a5-4d65-9ace-8436f194b2d1"
+Parent: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/templates/Foundation/Dictionary/DictionaryFolder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {FE52759A-2CE3-4A73-9CFF-CE38A089CE8D}
+    {1FEDD608-B4A0-4DB4-80F0-4E9A50140E17}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T123724Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

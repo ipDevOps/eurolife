@@ -1,0 +1,49 @@
+﻿---
+ID: "efa93547-76e1-49ae-a9f4-eb0f63a4e4a4"
+Parent: "b52bcc79-a4de-4b5e-9831-1c32f780fc29"
+Template: "f8ff2ebe-ab6a-41ab-a0c9-30656f056dfa"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/_Local/tautotita-media-kit/Negatives"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Beta;&omicron;&eta;&theta;ή&sigma;&tau;&epsilon; &mu;&alpha;&sigmaf; &nu;&alpha; &beta;&epsilon;&lambda;&tau;&iota;&omega;&theta;&omicron;ύ&mu;&epsilon; &sigma;&eta;&mu;&epsilon;&iota;ώ&nu;&omicron;&nu;&tau;&alpha;&sigmaf; ό&sigma;&alpha; &delta;&epsilon;&nu; &sigma;&alpha;&sigmaf; &iota;&kappa;&alpha;&nu;&omicron;&pi;&omicron;&iota;&omicron;ύ&nu;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Μαζί και στα αρνητικά
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190918T143014Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΥΠΟΒΟΛΗ ΠΑΡΑΠΟΝΟΥ" linktype="external" url="http://#" anchor="" target="" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Μαζί και στα αρνητικά
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190624T110539Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{9F486AFA-7F59-4D25-9456-3F88ECFEE18E}" querystring="" target="" text="ΥΠΟΒΟΛΗ ΠΑΡΑΠΟΝΟΥ" anchor="" url="/Eurolife/Home/exipiretisi" title="" class="" linktype="internal" />

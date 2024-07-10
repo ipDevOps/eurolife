@@ -1,0 +1,18 @@
+﻿---
+ID: "5ced1ec3-2a15-45f1-8e14-c1a1275233f0"
+Parent: "455d3cf9-dd8b-4f1e-b933-18576c1986a1"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/EurobankHealthTool/Step2
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T151347Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,36 @@
+﻿---
+ID: "2c2aa2e9-18ad-4b29-9053-8c299d4ce67c"
+Parent: "b9dfdd5a-6b89-4245-88fa-4e52913daaaf"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/_Local/Teaser List/epimorfosi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Pi;&iota;&sigma;&tau;&epsilon;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&eta;&nu; &Epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta; &gamma;&iota;&rsquo; &alpha;&upsilon;&tau;ό &kappa;&alpha;&iota; &epsilon;&pi;&epsilon;&nu;&delta;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; &delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &epsilon;&upsilon;έ&lambda;&iota;&kappa;&tau;&epsilon;&sigmaf; &amp; &epsilon;&nu;&alpha;&lambda;&lambda;&alpha;&kappa;&tau;&iota;&kappa;έ&sigmaf;, &pi;&rho;&omicron;&sigma;&alpha;&rho;&mu;&omicron;&sigma;&mu;έ&nu;&epsilon;&sigmaf; &sigma;&tau;&alpha; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&alpha; &amp; &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&eta;&sigmaf; &epsilon;&pi;&omicron;&chi;ή&sigmaf;
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εκπαίδευση
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T051501Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{174D8C5A-1752-4BD7-9669-918F5835C6EE}" querystring="" linktype="internal" text="ΠΕΡΙΣΣΟΤΕΡΑ" anchor="" url="/Eurolife/Home/as-sinergastoume/sinergates-poliseon/Epimorfosi" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{0836B91F-1EF6-40DE-8F84-2B40A792CAF5}" />

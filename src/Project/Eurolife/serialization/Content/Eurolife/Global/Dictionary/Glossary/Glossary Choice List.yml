@@ -1,0 +1,14 @@
+﻿---
+ID: "19722c87-a348-4f11-a011-df09490922b7"
+Parent: "7cf0e5b4-589b-4649-8c33-3c6c9aaecb2a"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Glossary/Glossary Choice List
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190627T094810Z

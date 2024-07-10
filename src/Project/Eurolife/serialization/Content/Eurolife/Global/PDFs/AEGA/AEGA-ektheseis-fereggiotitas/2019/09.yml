@@ -1,0 +1,18 @@
+﻿---
+ID: "fdb93a7a-2ddf-4d54-920d-ddd0f9e17d06"
+Parent: "023c7cc4-9c90-4092-b395-f2f9af9f5538"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Global/PDFs/AEGA/AEGA-ektheseis-fereggiotitas/2019/09"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190929T191027Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

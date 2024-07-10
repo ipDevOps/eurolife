@@ -1,0 +1,21 @@
+﻿---
+ID: "705730a9-85c9-4310-89b6-85e81f7b1ba9"
+Parent: "7a618702-9de0-4068-9513-1be93a72db97"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Career Sales Force/protes ebdomades ergasias
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι να περιμένω τις πρώτες εβδομάδες της εργασίας μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191017T144810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

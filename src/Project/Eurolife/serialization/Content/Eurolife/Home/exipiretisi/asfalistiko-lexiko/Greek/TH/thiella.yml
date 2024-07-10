@@ -1,0 +1,24 @@
+﻿---
+ID: "3311e568-c026-4cc8-a3e9-e51625e32721"
+Parent: "e586e648-9784-4ddf-8438-ab58d5915e57"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/TH/thiella"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Θύελλα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T072154Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Σφοδρός άνεμος τουλάχιστον 9 Μποφόρ, σύμφωνα με βεβαίωση της Εθνικής Μετεωρολογικής Υπηρεσίας.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,24 @@
+﻿---
+ID: "86c5cef8-68e5-4d98-90d7-18fed950425e"
+Parent: "99c43e69-bfca-4f55-a8c4-e063e9bfe513"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/A/apozimiosi-asfalisma"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Αποζημίωση ή Ασφάλισμα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T065446Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Tο ποσό που, κατά περίπτωση και ανάλογα με το είδος ασφαλιστηρίου συμβολαίου, είναι υποχρεωμένη να καταβάλλει η ασφαλιστική εταιρεία ως αποζημίωση σε περίπτωση ατυχήματος, ασθένειας ή ζημιάς. Πιο εξειδικευμένα, είναι η ασφαλιστική αρχή, με την οποία επιδιώκει ο ασφαλιστής να φέρει τον ασφαλισμένο όσο το δυνατόν πιο κοντά στην ίδια θέση που ήταν πριν συμβεί η ζημία
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

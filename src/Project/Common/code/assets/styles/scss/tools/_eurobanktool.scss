@@ -1,0 +1,63 @@
+.eurobanktool {
+
+  .target-group-wrap {
+    min-height: 400px;
+  }
+
+  .target-group__birth {
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height 300ms ease-in;
+
+    input + label {
+      transform: translate(0, -20px);
+    }
+
+    input[type="text"] {
+      padding-bottom: 1px;
+      padding-top: 25px;
+    }
+  }
+
+  .target-group__desc {
+    margin-bottom: 10px;
+  }
+
+  input[type="radio"]:checked + label {
+    ~ .target-group__birth {
+      max-height: 50px;
+    }
+  }
+
+  .pick--extras {
+    justify-content: center;
+  }
+
+  .error-message {
+    font-size: 14px;
+    color: red;
+  }
+}
+
+.tool-step--inactive{
+  display: none;
+}
+
+.eurobank-banner {
+  background-color: #fdeaeb;
+  border: 1px solid #ff303d;
+  border-radius: 0 0 70px 0;
+  padding: 22px 44px 22px 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.eurobank-banner__left {
+  max-width: 50%;
+}
+
+.btn-no-split {
+  white-space: nowrap;
+}
+

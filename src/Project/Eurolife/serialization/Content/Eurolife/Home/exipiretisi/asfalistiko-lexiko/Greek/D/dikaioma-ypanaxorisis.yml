@@ -1,0 +1,24 @@
+﻿---
+ID: "cfd9ad1b-627b-43c3-81a7-4f9bfd89f9ea"
+Parent: "74e79fae-fff3-4e49-ae36-8f2e8086c370"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/D/dikaioma-ypanaxorisis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Δικαίωμα Υπαναχώρησης
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T071303Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Ο αντισυμβαλλόμενος δικαιούται να εγκαταλείψει τη σύμβαση ασφάλισης, αποστέλλοντας στην εταιρεία σχετική επιστολή εντός τριάντα (30) ημερών από την ημερομηνία παράδοσης του ασφαλιστηρίου σε αυτόν. Σε περίπτωση υπαναχώρησης από την ασφαλιστική σύμβαση, επιστρέφονται τα καταβληθέντα ασφάλιστρα μετά την αφαίρεση του δικαιώματος συμβολαίου και των πραγματοποιηθέντων εξόδων (κόστος ιατρικών εξετάσεων, προμήθειες, κ.λπ.).
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

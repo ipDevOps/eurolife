@@ -1,0 +1,34 @@
+﻿@using Wedia.Feature.UIComponents
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.IFrame.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.IFrame.ID),
+          AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+          Model.Item?.ID,
+          Model.Rendering.Item?.ID)
+  return;
+}
+
+
+
+<section class="iframe center--800 center m-b-112">
+  @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+  {
+    if (Sitecore.Context.PageMode.IsExperienceEditor)
+    {
+      @Html.Sitecore().Dictionary("/UIComponents/IFrame/IFrame Edit", "Click Here To Edit Me")
+    }
+
+    <iframe width="100%"
+            align="center"
+            frameborder="0"
+            height="800px"
+            src="@Html.Sitecore().Field(Templates.IFrame.Fields.IFrame, new { DisableWebEdit = true })"></iframe>
+  }
+</section>
+

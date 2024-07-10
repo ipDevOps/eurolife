@@ -1,0 +1,24 @@
+﻿---
+ID: "8dd6d8bc-5886-46fe-91b1-4623b31602ea"
+Parent: "4d5ca0d6-d12e-46e3-908b-80cbd2315d3d"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs Attributes/paroxi se periptosi apoleias zois tou asfalismenou meta tin enarksi tis sintaxiodotisis/paroxi se periptosi apoleias zois 2 3
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T125125Z
+    - ID: "46a86135-502b-4015-82fb-a4d54ab61719"
+      Hint: PanelTooltip
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Το σύνολο των καθαρών ασφαλίστρων που έχουν καταβληθεί μέχρι τη στιγμή του θανάτου καταβάλλεται στους δικαιούχους

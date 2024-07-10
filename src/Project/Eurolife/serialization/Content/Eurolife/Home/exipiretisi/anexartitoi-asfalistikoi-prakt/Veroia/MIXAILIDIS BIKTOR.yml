@@ -1,0 +1,24 @@
+﻿---
+ID: "95d41622-6d16-42ec-9c53-8714d5a6e8c4"
+Parent: "5a75a0b9-73c1-4783-ad01-3c7dbb2094c5"
+Template: "ad888dc7-06e0-46f4-a47d-548689e81318"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/anexartitoi-asfalistikoi-praktores/Veroia/MIXAILIDIS BIKTOR"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191205T115258Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: ΜΙΧΑΗΛΙΔΗΣ ΒΙΚΤΩΡ
+    - ID: "75acc29f-3a37-4042-8e27-d2e8a92cf7eb"
+      Hint: Email
+      Value: michailidis.team@gmail.com

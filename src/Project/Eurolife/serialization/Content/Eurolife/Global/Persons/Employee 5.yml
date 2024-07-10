@@ -1,0 +1,30 @@
+﻿---
+ID: "314596c1-15f2-4781-b607-160ea32b3b35"
+Parent: "ab1c0c24-b504-4225-a0c1-540a2fdd2636"
+Template: "c55ba247-b534-4ac4-b001-77f3ed5467ca"
+Path: /sitecore/content/Eurolife/Global/Persons/Employee 5
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T095235Z
+    - ID: "47e95858-efcc-4862-8a26-3905105ece5b"
+      Hint: PersonQuote
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Employee 5
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Employee 5
+    - ID: "e57a5fee-e68d-4d37-ac1f-edc51e551121"
+      Hint: PersonPosition
+      Value: Employee Position 5

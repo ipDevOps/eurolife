@@ -1,0 +1,36 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Product
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.ProgramCoverages.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.ProgramCoverages.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+}
+
+<section id="coverages" class="coverage p-t-64 p-b-64 m-b-112 grey--bordered-area">
+  <div class="center center--1100 coverage__area relator">
+    <div class="invisible anchor-200" id="coverage"></div>
+    <h1 class="h3 coverage__title m-b-48">@Html.Sitecore().Field(Templates.ProgramCoverages.Fields.Title)</h1>
+
+    
+    <div class="coverage__column">
+      <div class="h5">@Html.Sitecore().Dictionary("/Product/Products Program Coverages/It Covers", "It Covers")</div>
+      <div class="coverage__yes">
+        @Html.Sitecore().Field(Templates.ProgramCoverages.Fields.ItCovers)
+      </div>
+    </div>
+
+    <div class="coverage__column">
+      <div class="h5">@Html.Sitecore().Dictionary("/Product/Products Program Coverages/It Not Covers", "It Not Covers")</div>
+      <div class="coverage__no">
+        @Html.Sitecore().Field(Templates.ProgramCoverages.Fields.ItNotCovers)
+      </div>
+    </div>
+  </div>
+  <div class="js-coverage__expander coverage__expander t-c m-t-48">@Html.Sitecore().Dictionary("/Product/Products Program Coverages/View More", "VIEW MORE")</div>
+</section>

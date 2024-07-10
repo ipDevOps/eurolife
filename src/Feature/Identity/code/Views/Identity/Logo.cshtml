@@ -1,0 +1,32 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Identity.Repositories
+@using Wedia.Feature.Identity
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+
+@{ 
+    var identity = IdentityRepository.Get(Model.Item);
+
+    if (identity == null)
+    {
+      return;
+    }
+
+    var homeUrl = Sitecore.Context.Site?.GetStartItem()?.Url() ?? "/";
+    var hasTagLine = identity.FieldHasValue(Templates.Identity.Fields.LogoTagLine);
+}
+
+<a href="@homeUrl"
+   class="logo @( hasTagLine ? "has-tagline" : "")"
+   role="link"
+   aria-label="Eurolife Logo Link to Homepage"
+   title="Logo">
+  @Html.Sitecore().Field(Templates.Identity.Fields.Logo, identity, new { DisableWebEdit = true })
+
+  @*@if (hasTagLine)
+    {
+      @Html.Sitecore().Field(Templates.Identity.Fields.LogoTagLine, identity, new { DisableWebEdit = true })
+    }*@
+</a>
+
+

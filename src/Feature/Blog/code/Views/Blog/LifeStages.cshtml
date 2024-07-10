@@ -1,0 +1,85 @@
+﻿@using Wedia.Feature.Blog
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model IEnumerable<Sitecore.Data.Items.Item>
+
+@{
+    if (Model == null || !Model.Any())
+    {
+      return;
+    }
+
+    var mediaUrlOptionsDesktop = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 1920,
+      Height = 0
+    };
+
+    var mediaUrlOptionsMobile = new Sitecore.Resources.Media.MediaUrlOptions
+    {
+      Width = 500,
+      Height = 0
+    };
+
+    bool showTitle = false;
+    if(Sitecore.Mvc.Presentation.RenderingContext.Current.ContextItem.TemplateID == Templates.LifeStage.ID
+      || Sitecore.Mvc.Presentation.RenderingContext.Current.ContextItem.TemplateID == Templates.Product.ID)
+    {
+      showTitle = true;
+    }    
+}   
+
+<section class="m-b-124 m-t-112">   
+  @if (showTitle)
+  {
+    <h1 class="h4 t-c m-b-8">@Html.Sitecore().Dictionary("/Blog/LifeStages/Title")</h1>
+
+    <div class="m-b-48 center--650 center t-c">
+      @Html.Sitecore().Dictionary("/Blog/LifeStages/Subtitle")
+    </div>
+  }
+
+  <div class="high-grid center center--1100">
+    @foreach (var item in Model.Select((value, i) => new { i, value }))
+    {
+      var desktopImage = string.Empty;
+      var mobileImage = string.Empty;
+
+      if (item.value.FieldHasValue(Templates.HasPageImageContent.Fields.DesktopImage))
+      {
+        desktopImage = item.value.ImageUrl(Templates.HasPageImageContent.Fields.DesktopImage, mediaUrlOptionsDesktop);
+      }
+
+      if (item.value.FieldHasValue(Templates.HasPageImageContent.Fields.MobileImage))
+      {
+        mobileImage = item.value.ImageUrl(Templates.HasPageImageContent.Fields.MobileImage, mediaUrlOptionsDesktop);
+      }
+      <article class="grid__cell-@item.i card card--light">
+        <div class="card__image">
+          <picture>
+            @if (!string.IsNullOrEmpty(desktopImage))
+            {
+              <source media="(min-width: 900px)" srcset="@desktopImage">
+            }
+
+            @if (!string.IsNullOrEmpty(mobileImage))
+            {
+              <source srcset="@mobileImage">
+            }
+
+            @if (!string.IsNullOrEmpty(desktopImage))
+            {
+              <img src="@desktopImage" alt="@item.value.Fields[Templates.HasPageContent.Fields.Title]" loading="lazy">
+            }
+          </picture>
+        </div>
+        <div class="card__overlay pad-24">
+          <h2 class="h3 card__title">
+            <a href="@item.value.Url()" class="card__overlink">@item.value.Fields[Templates.HasPageContent.Fields.Title]</a>
+          </h2>
+          <div class="card__text m-t-8">@item.value.Fields[Templates.HasPageContent.Fields.Summary]</div>
+        </div>
+      </article>
+    }
+  </div>
+</section>

@@ -1,0 +1,30 @@
+﻿---
+ID: "5515c419-66cb-4e45-b3c1-8501562a105a"
+Parent: "5941a28a-01ad-49fc-b855-001117d725d2"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/PageContent/Investment Plan/Pie Chart
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {1BA5F547-B119-44CB-BE3E-177AFA5517F0}
+    {F727CC0F-D809-41DF-9338-68C5D264075F}
+    {BEAF6171-25BD-4BB3-BE08-DB4F62A697C2}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210128T122927Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

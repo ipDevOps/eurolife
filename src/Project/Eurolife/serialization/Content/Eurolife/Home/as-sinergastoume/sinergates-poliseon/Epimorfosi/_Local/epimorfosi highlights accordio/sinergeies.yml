@@ -1,0 +1,24 @@
+﻿---
+ID: "27f7105e-6442-4a0b-a120-62e61aa64335"
+Parent: "949fa833-fec5-44ab-b983-51fac6b43784"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/Epimorfosi/_Local/epimorfosi highlights accordion/sinergeies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191029T081828Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Συνέργειες με Ανώτατα Εκπαιδευτικά Ιδρύματα και Φορείς 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: Ό&lambda;&alpha; &alpha;&upsilon;&tau;ά &tau;&alpha; &chi;&rho;ό&nu;&iota;&alpha;, έ&chi;&omicron;&upsilon;&mu;&epsilon; &alpha;&nu;&alpha;&pi;&tau;ύ&xi;&epsilon;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&epsilon; &Alpha;&nu;ώ&tau;&alpha;&tau;&alpha; &Epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;ά &iota;&delta;&rho;ύ&mu;&alpha;&tau;&alpha; &kappa;&alpha;&iota; &epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;&omicron;ύ&sigmaf; &phi;&omicron;&rho;&epsilon;ί&sigmaf; &kappa;&alpha;&iota; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf; &gamma;&iota;&alpha; &Pi;&rho;&alpha;&kappa;&tau;&iota;&kappa;ή Ά&sigma;&kappa;&eta;&sigma;&eta; &sigma;&epsilon; &phi;&omicron;&iota;&tau;&eta;&tau;έ&sigmaf;, &epsilon;&xi;&epsilon;&iota;&delta;&iota;&kappa;&epsilon;&upsilon;&mu;έ&nu;&alpha; &Epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;ά &Pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha;, &Alpha;&nu;&omicron;&iota;&chi;&tau;έ&sigmaf; &Eta;&mu;&epsilon;&rho;ί&delta;&epsilon;&sigmaf;, &Epsilon;&kappa;&pi;&alpha;&iota;&delta;&epsilon;&upsilon;&tau;&iota;&kappa;έ&sigmaf; &Delta;&rho;ά&sigma;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; Workshops, &Pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &Delta;&iota;&omicron;ί&kappa;&eta;&sigma;&eta;&sigmaf; &gamma;&iota;&alpha; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &Sigma;&tau;&epsilon;&lambda;έ&chi;&eta;, &Pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha; &Epsilon;&pi;&alpha;&nu;&alpha;&pi;&iota;&sigma;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &pi;&omicron;&lambda;&lambda;ά ά&lambda;&lambda;&alpha;.

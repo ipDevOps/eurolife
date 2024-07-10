@@ -1,0 +1,52 @@
+﻿---
+ID: "afbcb04b-f52c-4246-8ecc-5d16739a4d69"
+Parent: "99d992f2-f236-45ef-aa64-2e8d50161818"
+Template: "05bf3f91-d5db-4e93-99e9-8e5830c85bb6"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/eggrafa
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190708T142832Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {32DBFA75-37E5-48D6-946A-4A6FCBBBBE25}
+        {55952609-94F0-474C-A5D4-1607EFE15C5E}
+        {2B3DD899-CF24-469B-8D03-50C4983B9B92}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Βασικά Έγγραφα Πληροφοριών
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T140604Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "92184ee7-4ee4-466b-85bc-ad334bb2beee"
+      Hint: MediaFiles
+      Type: Multilist with Search
+      Value: |
+        {2B87C416-F4C9-4942-B109-F0952DEE07E3}
+        {8737530C-DD1B-4782-9226-2FBD7A873EEA}
+    - ID: "ff6fc789-f1f2-495e-8a94-efcbc528e1c6"
+      Hint: MediaGroupTitle
+      Value: Χρήσιμα Έντυπα

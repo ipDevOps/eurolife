@@ -1,0 +1,33 @@
+﻿---
+ID: "cd40a1cf-867d-4dbd-b592-90f6e858d442"
+Parent: "a23c5c29-0f0c-423c-a429-1a5927574013"
+Template: "e8da73b3-8edf-4ca3-9f9a-b3fb540ef441"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/katoikia panel group
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T090737Z
+    - ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+      Hint: Panels
+      Type: Multilist
+      Value: |
+        {0C5769D4-2730-476A-8D00-ABC3FB629EBE}
+        {954F2B8D-5F0D-4CB9-94B2-C61C08FD15C3}
+        {57468334-754C-4126-A9E6-9E2785F41221}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f5d19984-678a-4fef-919d-4cf92f68f464"
+      Hint: PanelGroupTitle
+      Value: Σύγκριση Προγραμμάτων
+    - ID: "fb7552f8-587d-4b90-ae31-7e3ec84ae7f0"
+      Hint: PanelGroupSummary
+      Value: |
+        Πατήστε 'Κτίριο', 'Περιεχόμενο' ή 'Κτίριο & Περιεχόμενο' για ασφάλιση σπιτιού, περιεχομένου (συσκευές, έπιπλα, είδη σπιτιού, κλπ) ή και των δύο. Ανάλογα με την επιλογή σας, εμφανίζονται τα προγράμματα και οι καλύψεις στους πίνακες.
+        

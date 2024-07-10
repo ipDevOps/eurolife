@@ -1,0 +1,55 @@
+﻿---
+ID: "0e43f9ce-416e-4785-9345-c520ea7081f5"
+Parent: "f2c94ee5-35a4-415d-891a-87a466a2e22d"
+Template: "e8da73b3-8edf-4ca3-9f9a-b3fb540ef441"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Vehicle Group
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134537Z
+    - ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+      Hint: Panels
+      Type: Multilist
+      Value: |
+        {21603415-2AA2-40EB-96C9-4E47DEC0D9F2}
+        {244C76A9-D9FC-4735-BA60-CB8875D801D1}
+        {F1F3C1CF-6C1E-4F4A-B7C5-083C83149F1F}
+        {04C788FF-FA90-41F1-825C-1FB24BCA7B5A}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "f5d19984-678a-4fef-919d-4cf92f68f464"
+      Hint: PanelGroupTitle
+      Value: Σύγκριση Προγραμμάτων
+    - ID: "fb7552f8-587d-4b90-ae31-7e3ec84ae7f0"
+      Hint: PanelGroupSummary
+      Value: |
+        Χρησιμοποιήστε τους πίνακες για να συγκρίνετε τις καλύψεις και τα χαρακτηριστικά 
+        των προγραμμάτων και να επιλέξετε εκείνο που σας ταιριάζει περισσότερο.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T091310Z
+    - ID: "409bb7c5-2388-4787-a80a-2cc72157fb5c"
+      Hint: Panels
+      Type: Multilist
+      Value: "{21603415-2AA2-40EB-96C9-4E47DEC0D9F2}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "f5d19984-678a-4fef-919d-4cf92f68f464"
+      Hint: PanelGroupTitle
+      Value: Σύγκριση Προγραμμάτων
+    - ID: "fb7552f8-587d-4b90-ae31-7e3ec84ae7f0"
+      Hint: PanelGroupSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.

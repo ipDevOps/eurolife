@@ -1,0 +1,132 @@
+﻿---
+ID: "24793570-ce2a-4a76-af1d-4411f733a482"
+Parent: "f2be096d-911f-4409-8a98-9ee16cb8b283"
+Template: "5b62e4d9-7aed-47c0-aad1-ceb525263407"
+Path: /sitecore/content/Eurolife/Home/Carreer
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{93A41293-86EA-45A3-A0BE-DF16770633D0}"
+          s:par="UseStaticPlaceholderNames=1" />
+        <r
+          uid="{E3800664-C2E4-4DFA-857F-03EFC3747486}"
+          p:after="r[@uid='{93A41293-86EA-45A3-A0BE-DF16770633D0}']"
+          s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+          s:par="UseStaticPlaceholderNames=1"
+          s:ph="/page-layout/section" />
+        <r
+          uid="{DF23910D-BAAE-4D79-A53A-95689F4A6969}"
+          p:after="*[1=2]"
+          s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+          s:ph="/page-layout/section/col-huge" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C0098A96-CB9D-4B0B-BAC4-A17AA1BD25CD}"
+              p:before="*"
+              s:ds="{E9A3DAA5-2613-4771-B48E-875660175B9A}"
+              s:id="{B0232A78-D597-4D32-8148-938A4B757C2E}"
+              s:ph="/page-layout/section-{44872AEB-9493-4A0E-AD83-7E978BA17890}-0/col-huge-{F7573FB6-0BFD-40C4-8945-77184A378F40}-0/teaser-placeholder-3-{CC8C0C7C-150A-47E0-9255-0F3F5CB449C6}-0" />
+            <r
+              uid="{EA7FD9C0-D147-4922-B988-CF8F267A28C8}"
+              p:after="r[@uid='{C0098A96-CB9D-4B0B-BAC4-A17AA1BD25CD}']"
+              s:ds="{E9A3DAA5-2613-4771-B48E-875660175B9A}"
+              s:id="{B0232A78-D597-4D32-8148-938A4B757C2E}"
+              s:ph="/page-layout/section-{44872AEB-9493-4A0E-AD83-7E978BA17890}-0/col-huge-{F7573FB6-0BFD-40C4-8945-77184A378F40}-0/teaser-placeholder-2-{CC8C0C7C-150A-47E0-9255-0F3F5CB449C6}-0" />
+            <r
+              uid="{70D4E0E2-1675-452D-AB61-23B87F695988}"
+              p:after="r[@uid='{EA7FD9C0-D147-4922-B988-CF8F267A28C8}']"
+              s:ds="{E9A3DAA5-2613-4771-B48E-875660175B9A}"
+              s:id="{B0232A78-D597-4D32-8148-938A4B757C2E}"
+              s:ph="/page-layout/section-{44872AEB-9493-4A0E-AD83-7E978BA17890}-0/col-huge-{F7573FB6-0BFD-40C4-8945-77184A378F40}-0/teaser-placeholder-1-{CC8C0C7C-150A-47E0-9255-0F3F5CB449C6}-0" />
+            <r
+              uid="{CC8C0C7C-150A-47E0-9255-0F3F5CB449C6}"
+              p:after="r[@uid='{70D4E0E2-1675-452D-AB61-23B87F695988}']"
+              s:ds="{2872B978-0D41-4CB4-AEA1-AE333E4C0E3D}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:par=""
+              s:ph="/page-layout/section-{44872AEB-9493-4A0E-AD83-7E978BA17890}-0/col-huge-{F7573FB6-0BFD-40C4-8945-77184A378F40}-0" />
+            <r
+              uid="{F7573FB6-0BFD-40C4-8945-77184A378F40}"
+              p:after="r[@uid='{CC8C0C7C-150A-47E0-9255-0F3F5CB449C6}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{44872AEB-9493-4A0E-AD83-7E978BA17890}-0" />
+            <r
+              uid="{FF82509D-3474-40D9-8B33-594E53835C61}"
+              p:after="r[@uid='{F7573FB6-0BFD-40C4-8945-77184A378F40}']"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="/page-layout/section-{93A41293-86EA-45A3-A0BE-DF16770633D0}-0/col-huge-{A6960609-5AA0-4E48-9CDC-E16F56A803A6}-0" />
+            <r
+              uid="{A6960609-5AA0-4E48-9CDC-E16F56A803A6}"
+              p:after="r[@uid='{FF82509D-3474-40D9-8B33-594E53835C61}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{93A41293-86EA-45A3-A0BE-DF16770633D0}-0" />
+            <r
+              uid="{93A41293-86EA-45A3-A0BE-DF16770633D0}">
+              <p:d />
+            </r>
+            <r
+              uid="{DF23910D-BAAE-4D79-A53A-95689F4A6969}">
+              <p:d />
+            </r>
+            <r
+              uid="{44872AEB-9493-4A0E-AD83-7E978BA17890}"
+              p:after="*[1=2]"
+              s:id="{3BA27AC4-C795-40E8-A4C3-34C7DEEDBB2A}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "1d7f5999-9735-4c52-9e08-47bd7df3fb40"
+      Hint: PreTitle
+      Value: Carreer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190524T073748Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Carreer
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Dare to Grow. Join us.
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="carousel_1920x680" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{8427819A-9FA1-40D9-B8FB-91325460B6FD}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Carreer

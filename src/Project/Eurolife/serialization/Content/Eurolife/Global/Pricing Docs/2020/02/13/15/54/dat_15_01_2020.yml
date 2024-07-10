@@ -1,0 +1,22 @@
+﻿---
+ID: "0b8ee7c1-43d7-4c63-8876-08c9289ab964"
+Parent: "4de54010-bdc8-47cd-bfbc-59df92400179"
+Template: "d222549d-036e-4bb3-a381-0f5e710f995c"
+Path: /sitecore/content/Eurolife/Global/Pricing Docs/2020/02/13/15/54/dat_15_01_2020
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200213T155451Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "e9c6743e-53c9-428f-8536-f9f3c3dc64af"
+      Hint: File
+      Value: |
+        <file mediaid="{D1E43015-FB8B-4310-A6C1-E68307F18055}" src="-/media/D1E43015FB8B4310A6C1E68307F18055.ashx" />

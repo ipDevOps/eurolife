@@ -1,0 +1,24 @@
+﻿---
+ID: "a9975dec-63ac-46ef-9536-bd97c88bc674"
+Parent: "1662d046-1153-46a7-b472-ccb6de2035c9"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/T/tromokratikes-energeies"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Τρομοκρατικές Ενέργειες ή Τρομοκρατία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T080221Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Οι ενέργειες μεμονωμένων ή οργανωμένων σε ομάδα ατόμων με ή χωρίς χρήση (ή απειλή χρήσης) δύναμης ή βίας για πολιτικούς ή κοινωνικούς ή θρησκευτικούς ή ιδεολογικούς ή εθνικιστικούς σκοπούς, που περιλαμβάνουν τον εκφοβισμό του κοινού ή ορισμένου κύκλου προσώπων ή τον επηρεασμό νόμιμης ή ντε φάκτο Αρχής, ανεξάρτητα από το αν οι ενέργειες αυτές έλαβαν ή όχι χώρα κατά τη διάρκεια Στάσεων, Απεργιών, Οχλαγωγιών, Πολιτικών Ταραχών ή κατά τη διάρκεια οποιασδήποτε διατάραξης της δημόσιας τάξης.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

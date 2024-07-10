@@ -1,0 +1,18 @@
+﻿---
+ID: "b3dfc868-6771-40e4-875c-8ee1fc7b316c"
+Parent: "a40edad1-d57b-4a05-9815-a11f1e4dbb19"
+Template: "fe52759a-2ce3-4a73-9cff-ce38a089ce8d"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Navigation/Main Menu
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200313T105021Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

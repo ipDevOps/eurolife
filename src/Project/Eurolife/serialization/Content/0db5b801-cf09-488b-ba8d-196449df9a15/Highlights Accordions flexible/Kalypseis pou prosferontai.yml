@@ -1,0 +1,62 @@
+﻿---
+ID: "5b063526-755f-4f8b-a57f-f6d66bb333f4"
+Parent: "76a17bf6-1ad3-4a19-8ffb-ee439dd33a4e"
+Template: "7753c4b8-ffb7-4ef8-8f62-85a28ae89e2c"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/Highlights mikres epixeiriseis/Highlights Accordions flexible/Kalypseis pou prosferontai"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {521C80E5-1E2E-448C-B220-6979F591B606}
+        {5FF3AFEC-E5E4-46C9-856A-BD4C33811632}
+        {D2B81DA3-0626-409B-8BB2-83B36070629C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T093532Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Καλύψεις που προσφέρονται
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d27e9b7-91d4-4a39-adcd-f103cb5ebede"
+      Hint: Highlights
+      Type: TreelistEx
+      Value: |
+        {0C97D046-0B1C-4F8D-A0FC-F46143FA883E}
+        {86DB4377-F3C3-4A1E-B330-D3CE5C5A79CE}
+        {FDC75840-C829-45BE-BD01-116E4A4D5889}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190808T142201Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Ο δρόμος έχει την ιστορία που θέλετε εσείς
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cd45d99-885c-4ef4-ae14-2ab581ae9c74"
+      Hint: HighlightSummary
+      Value: |
+        Αυτό που έχει σημασία στα ταξίδια είναι να ξεκινούν 
+        με τη μεγαλύτερη δυνατή σιγουριά. 
+        

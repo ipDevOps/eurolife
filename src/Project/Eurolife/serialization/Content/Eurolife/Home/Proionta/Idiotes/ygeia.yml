@@ -1,0 +1,492 @@
+﻿---
+ID: "a9321ed2-2ed2-45d6-b93a-c0534dc37432"
+Parent: "1e190284-5fd5-4b95-88ae-b5f53449cdfb"
+Template: "dc12306a-5c27-4986-840c-aa47154f0051"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia
+DB: master
+SharedFields:
+- ID: "3da3fb00-31f6-432d-979a-57cee52b9d8a"
+  Hint: Color
+  Value: "{9547C6F8-F73F-4A91-A58F-5AD62343D49D}"
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}">
+          <p:d />
+        </r>
+        <r
+          uid="{808DB0C9-D175-46EC-8A97-0F5B9601B93D}">
+          <p:d />
+        </r>
+        <r
+          uid="{9DCAC3A5-FC4B-4B6F-87C6-4A0342390064}"
+          p:after="*[1=2]" />
+      </d>
+    </r>
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{43E147ED-EE1B-45ED-9422-3B204AFE1BD5}"
+              p:before="*"
+              s:id="{4DE00D68-7C8B-440A-A4D9-BB82355E20BD}"
+              s:ph="/page-layout/toolkit-contact-transfer" />
+            <r
+              uid="{4C169383-EB91-4CFC-A193-B35A3CD8E6B0}"
+              p:after="r[@uid='{43E147ED-EE1B-45ED-9422-3B204AFE1BD5}']"
+              s:ds="{F92EFC00-E8F1-4A6C-9147-412918D569B7}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-3-{4F003FB8-2A2A-4CCB-A01A-254AAF64CEE1}-0" />
+            <r
+              uid="{0EDF2A13-5B6C-4C0C-B799-4619DB1C5E3C}"
+              p:after="r[@uid='{4C169383-EB91-4CFC-A193-B35A3CD8E6B0}']"
+              s:ds="{BCD1FB9C-795D-428A-BD3E-A7D53B02AA40}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-2-{4F003FB8-2A2A-4CCB-A01A-254AAF64CEE1}-0" />
+            <r
+              uid="{35F904A4-0758-4C95-9DB0-D024738039F5}"
+              p:after="r[@uid='{0EDF2A13-5B6C-4C0C-B799-4619DB1C5E3C}']"
+              s:ds="{877E7442-A0D9-4A8B-80F9-C142DAE7B98F}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-1-{4F003FB8-2A2A-4CCB-A01A-254AAF64CEE1}-0" />
+            <r
+              uid="{2CDC10E9-6C1F-4373-8333-C384BE9371F2}"
+              p:after="r[@uid='{35F904A4-0758-4C95-9DB0-D024738039F5}']"
+              s:ds="{A9321ED2-2ED2-45D6-B93A-C0534DC37432}"
+              s:id="{2FF3A175-2A41-4088-820A-749360BE65FA}"
+              s:ph="/page-layout/toolkit-how-it-works" />
+            <r
+              uid="{F6ED2D53-A2D5-4A3C-894E-9D4BFC335C7A}"
+              p:after="r[@uid='{2CDC10E9-6C1F-4373-8333-C384BE9371F2}']"
+              s:ds="{F92EFC00-E8F1-4A6C-9147-412918D569B7}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-3-{E040AF66-CB8E-4F6F-B2CA-3572DB00C867}-0" />
+            <r
+              uid="{AA0642A7-C34C-4059-8728-FA85E7C37625}"
+              p:after="r[@uid='{F6ED2D53-A2D5-4A3C-894E-9D4BFC335C7A}']"
+              s:ds="{BCD1FB9C-795D-428A-BD3E-A7D53B02AA40}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-2-{E040AF66-CB8E-4F6F-B2CA-3572DB00C867}-0" />
+            <r
+              uid="{65A97E81-2B89-4825-9C66-6B8D1400B3DB}"
+              p:after="r[@uid='{AA0642A7-C34C-4059-8728-FA85E7C37625}']"
+              s:ds="{877E7442-A0D9-4A8B-80F9-C142DAE7B98F}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:ph="/page-layout/teaser-placeholder-1-{E040AF66-CB8E-4F6F-B2CA-3572DB00C867}-0" />
+            <r
+              uid="{2D7BCC46-5754-4563-B12C-E2D057994867}"
+              p:after="r[@uid='{65A97E81-2B89-4825-9C66-6B8D1400B3DB}']"
+              s:ds="{65BB8BF5-D036-4576-97BC-22CB0EB4F7EB}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-3-{1DFE1820-3F8F-47CB-9742-33430374572D}-0" />
+            <r
+              uid="{A46E275E-83EE-438D-9ED2-9B5A1B620825}"
+              p:after="r[@uid='{2D7BCC46-5754-4563-B12C-E2D057994867}']"
+              s:ds="{1C6276A6-0E53-4876-915E-207926E4446C}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="Alignment=%7B1168A85D-15F2-4335-8D86-CED079708B5A%7D&amp;Background&amp;ContainerIsNotFullWidth&amp;FontColor"
+              s:ph="/page-layout/teaser-placeholder-3-{1DFE1820-3F8F-47CB-9742-33430374572D}-0" />
+            <r
+              uid="{653DD4F9-4A8B-4771-A3D4-599528BD4941}"
+              p:after="r[@uid='{A46E275E-83EE-438D-9ED2-9B5A1B620825}']"
+              s:ds="{1E20AC3B-293A-47E2-A485-5E18779AE198}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-2-{1DFE1820-3F8F-47CB-9742-33430374572D}-0" />
+            <r
+              uid="{7929F54A-F8E8-4B36-8D58-60E643602C45}"
+              p:after="r[@uid='{653DD4F9-4A8B-4771-A3D4-599528BD4941}']"
+              s:ds="{41AE565C-2893-4A99-A23B-41003B61A09B}"
+              s:id="{907DF28B-FE15-4286-AD29-109BC7C0B98A}"
+              s:ph="/page-layout/toolkit-documents" />
+            <r
+              uid="{9B0818E0-9733-4665-BD06-4FD039BEFE3A}"
+              p:after="r[@uid='{7929F54A-F8E8-4B36-8D58-60E643602C45}']"
+              s:ds="{DF32891D-F145-4341-820F-6A4D64F8DCF2}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par="FontColor"
+              s:ph="/page-layout/teaser-placeholder-1-{1DFE1820-3F8F-47CB-9742-33430374572D}-0" />
+            <r
+              uid="{375EC5F7-9953-4BEC-A794-869E5E21FFA8}"
+              p:after="r[@uid='{9DCAC3A5-FC4B-4B6F-87C6-4A0342390064}']"
+              s:ds="{26D9179D-1D80-40ED-B286-2374DD61A4AD}"
+              s:id="{6434235F-FBC8-489B-8E8C-26D0CC1373F4}"
+              s:ph="page-layout" />
+            <r
+              uid="{33C0AD41-150A-4EED-90AA-296E9347788A}"
+              p:after="r[@uid='{375EC5F7-9953-4BEC-A794-869E5E21FFA8}']"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="page-layout" />
+            <r
+              uid="{DCCC0032-4291-453C-A4D8-5B9DF9E43A04}"
+              p:after="r[@uid='{33C0AD41-150A-4EED-90AA-296E9347788A}']"
+              s:ds="{F744B3B3-338F-4ABA-B2CE-4AA9ABBFC7E1}"
+              s:id="{BC33BB52-419D-4118-9D08-EE4009C50D3E}"
+              s:ph="page-layout" />
+            <r
+              uid="{C807F80B-E949-4F75-A66C-F1AD6541603A}"
+              p:after="r[@uid='{DCCC0032-4291-453C-A4D8-5B9DF9E43A04}']"
+              s:ds="{EF7FFFCB-EE5E-4F3D-9A64-690F80EC34C4}"
+              s:id="{54928386-719D-48B9-8A91-524D9961E36D}"
+              s:ph="page-layout" />
+            <r
+              uid="{8079F290-F7FE-4FD5-972B-99D99EBAE0A9}"
+              p:after="r[@uid='{C807F80B-E949-4F75-A66C-F1AD6541603A}']"
+              s:ds="{571D2038-394E-4B2B-BE87-F3435350897C}"
+              s:id="{F3136503-1EEB-41D2-B47C-89FBC34BC540}"
+              s:ph="page-layout" />
+            <r
+              uid="{1DFE1820-3F8F-47CB-9742-33430374572D}"
+              p:after="r[@uid='{8079F290-F7FE-4FD5-972B-99D99EBAE0A9}']"
+              s:ds="{2757383F-FBD4-40BA-84CC-0B025EF0AE2A}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{AA73FD0A-7FD0-4C1D-A57D-16782B0D0CA5}"
+              p:after="r[@uid='{1DFE1820-3F8F-47CB-9742-33430374572D}']"
+              s:id="{8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}"
+              s:ph="page-layout" />
+            <r
+              uid="{4F003FB8-2A2A-4CCB-A01A-254AAF64CEE1}"
+              p:after="*[1=2]"
+              s:ds="{E52A4706-6AA3-42D4-AA11-A533E50CC138}"
+              s:id="{885784F0-9175-4BFB-AF11-8184E69ABB14}"
+              s:par="Background&amp;ContainerIsNotFullWidth=1"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "1d7f5999-9735-4c52-9e08-47bd7df3fb40"
+      Hint: PreTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190705T092610Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Προγράμματα Ασφάλισης Υγείας
+    - ID: "328f77a3-08cc-4496-b8c9-184e3c194993"
+      Hint: ToolkitHowItWorks
+      Value: |
+        <table style="font-size: larger; text-align: center; vertical-align: middle; letter-spacing: normal; word-spacing: normal; line-height: normal; display: block;" align="center">
+            <tbody>
+                <tr>
+                    <td style="text-align: left; vertical-align: middle;"><img alt="" src="-/media/8689CC3F0B044B45ADEE5D85EDB77B9E.ashx" /></td>
+                    <td style="text-align: left; vertical-align: middle;">
+                    <p>&Beta;&eta;&mu;&alpha; 1.</p>
+                    <p>&Alpha;&nu;&alpha;&gamma;&gamma;&epsilon;&lambda;ί&alpha; &Epsilon;&iota;&sigma;&alpha;&gamma;&omega;&gamma;ή&sigmaf;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: left; vertical-align: middle;"><img alt="" src="-/media/2262D99E4C6C4DFE818171476E053F0E.ashx" />&nbsp;</td>
+                    <td style="text-align: left; vertical-align: middle;">
+                    <p>&Beta;ή&mu;&alpha; 2.</p>
+                    <p>Έ&lambda;&epsilon;&gamma;&chi;&omicron;&sigmaf; &Pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;&omicron;ύ</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="text-align: left; vertical-align: middle;">&nbsp;<img alt="" src="-/media/969EC2F1D1CD4B14A011C20C55965860.ashx" /></td>
+                    <td style="text-align: left; vertical-align: middle;">
+                    <p>&Beta;ή&mu;&alpha; 3.</p>
+                    <p>Έ&gamma;&kappa;&rho;&iota;&sigma;&eta; ή &alpha;&pi;ό&rho;&rho;&iota;&psi;&eta; &kappa;ά&lambda;&upsilon;&psi;&eta;&sigmaf; &delta;&alpha;&pi;&alpha;&nu;ώ&nu; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <h4 style="text-align:center;"><a href="~/link.aspx?_id=5E4741677F0B41878F62703DA4804F50&amp;_z=z">&Delta;&Epsilon;&Iota;&Tau;&Epsilon; &Tau;&Eta; &Delta;&Iota;&Alpha;&Delta;&Iota;&Kappa;&Alpha;&Sigma;&Iota;&Alpha; &Alpha;&Nu;&Alpha;&Lambda;&Upsilon;&Tau;&Iota;&Kappa;&Alpha;<br />
+        </a></h4>
+    - ID: "4791fadd-9bb5-4efd-b542-4d2f8bb634e4"
+      Hint: ToolkitSubhead
+      Value: Στις ενότητες που ακολουθούν θα βρείτε όλες τις πληροφορίες που χρειάζεστε για να ενημερωθείτε πλήρως και να αποφασίσετε για την ασφάλισή σας.
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Προγράμματα Ασφάλισης Υγείας
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link text="ΕΚΔΗΛΩΣΗ ΕΝΔΙΑΦΕΡΟΝΤΟΣ" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{B13C37FC-7395-4322-9D78-2DA41051875D}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <h1 class="h2 m-b-24"></h1>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6271f1c8-d91e-47ed-8f4a-99fe75d004a5"
+      Hint: ToolkitContactTransfer
+      Value: |
+        <p>&Tau;&alpha; Έ&gamma;&gamma;&rho;&alpha;&phi;&alpha; &Beta;&alpha;&sigma;&iota;&kappa;ώ&nu; &Pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;&iota;ώ&nu; &pi;&epsilon;&rho;&iota;έ&chi;&omicron;&upsilon;&nu; &tau;&eta; &pi;&epsilon;&rho;ί&lambda;&eta;&psi;&eta; &tau;&omicron;&upsilon; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&eta;&rho;ί&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon;, &pi;&rho;&omicron;&kappa;&epsilon;&iota;&mu;έ&nu;&omicron;&upsilon; &nu;&alpha; &epsilon;&nu;&eta;&mu;&epsilon;&rho;&omega;&theta;&epsilon;ί&tau;&epsilon; &gamma;&iota;&alpha; &tau;&iota;&sigmaf; &beta;&alpha;&sigma;&iota;&kappa;έ&sigmaf; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon; &pi;&rho;&omicron;ϊ&omicron;&nu;&tau;&omicron;&sigmaf;, &nu;&alpha; &sigma;&upsilon;&gamma;&kappa;&rho;ί&nu;&epsilon;&tau;&epsilon; &alpha;&nu;&tau;ί&sigma;&tau;&omicron;&iota;&chi;&alpha; &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &kappa;&alpha;&iota; &nu;&alpha; &sigma;&alpha;&sigmaf; &beta;&omicron;&eta;&theta;ή&sigma;&omicron;&upsilon;&nu; &nu;&alpha; &kappa;&alpha;&tau;&alpha;&lambda;ή&xi;&epsilon;&tau;&epsilon; &sigma;&tau;&eta; &beta;έ&lambda;&tau;&iota;&sigma;&tau;&eta; &alpha;&pi;ό&phi;&alpha;&sigma;&eta;.
+        </p>
+        <p><a href="-/media/BA576BEAEEF04C06BCE9421007BCB596.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Alpha;' 100%</a></p>
+        <p><a href="-/media/BA6943848CDE4A97A102F433F8C51ECA.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Beta;' 100%</a></p>
+        <p><a href="-/media/E85267D5168B4C4998432E565CD62467.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Alpha;' 100% - Economy</a><a href="-/media/BA576BEAEEF04C06BCE9421007BCB596.ashx"><br />
+        </a></p>
+        <p><a href="-/media/80E739BD65BD42DEAEB243EAB0C7A3D2.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Beta;' 100% - </a><a href="-/media/80E739BD65BD42DEAEB243EAB0C7A3D2.ashx" style="color: blue;">Economy</a></p>
+        <p><a href="-/media/982BFD2C3812487992BD5CA121A270D8.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Alpha;' 1500</a></p>
+        <p><a href="-/media/F8B32D7A900840FE8A5DEF17642448A4.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Beta;' 1500</a></p>
+        <p><a href="-/media/12DE79EB26954509A459E70EBBD2B436.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Alpha;' 1500 - Economy</a></p>
+        <p><a href="-/media/1D9B1002F1784EBA98EEE1D7D809E3C6.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό B' 1500 - Economy</a></p>
+        <p><a href="-/media/0619A880D14749E4B92F2B6DCE1A38A1.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό B' 1000 - Economy</a></p>
+        <p><a href="-/media/8738408A8F6747C8A59A242ACD4F2F40.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό B' 750 - Economy</a></p>
+        <p><a href="-/media/66A7C6DB317042B3B37BE61001CD46FF.ashx" style="color: blue;">Premium &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό B' 500 - &Pi;&alpha;&iota;&delta;&iota;&kappa;ό Economy</a></p>
+        <p>&nbsp;</p>
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+      Hint: ToolkitTitle
+      Value: Εργαλεία Ενημέρωσης
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Φροντίστε τον εαυτό σας και τους αγαπημένους σας
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{4E857123-889F-447E-9879-AABFB139FB5E}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Προγράμματα Ασφάλισης Υγείας
+- Language: en
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E33B4792-9502-426B-B77C-BEBE77019072}"
+              p:before="*"
+              s:ds="{8B7E058C-F026-4D43-940D-4AEC15014491}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-3-{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}-0" />
+            <r
+              uid="{CCDE3DC0-2AF8-45E9-9166-CFD3E2865B39}"
+              p:after="r[@uid='{E33B4792-9502-426B-B77C-BEBE77019072}']"
+              s:ds="{8503D913-0493-4977-87F1-3E3CDF7C1E60}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-2-{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}-0" />
+            <r
+              uid="{F9072D66-3B58-4DD9-AF93-BC90CA109AE5}"
+              p:after="r[@uid='{CCDE3DC0-2AF8-45E9-9166-CFD3E2865B39}']"
+              s:ds="{8B7E058C-F026-4D43-940D-4AEC15014491}"
+              s:id="{B88C4F62-C566-4B2C-8553-A621D20406EA}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-1-{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}-0" />
+            <r
+              uid="{9525B82B-F82E-4AB0-B236-6002322784AE}"
+              p:after="r[@uid='{F9072D66-3B58-4DD9-AF93-BC90CA109AE5}']"
+              s:id="{2FF3A175-2A41-4088-820A-749360BE65FA}"
+              s:ph="/page-layout/toolkit-how-it-works" />
+            <r
+              uid="{9CDDC478-E5AE-4067-9038-87A5B7DF1E88}"
+              p:after="r[@uid='{9525B82B-F82E-4AB0-B236-6002322784AE}']"
+              s:id="{4DE00D68-7C8B-440A-A4D9-BB82355E20BD}"
+              s:ph="/page-layout/toolkit-contact-transfer" />
+            <r
+              uid="{938FFBE4-25B7-4D03-8FF8-A1294DCFD410}"
+              p:after="r[@uid='{9CDDC478-E5AE-4067-9038-87A5B7DF1E88}']"
+              s:ds="{B8B686B4-FF26-40B2-9EEF-9033F35DA6C5}"
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:ph="/page-layout/toolkit-faq-group" />
+            <r
+              uid="{040F555C-B6D2-4F2A-B019-8093E41FE409}"
+              p:after="r[@uid='{938FFBE4-25B7-4D03-8FF8-A1294DCFD410}']"
+              s:ds="{41AE565C-2893-4A99-A23B-41003B61A09B}"
+              s:id="{907DF28B-FE15-4286-AD29-109BC7C0B98A}"
+              s:par=""
+              s:ph="/page-layout/toolkit-documents" />
+            <r
+              uid="{BE1803B0-7518-4956-B8CF-8E2D12EDF4B2}"
+              p:after="r[@uid='{040F555C-B6D2-4F2A-B019-8093E41FE409}']"
+              s:ds="{1E20AC3B-293A-47E2-A485-5E18779AE198}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-2-{2FB7FB63-ED05-4070-9703-3D35EC8EBC78}-0" />
+            <r
+              uid="{E131FD88-DA1F-4BA7-9B10-879B5D1D3525}"
+              p:after="r[@uid='{BE1803B0-7518-4956-B8CF-8E2D12EDF4B2}']"
+              s:ds="{DF32891D-F145-4341-820F-6A4D64F8DCF2}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/teaser-placeholder-1-{2FB7FB63-ED05-4070-9703-3D35EC8EBC78}-0" />
+            <r
+              uid="{3AE6CDFE-93D1-40C9-BCAC-2E7F5BED9C14}"
+              p:after="r[@uid='{E131FD88-DA1F-4BA7-9B10-879B5D1D3525}']"
+              s:ds="{B8B686B4-FF26-40B2-9EEF-9033F35DA6C5}"
+              s:id="{3C35F9B3-71E4-473C-B607-EB856E37E096}"
+              s:par=""
+              s:ph="/page-layout/section-{547C2745-C8FE-4A0F-8746-57E6F0CA9E77}-0/col-huge-{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}-0/toolkit-faq-group" />
+            <r
+              uid="{6119CCF0-A7C5-4308-A486-92AA5E600643}"
+              p:after="r[@uid='{3AE6CDFE-93D1-40C9-BCAC-2E7F5BED9C14}']"
+              s:id="{8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}"
+              s:ph="/page-layout/section-{547C2745-C8FE-4A0F-8746-57E6F0CA9E77}-0/col-huge-{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}-0" />
+            <r
+              uid="{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}"
+              p:after="r[@uid='{6119CCF0-A7C5-4308-A486-92AA5E600643}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{547C2745-C8FE-4A0F-8746-57E6F0CA9E77}-0" />
+            <r
+              uid="{507CE7BC-6E91-40CB-B571-635AD7280F62}"
+              p:after="r[@uid='{39292C0F-6B46-4BA0-BC18-F6E4998AAB40}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{AB88E3AC-4038-4BD0-AFF3-19F29F1C0013}-0" />
+            <r
+              uid="{75BC0F45-2A53-41EB-A47F-BB1C1C0534A3}"
+              p:after="r[@uid='{507CE7BC-6E91-40CB-B571-635AD7280F62}']"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0/col-huge-{5C09AE12-6831-4C38-A38C-CF8D2508BA59}-0/teaser-placeholder-3-{6AA958DD-980C-4EA7-8C5C-295F76807A7B}-0" />
+            <r
+              uid="{A3418823-AC1E-4EB7-8246-4AB62DA5726E}"
+              p:after="r[@uid='{75BC0F45-2A53-41EB-A47F-BB1C1C0534A3}']"
+              s:ds="{DF32891D-F145-4341-820F-6A4D64F8DCF2}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par=""
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0/col-huge-{5C09AE12-6831-4C38-A38C-CF8D2508BA59}-0/teaser-placeholder-2-{6AA958DD-980C-4EA7-8C5C-295F76807A7B}-0" />
+            <r
+              uid="{0A0C913A-2E96-4562-B7AB-60951C0EFBDC}"
+              p:after="r[@uid='{A3418823-AC1E-4EB7-8246-4AB62DA5726E}']"
+              s:ds="{1E20AC3B-293A-47E2-A485-5E18779AE198}"
+              s:id="{794921F7-3FCA-48A3-9F5C-2823D0B59BA2}"
+              s:par=""
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0/col-huge-{5C09AE12-6831-4C38-A38C-CF8D2508BA59}-0/teaser-placeholder-1-{6AA958DD-980C-4EA7-8C5C-295F76807A7B}-0" />
+            <r
+              uid="{5C09AE12-6831-4C38-A38C-CF8D2508BA59}"
+              p:after="r[@uid='{0A0C913A-2E96-4562-B7AB-60951C0EFBDC}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{862EC592-8CD5-4699-A4B0-78C8BF7B9D55}-0" />
+            <r
+              uid="{68145BDD-B73B-4642-8B42-27BB6043469D}"
+              p:after="r[@uid='{5C09AE12-6831-4C38-A38C-CF8D2508BA59}']"
+              s:ds="{F744B3B3-338F-4ABA-B2CE-4AA9ABBFC7E1}"
+              s:id="{BC33BB52-419D-4118-9D08-EE4009C50D3E}"
+              s:par=""
+              s:ph="/page-layout/section-{2D55E0DB-4209-4E03-A5F3-5853E1ED4A95}-0/col-huge-{EE042A22-FA6A-4DC1-8CE5-2C4275892D88}-0" />
+            <r
+              uid="{EE042A22-FA6A-4DC1-8CE5-2C4275892D88}"
+              p:after="r[@uid='{68145BDD-B73B-4642-8B42-27BB6043469D}']"
+              s:id="{CFDB3B22-1701-4396-8161-79FB6880F9A0}"
+              s:ph="/page-layout/section-{2D55E0DB-4209-4E03-A5F3-5853E1ED4A95}-0" />
+            <r
+              uid="{415EB806-C58D-4393-90B3-9D4B8A79322E}"
+              p:after="r[@uid='{9DCAC3A5-FC4B-4B6F-87C6-4A0342390064}']"
+              s:ds="{F744B3B3-338F-4ABA-B2CE-4AA9ABBFC7E1}"
+              s:id="{BC33BB52-419D-4118-9D08-EE4009C50D3E}"
+              s:ph="page-layout" />
+            <r
+              uid="{780B7A15-B9A6-43E1-BDB1-D455F9A774D8}"
+              p:after="r[@uid='{415EB806-C58D-4393-90B3-9D4B8A79322E}']"
+              s:id="{8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}"
+              s:ph="page-layout" />
+            <r
+              uid="{58D8F06A-F16E-4F2E-B9EB-3184180BB4BF}"
+              p:after="r[@uid='{780B7A15-B9A6-43E1-BDB1-D455F9A774D8}']"
+              s:ds="{EF7FFFCB-EE5E-4F3D-9A64-690F80EC34C4}"
+              s:id="{54928386-719D-48B9-8A91-524D9961E36D}"
+              s:ph="page-layout" />
+            <r
+              uid="{FEA4FCB3-5BB7-41AF-8764-0BFF8E568883}"
+              p:after="r[@uid='{58D8F06A-F16E-4F2E-B9EB-3184180BB4BF}']"
+              s:ds="{571D2038-394E-4B2B-BE87-F3435350897C}"
+              s:id="{F3136503-1EEB-41D2-B47C-89FBC34BC540}"
+              s:ph="page-layout" />
+            <r
+              uid="{2FB7FB63-ED05-4070-9703-3D35EC8EBC78}"
+              p:after="r[@uid='{FEA4FCB3-5BB7-41AF-8764-0BFF8E568883}']"
+              s:ds="{2757383F-FBD4-40BA-84CC-0B025EF0AE2A}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{D6C0FFCB-F4D3-4AC2-909C-150D7379089A}"
+              p:after="*[1=2]"
+              s:ds="{E7E7F6D0-F959-48D3-AD9E-682B77EE6C5F}"
+              s:id="{885784F0-9175-4BFB-AF11-8184E69ABB14}"
+              s:par=""
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "1d7f5999-9735-4c52-9e08-47bd7df3fb40"
+      Hint: PreTitle
+      Value: Προγράμματα Ασφάλισης Υγείας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190527T131812Z
+    - ID: "328f77a3-08cc-4496-b8c9-184e3c194993"
+      Hint: ToolkitHowItWorks
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "4791fadd-9bb5-4efd-b542-4d2f8bb634e4"
+      Hint: ToolkitSubhead
+      Value: |
+        Στις ενότητες που ακολουθούν θα βρείτε όλες τις πληροφορίες που χρειάζεστε για να 
+        ενημερωθείτε πλήρως και να αποφασίσετε για την ασφάλισή σας.
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Προγράμματα Ασφάλισης Υγείας
+    - ID: "59b7d0be-39f3-4f45-b645-bde65fa07015"
+      Hint: CTA
+      Value: |
+        <link linktype="external" text="ΖΗΤΗΣΤΕ ΠΡΟΣΦΟΡΑ" url="https://github.com" anchor="" target="" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <strong id="docs-internal-guid-cb1f758a-7fff-f569-b2e9-5c44c46b0817"></strong>
+        <br class="Apple-interchange-newline" />
+    - ID: "6271f1c8-d91e-47ed-8f4a-99fe75d004a5"
+      Hint: ToolkitContactTransfer
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "83b0e4e3-ab03-43e3-8083-3e7fd2946ad4"
+      Hint: ToolkitTitle
+      Value: Εργαλεία Ενημέρωσης
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Φροντίστε τον εαυτό σας και τους αγαπημένους σας.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediapath="" alt="carousel_1920x680" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{3224D0FC-2DB9-4311-8E19-D04E32C627B8}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Health

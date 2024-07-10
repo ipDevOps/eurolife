@@ -1,0 +1,18 @@
+﻿---
+ID: "01d8867e-7244-41e9-9742-ee60972e6f12"
+Parent: "cdb46365-d728-48c2-8eb6-604dd8b92a9f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Media/_HasMediaPublication/Publication/MediaPublishDate
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Date
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T115224Z

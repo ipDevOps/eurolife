@@ -1,0 +1,7 @@
+﻿@using Wedia.Feature.Blog.Models
+@model ArticlesList
+
+@foreach (var item in Model.Articles)
+{
+  @Html.Partial("_ArticleItem", item)
+} 

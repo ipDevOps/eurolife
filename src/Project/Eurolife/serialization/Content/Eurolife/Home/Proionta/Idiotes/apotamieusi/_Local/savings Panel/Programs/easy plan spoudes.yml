@@ -1,0 +1,39 @@
+﻿---
+ID: "cbfbc261-8c88-4db1-83a8-f8185c11b589"
+Parent: "b193f7ba-c80e-46c1-a697-7efb214b0578"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/apotamieusi/_Local/savings Panel/Programs/easy plan spoudes
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T121127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Easy Plan Σπουδές τακτικών καταβολών
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {B827764C-B1AE-4DCA-A258-1CEAFB833567}
+        {DD096869-07B3-4A47-9839-1BDAC0942C9B}
+        {51417EB2-4889-4358-AA5C-A0BFA290BA8D}
+        {97D183C5-7E60-4E93-99A8-EE460C614481}
+        {15045752-E5CC-45F1-A122-542A6D256599}
+        {7D66A010-100B-4149-B777-B588D7715CBF}
+        {175E931D-BFCA-4D32-A052-2ADEFC2D9A25}
+        {C0275E64-6DD1-40D2-A73D-4F0CC0BE6FDD}
+        {029937D1-2719-4BEA-9561-4B3DA2775AB7}
+        {2C39CF6D-FFB1-49FC-AB63-B517ABFE7443}
+        {C71C95D4-BC7F-447A-AC58-014DBE51D47B}
+        {8305B3D4-7D2D-4DAA-9FB8-EAB5FDE0E5EA}
+        {80DE3EC4-44DA-418C-8CE1-C22CDD73D9BF}
+        {08D4E7EF-0479-4974-9CE6-E6AE65A55502}

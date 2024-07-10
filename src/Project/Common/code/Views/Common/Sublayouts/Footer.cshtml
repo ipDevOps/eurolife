@@ -1,0 +1,18 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+
+}
+
+<div class="footer__lists">
+  <div class="footer__lists @Html.PlaceholderStyle()">
+    @Html.Sitecore().Placeholder("footer-lists")
+  </div>
+</div>
+
+<div class="footer__info">
+  @Html.Sitecore().Placeholder("footer-bottom")  
+  <a href="https://www.wedia.gr/" class="footer__madeyby" target="_blank">
+    Made by <img src="@Url.Content("~/images/wedia-logo.svg")" alt="made by wedia | wedia logo" />
+  </a>
+</div>

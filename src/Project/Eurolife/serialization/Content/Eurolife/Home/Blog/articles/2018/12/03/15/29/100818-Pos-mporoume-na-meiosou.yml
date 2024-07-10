@@ -1,0 +1,39 @@
+﻿---
+ID: "c2f084da-9ee5-41a6-bf12-c6b92e0744e6"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/100818-Pos-mporoume-na-meiosoume-ti-xrisi-plastikou"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152932Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Πώς μπορούμε να μειώσουμε τη χρήση πλαστικού;
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Ενημερωθείτε αναλυτικά για την <a href="http://www.as-milisoume.gr/el/Articles/koinh-ekstrateia-SKAI-WWF-kai-Greenpeace-gia-tha-thalassa-mas">κοινή εκστρατεία ΣΚΑΪ, WWF και Greenpeace</a> και δείτε μερικά εύκολα και πρακτικά tips για το πώς να μειώσετε τη - χρήση του πλαστικού στην καθημερινότητά σας στο video που ακολουθεί:</p><p style="text-align: left;"></p><p style="text-align: left;"></p><iframe src="https://www.youtube.com/embed/GZzf_rFxP5U" allow="autoplay; encrypted-media" width="560" height="315" frameborder="0"></iframe>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">Συνολικά το 95% των απορριμμάτων της θάλασσας είναι πλαστικό, σύμφωνα με τη WWF. Μειώνοντας τη χρήση του πλαστικού στην καθημερινότητά μας μπορούμε όλοι να συμβάλλουμε στο να έχουμε καθαρότερες θάλασσες.</p>
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Πώς μπορούμε να μειώσουμε τη χρήση πλαστικού;
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180801T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

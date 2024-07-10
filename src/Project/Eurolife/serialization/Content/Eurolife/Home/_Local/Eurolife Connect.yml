@@ -1,0 +1,35 @@
+﻿---
+ID: "9601e33b-00fb-4620-8fe9-0ff53ed6e885"
+Parent: "bd6551e4-a620-4ddc-a65f-e036ca70cec8"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/_Local/Eurolife Connect
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        &Tau;&omicron; &nu;έ&omicron; portal &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &tau;&omicron; &delta;&iota;&kappa;ό &sigma;&alpha;&sigmaf; &chi;ώ&rho;&omicron; ό&pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha;<br />
+        έ&chi;&epsilon;&tau;&epsilon; &pi;&rho;ό&sigma;&beta;&alpha;&sigma;&eta; &omicron;&pi;&omicron;&iota;&alpha;&delta;ή&pi;&omicron;&tau;&epsilon; &sigma;&tau;&iota;&gamma;&mu;ή &sigma;&tau;&alpha; &sigma;&upsilon;&mu;&beta;ό&lambda;&alpha;&iota;ά &sigma;&alpha;&sigmaf;, &tau;&iota;&sigmaf; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon;&sigmaf;,<br />
+        &tau;&iota;&sigmaf; &pi;&lambda;&eta;&rho;&omega;&mu;έ&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon;&sigmaf; &tau;&rho;ό&pi;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &mu;&pi;&omicron;&rho;&omicron;ύ&mu;&epsilon; &nu;&alpha; &sigma;&alpha;&sigmaf; &beta;&omicron;&eta;&theta;ή&sigma;&omicron;&upsilon;&mu;&epsilon;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: "Eurolife Connect: Δίπλα σας κάθε στιγμή "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190821T082716Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link text="ΣΥΝΔΕΣΗ" linktype="external" url="https://connect.eurolife.gr/" anchor="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{230F71CD-D1AA-4288-84BF-710051F59FCA}" />

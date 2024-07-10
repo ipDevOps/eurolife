@@ -1,0 +1,67 @@
+﻿---
+ID: "193f2f17-ea78-428b-8e9f-c11211f15b4c"
+Parent: "19c58cda-804d-44fe-9044-9ff33f32fdd0"
+Template: "f1e8aa8c-0acb-4186-b3fb-448897ca0831"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Motosykletes - Motopodilata/Motosykletes - Motopodilata"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T134632Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Μοτοσυκλέτες & Μοτοποδήλατα
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: "{D79443D5-2A23-4E5F-8A4A-B820A3801E8C}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: "{DE835AFC-1B4F-4A00-A7CB-2A9F0ECEEA32}"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T051955Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Σύγκριση Προγραμμάτων
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: |
+        {D79443D5-2A23-4E5F-8A4A-B820A3801E8C}
+        {875B4DDE-D293-46CE-8F4D-ADECF897C608}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: |
+        {DE835AFC-1B4F-4A00-A7CB-2A9F0ECEEA32}
+        {B31E8F17-0ADA-469B-AADF-939B5C911E0D}
+    - ID: "eaefde6c-1755-4c47-bc40-237d17a8ebe8"
+      Hint: PanelFilters
+      Type: Multilist
+      Value: 

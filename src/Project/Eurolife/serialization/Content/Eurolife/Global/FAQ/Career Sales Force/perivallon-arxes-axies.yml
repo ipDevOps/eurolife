@@ -1,0 +1,35 @@
+﻿---
+ID: "4238e894-41e7-41a4-8cdc-4da6bb05688f"
+Parent: "7a618702-9de0-4068-9513-1be93a72db97"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: "/sitecore/content/Eurolife/Global/FAQ/Career Sales Force/perivallon-arxes-axies"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Περιβάλλον που είναι χτισμένο με Αρχές και Αξίες
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T092757Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p>- Ό&lambda;&omicron;&iota; &mu;&pi;&omicron;&rho;&omicron;ύ&nu; &nu;&alpha; έ&chi;&omicron;&upsilon;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &gamma;&iota;&alpha; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &epsilon;&iota;&sigma;&omicron;&delta;ή&mu;&alpha;&tau;&omicron;&sigmaf; &kappa;&alpha;&iota; &kappa;&alpha;&rho;&iota;έ&rho;&alpha;&sigmaf;
+        </p>
+        <p>- &Eta; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;&alpha; &epsilon;ί&nu;&alpha;&iota; έ&nu;&alpha; &beta;ή&mu;&alpha; &pi;&rho;&omicron;&sigmaf; &tau;&omicron; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron;, &sigma;&epsilon; &kappa;ά&theta;&epsilon; &epsilon;&pi;ί&pi;&epsilon;&delta;&omicron;</p>
+        <p>
+        - &Eta; &epsilon;&upsilon;&theta;ύ&nu;&eta; &tau;&omega;&nu; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;ά&tau;&omega;&nu; &epsilon;ί&nu;&alpha;&iota; &delta;&iota;&kappa;ή &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &kappa;&alpha;&nu;&epsilon;&nu;ό&sigmaf; ά&lambda;&lambda;&omicron;&upsilon;</p>
+        <p>
+        - &Tau;&omicron; ά&tau;&omicron;&mu;&omicron; &pi;&rho;&omicron;&omicron;&delta;&epsilon;ύ&epsilon;&iota; ό&tau;&alpha;&nu; &pi;&rho;&omicron;&omicron;&delta;&epsilon;ύ&epsilon;&iota; &eta; &omicron;&mu;ά&delta;&alpha;</p>

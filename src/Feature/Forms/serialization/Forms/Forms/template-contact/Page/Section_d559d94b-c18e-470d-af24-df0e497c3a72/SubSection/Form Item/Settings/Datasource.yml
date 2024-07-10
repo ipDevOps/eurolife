@@ -1,0 +1,18 @@
+﻿---
+ID: "241b3d8a-0c8d-4f43-a1a0-ed0e856489db"
+Parent: "0af507da-6c4e-448e-a66a-52afb6dde05f"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/Forms/template-contact/Page/Section/SubSection/Form Item/Settings/Datasource"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T143557Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

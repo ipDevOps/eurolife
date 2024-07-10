@@ -1,0 +1,36 @@
+﻿---
+ID: "a4e5c5a2-6763-48db-94b5-31cf331c800b"
+Parent: "f7aab2e6-019c-4d0e-81c1-800abaaf3f24"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Programs/mikti asfaleia zois
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T203050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Μικτή Ασφάλεια Ζωής
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {77BFD617-804E-4ACA-8696-ED873845F909}
+        {3357D818-F592-40A9-81F2-5892C6C3DCAE}
+        {3A68D48C-B458-4D70-B81D-4B9192049DC3}
+        {3ACB82A8-6C8B-40E3-BBDD-66799650E31C}
+        {4B3B68D0-E329-47A4-B780-E8B79288FB4F}
+        {C61A66B8-0CB2-446B-81D0-0CA669874B77}
+        {31D55638-CE17-438F-9C3A-05D120952C7A}
+        {0544B438-0797-4C89-8782-C40DEADB2925}
+        {B9E2B65E-422A-4160-8078-58DBF57FB0F3}
+        {FCE7EC41-041A-481F-B35D-D54B4C88D7F7}
+        {9844FEA7-4ED3-4EA7-BD83-17FBE29BEBFF}

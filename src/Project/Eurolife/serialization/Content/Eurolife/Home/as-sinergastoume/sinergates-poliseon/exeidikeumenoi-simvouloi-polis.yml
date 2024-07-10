@@ -1,0 +1,135 @@
+﻿---
+ID: "ca091a7d-8c6b-4c6b-80a1-078fc9df89d0"
+Parent: "b6521d92-8b82-4fc2-a5c7-8137c32d487e"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0310BA03-CA1E-42FA-9079-63512D930220}"
+              p:before="*"
+              s:id="{0C50FD78-8252-4FC9-B779-8222677467FA}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{7AB15643-B9FB-4875-A62D-A77F9C35BF82}"
+              p:after="r[@uid='{0310BA03-CA1E-42FA-9079-63512D930220}']"
+              s:id="{00C6C1FB-EB91-43A5-84EF-1F8B207496CC}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{9739C414-2593-43AF-96E0-32B994979384}"
+              p:after="r[@uid='{7AB15643-B9FB-4875-A62D-A77F9C35BF82}']"
+              s:id="{32F9A214-369B-44EC-B30F-09BBA8BA8058}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{492AA92C-5E98-44F8-8945-D6CEA8E19DA9}"
+              p:after="r[@uid='{9739C414-2593-43AF-96E0-32B994979384}']"
+              s:ds=""
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:par="Background"
+              s:ph="page-layout" />
+            <r
+              uid="{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}">
+              <p:d />
+            </r>
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{88B91DF2-05C4-4CE5-A2AF-B1506006B971}">
+              <p:d />
+            </r>
+            <r
+              uid="{BBC5A59F-649F-45FC-9A5D-5A9E92A36BDB}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{44A229FC-D4BB-4CBC-9FF5-BBBC7F663910}"
+              s:id="{FFB4450F-586B-47D1-9008-DA761EA95DE3}"
+              s:ph="page-layout" />
+            <r
+              uid="{B11EE1A4-DF0D-44E6-9922-7FFCB508A588}"
+              p:after="r[@uid='{BBC5A59F-649F-45FC-9A5D-5A9E92A36BDB}']"
+              s:ds="{BB9A975B-B302-4B60-8DC2-F31E9A77C96C}"
+              s:id="{14B060D9-30B9-4B83-A5E9-DD74C86D253B}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191009T111041Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Εξειδικευμένοι Σύμβουλοι Πωλήσεων Εurolife ERB
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Εξειδικευμένοι Σύμβουλοι Πωλήσεων Εurolife ERB
+    - ID: "48c14f0a-157d-43e9-b294-261895506ae9"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{DBF1607C-EAAE-4600-BCC9-F72633E81267}" />
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong>&Sigma;&tau;&eta; Eurolife ERB &pi;&iota;&sigma;&tau;&epsilon;ύ&omicron;&upsilon;&mu;&epsilon; &sigma;&tau;&omicron; &pi;&alpha;&rho;ό&nu; &kappa;&alpha;&iota; &sigma;&tau;&omicron; &mu;έ&lambda;&lambda;&omicron;&nu; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &alpha;&gamma;&omicron;&rho;ά&sigmaf;.</strong><br />
+        &Epsilon;&nu;ό&sigmaf; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;&omicron;ύ &kappa;&lambda;ά&delta;&omicron;&upsilon; &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;ί&alpha;&sigmaf; &pi;&omicron;&upsilon; &pi;&alpha;ί&zeta;&epsilon;&iota; &kappa;&alpha;&theta;&omicron;&rho;&iota;&sigma;&tau;&iota;&kappa;ό &rho;ό&lambda;&omicron; &sigma;&tau;&eta;&nu; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;ή &tau;&eta;&sigmaf;, ό&chi;&iota; &mu;ό&nu;&omicron; &mu;έ&sigma;&omega; &tau;&omega;&nu; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ώ&nu; &tau;&omicron;&upsilon; &epsilon;&pi;&epsilon;&nu;&delta;ύ&sigma;&epsilon;&omega;&nu; &sigma;&epsilon; &alpha;&upsilon;&tau;ή, &alpha;&lambda;&lambda;ά &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron; &delta;&iota;ό&tau;&iota; &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&eta;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ή &mu;&alpha;&sigmaf; &delta;&omicron;&upsilon;&lambda;&epsilon;&iota;ά &alpha;&nu;&tau;&iota;&mu;&epsilon;&tau;&omega;&pi;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&iota;&sigmaf; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;έ&sigmaf; &sigma;&upsilon;&nu;έ&pi;&epsilon;&iota;&epsilon;&sigmaf; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;ώ&nu;/ &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&iota;&kappa;ώ&nu; &kappa;&iota;&nu;&delta;ύ&nu;&omega;&nu;, &delta;&iota;&alpha;&mu;&omicron;&rho;&phi;ώ&nu;&omicron;&nu;&tau;&alpha;&sigmaf; έ&tau;&sigma;&iota; &sigma;&upsilon;&nu;&theta;ή&kappa;&epsilon;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha;&sigmaf; &sigma;&epsilon; &nu;&omicron;&iota;&kappa;&omicron;&kappa;&upsilon;&rho;&iota;ά &kappa;&alpha;&iota; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&iota;&sigmaf;.<br />
+        &nbsp;<br />
+        &Eta; έ&nu;&tau;&alpha;&xi;&eta; &nu;έ&omega;&nu; &alpha;&nu;&theta;&rho;ώ&pi;&omega;&nu; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά &kappa;&alpha;&iota; &epsilon;&iota;&delta;&iota;&kappa;ό&tau;&epsilon;&rho;&alpha; &sigma;&tau;&omicron;&nu; &nu;&epsilon;&upsilon;&rho;&alpha;&lambda;&gamma;&iota;&kappa;ό &tau;&omicron;&mu;έ&alpha; &tau;&eta;&sigmaf; &pi;&rho;&omicron;ώ&theta;&eta;&sigma;&eta;&sigmaf; &tau;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu;, &sigma;&epsilon; &iota;&delta;&iota;ώ&tau;&epsilon;&sigmaf; &kappa;&alpha;&iota; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&iota;&sigmaf;, &alpha;&nu;&alpha;&mu;&phi;ί&beta;&omicron;&lambda;&alpha; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &pi;&rho;&omicron;&tau;&epsilon;&rho;&alpha;&iota;ό&tau;&eta;&tau;ά &mu;&alpha;&sigmaf;. &Tau;&omicron; &Delta;ί&kappa;&tau;&upsilon;&omicron; &Epsilon;&xi;&epsilon;&iota;&delta;&iota;&kappa;&epsilon;&upsilon;&mu;έ&nu;&omega;&nu; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu; &tau;&eta;&sigmaf; Eurolife ERB, &tau;&omicron; &omicron;&pi;&omicron;ί&omicron; &delta;&iota;&alpha;&mu;&omicron;&rho;&phi;ώ&theta;&eta;&kappa;&epsilon; &pi;&rho;&omicron;&kappa;&epsilon;&iota;&mu;έ&nu;&omicron;&upsilon; &nu;&alpha; &pi;&rho;&omicron;&sigma;&phi;έ&rho;&epsilon;&iota; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &sigma;&epsilon; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &epsilon;&pi;&iota;&delta;&iota;ώ&kappa;&omicron;&upsilon;&nu; &tau;&eta;&nu; έ&nu;&tau;&alpha;&xi;ή &tau;&omicron;&upsilon;&sigmaf; &sigma;&tau;&omicron; &epsilon;&pi;ά&gamma;&gamma;&epsilon;&lambda;&mu;&alpha; &tau;&omicron;&upsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;&omicron;ύ &Delta;&iota;&alpha;&mu;&epsilon;&sigma;&omicron;&lambda;&alpha;&beta;&eta;&tau;ή, &nu;&alpha; &tau;&omicron; &kappa;ά&nu;&omicron;&upsilon;&nu; &mu;&epsilon; &tau;&iota;&sigmaf; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&epsilon;&sigmaf; &delta;&upsilon;&nu;&alpha;&tau;έ&sigmaf; &pi;&rho;&omicron;ϋ&pi;&omicron;&theta;έ&sigma;&epsilon;&iota;&sigmaf;.</span></p>
+        <p><span style="background-color: transparent; text-decoration: none; color: #000000;">
+        <strong>&Sigma;&epsilon; &pi;&omicron;&iota;&omicron;ύ&sigmaf; &alpha;&pi;&epsilon;&upsilon;&theta;ύ&nu;&epsilon;&tau;&alpha;&iota;</strong></span></p>
+        <p><span style="background-color: transparent; text-decoration: none; color: #000000;">&Sigma;&epsilon; &epsilon;&sigma;ά&sigmaf; &pi;&omicron;&upsilon; &epsilon;&pi;&iota;&delta;&iota;ώ&kappa;&epsilon;&tau;&epsilon; &mu;&iota;&alpha; &nu;έ&alpha; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ή &sigma;&tau;&alpha;&delta;&iota;&omicron;&delta;&rho;&omicron;&mu;ί&alpha;:</span></p>
+        <ul>
+            <li><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong>&Mu;&epsilon;&nbsp; &omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ή &alpha;&sigma;&phi;ά&lambda;&epsilon;&iota;&alpha; &amp; &pi;&rho;&omicron;&omicron;&pi;&tau;&iota;&kappa;ή</strong>: &Delta;ί&nu;&omicron;&nu;&tau;ά&sigmaf; &sigma;&alpha;&sigmaf; &tau;&eta; &delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &nu;&alpha;&nbsp; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&pi;&omicron;&iota;&eta;&theta;&epsilon;ί&tau;&epsilon; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;&eta;&mu;&alpha;&tau;&iota;&kappa;ά&nbsp; &chi;&omega;&rho;ί&sigmaf; &tau;&eta;&nu; &alpha;&nu;ά&lambda;&eta;&psi;&eta; &alpha;&nu;ά&lambda;&omicron;&gamma;&omicron;&upsilon; &rho;ί&sigma;&kappa;&omicron;&upsilon;.<br />
+            </span></li>
+            <li><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong>&Mu;&epsilon;&nbsp; &sigma;&tau;&alpha;&theta;&epsilon;&rho;ό&tau;&eta;&tau;&alpha;</strong>: Έ&nu;&alpha; &omicron;&delta;&iota;&kappa;ό &chi;ά&rho;&tau;&eta; &gamma;&iota;&alpha; &nu;&alpha; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;ή&sigma;&epsilon;&tau;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;&omicron;ύ&sigmaf; ή &kappa;&alpha;&iota; &omicron;&iota;&kappa;&omicron;&gamma;&epsilon;&nu;&epsilon;&iota;&alpha;&kappa;&omicron;ύ&sigmaf; &sigma;&tau;ό&chi;&omicron;&upsilon;&sigmaf; &sigma;&alpha;&sigmaf;, &delta;&iota;&alpha;&chi;&rho;&omicron;&nu;&iota;&kappa;ά.<br />
+            </span><span style="background-color: transparent; text-decoration: none; color: #000000;"></span></li>
+        </ul>
+        <ul>
+            <li><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong>&Mu;&epsilon; &epsilon;&tau;&alpha;&iota;&rho;&iota;&kappa;ή &tau;&alpha;&upsilon;&tau;ό&tau;&eta;&tau;&alpha;</strong>: &Eta; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ή &sigma;&alpha;&sigmaf; &pi;&omicron;&rho;&epsilon;ί&alpha; &sigma;&upsilon;&nu;&delta;έ&epsilon;&tau;&alpha;&iota; ά&rho;&rho;&eta;&kappa;&tau;&alpha; &mu;&epsilon; &mu;&iota;&alpha; &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &Kappa;&omicron;&rho;&upsilon;&phi;&alpha;ί&omicron;&upsilon; &Epsilon;&pi;&iota;&pi;έ&delta;&omicron;&upsilon; ό&pi;&omega;&sigmaf; &eta; Eurolife, &pi;&omicron;&upsilon; &pi;&rho;&omega;&tau;&alpha;&gamma;&omega;&nu;&iota;&sigma;&tau;&epsilon;ί &sigma;&tau;&omicron;&nu; &Kappa;&lambda;ά&delta;&omicron; &tau;&eta;&sigmaf;.&Kappa;&alpha;&iota; &mu;ά&lambda;&iota;&sigma;&tau;&alpha; <strong><span style="text-decoration: underline;">&chi;&omega;&rho;ί&sigmaf;</span></strong> &nu;&alpha; &alpha;&pi;&alpha;&iota;&tau;&epsilon;ί&tau;&alpha;&iota; &pi;&rho;&omicron;&eta;&gamma;&omicron;ύ&mu;&epsilon;&nu;&eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &sigma;&tau;&omicron;&nu; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό &Kappa;&lambda;ά&delta;&omicron;, &epsilon;&phi;ό&sigma;&omicron;&nu; &eta; &Epsilon;&tau;&alpha;&iota;&rho;ί&alpha; &pi;&alpha;&rho;έ&chi;&epsilon;&iota; ό&lambda;&eta; &tau;&eta;&nu; &alpha;&nu;&alpha;&gamma;&kappa;&alpha;ί&alpha; &upsilon;&pi;&omicron;&sigma;&tau;ή&rho;&iota;&xi;&eta; &amp; &upsilon;&pi;&omicron;&delta;&omicron;&mu;ή.<br />
+            </span></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Τι είναι το  Δίκτυο Εξειδικευμένων Συμβούλων Πωλήσεων Εurolife ERB
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{3D706DE4-2356-4AEB-801A-E481A7B7CF70}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Εξειδικευμένοι Σύμβουλοι Πωλήσεων Εurolife ERB

@@ -1,0 +1,24 @@
+﻿---
+ID: "f4fe305a-bb4b-449c-97d8-a5e90ed2e0ea"
+Parent: "99c43e69-bfca-4f55-a8c4-e063e9bfe513"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/A/axiografo"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Αξιόγραφο
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T204802Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Κάθε έγγραφο, πιστοποιητικό ή τίτλος που αποτελεί απόδειξη μιας επένδυσης ή τοποθέτησης χρημάτων ή/και ενσωματώνει ιδιωτικό περιουσιακό δικαίωμα που ανήκει στον ασφαλισμένο ή την οικογένειά του.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

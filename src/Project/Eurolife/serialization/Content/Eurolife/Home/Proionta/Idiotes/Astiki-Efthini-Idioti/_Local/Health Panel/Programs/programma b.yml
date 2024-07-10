@@ -1,0 +1,28 @@
+﻿---
+ID: "29f02240-b4d6-412f-a822-92ef09c80cc6"
+Parent: "bfe0812b-7ed4-49ff-a960-6ba602cd1f9b"
+Template: "f9be04cf-b18a-4cf7-9a9f-f757a73e44c1"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/Astiki-Efthini-Idioti/_Local/Health Panel/Programs/programma b"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190910T072705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "61303124-e3cf-431f-b6eb-25a1b3201834"
+      Hint: PanelItemTitle
+      Value: Πρόγραμμα Β
+    - ID: "be970800-6d58-4663-ae9b-111a8ffcd2bd"
+      Hint: PanelItemValue
+      Type: Multilist
+      Value: |
+        {BC74AFDE-1746-4322-921C-AA16EC5429F8}
+        {CEBB7819-EC71-49A9-9748-58820AA401D1}
+        {4B2CC715-3072-4A02-A17D-D35FEBEB32E0}

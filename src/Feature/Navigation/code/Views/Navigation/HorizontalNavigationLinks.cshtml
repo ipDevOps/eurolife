@@ -1,0 +1,21 @@
+﻿@using Wedia.Feature.Navigation
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Wedia.Feature.Navigation.Models.NavigationItems
+
+@{
+  if (Model?.NavItems == null)
+  {
+    return;
+  }
+}
+
+<ul class="footer__legal">
+  @foreach (var link in Model.NavItems)
+  {
+    <li>
+      <a href="@link.Item.LinkFieldUrl(Templates.Link.Fields.Link)">
+        @Html.Sitecore().Field(Templates.Navigable.Fields.NavigationTitle, link.Item)
+      </a>
+    </li>
+  }
+</ul>

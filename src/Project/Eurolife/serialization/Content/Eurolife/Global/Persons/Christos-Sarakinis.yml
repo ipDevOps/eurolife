@@ -1,0 +1,48 @@
+﻿---
+ID: "41bd620f-b2e7-435c-9f61-fc330aed2ded"
+Parent: "ab1c0c24-b504-4225-a0c1-540a2fdd2636"
+Template: "c55ba247-b534-4ac4-b001-77f3ed5467ca"
+Path: "/sitecore/content/Eurolife/Global/Persons/Christos-Sarakinis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T095033Z
+    - ID: "47e95858-efcc-4862-8a26-3905105ece5b"
+      Hint: PersonQuote
+      Value: |
+        Η καθημερινότητά μου με έχει διδάξει ότι "Κάθε πελάτη που διατηρείς, είναι ένας πελάτης λιγότερος για να κερδίσεις"
+        
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Χρήστος Σαρακίνης
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Χρήστος Σαρακίνης
+    - ID: "a212c93a-7c83-4fed-bc5a-5b035baeff50"
+      Hint: PersonImage
+      Value: |
+        <image mediapath="" alt="248-512" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{F6264090-13B7-423F-913C-E401C51FA36A}"></image>
+    - ID: "e57a5fee-e68d-4d37-ac1f-edc51e551121"
+      Hint: PersonPosition
+      Value: Bancassurance Support Team Leader
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190807T123428Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

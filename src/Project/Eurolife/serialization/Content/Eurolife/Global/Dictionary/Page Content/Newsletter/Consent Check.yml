@@ -1,0 +1,37 @@
+﻿---
+ID: "f7f22c00-140b-423b-b379-63294ec682c5"
+Parent: "f4c56fa9-e294-48a7-811f-d8ca48ee3d0f"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Page Content/Newsletter/Consent Check
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190710T132306Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: |
+        Ενημερώθηκα σχετικά με την επεξεργασία των  <a href="https://www.eurolife.gr/el-gr/prosopika-dedomena" style="color:#0645AD;">προσωπικών μου δεδομένων</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190510T124815Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: |
+         Ενημερώθηκα σχετικά με την επεξεργασία των  <a href="https://www.eurolife.gr/el-gr/prosopika-dedomena" style="color:#0645AD;">προσωπικών μου δεδομένων</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,35 @@
+﻿---
+ID: "9402ac14-3e52-4a28-8439-b2b4cddc5246"
+Parent: "96afb584-b188-44b2-948a-2d29f33ecfd1"
+Template: "c2f594c5-783f-4f96-a24a-ea6521dd6bb1"
+Path: /sitecore/content/Eurolife/Global/Media/Grafeio tipou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "193f78b8-6160-4346-92c3-2954ce7026de"
+      Hint: MediaImage
+      Value: |
+        <image mediaid="{304E6005-32D6-43AA-9C71-86104D1D9813}" />
+    - ID: "20faf759-601d-41e5-b2ce-cb23be133c32"
+      Hint: MediaDescription
+      Value: Λειτουργικά κέρδη και πρωτοβουλίες του Προγράμματος Εταιρικής Κοινωνικής Ευθύνης «+πράττουμε»
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190820T134832Z
+    - ID: "2b8d567c-52b2-4d1b-a645-2021d33c24ee"
+      Hint: MediaLabel
+      Value: ΓΡΑΦΕΙΟ ΤΥΠΟΥ
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8e77d56c-9ad2-4b70-bc1f-beb99de004e9"
+      Hint: MediaTitle
+      Value: Επιστρέφουμε αξία στην κοινωνία
+    - ID: "de984d10-9f28-4135-b53f-fe8b5de19c55"
+      Hint: MediaThumbnail
+      Value: |
+        <image mediaid="{4D1054F7-A056-44C3-AA84-829525A1E3D3}" />

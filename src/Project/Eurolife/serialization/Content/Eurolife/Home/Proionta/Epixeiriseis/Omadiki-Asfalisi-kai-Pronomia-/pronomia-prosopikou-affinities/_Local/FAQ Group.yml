@@ -1,0 +1,43 @@
+﻿---
+ID: "f64ced50-7aed-4eb0-9de4-f080fe044f22"
+Parent: "b0dbcda2-2685-49b7-89c0-0492b65a07e6"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/pronomia-prosopikou-affinities/_Local/FAQ Group"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T104352Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T141017Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

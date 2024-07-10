@@ -1,0 +1,21 @@
+﻿---
+ID: "503b7b42-ba4b-4c7d-90b7-bee1e8847bcf"
+Parent: "dba1f069-1f55-4401-87da-6746b9af2b72"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/zoi/_Local/zoi Panel/Programs Attributes/se poious apeuthinetai/Se osous den theloun periorismous stin  oikonomiki prostasia ton dikon tous anthropon
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T204153Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ae0c5505-9bcd-4218-9e66-e5be620bcc7c"
+      Hint: Value
+      Value: Σε όσους θέλουν να εξασφαλίσουν οικονομική προστασία των δικών τους ανθρώπων σε περίπτωση απώλειας της ζωής τους

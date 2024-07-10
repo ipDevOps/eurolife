@@ -1,0 +1,25 @@
+﻿---
+ID: "6e0a3c09-ee6a-409e-b34a-cb2d26d04db6"
+Parent: "703853a1-b3ab-4833-b122-1e0e71bad113"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Prosopika Dedomena/Pou mporo na bro plirofories anaforika me tin epexergasia ton prosopikon mou dedomenonFAQ
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Πού μπορώ να βρω πληροφορίες αναφορικά με την επεξεργασία των προσωπικών μου δεδομένων;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T090944Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&tau;&omicron;&nu; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &sigma;ύ&nu;&delta;&epsilon;&sigma;&mu;&omicron; &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &beta;&rho;&epsilon;ί&tau;&epsilon; &tau;&omicron;&nu; &tau;&rho;ό&pi;&omicron; &mu;&epsilon; &tau;&omicron;&nu; &omicron;&pi;&omicron;ί&omicron; &epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &tau;&alpha; <a href="https://www.eurolife.gr/el/prosopika-dedomena">&pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ά &delta;&epsilon;&delta;&omicron;&mu;έ&nu;</a><a href="https://www.eurolife.gr/el/prosopika-dedomena">&alpha;</a> &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu;, &mu;&alpha;&sigmaf;, &tau;&omega;&nu; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&pi;&tau;ώ&nu;/&chi;&rho;&eta;&sigma;&tau;ώ&nu; &tau;&omega;&nu; &eta;&lambda;&epsilon;&kappa;&tau;&rho;&omicron;&nu;&iota;&kappa;ώ&nu; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &mu;&alpha;&sigmaf;, &tau;&omega;&nu; &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&pi;&tau;ώ&nu; &tau;&omega;&nu; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&omega;&nu; &mu;&alpha;&sigmaf;, &tau;&omega;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &mu;&alpha;&sigmaf;, &tau;&omega;&nu; &upsilon;&pi;&omicron;&psi;&eta;&phi;ί&omega;&nu; &epsilon;&rho;&gamma;&alpha;&zeta;&omicron;&mu;έ&nu;&omega;&nu; &mu;&alpha;&sigmaf; , &tau;&omega;&nu; &epsilon;&nu; &delta;&upsilon;&nu;ά&mu;&epsilon;&iota; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &mu;&alpha;&sigmaf; ή/&kappa;&alpha;&iota; &tau;&omega;&nu; &tau;&rho;ί&tau;&omega;&nu; &delta;&iota;&kappa;&alpha;&iota;&omicron;ύ&chi;&omega;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &alpha;&pi;&omicron;&zeta;&eta;&mu;ί&omega;&sigma;&eta;&sigmaf;. &Eta; &epsilon;&nu;&eta;&mu;έ&rho;&omega;&sigma;&eta; &epsilon;ί&nu;&alpha;&iota; &kappa;&alpha;&tau;&eta;&gamma;&omicron;&rho;&iota;&omicron;&pi;&omicron;&iota;&eta;&mu;έ&nu;&eta;. Έ&tau;&sigma;&iota;, &alpha;&nu; &theta;έ&lambda;&epsilon;&tau;&epsilon;, &mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &epsilon;ύ&kappa;&omicron;&lambda;&alpha; &nu;&alpha; &epsilon;&pi;&iota;&lambda;έ&xi;&epsilon;&tau;&epsilon; &tau;&omicron;&nu; &lambda;ό&gamma;&omicron; &gamma;&iota;&alpha; &tau;&omicron;&nu; &omicron;&pi;&omicron;ί&omicron; &epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &tau;&alpha; &pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ά &sigma;&alpha;&sigmaf; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&alpha; &kappa;&alpha;&iota; &nu;&alpha; &lambda;ά&beta;&epsilon;&tau;&epsilon; &tau;&iota;&sigmaf; &sigma;&chi;&epsilon;&tau;&iota;&kappa;έ&sigmaf; &alpha;&nu;&alpha;&lambda;&upsilon;&tau;&iota;&kappa;έ&sigmaf; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf;.</span>

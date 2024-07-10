@@ -1,0 +1,21 @@
+﻿---
+ID: "7f9210dc-9381-478c-a50d-85abfe5a74bd"
+Parent: "5ced1ec3-2a15-45f1-8e14-c1a1275233f0"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/EurobankHealthTool/Step2/Product Includes
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201104T152536Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: "Περιλαμβάνει:"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

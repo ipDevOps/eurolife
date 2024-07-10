@@ -1,0 +1,40 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Media
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.MediaFileGroup.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.MediaFileGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+}
+
+<li>
+    <input type="checkbox" name="panel" id="panel-00" checked>
+    <label for="panel-00">
+        @Html.Sitecore().Field(Templates.HasMediaGroupTitle.Fields.Title)
+        <span class="accordion__state"></span>
+    </label>
+    <div class="accordion__content">
+        <div class="grid-3 m-b-24">
+            @foreach (var item in Model.Item.GetMultiListValueItems(Templates.MediaFileGroup.Fields.Files))
+            {
+                using (Html.BeginEditFrame(item.ID.ToString(), ""))
+                {
+                <a href="@item.ImageUrl(Templates.MediaFile.Fields.File)" class="file-item" download="true">
+                    <div class="file-item__title">@item.Field(Templates.HasMedia.Fields.Title)</div>
+                    <div class="file-item__desc">
+                      @Html.Sitecore().Dictionary("/Media/Media Files Toolkit Accordion/File Label", "PDF")
+                      (@item.FileSize(Templates.MediaFile.Fields.File))
+                    </div>
+                </a>
+                }
+            }
+        </div>
+    </div>
+</li>
+

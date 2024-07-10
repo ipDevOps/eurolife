@@ -1,0 +1,37 @@
+﻿---
+ID: "d4214d2e-ccd1-4231-8e3b-5a0e8b64fb12"
+Parent: "9cfa36e6-c4f4-4aa7-a7ce-28cb407615ba"
+Template: "62b2fb1b-fd79-403a-aed2-9d1f464a2e63"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/extra hospital care/_Local/Teaser List epidomata
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Epsilon;&nu;&iota;&sigma;&chi;ύ&sigma;&tau;&epsilon; &tau;&eta; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha; &tau;&omicron;&upsilon; &epsilon;&alpha;&upsilon;&tau;&omicron;ύ &sigma;&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&omega;&nu; &alpha;&gamma;&alpha;&pi;&eta;&mu;έ&nu;&omicron;&upsilon;&sigmaf; &sigma;&alpha;&sigmaf;, &mu;&epsilon; έ&nu;&alpha; &alpha;&pi;ό &tau;&alpha; &epsilon;&xi;&omega;&nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ά &mu;&alpha;&sigmaf; &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&alpha;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Εξωνοσοκομειακά προγράμματα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T095722Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T132913Z
+    - ID: "c1b4b643-02c7-4362-b316-465478198ff6"
+      Hint: Count
+      Value: 3

@@ -1,0 +1,56 @@
+﻿---
+ID: "38edb121-e87e-4c46-b4fc-067b1a1aabb3"
+Parent: "a2bb8e7b-3841-49b7-b028-29a09d6ddcd9"
+Template: "537eda0b-cad9-414a-a01f-33356d9305ab"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/our-story/_Local/Storyboard Items/2016"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 675
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19e2ddeb-92cb-4aeb-876c-040437f0f4bf"
+      Hint: StoryboardItemBgClass
+      Value: "{3ABEF2ED-9AC2-40E8-83C3-5F94B5604F31}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T143231Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "ca468a9d-b4bc-4c66-b9b2-a3b7db1793a5"
+      Hint: StoryboardItemImage
+      Value: |
+        <image mediaid="{083D61AA-5795-4969-86FE-08826F5C45C9}" />
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2016
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: &Omicron; &delta;&iota;&epsilon;&theta;&nu;ή&sigmaf; &epsilon;&pi;&epsilon;&nu;&delta;&upsilon;&tau;&iota;&kappa;ό&sigmaf; ό&mu;&iota;&lambda;&omicron;&sigmaf; Fairfax Financial Holdings Limited &mu;&alpha;&sigmaf; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;ύ&tau;&eta;&kappa;&epsilon; &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&omicron;&nu; &Alpha;ύ&gamma;&omicron;&upsilon;&sigma;&tau;&omicron; &tau;&omicron;&upsilon; 2016 &epsilon;&lambda;έ&gamma;&chi;&epsilon;&iota; &alpha;&pi;ό &kappa;&omicron;&iota;&nu;&omicron;ύ &mu;&epsilon; &tau;&eta;&nu; OMERS Administration Corporation &tau;&omicron; 80% &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; &mu;&alpha;&sigmaf;.
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19e2ddeb-92cb-4aeb-876c-040437f0f4bf"
+      Hint: StoryboardItemBgClass
+      Value: "{F53D7E33-D5A7-4BD4-AFE9-3DB28EDAA7EB}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190517T110951Z
+    - ID: "ca468a9d-b4bc-4c66-b9b2-a3b7db1793a5"
+      Hint: StoryboardItemImage
+      Value: |
+        <image mediaid="{4A4F16BF-B02C-41FC-B212-F25FCFA9DD1C}" />
+    - ID: "d13f4dd5-c2d2-4b66-87fa-c467bb5d9aca"
+      Hint: StoryboardItemYear
+      Value: 2016
+    - ID: "ea2d1d4e-972a-434c-b449-6329f2e7c3aa"
+      Hint: StoryboardItemContent
+      Value: |
+        <span id="docs-internal-guid-60c82292-7fff-3385-35b6-999cbb075e80" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-ac1a8e0d-7fff-23f4-c1c5-10478773512a" style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-2d789a57-7fff-9d03-1fc3-8a15f613712d" style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&iota;&alpha; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&iota;&omicron; &sigma;&eta;&mu;&alpha;&nu;&tau;&iota;&kappa;έ&sigmaf; &chi;&rho;&omicron;&nu;&iota;έ&sigmaf; &sigma;&tau;&eta;&nu; &iota;&sigma;&tau;&omicron;&rho;ί&alpha; &mu;&alpha;&sigmaf;, &kappa;&alpha;&theta;ώ&sigmaf; &mu;&pi;ή&kappa;&alpha;&mu;&epsilon; &sigma;&epsilon; &mu;&iota;&alpha; &nu;έ&alpha; &epsilon;&pi;&omicron;&chi;ή, &mu;&epsilon; &nu;έ&alpha; &tau;&rho;&omicron;&chi;&iota;ά &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;&sigmaf;. &Omicron; &delta;&iota;&epsilon;&theta;&nu;ή&sigmaf; &epsilon;&pi;&epsilon;&nu;&delta;&upsilon;&tau;&iota;&kappa;ό&sigmaf; Ό&mu;&iota;&lambda;&omicron;&sigmaf; Fairfax Financial Holdings S.A. &mu;&alpha;&sigmaf; &epsilon;&mu;&pi;&iota;&sigma;&tau;&epsilon;ύ&tau;&eta;&kappa;&epsilon; &kappa;&alpha;&iota; &alpha;&pi;ό &tau;&omicron;&nu; &Alpha;ύ&gamma;&omicron;&upsilon;&sigma;&tau;&omicron; &epsilon;&lambda;έ&gamma;&chi;&epsilon;&iota; &tau;&omicron; 80% &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; &mu;&alpha;&sigmaf; &ndash; &mu;&epsilon; &tau;&eta; Eurobank &nu;&alpha; &delta;&iota;&alpha;&tau;&eta;&rho;&epsilon;ί &tau;&omicron; 20%.</span></span></span>

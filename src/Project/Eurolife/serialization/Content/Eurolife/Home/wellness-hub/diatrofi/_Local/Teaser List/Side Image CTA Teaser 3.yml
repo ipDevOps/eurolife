@@ -1,0 +1,36 @@
+﻿---
+ID: "46a66445-f0dd-4fab-b2ff-598ddd551dc8"
+Parent: "18ed5a25-0139-452c-95d1-285ede605878"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/wellness-hub/diatrofi/_Local/Teaser List/Side Image CTA Teaser 3"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Υποστηρίζουμε την ευημερία των ανθρώπων και θέλουμε να χτίζουμε την αυτοπεποίθησή τους.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Απόδοση στο γραφείο
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T092820Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link linktype="internal" text="View" querystring="" target="" id="{8C9DFCD5-D2B6-47DE-B9A4-21691658BB7C}" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{3B090C83-81C2-4283-A2A0-CA7352081AA1}" />

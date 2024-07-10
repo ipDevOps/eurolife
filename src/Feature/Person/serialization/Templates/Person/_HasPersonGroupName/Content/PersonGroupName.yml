@@ -1,0 +1,18 @@
+﻿---
+ID: "dac83a8f-9622-442f-b594-964d5f01b1e3"
+Parent: "39d732ee-6f30-44be-ab28-195036d64197"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Person/_HasPersonGroupName/Content/PersonGroupName
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T110512Z

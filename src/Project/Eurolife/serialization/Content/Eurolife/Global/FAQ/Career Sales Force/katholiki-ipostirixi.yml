@@ -1,0 +1,38 @@
+﻿---
+ID: "d910c4f6-7e84-4fe4-90a4-d049b5204654"
+Parent: "7a618702-9de0-4068-9513-1be93a72db97"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: "/sitecore/content/Eurolife/Global/FAQ/Career Sales Force/katholiki-ipostirixi"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Καθολική υποστήριξη των αναγκών και επιθυμιών σας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T092729Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <p>- &Kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ή &pi;&rho;&omicron;&sigma;&omega;&pi;&omicron;&pi;&omicron;&iota;&eta;&mu;έ&nu;&eta; &kappa;&alpha;&theta;&omicron;&delta;ή&gamma;&eta;&sigma;&eta;</p>
+        <p>- &Pi;&rho;&omicron;&sigma;&omega;&pi;&iota;&kappa;ό &pi;&lambda;ά&nu;&omicron; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta;&sigmaf; &kappa;&alpha;&iota; &epsilon;&xi;έ&lambda;&iota;&xi;&eta;&sigmaf;
+        </p>
+        <p>- &Delta;&upsilon;&nu;&alpha;&tau;ό&tau;&eta;&tau;&alpha; &epsilon;&xi;έ&lambda;&iota;&xi;&eta;&sigmaf; &kappa;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &pi;&omega;&lambda;ή&sigma;&epsilon;&iota;&sigmaf; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &sigma;&tau;&omicron; Sales Management
+        </p>
+        <p>- &Sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&omicron; &pi;&epsilon;&rho;&iota;&beta;ά&lambda;&lambda;&omicron;&nu; &epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha;&sigmaf;
+        </p>
+        <p>- &Alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &kappa;&omicron;&rho;&upsilon;&phi;&alpha;ί&alpha;&sigmaf; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;&alpha;
+        </p>
+        <p>- &Kappa;&omicron;&rho;&upsilon;&phi;&alpha;ί&alpha; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ή &epsilon;&kappa;&pi;&alpha;ί&delta;&epsilon;&upsilon;&sigma;&eta; &pi;&omicron;&upsilon; &alpha;&nu;&tau;&alpha;&pi;&omicron;&kappa;&rho;ί&nu;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &alpha;&pi;&alpha;&iota;&tau;ή&sigma;&epsilon;&iota;&sigmaf;</p>

@@ -1,0 +1,43 @@
+﻿---
+ID: "52e17910-ed56-4faa-801b-19a46a7281c9"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/310818-Odigisi-kai-ypnilia-Enas-odigos-gia-to-kalokairi"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152940Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "Οδήγηση και υπνηλία: Ένας οδηγός για το καλοκαίρι"
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F33C1248-D401-4C0C-93BA-235A7C9D9FC9}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Το καλοκαίρι η μέρα είναι μεγαλύτερη, η διάθεση είναι περισσότερη και ο ύπνος μπορεί να είναι λιγότερος, γιατί όταν έχει τέτοιες βραδιές ποιος κοιμάται; Η απάντηση είναι αυτός που οδηγεί! Ο ύπνος, στις μέρες μας, είναι για κάποιους πολυτέλεια. Όμως, αυτό που τείνουν να ξεχνούν πολλοί είναι ότι ο ύπνος είναι απαραίτητος, τόσο για τον οργανισμό όσο και για τον εγκέφαλό μας. Όταν δεν κοιμόμαστε αρκετά δυσκολευόμαστε να κάνουμε ακόμα και κάτι πολύ απλό όπως το να οδηγήσουμε. <strong>Ο χρόνος αντίδρασης αυξάνεται, ενώ η ετοιμότητά μας μειώνεται. </strong></p><p style="text-align: justify;">Μπορεί να σας φαίνεται ανήκουστο ένας οδηγός να πίνει και να οδηγεί. Έχετε σκεφτεί ποτέ όμως ότι η οδήγηση όντας άυπνοι είναι εξίσου επικίνδυνη; Όπως τότε που δεν προλάβατε να σταματήσετε και περάσατε με κόκκινο ή τότε που κάνατε όπισθεν, χωρίς να δείτε το όχημα που ήταν σταματημένο από πίσω σας, πολύ απλά γιατί νυστάζατε.</p><p style="text-align: justify;">Είναι πλέον αποδεδειγμένο ότι η κόπωση και η υπνηλία είναι εξίσου επικίνδυνες για την οδήγηση υπό την επήρεια αλκοόλ: </p><ul>    <li>&nbsp; <strong>18 ημέρες χωρίς ύπνο</strong>: μείωση της ικανότητας αντίδρασης παρόμοια με αυτή που παρατηρείται με κατανάλωση αλκοόλ μεγαλύτερη από το επιτρεπόμενο όριο </li></ul><ul>    <li><strong>&nbsp;33% των συνολικών οδικών ατυχημάτων αποδίδεται στην υπνηλία</strong></li></ul><p style="text-align: justify;"><strong>Χαρακτηριστικά της υπνηλίας</strong></p><p style="text-align: justify;">Είτε οδηγείτε είτε όχι καλό είναι να γνωρίζετε τα χαρακτηριστικά της υπνηλίας. Δείτε παρακάτω ποιες είναι οι ενδείξεις σύμφωνα με το National Sleep Foundation: </p><ul>    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Δυσκολία συγκέντρωσης ή βάρος στα βλέφαρα</strong></li>    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Σκέψεις χωρίς ειρμό</strong></li>    <li>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <strong>Δυσκολία στο να θυμηθείτε τα τελευταία χιλιόμετρα που διανύσατε</strong></li>    <li>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; <strong>Δεν παρατηρείτε τη σήμανση</strong></li>    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Συνεχόμενο χασμουρητό </strong></li>    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Δυσκολία να κρατήσετε το κεφάλι σας ψηλά</strong></li>    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Αναίτιοι ελιγμοί</strong></li>    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Αίσθηση θυμού και κόπωσης</strong></li></ul><p style="text-align: justify;"><strong>Πώς να το αποφύγετε;</strong></p><p style="text-align: justify;">Η υπνηλία γιατρεύεται μόνο με ύπνο. Γι’ αυτό το καλύτερο που μπορείτε να κάνετε είναι να κοιμηθείε καλά πριν οδηγήσετε, ειδικά εάν πρέπει να διανύσετε μεγάλη απόσταση. Εναλλακτικά, εάν ήδη βρίσκεστε στο δρόμο ένα power nap θα σας βοηθήσει να ανακτήσετε τις δυνάμεις σας:</p><ul>    <li>&nbsp;&nbsp;&nbsp; <strong>Παρκάρετε σε ένα ασφαλές μέρος.</strong></li>    <li>&nbsp;&nbsp;&nbsp; <strong>Πιείτε έναν καφέ.</strong> Μπορεί να είναι παράδοξο να πιείτε καφέ για να κοιμηθείτε. Όμως, θα σας κάνει να νιώσετε καλύτερα όταν ξυπνήσετε. </li>    <li>&nbsp;&nbsp;&nbsp; <strong>Καθίστε αναπαυτικά στο κάθισμά σας.</strong></li>    <li>&nbsp;&nbsp;&nbsp; <strong>Βάλτε ξυπνητήρι σε 15 -20’ και κοιμηθείτε.</strong></li></ul><ul>    <li>&nbsp;&nbsp;&nbsp; Μόλις ξυπνήσετε βγείτε από το αυτοκίνητο και <strong>περπατήστε προκειμένου να σας χτυπήσει φρέσκος αέρας και να συνέλθετε από τον ύπνο.</strong></li></ul><p style="text-align: justify;">Σε κάθε περίπτωση, η οδήγηση είναι πολύ πιο απολαυστική όταν είμαστε ξεκούραστοι. Επίσης, είναι και ασφαλής. Σε αυτό βέβαια συμβάλλει και η ασφάλεια αυτοκινήτου, η οποία καλό είναι να είναι σε ισχύ ώστε να σας παρέχει κάλυψη για παν ενδεχόμενο.</p><p style="text-align: justify;">Τώρα που μάθατε ότι υπνηλία και οδήγηση δεν πάνε μαζί, διαβάστε τον <a href="http://www.as-milisoume.gr/el/Articles/Odhgos-enoikiashs-autokinhtou">οδηγό ενοικίασης αυτοκινήτου</a> και φύγετε για διακοπές προετοιμασμένοι! </p><p style="text-align: justify;"><strong>Πηγές: </strong></p><p style="text-align: justify;">http://www.ioas.gr/uploads/files/2017/09/3550.pdf </p><p style="text-align: justify;">http://www.ioas.gr/uploads/files/2017/09/3542.pdf </p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">«Έλα μωρέ, εδώ δίπλα θα πάω». Πόσες φορές έχετε ακούσει ή έχετε πει οι ίδιοι αυτή τη φράση; Ο συνδυασμός οδήγησης και υπνηλίας είναι επικίνδυνος ακόμα κι όταν πρόκειται για την πιο κοντινή απόσταση. Δείτε παρακάτω τι μπορείτε να κάνετε για να είστε πάντα ασφαλείς.</p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{F2848E27-EEBB-4208-8169-2D10675A35DC}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: "Οδήγηση και υπνηλία: Ένας οδηγός για το καλοκαίρι"
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180821T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

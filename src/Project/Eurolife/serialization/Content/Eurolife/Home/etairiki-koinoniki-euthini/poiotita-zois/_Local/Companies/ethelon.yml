@@ -1,0 +1,32 @@
+﻿---
+ID: "ecf7a6c4-b180-4df6-9edc-8a7cf49e4cb2"
+Parent: "423919d4-cf44-47f5-bcee-5d963a204a84"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/_Local/Companies/ethelon"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Eta; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&alpha;&sigmaf; &mu;&epsilon; &tau;&eta;&nu; ethelon έ&chi;&epsilon;&iota; &omega;&sigmaf; &sigma;&kappa;&omicron;&pi;ό &nu;&alpha; &beta;&epsilon;&lambda;&tau;&iota;ώ&sigma;&epsilon;&iota; &tau;&eta;&nu; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ό&tau;&eta;&tau;&alpha; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &mu;&alpha;&sigmaf; &pi;&omicron;&upsilon; &zeta;&omicron;&upsilon;&nu; &kappa;ά&tau;&omega; &alpha;&pi;ό &delta;ύ&sigma;&kappa;&omicron;&lambda;&epsilon;&sigmaf; &sigma;&upsilon;&nu;&theta;ή&kappa;&epsilon;&sigmaf;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: ethelon
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191006T155549Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{FE47E5C7-DE2D-4BB3-96B5-52ED0CD245A2}" querystring="" target="" text="ΠΕΡΙΣΣΟΤΕΡΑ" title="" class="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/ethelon" linktype="internal" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{027BEEC0-446A-45FD-8F7D-100552BB1B83}" />

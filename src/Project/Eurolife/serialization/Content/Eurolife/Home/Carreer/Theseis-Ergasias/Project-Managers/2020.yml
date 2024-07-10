@@ -1,0 +1,14 @@
+﻿---
+ID: "e912fe79-5864-488e-a5d9-c6ec6fae09b1"
+Parent: "fdf7912f-d000-460a-9324-ecc72caed70f"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/Carreer/Theseis-Ergasias/Project-Managers/2020"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200214T144435Z

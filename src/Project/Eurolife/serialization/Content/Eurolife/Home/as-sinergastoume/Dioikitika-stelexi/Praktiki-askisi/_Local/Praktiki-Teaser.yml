@@ -1,0 +1,64 @@
+﻿---
+ID: "a9c5e375-d64a-4150-9a1a-5c899a7bd608"
+Parent: "0003f06d-ca88-49bf-bedd-c1d92b20e46f"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/Dioikitika-stelexi/Praktiki-askisi/_Local/Praktiki-Teaser"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: |
+        <p>&Omicron;&iota; &phi;&omicron;&iota;&tau;&eta;&tau;έ&sigmaf; &kappa;&alpha;&iota; &sigma;&pi;&omicron;&upsilon;&delta;&alpha;&sigma;&tau;έ&sigmaf; &pi;&omicron;&upsilon; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&omicron;&pi;&omicron;&iota;&omicron;ύ&nu; &tau;&eta;&nu; &pi;&rho;&alpha;&kappa;&tau;&iota;&kappa;ή &tau;&omicron;&upsilon;&sigmaf; ά&sigma;&kappa;&eta;&sigma;&eta; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf;, &epsilon;ί&nu;&alpha;&iota; &xi;&epsilon;&chi;&omega;&rho;&iota;&sigma;&tau;ά &tau;&alpha;&lambda;έ&nu;&tau;&alpha;. &Pi;&alpha;&theta;&iota;&alpha;&sigma;&mu;έ&nu;&omicron;&iota; &mu;&epsilon; &alpha;&upsilon;&tau;ό &pi;&omicron;&upsilon; &kappa;ά&nu;&omicron;&upsilon;&nu;, &psi;ά&chi;&nu;&omicron;&upsilon;&nu; &nu;&alpha; &chi;&alpha;&rho;ά&xi;&omicron;&upsilon;&nu; &tau;&eta; &delta;&iota;&kappa;ή &tau;&omicron;&upsilon;&sigmaf; &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ή &pi;&omicron;&rho;&epsilon;ί&alpha; &kappa;&alpha;&iota; &nu;&alpha; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ή&sigma;&omicron;&upsilon;&nu; &tau;&iota;&sigmaf; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf;.<br />
+        &Alpha;&nu; &tau;&alpha;&upsilon;&tau;ί&zeta;&epsilon;&sigma;&alpha;&iota; &kappa;&iota; &epsilon;&sigma;ύ &mu;&epsilon; &tau;&eta;&nu; &pi;&epsilon;&rho;&iota;&gamma;&rho;&alpha;&phi;ή, &epsilon;ά&nu; &pi;&iota;&sigma;&tau;&epsilon;ύ&epsilon;&iota;&sigmaf; &sigma;&tau;&eta; &delta;ύ&nu;&alpha;&mu;&eta; &tau;&eta;&sigmaf; &omicron;&mu;ά&delta;&alpha;&sigmaf; &kappa;&alpha;&iota; &theta;έ&lambda;&epsilon;&iota;&sigmaf; &nu;&alpha; &gamma;&nu;&omega;&rho;ί&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό &kappa;ό&sigma;&mu;&omicron;, &mu;&eta; &chi;ά&sigma;&epsilon;&iota;&sigmaf; &tau;&eta;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&alpha; &nu;&alpha; &kappa;ά&nu;&epsilon;&iota;&sigmaf; &tau;&eta;&nu; &pi;&rho;&alpha;&kappa;&tau;&iota;&kappa;ή &sigma;&omicron;&upsilon; &mu;&alpha;&zeta;ί &mu;&alpha;&sigmaf;.<br />
+        Έ&chi;&epsilon; &sigma;&tau;&omicron; &mu;&upsilon;&alpha;&lambda;ό &sigma;&omicron;&upsilon; &tau;&iota;&sigmaf; &pi;&alpha;&rho;&alpha;&kappa;ά&tau;&omega; &pi;&rho;&omicron;ϋ&pi;&omicron;&theta;έ&sigma;&epsilon;&iota;&sigmaf;:</p>
+        <ul>
+            <li>&Nu;&alpha; &epsilon;ί&sigma;&alpha;&iota; &sigma;&tau;&omicron; 3&omicron; ή 4&omicron; έ&tau;&omicron;&sigmaf; &tau;&omega;&nu; &sigma;&pi;&omicron;&upsilon;&delta;ώ&nu; &sigma;&omicron;&upsilon; &alpha;&nu;ά&lambda;&omicron;&gamma;&alpha; &mu;&epsilon; &tau;&eta; &sigma;&chi;&omicron;&lambda;ή &sigma;&omicron;&upsilon;</li>
+            <li>&Tau;&omicron; &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;ή&mu;&iota;ό &sigma;&omicron;&upsilon; &kappa;&alpha;&iota; &tau;&omicron; &tau;&mu;ή&mu;&alpha; &sigma;&omicron;&upsilon; &nu;&alpha; &kappa;ά&nu;&omicron;&upsilon;&nu; &pi;&rho;&alpha;&kappa;&tau;&iota;&kappa;ή ά&sigma;&kappa;&eta;&sigma;&eta;</li>
+            <li>&Nu;&alpha; &delta;&eta;&lambda;ώ&sigma;&epsilon;&iota;&sigmaf; &epsilon;&gamma;&kappa;&alpha;ί&rho;&omega;&sigmaf; &tau;&omicron; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&nu; &sigma;&omicron;&upsilon;</li>
+            <li>&Nu;&alpha; &upsilon;&pi;&omicron;&beta;ά&lambda;&epsilon;&iota;&sigmaf; &tau;&omicron; &beta;&iota;&omicron;&gamma;&rho;&alpha;&phi;&iota;&kappa;ό &sigma;&omicron;&upsilon;, &sigma;ύ&mu;&phi;&omega;&nu;&alpha; &mu;&epsilon; &tau;&iota;&sigmaf; &omicron;&delta;&eta;&gamma;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon; &Pi;&alpha;&nu;&epsilon;&pi;&iota;&sigma;&tau;&eta;&mu;ί&omicron;&upsilon; &sigma;&omicron;&upsilon;, &gamma;&iota;&alpha; &tau;&iota;&sigmaf; &theta;έ&sigma;&epsilon;&iota;&sigmaf; &pi;&rho;&alpha;&kappa;&tau;&iota;&kappa;ή&sigmaf; &pi;&omicron;&upsilon; &sigma;&epsilon; &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&upsilon;&nu; &kappa;&alpha;&iota; έ&chi;&omicron;&upsilon;&nu; &alpha;&nu;&omicron;ί&xi;&epsilon;&iota; &sigma;&tau;&eta; Eurolife ERB</li>
+        </ul>
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Είσαι ένας από εμάς; 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190923T131444Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{4A95AD01-7CFF-4AC9-A83D-7293D333A4F7}"></image>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Η ιστορία μας
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190618T084740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{E7088082-A118-422D-86EF-19D553D3D47F}" ></image>

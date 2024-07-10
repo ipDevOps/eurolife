@@ -1,0 +1,18 @@
+﻿---
+ID: "b1874e87-f526-4d36-b6c1-5f0e9a025513"
+Parent: "e54beff8-5a4c-47fe-ab94-8fc47e9f7ad9"
+Template: "80ea3c96-2cca-4d69-8824-4b24e9770cbb"
+Path: /sitecore/content/Eurolife/Global/PDFs/Products Useful Files/astiki euthini
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T124817Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

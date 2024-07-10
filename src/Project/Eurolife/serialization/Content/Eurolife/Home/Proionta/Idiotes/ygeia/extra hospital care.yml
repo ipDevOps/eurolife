@@ -1,0 +1,97 @@
+﻿---
+ID: "8d34ca36-52b7-458c-bc93-2bc1673c50d4"
+Parent: "a9321ed2-2ed2-45d6-b93a-c0534dc37432"
+Template: "dc12306a-5c27-4986-840c-aa47154f0051"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/extra hospital care
+DB: master
+SharedFields:
+- ID: "3da3fb00-31f6-432d-979a-57cee52b9d8a"
+  Hint: Color
+  Value: "{9547C6F8-F73F-4A91-A58F-5AD62343D49D}"
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Fields:
+  - ID: "eb2af3ca-2892-4044-b791-394344ab8456"
+    Hint: Theme
+    Value: "{264F4CE2-40BC-4CFE-9977-EFFD90A7938C}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5EF5D0A3-333E-4901-A5F1-31DA788A11EC}">
+              <p:d />
+            </r>
+            <r
+              uid="{6432AF43-525C-471D-9601-405F1CB57636}"
+              p:after="r[@uid='{0FE32730-22E4-4F13-AEB7-D24EB3234E10}']"
+              s:ds="{04C3387E-4BBB-4CF8-A267-3103CA395645}"
+              s:id="{FFB4450F-586B-47D1-9008-DA761EA95DE3}"
+              s:ph="page-layout" />
+            <r
+              uid="{808DB0C9-D175-46EC-8A97-0F5B9601B93D}">
+              <p:d />
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T155747Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Extra Hospital Care
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Extra Hospital Care
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p><strong>&Kappa;ά&lambda;&upsilon;&psi;&eta; Έ&kappa;&tau;&alpha;&kappa;&tau;&omicron;&upsilon; &Pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;&omicron;ύ έ&omega;&sigmaf; &euro;500</strong><br />
+        &Pi;&rho;&omicron;&sigma;&phi;έ&rho;&omicron;&upsilon;&mu;&epsilon; &kappa;ά&lambda;&upsilon;&psi;&eta; &mu;έ&chi;&rho;&iota; &tau;&omicron;&upsilon; &pi;&omicron;&sigma;&omicron;ύ &tau;&omega;&nu; &euro;500 &alpha;&nu;ά &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό.<br />
+        &Alpha;&phi;&omicron;&rho;ά έ&kappa;&tau;&alpha;&kappa;&tau;&alpha; &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ά &tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &alpha;&nu;&tau;&iota;&mu;&epsilon;&tau;&omega;&pi;ί&zeta;&omicron;&nu;&tau;&alpha;&iota; &sigma;&tau;&alpha; &epsilon;&xi;&omega;&tau;&epsilon;&rho;&iota;&kappa;ά &iota;&alpha;&tau;&rho;&epsilon;ί&alpha; &Sigma;&upsilon;&mu;&beta;&epsilon;&beta;&lambda;&eta;&mu;έ&nu;&omicron;&upsilon; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;ί&omicron;&upsilon;. &Tau;&alpha; έ&xi;&omicron;&delta;&alpha; &pi;&omicron;&upsilon; &kappa;&alpha;&lambda;ύ&pi;&tau;&omicron;&nu;&tau;&alpha;&iota; &alpha;&phi;&omicron;&rho;&omicron;ύ&nu; &iota;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &alpha;&mu;&omicron;&iota;&beta;έ&sigmaf;, &delta;&iota;&alpha;&gamma;&nu;&omega;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&xi;&epsilon;&tau;ά&sigma;&epsilon;&iota;&sigmaf;, &phi;&alpha;&rho;&mu;&alpha;&kappa;&epsilon;&upsilon;&tau;&iota;&kappa;ή &alpha;&gamma;&omega;&gamma;ή, &iota;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &pi;&rho;ά&xi;&epsilon;&iota;&sigmaf;, &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &upsilon;&lambda;&iota;&kappa;ά &gamma;&iota;&alpha; &tau;&eta; &delta;&iota;&epsilon;&nu;έ&rho;&gamma;&epsilon;&iota;&alpha; &tau;&omega;&nu; &iota;&alpha;&tau;&rho;&iota;&kappa;ώ&nu; &pi;&rho;ά&xi;&epsilon;&omega;&nu;.</p>
+        <p><strong>&Kappa;ά&lambda;&upsilon;&psi;&eta; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron;&upsilon; &pi;&omicron;&sigma;&omicron;ύ έ&omega;&sigmaf; &euro;375</strong><br />
+        &Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &eta;&mu;&epsilon;&rho;ή&sigma;&iota;&alpha;&sigmaf; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf;, &kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&tau;&alpha;&iota; &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &tau;&omicron;&upsilon; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;&omicron;ύ &Pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &mu;έ&chi;&rho;&iota; &euro;375.<br />
+        <br />
+        <strong>&Pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha;:</strong><br />
+        Έ&sigma;&tau;&omega; ό&tau;&iota; έ&nu;&alpha;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; &kappa;&alpha;&tau;έ&chi;&epsilon;&iota; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &Pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &tau;&eta;&sigmaf; Eurolife ERB &mu;&epsilon; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &euro;750, &chi;&omega;&rho;ί&sigmaf; &omega;&sigma;&tau;ό&sigma;&omicron; &nu;&alpha; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &kappa;ά&lambda;&upsilon;&psi;&eta; &lsquo;Extra Hospital Care&rsquo;. &Sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &eta;&mu;&epsilon;&rho;ή&sigma;&iota;&alpha;&sigmaf; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &tau;&omicron; &kappa;ό&sigma;&tau;&omicron;&sigmaf; &tau;&eta;&sigmaf; &omicron;&pi;&omicron;ί&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&omicron; &alpha;&pi;ό &euro;750, &tau;ό&tau;&epsilon; &theta;&alpha; &kappa;&lambda;&eta;&theta;&epsilon;ί &nu;&alpha; &pi;&lambda;&eta;&rho;ώ&sigma;&epsilon;&iota; &tau;&omicron; 50% &tau;&omicron;&upsilon; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron;&upsilon; &pi;&omicron;&sigma;&omicron;ύ, &delta;&eta;&lambda;&alpha;&delta;ή &euro;375. <br />
+        &Alpha;&nu; ό&mu;&omega;&sigmaf; &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota;&nbsp; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; &lsquo;Extra Hospital Care&rsquo;, &tau;ό&tau;&epsilon; &delta;&epsilon; &theta;&alpha; &chi;&rho;&epsilon;&iota;&alpha;&sigma;&tau;&epsilon;ί &nu;&alpha; &pi;&lambda;&eta;&rho;ώ&sigma;&epsilon;&iota;, &kappa;&alpha;&theta;ώ&sigmaf; &tau;&omicron; &upsilon;&pi;ό&lambda;&omicron;&iota;&pi;&omicron; &tau;&omega;&nu; &euro;375 &kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&tau;&alpha;&iota; &alpha;&pi;ό &tau;&omicron; &lsquo;Extra Hospital Care&rsquo;.<br />
+        <br />
+        <strong>&Epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;ή &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron;&upsilon; &pi;&omicron;&sigma;&omicron;ύ &tau;&omicron;&upsilon; &Nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;&omicron;ύ &Pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &mu;ό&nu;&omicron; &mu;ί&alpha; &phi;&omicron;&rho;ά &alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό έ&tau;&omicron;&sigmaf;</strong><br />
+        &Mu;&epsilon; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; &alpha;&upsilon;&tau;ή, &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &tau;&omicron;&upsilon; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;&omicron;ύ &pi;&rho;&omicron;&gamma;&rho;ά&mu;&mu;&alpha;&tau;&omicron;&sigmaf; &epsilon;&phi;&alpha;&rho;&mu;ό&zeta;&epsilon;&tau;&alpha;&iota; &mu;ό&nu;&omicron; &mu;ί&alpha; &phi;&omicron;&rho;ά &alpha;&nu;ά &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό έ&tau;&omicron;&sigmaf; &kappa;&alpha;&iota; ό&chi;&iota; &alpha;&nu;ά &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό - ό&tau;&alpha;&nu; &eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha; &epsilon;ί&nu;&alpha;&iota; &pi;ά&nu;&omega; &alpha;&pi;ό &mu;ί&alpha; &mu;έ&rho;&alpha;. <br />
+        <br />
+        <strong>&Pi;&alpha;&rho;ά&delta;&epsilon;&iota;&gamma;&mu;&alpha;</strong><br />
+        &Epsilon;ά&nu; έ&nu;&alpha;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf;, &omicron; &omicron;&pi;&omicron;ί&omicron;&sigmaf; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &nu;&omicron;&sigma;&omicron;&kappa;&omicron;&mu;&epsilon;&iota;&alpha;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha; &tau;&eta;&sigmaf; Eurolife ERB &mu;&epsilon; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &euro;1.500, έ&chi;&epsilon;&iota; &epsilon;&pi;&iota;&lambda;έ&xi;&epsilon;&iota; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; Extra Hospital Care, &sigma;&epsilon; &pi;&epsilon;&rho;ί&pi;&tau;&omega;&sigma;&eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;&sigmaf; &tau;&omicron;&upsilon; 2 &phi;&omicron;&rho;έ&sigmaf; &mu;έ&sigma;&alpha; &sigma;&tau;&omicron; ί&delta;&iota;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ό έ&tau;&omicron;&sigmaf; &gamma;&iota;&alpha; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ό &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό &upsilon;&gamma;&epsilon;ί&alpha;&sigmaf; &mu;&epsilon; &kappa;ό&sigma;&tau;&omicron;&sigmaf; &euro;2.000 &gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&tau;&alpha;&tau;&iota;&kappa;ό, &theta;&alpha; &epsilon;&pi;&iota;&beta;&alpha;&rho;&upsilon;&nu;&theta;&epsilon;ί &mu;ί&alpha; &phi;&omicron;&rho;ά &mu;&epsilon; &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό. <br />
+        &Alpha;&nu;&tau;ί&theta;&epsilon;&tau;&alpha;, &omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&sigmaf; &pi;&omicron;&upsilon; &delta;&epsilon;&nu; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; Extra Hospital Care, &theta;&alpha; &epsilon;&pi;&iota;&beta;&alpha;&rho;&upsilon;&nu;&theta;&epsilon;ί &mu;&epsilon; &tau;&omicron; &epsilon;&kappa;&pi;&iota;&pi;&tau;ό&mu;&epsilon;&nu;&omicron; &pi;&omicron;&sigma;ό &tau;ό&sigma;&omicron; &sigma;&tau;&eta;&nu; 1&eta; ό&sigma;&omicron; &kappa;&alpha;&iota; &sigma;&tau;&eta;&nu; 2&eta; &nu;&omicron;&sigma;&eta;&lambda;&epsilon;ί&alpha;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Ενισχύστε το Νοσοκομειακό Πρόγραμμα που έχετε με επιπλέον οικονομική βοήθεια σε περιπτώσεις καλυπτόμενου περιστατικού υγείας.
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{995D5EB0-24E8-4D4E-81BB-B217F6850477}" />
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Extra Hospital Care

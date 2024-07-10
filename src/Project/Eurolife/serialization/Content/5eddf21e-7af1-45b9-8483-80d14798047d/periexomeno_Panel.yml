@@ -1,0 +1,67 @@
+﻿---
+ID: "128a6cd0-bd91-4814-bdac-a1ae46bab9ef"
+Parent: "5eddf21e-7af1-45b9-8483-80d14798047d"
+Template: "f1e8aa8c-0acb-4186-b3fb-448897ca0831"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/periexomeno/periexomeno_Panel"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09ab4417-580d-412a-b022-1288b2f95534"
+      Hint: PanelSummary
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191027T203045Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Περιεχόμενο
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: |
+        {D9F14A3F-105E-44C0-888D-3D1EE1C96DC2}
+        {1D5A2496-9904-40CA-8CDB-8DB2D6B20092}
+        {62CEA845-2DFA-4692-AC76-EC6E7ABDA793}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: |
+        {63814058-7F77-470D-91DD-ABC6EB45971A}
+        {9FE1161A-0F22-4123-BD31-E8A3EEDF2055}
+    - ID: "eaefde6c-1755-4c47-bc40-237d17a8ebe8"
+      Hint: PanelFilters
+      Type: Multilist
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190606T083047Z
+    - ID: "3c70dc86-2eaa-46eb-ac08-077bdda5a247"
+      Hint: PanelTitle
+      Value: Bikes Panel
+    - ID: "3eedcf8a-848c-4beb-8513-b0577ee4acfe"
+      Hint: PanelItems
+      Type: TreelistEx
+      Value: |
+        {C332EA49-F2B1-48D7-A8C5-8FB0F3E8BA5B}
+        {46B58C37-3FAB-4156-83E1-12CA71DF1C7C}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6b0a5c41-7ad3-4548-96a9-b5086c2f0969"
+      Hint: PanelCateogies
+      Type: TreelistEx
+      Value: |
+        {F6F4203E-72E0-4F30-889A-7E70E5457178}
+        {104F19B2-A9F6-43A8-A629-05CD66C1340C}

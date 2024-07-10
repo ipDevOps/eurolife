@@ -1,0 +1,61 @@
+﻿---
+ID: "8895ecb3-6941-4c7d-96b8-adaa5457fe34"
+Parent: "3aae9479-94ce-4687-939f-3cc089d0d59c"
+Template: "98f7dc18-09b0-4f86-a3a8-b01095f12a67"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/sixnes-erotiseis/_Local/geniki-ygeia"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191012T125012Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {E7D71733-22A4-4FA7-92A9-52701CE996AE}
+        {6C1BB3EA-BB8A-4991-AE2E-5C5EA30D93EE}
+        {F7337B2E-79A8-4FFF-86AF-E66017B0CCC5}
+        {46342477-2FCE-4685-9402-FD4063F27D1C}
+        {E9AA7F89-F542-4A6E-BFC0-A80CE61A009C}
+        {A533E408-735C-4479-8CDC-12BE4EC94F31}
+        {DB15E879-069D-4FF2-A36C-7933EE865908}
+        {C38BB6FF-A683-46FE-A6AF-5DC6665D3E65}
+        {D72C91C9-50FD-415E-8F4F-2854361A2791}
+        {E87A3E56-3FB1-4FC9-940D-642C9EB5AE20}
+        {AE4F51BD-A2BB-43DD-8265-D198B1965AA9}
+        {001800EA-6463-4FEE-A3EA-9AAE4CD3D897}
+        {89B7D6E7-A4B0-493C-A378-7B0C048CF6A7}
+        {9331243A-F377-4E3E-853B-557609599D38}
+        {22F38231-7721-4F9D-AD0C-E6B042DAEEBA}
+        {411BF30E-A85C-4943-99CC-76E1092F3B39}
+        {78873A38-981F-4BA7-A661-A5FEDC5201A8}
+        {8A9B4848-9509-4BAE-993A-82B4C445557D}
+        {FDA368AB-E7CB-46E4-BD3F-10B5CCAD3BD6}
+        {B6A62117-8236-4B29-8F0D-6546410750CB}
+        {098DEB5A-AD94-4642-BBF9-A1E22C077134}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T080516Z
+    - ID: "4ceeccb7-2e78-4869-bfbe-26edb115a6a8"
+      Hint: GroupMember
+      Type: Multilist
+      Value: |
+        {B336BE30-93A2-428E-AED7-8A19A9B381B4}
+        {293446E4-C5FD-4050-B825-2E65D5C4A928}
+        {42B48B9B-825E-494F-A7A0-242F5038F190}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

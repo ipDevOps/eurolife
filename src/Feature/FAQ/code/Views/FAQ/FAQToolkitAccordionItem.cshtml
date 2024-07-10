@@ -1,0 +1,33 @@
+﻿@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.FAQ
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+    if (!Model?.Item?.DescendsFrom(Templates.FaqGroup.ID) ?? true)
+    {
+        @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.FaqGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+        return;
+    }
+
+}
+
+<li>
+    <input type="checkbox" name="panel" id="panel-02">
+    <label for="panel-02">
+        @Html.Sitecore().Dictionary("/FAQ/Toolkit Accordion/Tab Name", "FAQ")
+        <span class="accordion__state"></span>
+    </label>
+    <div class="accordion__content">
+        @foreach (var item in Model.Item.GetMultiListValueItems(Templates.FaqGroup.Fields.GroupMember))
+        {
+            <div class="m-b-8">
+                <strong>@Html.Sitecore().Field(Templates.Faq.Fields.Question, item, new { DisableWebEdit = true })</strong>
+            </div>
+
+            <p class="m-b-16">@Html.Sitecore().Field(Templates.Faq.Fields.Answer, item, new { DisableWebEdit = true })</p>
+
+        }
+    </div>
+</li>

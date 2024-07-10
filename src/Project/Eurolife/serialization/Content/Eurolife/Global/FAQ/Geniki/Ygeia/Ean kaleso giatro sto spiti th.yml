@@ -1,0 +1,25 @@
+﻿---
+ID: "d72c91c9-50fd-415e-8f4f-2854361a2791"
+Parent: "afcdb333-472b-485a-8f6e-e18d87d99ece"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Ygeia/Ean kaleso giatro sto spiti tha kalyftho
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Εάν καλέσω γιατρό στο σπίτι, θα καλυφθώ;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T094840Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Mu;&pi;&omicron;&rho;&epsilon;ί&tau;&epsilon; &nu;&alpha; &delta;&epsilon;ί&tau;&epsilon; &alpha;&nu; έ&chi;&epsilon;&tau;&epsilon; &alpha;&upsilon;&tau;ή &tau;&eta;&nu; &kappa;ά&lambda;&upsilon;&psi;&eta; &sigma;&tau;&omicron;&upsilon;&sigmaf; ό&rho;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &sigma;&alpha;&sigmaf;.</span>

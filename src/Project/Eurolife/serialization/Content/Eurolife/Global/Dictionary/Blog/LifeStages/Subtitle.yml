@@ -1,0 +1,21 @@
+﻿---
+ID: "0e57dca5-9670-4479-ad39-a549e9509954"
+Parent: "3abb6803-8291-4666-a8f1-c743647d0259"
+Template: "1fedd608-b4a0-4db4-80f0-4e9a50140e17"
+Path: /sitecore/content/Eurolife/Global/Dictionary/Blog/LifeStages/Subtitle
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200122T105628Z
+    - ID: "38302aff-d022-418e-a9bb-188e32878193"
+      Hint: Phrase
+      Value: Σε κάθε στάδιο της ζωής σου, υπάρχει μια δυναμική που σε μεταφέρει στο επόμενο επίπεδο. Με τα κατάλληλα εργαλεία, η δυναμική αυτή μετατρέπεται σε απολαυστική περιπέτεια.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

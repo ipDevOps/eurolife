@@ -1,0 +1,37 @@
+﻿---
+ID: "7d43f2cc-1e00-4e7b-8f64-0c958a1c4960"
+Parent: "c4d9785b-1d90-4c51-a3b4-139cb74fc8bb"
+Template: "e58ff9a2-2377-4437-875f-99ced2efe94f"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/_Local/Highlights/Vechile Highlights/ekposis logo mi zimias
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T145102Z
+    - ID: "5bc5032c-22d2-4b23-b3bd-9a490ab20223"
+      Hint: HighlightTitle
+      Value: Έκπτωση λόγω μη ζημιάς
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "71e77b80-64d2-4ab5-b34a-742a7483fab5"
+      Hint: HighlightRTE
+      Value: |
+        <div class="contentgroup">
+        <div class="contentgroup__right contentgroup__tick">
+        <div class="contentgroup__title">
+        <strong>Έ&kappa;&pi;&tau;&omega;&sigma;&eta;* &pi;&alpha;&rho;έ&chi;&epsilon;&tau;&alpha;&iota; ό&tau;&alpha;&nu;, &sigma;&tau;&eta; &lambda;ή&xi;&eta; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &pi;&epsilon;&rho;&iota;ό&delta;&omicron;&upsilon;, &tau;&omicron; ό&chi;&eta;&mu;&alpha; &delta;&epsilon;&nu; έ&chi;&epsilon;&iota; &upsilon;&pi;&omicron;&sigma;&tau;&epsilon;ί &zeta;&eta;&mu;&iota;ά</strong></div>
+        <div class="contentgroup__info">*&Eta; έ&kappa;&pi;&tau;&omega;&sigma;&eta; &alpha;&upsilon;&tau;ή &epsilon;&phi;&alpha;&rho;&mu;ό&zeta;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&eta;&nu; &alpha;&nu;&alpha;&nu;έ&omega;&sigma;&eta; &tau;&omicron;&upsilon; &sigma;&upsilon;&mu;&beta;&omicron;&lambda;&alpha;ί&omicron;&upsilon; &kappa;&alpha;&iota; &upsilon;&pi;&omicron;&lambda;&omicron;&gamma;ί&zeta;&epsilon;&tau;&alpha;&iota; &kappa;ά&theta;&epsilon; &phi;&omicron;&rho;ά &mu;&epsilon; &beta;ά&sigma;&eta; &tau;&omicron; &tau;&iota;&mu;&omicron;&lambda;ό&gamma;&iota;ό &mu;&alpha;&sigmaf;</div>
+        <p class="contentgroup__info">&nbsp;</p>
+        <ul>
+            <li>
+            &Gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; 12&mu;&eta;&nu;&eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &pi;&omicron;&upsilon; &omicron;&lambda;&omicron;&kappa;&lambda;&eta;&rho;ώ&nu;&epsilon;&tau;&alpha;&iota; &chi;&omega;&rho;ί&sigmaf; &nu;&alpha; &mu;&alpha;&sigmaf; &delta;&eta;&lambda;ώ&sigma;&epsilon;&tau;&epsilon; &zeta;&eta;&mu;&iota;ά, έ&chi;&epsilon;&tau;&epsilon; έ&kappa;&pi;&tau;&omega;&sigma;&eta; &sigma;&tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;ά &sigma;&alpha;&sigmaf; &tau;&eta;&nu; &epsilon;&pi;ό&mu;&epsilon;&nu;&eta; 12&mu;&eta;&nu;&eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron;. </li>
+            <li>&nbsp;&Alpha;&nu; &sigma;&upsilon;&mu;&beta;&epsilon;ί &zeta;&eta;&mu;&iota;ά &mu;&epsilon;&tau;ά &tau;&alpha; 3 &chi;&rho;ό&nu;&iota;&alpha;, &mu;έ&sigma;&alpha; &sigma;&tau;&alpha; &omicron;&pi;&omicron;ί&alpha; &delta;&epsilon;&nu; &sigma;&alpha;&sigmaf; έ&chi;&epsilon;&iota; &sigma;&upsilon;&mu;&beta;&epsilon;ί &pi;&alpha;&rho;ό&mu;&omicron;&iota;&alpha; &zeta;&eta;&mu;&iota;ά, &gamma;&iota;&alpha; &tau;&eta;&nu; &epsilon;&pi;ό&mu;&epsilon;&nu;&eta; 12&mu;&eta;&nu;&eta; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&epsilon;&rho;ί&omicron;&delta;&omicron; &tau;&alpha; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&tau;&rho;ά &sigma;&alpha;&sigmaf; &delta;&epsilon;&nu; &alpha;&upsilon;&xi;ά&nu;&omicron;&nu;&tau;&alpha;&iota;. </li>
+        </ul>
+        </div>
+        </div>

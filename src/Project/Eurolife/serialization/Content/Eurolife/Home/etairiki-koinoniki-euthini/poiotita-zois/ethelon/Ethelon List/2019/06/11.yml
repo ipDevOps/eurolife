@@ -1,0 +1,14 @@
+﻿---
+ID: "12439974-126f-45f8-802b-796502df4f58"
+Parent: "9079edba-bbdc-4563-bce7-cc4a87bbaca8"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois/ethelon/Ethelon List/2019/06/11"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190611T072214Z

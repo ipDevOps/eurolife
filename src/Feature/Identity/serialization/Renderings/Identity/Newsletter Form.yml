@@ -1,0 +1,24 @@
+﻿---
+ID: "3841b020-877c-42e0-9348-5c4426a8321a"
+Parent: "ac309cca-4100-46bb-a028-e8ead8e42733"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Feature/Identity/Newsletter Form
+DB: master
+SharedFields:
+- ID: "d7e7d647-0d97-4df7-a1ae-01253761a71b"
+  Hint: JavaScript assets
+  Value: /scripts/identity/newsletter.js
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: NewsletterForm
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: Wedia.Feature.Identity.Controllers.IdentityController, Wedia.Feature.Identity
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190711T125527Z

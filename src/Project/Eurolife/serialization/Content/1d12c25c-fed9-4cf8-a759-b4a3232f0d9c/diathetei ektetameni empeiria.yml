@@ -1,0 +1,48 @@
+﻿---
+ID: "92d59c1d-d15f-4bf7-8e6a-e45cb72ba15d"
+Parent: "1d12c25c-fed9-4cf8-a759-b4a3232f0d9c"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/Omadiki-Asfalisi-kai-Pronomia-Prosopikou/sintaxiodotika/_Local/Teaser List sintaxi/diathetei ektetameni empeiria"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: &Delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &epsilon;&kappa;&tau;&epsilon;&tau;&alpha;&mu;έ&nu;&eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &kappa;&alpha;&iota; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &sigma;&tau;&omicron; &sigma;&chi;&epsilon;&delta;&iota;&alpha;&sigma;&mu;ό &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ώ&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu;, &kappa;&alpha;&theta;ώ&sigmaf; &tau;&alpha; &tau;&epsilon;&lambda;&epsilon;&upsilon;&tau;&alpha;ί&alpha; &chi;&rho;ό&nu;&iota;&alpha; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;&iota;&alpha; &alpha;&pi;ό &tau;&iota;&sigmaf; &pi;&rho;ώ&tau;&epsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &sigma;&tau;&eta;&nu; &pi;&alpha;&rho;&alpha;&gamma;&omega;&gamma;ή &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&tau;&rho;&omega;&nu; &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ώ&nu; &pi;&rho;&omicron;&gamma;&rho;&alpha;&mu;&mu;ά&tau;&omega;&nu;.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T102606Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: 
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: 
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: In Any Case
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190528T133505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

@@ -1,0 +1,33 @@
+﻿---
+ID: "9cd9e967-bd87-4110-bc26-c877325611b2"
+Parent: "c4f2a9a8-d204-4bef-8b13-e4fda174e3ce"
+Template: "39d408e6-e9b8-491f-b351-9c27b520323b"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/exonosokomeiaki-perithalpsi/_Local/protovathmia/katigories-attributes/main"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070ba0de-12b3-4559-9b33-46c028777bd4"
+      Hint: IsMain
+      Type: Checkbox
+      Value: 1
+    - ID: "0fedef40-1ed0-422a-aefb-b9ed2277043c"
+      Hint: Rows
+      Type: Multilist
+      Value: |
+        {F20153C6-07C4-47B8-AFA0-9B1E2C473935}
+        {019EBACC-ACB1-4FB3-9289-7F8987319B71}
+        {5594ACD1-45B1-43BD-A924-7D8063B15542}
+        {56E43B32-10F9-4B2C-AEE1-DDD3459CA42E}
+        {2C2D970D-D2A5-4E99-9E32-A6B0F3265678}
+        {EC52EFD7-A543-4AF4-AF14-F4E6A4203230}
+        {98A19658-AAE8-4D36-8C4A-C02B828B6505}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T130044Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,149 @@
+﻿main > section:last-child, form.m-b-112 {
+  margin-bottom: 112px;
+
+  @include breakpoint(820) {
+    margin-bottom: 128px;
+  }
+}
+
+/*section.hero--inner + div.scroll-items {
+  margin-top: -48px;
+
+  @include breakpoint(820) {
+    margin-bottom: -112px;
+  }
+}*/
+
+main > section.leadership-container:last-child {
+  margin-bottom: 168px;
+
+  @include breakpoint(820) {
+    margin-bottom: 268px;
+  }
+}
+
+  main > section:last-child.hero-plain:not(.center), main > section:last-child.siblings-wrap {
+    margin-bottom: 0;
+  }
+
+  .latest-news + .media-featured-files {
+    margin-top: -40px !important;
+
+    @include breakpoint(820) {
+      margin-top: -80px !important;
+    }
+  }
+
+  .section-header-summary + .latest-news {
+    margin-top: 0 !important;
+  }
+
+  .bg-life-insurance + article:not(.zigzag__item) {
+    margin-top: 112px;
+  }
+
+  .theme-default .bg-life-insurance + section > h1 {
+    margin-top: 64px;
+
+    @include breakpoint(820) {
+      margin-top: 112px;
+    }
+  }
+
+  article + .well {
+    background-color: $color-life-insurance-soft;
+    padding-top: 48px;
+    margin-bottom: 112px;
+
+    .cta-double__item {
+      position: relative;
+
+      svg {
+        position: absolute;
+        right: 40px;
+        top: 50%;
+        transform: translateY(-50%) scale(1.5);
+
+        use {
+          fill: $color-life-insurance;
+        }
+      }
+    }
+  }
+
+  section#highlights-accordion + section#highlights-accordion {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  ul.accordion:last-child {
+    margin-bottom: 80px;
+  }
+
+  .grey--bordered-area {
+    ul.accordion:last-child {
+      margin-bottom: 48px;
+    }
+  }
+
+  section:not(.bg-life-insurance) {
+    section h1.t-c {
+      @include breakpoint(820) {
+        max-width: 70%;
+        margin: 0 auto 48px;
+      }
+    }
+  }
+
+h1.t-c {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: calc(100% - 40px);
+
+  @include breakpoint(820) {
+    max-width: 640px;
+  }
+}
+
+.accordion__content ul li {
+  list-style: disc !important;
+}
+
+.accordion__content ul li.contentgroup__tick {
+  list-style: none !important;
+}
+
+.droplist + #selectorItems .selected-content:not(.selected-content--visible) {
+  margin: 0;
+}
+
+main {
+  article {
+    .light, p {
+      font-weight: 400;
+    }
+  }
+}
+
+*{
+  outline: none !important;
+}
+
+.filter input[type=checkbox] + label {
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+
+  + label{
+    position: relative;
+    z-index: 2;
+    cursor: pointer;
+    padding-left: 40px;
+    margin-left: -40px;
+  }
+}
+
+#optanon input[type=checkbox] + label:before {
+  display: none;
+}

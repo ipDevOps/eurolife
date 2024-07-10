@@ -1,0 +1,18 @@
+﻿---
+ID: "2a3fe1ed-34d9-4275-bbbd-a626e81fe423"
+Parent: "2a8b3a75-e1d3-4df3-a9d1-410d0efb2438"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local/panel mikres epixeiriseis/periexomeno/Programs Attributes/Epakoloutha exoda kai dapanes/Epakoloutha exoda kai dapanes no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T091302Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

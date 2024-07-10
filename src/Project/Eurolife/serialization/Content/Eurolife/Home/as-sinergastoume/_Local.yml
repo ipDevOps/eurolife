@@ -1,0 +1,41 @@
+﻿---
+ID: "ce843866-8af1-4714-b32c-9c9fca903197"
+Parent: "85d60ca6-eab7-44e7-9d78-e8db75756b35"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {62B2FB1B-FD79-403A-AED2-9D1F464A2E63}
+    {2C7F1576-9844-4119-8F1E-A4E70C4791B9}
+    {7753C4B8-FFB7-4EF8-8F62-85A28AE89E2C}
+    {BE41D8D0-15B8-4FB4-B7A5-F34A3FC054E1}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190805T145838Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T050137Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

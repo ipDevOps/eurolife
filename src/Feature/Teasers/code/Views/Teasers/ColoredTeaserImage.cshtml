@@ -1,0 +1,46 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation;
+@model RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserImage.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserImage.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+@if (Model.Item.FieldHasValue(Templates.HasTeaserImage.Fields.Image))
+{
+  <article class="zigzag__item m-b-64 @RenderingContext.Current.Rendering.GetBackgroundClass()">
+
+    <div class="zigzag__image--light">
+      @Html.Sitecore().ImageField(Templates.HasTeaserImage.Fields.Image, Model.Item,
+        0,
+        Wedia.Feature.Teasers.Constants.ImageDimensions.ColoredTeaser.Width)
+    </div>
+
+    <div class="zigzag__info--light">
+      @if (Model.Item.FieldHasValue(Templates.HasTeaserHeadline.Fields.Title))
+      {
+        <h2 class="h4 m-b-16">
+          @Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)
+        </h2>
+      }
+        <div class="zigzag__text--light m-b-32">
+
+          @if (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary))
+          {
+            @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+          }
+
+        </div>
+      </div>
+
+  </article>
+}

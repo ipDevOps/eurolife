@@ -1,0 +1,21 @@
+﻿---
+ID: "747540fb-addf-4d07-8c37-323669e1f244"
+Parent: "99b5a829-d31f-49ab-bb40-324bb176b2ca"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Common/Content Types/EurobankHealthTool/EurobankList
+DB: master
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {D9CD3235-4495-4233-A538-AFE4D8E90552}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201102T100915Z

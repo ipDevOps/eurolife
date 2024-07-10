@@ -1,0 +1,28 @@
+﻿---
+ID: "df6c9e03-02bf-4c9e-b691-0ce84bfa6137"
+Parent: "e573f7b0-63c7-4e31-8c92-ec4ef7f97a74"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/oikonomika-stoixeia/_Local"
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {05BF3F91-D5DB-4E93-99E9-8E5830C85BB6}
+    {98F7DC18-09B0-4F86-A3A8-B01095F12A67}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-1000"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190610T131337Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

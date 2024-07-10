@@ -1,0 +1,18 @@
+﻿---
+ID: "b2522e02-2c05-4ad9-93c2-cd0c1d83c9a5"
+Parent: "b9a5bbf1-62f6-4b49-811a-e67adf74a228"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/FAQ/FAQList
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/FAQ/FAQList.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190628T075451Z

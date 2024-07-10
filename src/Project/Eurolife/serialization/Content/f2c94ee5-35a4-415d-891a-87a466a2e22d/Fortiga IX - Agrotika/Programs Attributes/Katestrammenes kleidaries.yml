@@ -1,0 +1,25 @@
+﻿---
+ID: "c6f5a8cb-9205-4a4a-8395-1eb617861993"
+Parent: "de1c7292-0e3c-4df7-a3ef-63fa25c9bbbd"
+Template: "8ebcbc5c-1d20-4406-8144-82afb185e659"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Idiotes/oxima/Pronomiakes ekptoseis sta asfalistra aytokinitou/Synergazomenoi Episkeyastes Krystallon/_Local/Vehicle Panels/Fortiga IX - Agrotika/Programs Attributes/Katestrammenes kleidaries"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1543892b-a690-4e90-a05f-c496fee76c18"
+      Hint: PanelsIsCheckbox
+      Type: Checkbox
+      Value: 1
+    - ID: "1ef9b331-607c-48d3-bc12-c8b2d7ca1e40"
+      Hint: PanelRowTitle
+      Value: Κατεστραμμένες κλειδαριές
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T140806Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

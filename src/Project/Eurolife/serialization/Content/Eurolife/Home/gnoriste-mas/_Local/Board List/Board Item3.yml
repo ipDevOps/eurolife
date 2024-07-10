@@ -1,0 +1,32 @@
+﻿---
+ID: "37412246-8677-4431-82c1-4f4e4ebe1069"
+Parent: "cdd239ff-fc05-4c30-ac9e-86e677a6c23d"
+Template: "802f372f-af21-4045-9ba4-b5655427c966"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/_Local/Board List/Board Item3"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12f214c9-16ee-4cf1-9220-7d1c8fefc9a1"
+      Hint: TeaserLabel
+      Value: ΟΙΚΟΝΟΜΙΑ
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210202T161259Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b09e98c3-49f2-49cd-8257-c50b267b29f5"
+      Hint: TeaserIcon
+      Value: |
+        <image mediaid="{55D90811-D4D7-46B1-AD73-F585D4BB7B23}" />
+    - ID: "bbdb1173-7923-40d0-8f16-9e0da04f4d6b"
+      Hint: TeaserTitle
+      Value: Προστατέυουμε όσα είναι σημαντικά
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{FDAD0FCF-D953-4AD0-8C33-345AF32D744F}" />

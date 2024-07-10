@@ -1,0 +1,252 @@
+﻿---
+ID: "12487fb6-ae98-47ac-930c-b183ffd646a4"
+Parent: "c65d8f70-3364-489b-b8b5-71d02f602d95"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Eurolife-Group/omilos-me-mia-matia"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{06CB8478-7952-422F-94BC-10CF68B5F679}"
+              p:before="*"
+              s:id="{0C50FD78-8252-4FC9-B779-8222677467FA}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{64B195E1-4AAF-47AB-AE03-C8D274DFE8DD}"
+              p:after="r[@uid='{06CB8478-7952-422F-94BC-10CF68B5F679}']"
+              s:id="{00C6C1FB-EB91-43A5-84EF-1F8B207496CC}"
+              s:ph="/page-layout/page-layout-top" />
+            <r
+              uid="{2C70A88E-A8E8-4FB2-9048-B2DCF2A70BE3}"
+              p:after="r[@uid='{64B195E1-4AAF-47AB-AE03-C8D274DFE8DD}']"
+              s:ds="{6F70F9DE-A366-4F79-A508-228AADE68043}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par=""
+              s:ph="/page-layout/teaser-placeholder-1-{4C888E95-A9B9-41F8-8664-F09B2AF2968C}-0" />
+            <r
+              uid="{7EC18256-AFCB-4E92-BE82-AA9C5CBD5159}">
+              <p:d />
+            </r>
+            <r
+              uid="{CA34EABB-F7FB-4A62-A408-6E05F4231EFE}"
+              p:after="r[@uid='{910D84F1-7A4E-46C5-A0AA-39C463C70E0A}']"
+              s:ds=""
+              s:id="{364B0B6E-B331-43F7-A1A2-761D44053BA6}"
+              s:par="Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D"
+              s:ph="page-layout" />
+            <r
+              uid="{38F9E908-43B0-496F-A297-C6604E4B07A4}">
+              <p:d />
+            </r>
+            <r
+              uid="{88B91DF2-05C4-4CE5-A2AF-B1506006B971}">
+              <p:d />
+            </r>
+            <r
+              uid="{4C888E95-A9B9-41F8-8664-F09B2AF2968C}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{B6B3DB5C-B63A-43AF-9567-6E180348A7A1}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190709T114224Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Ο Όμιλος με μια ματιά
+    - ID: "3b4322c4-9d93-498d-85cf-c29921147099"
+      Hint: ShowChildren
+      Type: Checkbox
+      Value: 1
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ο Όμιλος με μια ματιά
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <span id="docs-internal-guid-d20ca846-7fff-8f27-07d3-87f69fc427cf"></span>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">Έ&chi;&omicron;&nu;&tau;&alpha;&sigmaf; &xi;&epsilon;&kappa;&iota;&nu;ή&sigma;&epsilon;&iota; &tau;&eta; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;ό&tau;&eta;&tau;ά &tau;&omicron;&upsilon; &tau;&omicron; 2000, &omicron; Ό&mu;&iota;&lambda;&omicron;&sigmaf; &kappa;&alpha;&tau;έ&chi;&epsilon;&iota; &sigma;ή&mu;&epsilon;&rho;&alpha; &eta;&gamma;&epsilon;&tau;&iota;&kappa;ή &theta;έ&sigma;&eta; &sigma;&tau;&omicron; bancassurance, &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&eta; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &tau;&omicron;&upsilon; &mu;&epsilon; &tau;&eta;&nu; &Tau;&rho;ά&pi;&epsilon;&zeta;&alpha; Eurobank. &Tau;&alpha;&upsilon;&tau;ό&chi;&rho;&omicron;&nu;&alpha;, &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&zeta;&epsilon;&tau;&alpha;&iota; &mu;&epsilon; έ&nu;&alpha; &epsilon;&upsilon;&rho;ύ &delta;ί&kappa;&tau;&upsilon;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &sigma;&epsilon; ό&lambda;&eta; &tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha;. &Mu;έ&sigma;&omega; &tau;&omega;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ώ&nu; &theta;&upsilon;&gamma;&alpha;&tau;&rho;&iota;&kappa;ώ&nu; &tau;&omicron;&upsilon;, Eurolife ERB &Alpha;.&Epsilon;.&Alpha;.&Zeta;. &kappa;&alpha;&iota; Eurolife ERB &Alpha;.&Epsilon;.&Gamma;.&Alpha;., &sigma;&chi;&epsilon;&delta;&iota;ά&zeta;&epsilon;&iota; &kappa;&alpha;&iota; &pi;&rho;&omicron;&omega;&theta;&epsilon;ί &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ά &pi;&rho;&omicron;ϊό&nu;&tau;&alpha; &pi;&omicron;&upsilon; &kappa;&alpha;&lambda;ύ&pi;&tau;&omicron;&upsilon;&nu; ό&lambda;&epsilon;&sigmaf; &tau;&iota;&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&omicron;&upsilon; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&omicron;&upsilon; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;. &Epsilon;&pi;&iota;&tau;&upsilon;&gamma;&chi;ά&nu;&epsilon;&iota; &sigma;&tau;&alpha;&theta;&epsilon;&rho;ά &iota;&sigma;&chi;&upsilon;&rho;ή &kappa;&epsilon;&rho;&delta;&omicron;&phi;&omicron;&rho;ί&alpha; &kappa;&alpha;&iota; &delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &upsilon;&psi;&eta;&lambda;ή &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;&iota;&alpha;&kappa;ή &epsilon;&pi;ά&rho;&kappa;&epsilon;&iota;&alpha; &pi;&omicron;&upsilon; &upsilon;&pi;&epsilon;&rho;&kappa;&alpha;&lambda;ύ&pi;&tau;&epsilon;&iota; &tau;&iota;&sigmaf; &epsilon;&upsilon;&rho;&omega;&pi;&alpha;ϊ&kappa;έ&sigmaf; &epsilon;&pi;&omicron;&pi;&tau;&iota;&kappa;έ&sigmaf; &alpha;&pi;&alpha;&iota;&tau;ή&sigma;&epsilon;&iota;&sigmaf;. &Omega;&sigmaf; &epsilon;&kappa; &tau;&omicron;ύ&tau;&omicron;&upsilon;, &epsilon;ί&nu;&alpha;&iota; &alpha;&nu;ά &pi;ά&sigma;&alpha; &sigma;&tau;&iota;&gamma;&mu;ή &sigma;&epsilon; &theta;έ&sigma;&eta; &nu;&alpha; &epsilon;&kappa;&pi;&lambda;&eta;&rho;ώ&nu;&epsilon;&iota; ά&mu;&epsilon;&sigma;&alpha; &tau;&iota;&sigmaf; &upsilon;&pi;&omicron;&chi;&rho;&epsilon;ώ&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon; &alpha;&pi;έ&nu;&alpha;&nu;&tau;&iota; &sigma;&tau;&omicron;&upsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&mu;έ&nu;&omicron;&upsilon;&sigmaf; &tau;&omicron;&upsilon;.<br />
+        </span></p>
+        <ul>
+            <li dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&Delta;&iota;&alpha;&theta;έ&tau;&omicron;&upsilon;&mu;&epsilon; έ&nu;&alpha; &epsilon;&kappa;&tau;&epsilon;&tau;&alpha;&mu;έ&nu;&omicron; &delta;ί&kappa;&tau;&upsilon;&omicron; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &delta;&iota;&alpha;&mu;&epsilon;&sigma;&omicron;&lambda;&alpha;&beta;&eta;&tau;ώ&nu; &sigma;&epsilon; ό&lambda;&eta; &tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; (&mu;&epsilon; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&omicron;&upsilon;&sigmaf; &alpha;&pi;ό 1.000 &alpha;&nu;&epsilon;&xi;ά&rho;&tau;&eta;&tau;&omicron;&upsilon;&sigmaf; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&tau;&epsilon;&sigmaf; &pi;&alpha;&nu;&epsilon;&lambda;&lambda;&alpha;&delta;&iota;&kappa;ά).<br />
+            </span></li>
+            <li dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;"> &Kappa;&alpha;&tau;&alpha;&phi;έ&rho;&nu;&omicron;&upsilon;&mu;&epsilon; &sigma;&upsilon;&sigma;&tau;&eta;&mu;&alpha;&tau;&iota;&kappa;ά &upsilon;&psi;&eta;&lambda;ή &kappa;&epsilon;&rho;&delta;&omicron;&phi;&omicron;&rho;ί&alpha;, &eta; &omicron;&pi;&omicron;ί&alpha; &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&epsilon;&tau;&alpha;&iota; &alpha;&pi;ό &tau;&eta; &sigma;ύ&gamma;&chi;&rho;&omicron;&nu;&eta; &omicron;&rho;&gamma;&alpha;&nu;&omega;&tau;&iota;&kappa;ή &delta;&omicron;&mu;ή &mu;&alpha;&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&nu; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;&sigma;&mu;&alpha;&tau;&iota;&kappa;ό &tau;&rho;ό&pi;&omicron; &lambda;&epsilon;&iota;&tau;&omicron;&upsilon;&rho;&gamma;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf;.<br />
+            </span></li>
+            <li dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&Iota;&sigma;&omicron;&rho;&rho;&omicron;&pi;&eta;&mu;έ&nu;&omicron; &chi;&alpha;&rho;&tau;&omicron;&phi;&upsilon;&lambda;ά&kappa;&iota;&omicron; &pi;&rho;&omicron;ϊό&nu;&tau;&omega;&nu; &kappa;&alpha;&iota; έ&mu;&phi;&alpha;&sigma;&eta; &sigma;&tau;&omicron; &Tau;&epsilon;&chi;&nu;&iota;&kappa;ό &Alpha;&pi;&omicron;&tau;έ&lambda;&epsilon;&sigma;&mu;&alpha; &kappa;&alpha;&iota; &tau;&eta;&nu; &kappa;&epsilon;&rho;&delta;&omicron;&phi;&omicron;&rho;ί&alpha;.<br />
+            </span></li>
+            <li dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&Mu;έ&sigma;&eta; &alpha;&pi;ό&delta;&omicron;&sigma;&eta; &kappa;&epsilon;&phi;&alpha;&lambda;&alpha;ί&omega;&nu; (Return on Average Tangible Assets) &tau;&eta;&sigmaf; &tau;ά&xi;&epsilon;&omega;&sigmaf; &tau;&omicron;&upsilon; <strong>26% &gamma;&iota;&alpha; &tau;&eta; &chi;&rho;ή&sigma;&eta; &pi;&omicron;&upsilon; έ&kappa;&lambda;&epsilon;&iota;&sigma;&epsilon; 31/12/2018</strong>.</span></li>
+        </ul>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;"><strong><span style="text-decoration: underline;"></span></strong></span><span style="color: #000000;"><strong><span style="text-decoration: underline;">28 έ&tau;&eta;</span> &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha;&sigmaf; &sigma;&tau;&eta; &mu;&epsilon;&sigma;&iota;&tau;&epsilon;ί&alpha; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu; &mu;&epsilon; &tau;&eta;&nu; ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &Upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &Alpha;.&Epsilon;.&Mu;.&Alpha;</strong></span>
+        </p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;">
+        &Mu;ί&alpha; &alpha;&pi;ό &tau;&iota;&sigmaf; &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&epsilon;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; &mu;&epsilon;&sigma;&iota;&tau;&epsilon;ί&alpha;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu; &kappa;&alpha;&iota; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta;&sigmaf; &kappa;&iota;&nu;&delta;ύ&nu;&omega;&nu; &sigma;&tau;&eta;&nu; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, &mu;&epsilon; &pi;&alpha;&rho;&omicron;&upsilon;&sigma;ί&alpha; &pi;ά&nu;&omega; &alpha;&pi;ό 28 έ&tau;&eta; &sigma;&tau;&omicron;&nu; &kappa;&lambda;ά&delta;&omicron;.<br />
+        &Xi;&epsilon;&chi;&omega;&rho;ί&zeta;&epsilon;&iota; &gamma;&iota;&alpha; &tau;&eta;&nu; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &tau;&eta;&sigmaf;, &tau;&omicron;&nu; &sigma;&chi;&epsilon;&delta;&iota;&alpha;&sigma;&mu;ό &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &lambda;ύ&sigma;&epsilon;&omega;&nu; &kappa;&alpha;&iota; &tau;&eta; &delta;&iota;&alpha;&chi;&epsilon;ί&rho;&iota;&sigma;&eta; &sigma;ύ&nu;&theta;&epsilon;&tau;&omega;&nu; &theta;&epsilon;&mu;ά&tau;&omega;&nu; &kappa;&alpha;&iota; &alpha;&pi;&omicron;&zeta;&eta;&mu;&iota;ώ&sigma;&epsilon;&omega;&nu;, &alpha;&pi;&alpha;&nu;&tau;ώ&nu;&tau;&alpha;&sigmaf; &sigma;&epsilon; ό&lambda;&epsilon;&sigmaf; &tau;&iota;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf; &tau;&omega;&nu; &pi;&epsilon;&lambda;&alpha;&tau;ώ&nu; &tau;&eta;&sigmaf; &ndash; &omicron;&iota; &omicron;&pi;&omicron;ί&omicron;&iota; &sigma;&tau;&eta;&nu; &pi;&lambda;&epsilon;&iota;&omicron;&psi;&eta;&phi;ί&alpha; &tau;&omicron;&upsilon;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;ή&sigma;&epsilon;&iota;&sigmaf;. <br />
+        &Delta;&iota;&alpha;&theta;έ&tau;&epsilon;&iota; &iota;&sigma;&chi;&upsilon;&rho;ή &delta;&iota;&alpha;&pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&epsilon;&upsilon;&tau;&iota;&kappa;ή &delta;ύ&nu;&alpha;&mu;&eta; &kappa;&alpha;&iota; &epsilon;&upsilon;&rho;&epsilon;ί&alpha; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha; &mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &alpha;&gamma;&omicron;&rho;ά, &gamma;&epsilon;&gamma;&omicron;&nu;ό&sigmaf; &pi;&omicron;&upsilon; &tau;&eta;&sigmaf; &epsilon;&pi;&iota;&tau;&rho;έ&pi;&epsilon;&iota; &nu;&alpha; &pi;&rho;&omicron;&tau;&epsilon;ί&nu;&epsilon;&iota; &tau;&iota;&sigmaf; &pi;&iota;&omicron; &sigma;&upsilon;&mu;&phi;έ&rho;&omicron;&upsilon;&sigma;&epsilon;&sigmaf; &lambda;ύ&sigma;&epsilon;&iota;&sigmaf;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;"><strong>&nbsp;</strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;"><strong>Έ&nu;&alpha; &delta;&upsilon;&nu;&alpha;&tau;ό &xi;&epsilon;&kappa;ί&nu;&eta;&mu;&alpha; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &pi;&rho;&alpha;&kappa;&tau;ό&rho;&epsilon;&upsilon;&sigma;&eta; &alpha;&pi;ό &tau;&eta;&nu; ERB Insurance Agents</strong><br />
+        &Sigma;&tau;&omicron; &delta;&upsilon;&nu;&alpha;&mu;&iota;&kappa;ό &tau;&omega;&nu; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;&iota;ώ&nu; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB &pi;&epsilon;&rho;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&tau;&alpha;&iota;, &pi;&lambda;έ&omicron;&nu;, &kappa;&alpha;&iota; &eta; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha; &mu;&epsilon; &tau;&eta;&nu; &epsilon;&pi;&omega;&nu;&upsilon;&mu;ί&alpha; &laquo;ERB &Pi;&rho;&alpha;&kappa;&tau;ό&rho;&epsilon;&upsilon;&sigma;&eta; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu; &Mu;&omicron;&nu;&omicron;&pi;&rho;ό&sigma;&omega;&pi;&eta; &Alpha;&nu;ώ&nu;&upsilon;&mu;&eta; &Epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;&raquo; &kappa;&alpha;&iota; &tau;&omicron;&nu; &delta;&iota;&alpha;&kappa;&rho;&iota;&tau;&iota;&kappa;ό &tau;ί&tau;&lambda;&omicron; &laquo;ERB Insurance Agents&raquo;. &Eta; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha; &kappa;&alpha;&iota; &eta; &tau;&epsilon;&chi;&nu;&omicron;&gamma;&nu;&omega;&sigma;ί&alpha; &tau;&omega;&nu; &alpha;&nu;&theta;&rho;ώ&pi;&omega;&nu; &pi;&omicron;&upsilon; &tau;&eta; &sigma;&tau;&epsilon;&lambda;&epsilon;&chi;ώ&nu;&omicron;&upsilon;&nu;, &sigma;&epsilon; &sigma;&upsilon;&nu;&delta;&upsilon;&alpha;&sigma;&mu;ό &mu;&epsilon; &tau;&omicron; ό&tau;&iota; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;ά&zeta;&epsilon;&tau;&alpha;&iota; &mu;&epsilon; &tau;&iota;&sigmaf; &mu;&epsilon;&gamma;&alpha;&lambda;ύ&tau;&epsilon;&rho;&epsilon;&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; &tau;&eta;&sigmaf; &alpha;&gamma;&omicron;&rho;ά&sigmaf;, &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&zeta;&omicron;&upsilon;&nu; &gamma;&iota;&alpha; &kappa;ά&theta;&epsilon; &pi;&epsilon;&lambda;ά&tau;&eta; &tau;&eta;&sigmaf; &alpha;&delta;&iota;ά&lambda;&epsilon;&iota;&pi;&tau;&eta; &epsilon;&xi;&upsilon;&pi;&eta;&rho;έ&tau;&eta;&sigma;&eta;, &mu;&epsilon; &pi;&omicron;&iota;ό&tau;&eta;&tau;&alpha;, &upsilon;&pi;&epsilon;&upsilon;&theta;&upsilon;&nu;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &sigma;&upsilon;&nu;έ&pi;&epsilon;&iota;&alpha;.<br />
+        <strong><br />
+        &Alpha;&nu;&alpha;&pi;&tau;&upsilon;&sigma;&sigma;ό&mu;&epsilon;&nu;&epsilon;&sigmaf; &kappa;&alpha;&iota; &kappa;&epsilon;&rho;&delta;&omicron;&phi;ό&rho;&epsilon;&sigmaf; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;ό&tau;&eta;&tau;&epsilon;&sigmaf; &sigma;&tau;&eta; &Rho;&omicron;&upsilon;&mu;&alpha;&nu;ί&alpha;</strong><br />
+        &Alpha;&pi;ό &tau;&omicron; 2007 &eta; &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;ό&tau;&eta;&tau;ά &mu;&alpha;&sigmaf; &epsilon;&kappa;&tau;&epsilon;ί&nu;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&eta; &Rho;&omicron;&upsilon;&mu;&alpha;&nu;ί&alpha;, &mu;&epsilon; &tau;&iota;&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; Eurolife ERB Asigurari de Viata &kappa;&alpha;&iota; Eurolife ERB Asigurari Generale. &Omicron;&iota; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; Eurolife ERB Asigurari &epsilon;&pi;ί&sigma;&eta;&sigmaf; &alpha;&nu;ή&kappa;&omicron;&upsilon;&nu; &sigma;&tau;&omicron;&nu; Ό&mu;&iota;&lambda;&omicron; Eurolife ERB &kappa;&alpha;&iota; &delta;&iota;&alpha;&theta;έ&tau;&omicron;&upsilon;&nu; έ&nu;&alpha; &epsilon;&upsilon;&rho;ύ &chi;&alpha;&rho;&tau;&omicron;&phi;&upsilon;&lambda;ά&kappa;&iota;&omicron; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu; &Zeta;&omega;ή&sigmaf; &kappa;&alpha;&iota; &Gamma;&epsilon;&nu;&iota;&kappa;ώ&nu; &Alpha;&sigma;&phi;&alpha;&lambda;ί&sigma;&epsilon;&omega;&nu;.<br />
+        &Gamma;&iota;&alpha; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&epsilon;&sigmaf; &pi;&lambda;&eta;&rho;&omicron;&phi;&omicron;&rho;ί&epsilon;&sigmaf;, &epsilon;&pi;&iota;&sigma;&kappa;&epsilon;&phi;&tau;&epsilon;ί&tau;&epsilon; &tau;&omicron; site &tau;&eta;&sigmaf; Eurolife ERB Asigurari, &sigma;&tau;&epsilon;ί&lambda;&tau;&epsilon; e-mail &sigma;&tau;&omicron; <a href="mailto:asigurari@eurolife-asigurari.ro">asigurari@eurolife-asigurari.ro.</a></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000;"><strong>&Omicron;&iota; &epsilon;&gamma;&kappa;&alpha;&tau;&alpha;&sigma;&tau;ά&sigma;&epsilon;&iota;&sigmaf; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB</strong><br />
+        &Eta; &Delta;&iota;&epsilon;&theta;&nu;ή&sigmaf; &Kappa;&tau;&eta;&mu;&alpha;&tau;&iota;&kappa;ή &Alpha;.&Epsilon;. &delta;&rho;&alpha;&sigma;&tau;&eta;&rho;&iota;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; &alpha;&pi;ό &tau;&omicron; 1994 &sigma;&tau;&eta;&nu; &alpha;&gamma;&omicron;&rho;ά &kappa;&tau;&iota;&rho;ί&omega;&nu; &kappa;&alpha;&iota; &omicron;&iota;&kappa;&omicron;&pi;έ&delta;&omega;&nu; &kappa;&alpha;&iota; &gamma;&epsilon;&nu;&iota;&kappa;ό&tau;&epsilon;&rho;&alpha; &epsilon;&delta;&alpha;&phi;&iota;&kappa;ώ&nu; &epsilon;&kappa;&tau;ά&sigma;&epsilon;&omega;&nu; &gamma;&iota;&alpha; &tau;&eta;&nu; &omicron;&iota;&kappa;&omicron;&delta;ό&mu;&eta;&sigma;&eta; &alpha;&sigma;&tau;&iota;&kappa;ώ&nu; &gamma;&rho;&alpha;&phi;&epsilon;ί&omega;&nu;, &epsilon;&pi;&alpha;&gamma;&gamma;&epsilon;&lambda;&mu;&alpha;&tau;&iota;&kappa;ώ&nu; &gamma;&rho;&alpha;&phi;&epsilon;ί&omega;&nu; &kappa;&alpha;&iota; &kappa;&alpha;&tau;&omicron;&iota;&kappa;&iota;ώ&nu;. &Kappa;ύ&rho;&iota;&omicron; &pi;&epsilon;&rho;&iota;&omicron;&upsilon;&sigma;&iota;&alpha;&kappa;ό &sigma;&tau;&omicron;&iota;&chi;&epsilon;ί&omicron; &tau;&eta;&sigmaf; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &tau;&omicron; &kappa;&tau;&iota;&rho;&iota;&alpha;&kappa;ό &sigma;&upsilon;&gamma;&kappa;&rho;ό&tau;&eta;&mu;&alpha; &epsilon;&pi;ί &tau;&eta;&sigmaf; &omicron;&delta;&omicron;ύ &Lambda;. &Epsilon;&lambda;&epsilon;&upsilon;&theta;&epsilon;&rho;ί&omicron;&upsilon; &Beta;&epsilon;&nu;&iota;&zeta;έ&lambda;&omicron;&upsilon; 33-35 &amp; &Kappa;&omicron;&rho;&alpha;ή 6-10 &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&omicron;ύ&mu;&epsilon;&nu;&omicron; &alpha;&pi;ό &delta;&iota;ώ&rho;&omicron;&phi;&omicron; &nu;&epsilon;&omicron;&kappa;&lambda;&alpha;&sigma;&iota;&kappa;ό &delta;&iota;&alpha;&tau;&eta;&rho;&eta;&tau;έ&omicron; &kappa;&tau;ί&rho;&iota;&omicron; &kappa;&alpha;&iota; &mu;&omicron;&nu;&tau;έ&rho;&nu;&omicron; &pi;&omicron;&lambda;&upsilon;ώ&rho;&omicron;&phi;&omicron; &kappa;&tau;ί&rho;&iota;&omicron;. &Tau;&omicron; &sigma;&upsilon;&gamma;&kappa;&rho;ό&tau;&eta;&mu;&alpha; &tau;&omega;&nu; &kappa;&tau;&iota;&rho;ί&omega;&nu; &epsilon;ί&nu;&alpha;&iota; &mu;&iota;&sigma;&theta;&omega;&mu;έ&nu;&omicron; &omicron;&lambda;&omicron;&sigma;&chi;&epsilon;&rho;ώ&sigmaf; &alpha;&pi;ό &tau;&iota;&sigmaf; &theta;&upsilon;&gamma;&alpha;&tau;&rho;&iota;&kappa;έ&sigmaf; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&epsilon;&sigmaf; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB, &alpha;&pi;&omicron;&tau;&epsilon;&lambda;ώ&nu;&tau;&alpha;&sigmaf; &tau;&eta;&nu; έ&delta;&rho;&alpha; &tau;&omega;&nu; &gamma;&rho;&alpha;&phi;&epsilon;ί&omega;&nu; &tau;&omicron;&upsilon;.</span></p>
+        <p><strong id="docs-internal-guid-cad4ed06-7fff-bab2-e0df-1f8d5cba8045"></strong><br class="Apple-interchange-newline" />
+        </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: Ένας από τους κορυφαίους ασφαλιστικούς ομίλους της χώρας.
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ο Όμιλος με μια ματιά
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F1E4E9A2-D370-40F4-B6F5-B948FD46D529}"
+              p:before="*"
+              s:ds="{6F9235E3-8B09-44B7-8B27-7F54440B1494}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Alignment&amp;Background=%7B6ADEB5B7-13E8-45FE-A2B3-75C4910FA09F%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-3-{E68A57A0-0571-4337-AFC1-840884ED0226}-0" />
+            <r
+              uid="{91F1E0FE-FA66-4015-904D-D262478D1BA9}"
+              p:after="r[@uid='{F1E4E9A2-D370-40F4-B6F5-B948FD46D529}']"
+              s:ds="{EAD02555-1EB7-4589-ABA0-C5B8BEB127FE}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:ph="/page-layout/teaser-placeholder-3-{E68A57A0-0571-4337-AFC1-840884ED0226}-0" />
+            <r
+              uid="{CCD673F7-7928-4DF1-8C21-FB62B27963F1}"
+              p:after="r[@uid='{91F1E0FE-FA66-4015-904D-D262478D1BA9}']"
+              s:ds="{6F70F9DE-A366-4F79-A508-228AADE68043}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Alignment&amp;Background=%7B7F898357-3B13-4BEC-802E-7EF58D50F030%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-2-{E68A57A0-0571-4337-AFC1-840884ED0226}-0" />
+            <r
+              uid="{8B309201-944D-46EA-90DB-687EC4B283E4}"
+              p:after="r[@uid='{CCD673F7-7928-4DF1-8C21-FB62B27963F1}']"
+              s:ds="{C4296D23-B62F-4DD8-9C8C-CFFA9320692E}"
+              s:id="{61F4AA1C-809B-4271-AB37-84921D5006BC}"
+              s:par="Alignment&amp;Background=%7B3ABEF2ED-9AC2-40E8-83C3-5F94B5604F31%7D&amp;ContainerIsNotFullWidth"
+              s:ph="/page-layout/teaser-placeholder-1-{E68A57A0-0571-4337-AFC1-840884ED0226}-0" />
+            <r
+              uid="{E68A57A0-0571-4337-AFC1-840884ED0226}"
+              p:after="r[@uid='{832CD083-2620-47BB-9F2B-63084D865567}']"
+              s:ds="{B6B3DB5C-B63A-43AF-9567-6E180348A7A1}"
+              s:id="{35B143BC-F015-4DA6-81BA-36BCC2F6351A}"
+              s:ph="page-layout" />
+            <r
+              uid="{9685F76A-05BD-4B33-968F-2AF51C850636}"
+              p:after="r[@uid='{E68A57A0-0571-4337-AFC1-840884ED0226}']"
+              s:ds="{EAD02555-1EB7-4589-ABA0-C5B8BEB127FE}"
+              s:id="{D1DD7390-C774-4C86-8904-FD074B9BD21D}"
+              s:ph="page-layout" />
+            <r
+              uid="{6B7B1035-ED5D-47E8-B9C5-D785B5ACE3E4}"
+              p:after="r[@uid='{9685F76A-05BD-4B33-968F-2AF51C850636}']"
+              s:ds="{D0C385A4-B9C4-408F-A930-B9E3CABCD3BD}"
+              s:id="{29887712-3E85-461E-AE69-AC01ABBC7B38}"
+              s:par=""
+              s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190723T101245Z
+    - ID: "48b984be-446e-40c9-b86b-2b93f35f015e"
+      Hint: Title
+      Value: Ποιοί είμαστε
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;ά&theta;&epsilon; &eta;&mu;έ&rho;&alpha;, &delta;&omicron;&upsilon;&lambda;&epsilon;&iota;ά &mu;&alpha;&sigmaf; &epsilon;ί&nu;&alpha;&iota; &nu;&alpha; &delta;&iota;&alpha;&chi;&epsilon;&iota;&rho;&iota;&zeta;ό&mu;&alpha;&sigma;&tau;&epsilon; &tau;&eta;&nu; &alpha;&beta;&epsilon;&beta;&alpha;&iota;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &nu;&alpha; &alpha;&xi;&iota;&omicron;&pi;&omicron;&iota;&omicron;ύ&mu;&epsilon; &tau;&iota;&sigmaf; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;ί&epsilon;&sigmaf;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Mu;&epsilon; &tau;&eta;&nu; &kappa;&lambda;&eta;&rho;&omicron;&nu;&omicron;&mu;&iota;ά &tau;&eta;&sigmaf; &pi;&omicron;&lambda;&upsilon;&epsilon;&tau;&omicron;ύ&sigmaf; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha;&sigmaf; &mu;&alpha;&sigmaf; &sigma;&tau;&omicron; &epsilon;&pi;ί&kappa;&epsilon;&nu;&tau;&rho;&omicron; &tau;&eta;&sigmaf; &epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;ή&sigmaf; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf; &alpha;&gamma;&omicron;&rho;ά&sigmaf; &kappa;&alpha;&iota; &mu;&epsilon; &sigma;&tau;&alpha;&theta;&epsilon;&rho;έ&sigmaf; &tau;&iota;&sigmaf; &theta;&epsilon;&mu;&epsilon;&lambda;&iota;ώ&delta;&epsilon;&iota;&sigmaf; &alpha;&rho;&chi;έ&sigmaf; &mu;&alpha;&sigmaf;, &mu;&pi;&alpha;ί&nu;&omicron;&upsilon;&mu;&epsilon; &sigma;&epsilon; &mu;&iota;&alpha; &nu;έ&alpha; &epsilon;&pi;&omicron;&chi;ή, &mu;&epsilon; &tau;&eta;&nu; ώ&theta;&eta;&sigma;&eta; &pi;&omicron;&upsilon; &mu;&alpha;&sigmaf; &delta;ί&nu;&epsilon;&iota; &omicron; &iota;&sigma;&chi;&upsilon;&rho;ό&sigmaf; &kappa;&alpha;&iota; &alpha;&xi;&iota;ό&pi;&iota;&sigma;&tau;&omicron;&sigmaf; &delta;&iota;&epsilon;&theta;&nu;ή&sigmaf; Ό&mu;&iota;&lambda;&omicron;&sigmaf; &tau;&eta;&sigmaf; Fairfax.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;&xi;&epsilon;&lambda;&iota;&sigma;&sigma;ό&mu;&alpha;&sigma;&tau;&epsilon;, &gamma;&iota;&alpha; &nu;&alpha; &sigma;&tau;&epsilon;&kappa;ό&mu;&alpha;&sigma;&tau;&epsilon; &delta;ί&pi;&lambda;&alpha; &sigma;&omicron;&upsilon; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&alpha;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&alpha;&iota; ό&tau;&alpha;&nu; &lambda;έ&mu;&epsilon; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&alpha;, &epsilon;&nu;&nu;&omicron;&omicron;ύ&mu;&epsilon; &mu;&epsilon; &nu;έ&omicron;, &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ό &tau;&rho;ό&pi;&omicron;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Pi;&rho;&omicron;&chi;&omega;&rho;ά&mu;&epsilon; &pi;έ&rho;&alpha; &alpha;&pi;ό &tau;&eta;&nu; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha; ό&sigma;&omega;&nu; έ&chi;&omicron;&upsilon;&nu; &alpha;&xi;ί&alpha; &gamma;&iota;&alpha; &epsilon;&sigma;έ&nu;&alpha;, &epsilon;&xi;&alpha;&sigma;&phi;&alpha;&lambda;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &alpha;&pi;&lambda;ό&tau;&eta;&tau;&alpha; &kappa;&alpha;&iota; &tau;&eta;&nu; &epsilon;&upsilon;&epsilon;&lambda;&iota;&xi;ί&alpha; &pi;&omicron;&upsilon; &chi;&rho;&epsilon;&iota;ά&zeta;&epsilon;&sigma;&alpha;&iota; &kappa;&alpha;&iota; &sigma;&omicron;&upsilon; &delta;ί&nu;&omicron;&upsilon;&mu;&epsilon; &tau;&eta; &delta;ύ&nu;&alpha;&mu;&eta; &nu;&alpha; &kappa;ά&nu;&epsilon;&iota;&sigmaf; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&epsilon;&sigmaf; &epsilon;&pi;&iota;&lambda;&omicron;&gamma;έ&sigmaf;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;ά&nu;&omicron;&upsilon;&mu;&epsilon; &alpha;&pi;&lambda;ή &tau;&eta;&nu; &pi;&rho;&omicron;&sigma;&tau;&alpha;&sigma;ί&alpha; ό&sigma;&omega;&nu; έ&chi;&omicron;&upsilon;&nu; &sigma;&eta;&mu;&alpha;&sigma;ί&alpha; &gamma;&iota;&alpha; &epsilon;&sigma;έ&nu;&alpha; &kappa;&alpha;&iota; &epsilon;&upsilon;&kappa;&omicron;&lambda;ό&tau;&epsilon;&rho;&eta; &tau;&eta;&nu; &alpha;&xi;&iota;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&omega;&nu; &nu;έ&omega;&nu; &epsilon;&upsilon;&kappa;&alpha;&iota;&rho;&iota;ώ&nu;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Delta;&epsilon;&nu; &alpha;&lambda;&lambda;ά&zeta;&omicron;&upsilon;&mu;&epsilon;, ό&mu;&omega;&sigmaf;, &tau;&iota;&sigmaf; &theta;&epsilon;&mu;&epsilon;&lambda;&iota;ώ&delta;&epsilon;&iota;&sigmaf; &alpha;&rho;&chi;έ&sigmaf; &mu;&alpha;&sigmaf;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Kappa;&rho;&alpha;&tau;ά&mu;&epsilon; &tau;&iota;&sigmaf; &alpha;&xi;ί&epsilon;&sigmaf; &pi;&omicron;&upsilon; &mu;&alpha;&sigmaf; έ&phi;&epsilon;&rho;&alpha;&nu; &omega;&sigmaf; &epsilon;&delta;ώ.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Tau;&eta;&nu; &alpha;&xi;&iota;&omicron;&pi;&iota;&sigma;&tau;ί&alpha;. &Tau;&eta; &delta;&iota;&alpha;&phi;ά&nu;&epsilon;&iota;&alpha;. &Tau;&eta; &phi;&rho;&omicron;&nu;&tau;ί&delta;&alpha; &mu;&alpha;&sigmaf; &pi;&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf;, &mu;έ&sigma;&alpha; &alpha;&pi;ό &tau;&eta; &delta;&iota;&alpha;&rho;&kappa;ή &epsilon;&pi;έ&nu;&delta;&upsilon;&sigma;&eta; &sigma;&tau;&eta;&nu; &epsilon;&xi;έ&lambda;&iota;&xi;ή &tau;&omicron;&upsilon;&sigmaf;. &Tau;&eta;&nu; &pi;&rho;&omicron;&tau;&epsilon;&rho;&alpha;&iota;ό&tau;&eta;&tau;ά &mu;&alpha;&sigmaf; &nu;&alpha; &epsilon;&pi;&iota;&sigma;&tau;&rho;έ&phi;&omicron;&upsilon;&mu;&epsilon; &alpha;&xi;ί&alpha; &sigma;&tau;&eta;&nu; &kappa;&omicron;&iota;&nu;&omega;&nu;ί&alpha;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Gamma;&iota;&alpha;&tau;ί &epsilon;&mu;&epsilon;ί&sigmaf; &upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &pi;&omicron;&upsilon; &delta;&iota;&epsilon;&kappa;&delta;&iota;&kappa;&omicron;ύ&nu; &pi;&epsilon;&rho;&iota;&sigma;&sigma;ό&tau;&epsilon;&rho;&alpha; &alpha;&pi;ό &tau;&eta; &zeta;&omega;ή.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Epsilon;ί&mu;&alpha;&sigma;&tau;&epsilon; &kappa;&omicron;&nu;&tau;ά &sigma;&omicron;&upsilon;, &gamma;&iota;&alpha; &nu;&alpha; έ&rho;&chi;&epsilon;&sigma;&alpha;&iota; &pi;&iota;&omicron; &kappa;&omicron;&nu;&tau;ά &sigma;&tau;&iota;&sigmaf; &epsilon;&pi;&iota;&theta;&upsilon;&mu;ί&epsilon;&sigmaf;, &tau;&alpha; ό&nu;&epsilon;&iota;&rho;&alpha; &kappa;&alpha;&iota; &tau;&omicron;&upsilon;&sigmaf; &sigma;&tau;ό&chi;&omicron;&upsilon;&sigmaf; &sigma;&omicron;&upsilon;.&nbsp;</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"><br />
+        </strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Upsilon;&pi;&omicron;&sigma;&tau;&eta;&rho;ί&zeta;&omicron;&upsilon;&mu;&epsilon; &tau;&eta;&nu; &kappa;&alpha;&lambda;ύ&tau;&epsilon;&rho;&eta; &epsilon;&kappa;&delta;&omicron;&chi;ή &tau;&eta;&sigmaf; &zeta;&omega;ή&sigmaf; &sigma;&omicron;&upsilon;.</span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><strong>&Alpha;&upsilon;&tau;ή &epsilon;ί&nu;&alpha;&iota; &eta; &delta;έ&sigma;&mu;&epsilon;&upsilon;&sigma;ή &mu;&alpha;&sigmaf;.</strong></span></p>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;"><span id="docs-internal-guid-82a95887-7fff-d3e0-c294-a84c0a7a4a3e"></span><br class="Apple-interchange-newline" />
+        </span></p>
+        <h3><strong id="docs-internal-guid-4dcedab3-7fff-5aea-f904-51452e73608c"></strong><br class="Apple-interchange-newline" />
+        </h3>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "9580e8d5-430e-4746-b4c1-6b71c56df42e"
+      Hint: Summary
+      Value: |
+        Δίνουνε καθημερινά δύναμη στη ζωή σας.
+        
+    - ID: "b55592b1-8771-4bc3-a3a7-a30a2761430f"
+      Hint: DesktopImage
+      Value: |
+        <image mediaid="{8427819A-9FA1-40D9-B8FB-91325460B6FD}" />
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Ποιοί είμαστε

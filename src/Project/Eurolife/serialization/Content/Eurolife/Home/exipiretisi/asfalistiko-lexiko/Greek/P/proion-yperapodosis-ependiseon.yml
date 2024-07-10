@@ -1,0 +1,24 @@
+﻿---
+ID: "daeedc6a-347a-48ce-9c89-5db6714d63c6"
+Parent: "25651102-a617-410b-b6ee-c595b53ae8bc"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/P/proion-yperapodosis-ependiseon-mathimatikon-apothematon"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Προϊόν Υπεραπόδοσης Επενδύσεων Μαθηματικών Αποθεμάτων (Π.Υ.Μ.Α.)
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T073115Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το Π.Υ.Μ.Α. είναι μία επιπλέον παροχή, η οποία ισούται με το γινόμενο του Επενδυόμενου Μαθηματικού Αποθέματος που υπήρχε στο τέλος του προηγούμενου οικονομικού έτους, με την απόδοση που πέτυχε η εταιρεία στις επενδύσεις της, αφαιρώντας το τεχνικό επιτόκιο του προγράμματος και έξοδα τα οποία κατά την έναρξη ισχύος του Ασφαλιστηρίου ανέρχονται σε 0,50%. Σε περίπτωση που η απόδοση των επενδύσεων είναι μεγαλύτερη από 5% ετησίως, η εταιρεία διατηρεί το δικαίωμα να αυξήσει τα έξοδα έως 1%.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

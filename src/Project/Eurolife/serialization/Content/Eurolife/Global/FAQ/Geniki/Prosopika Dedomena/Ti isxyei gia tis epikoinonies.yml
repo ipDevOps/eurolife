@@ -1,0 +1,25 @@
+﻿---
+ID: "825e02dc-66ff-4fbc-9e58-624f2ffcab67"
+Parent: "703853a1-b3ab-4833-b122-1e0e71bad113"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Prosopika Dedomena/Ti isxyei gia tis epikoinonies pou lambano kai aforoun Proothisi Proionton i Ypiresion
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Τι ισχύει για τις επικοινωνίες που λαμβάνω και αφορούν Προώθηση Προϊόντων ή Υπηρεσιών; 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T091210Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="text-align: left; text-decoration: none; letter-spacing: normal; color: #000000;">&Eta; &pi;&rho;&omicron;ώ&theta;&eta;&sigma;&eta; &pi;&rho;&omicron;ϊό&nu;&tau;&omega;&nu; ή &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &gamma;ί&nu;&epsilon;&tau;&alpha;&iota; &mu;&epsilon; &beta;ά&sigma;&epsilon;&iota; ό&sigma;&alpha; &pi;&epsilon;&rho;&iota;&gamma;&rho;ά&phi;&omicron;&nu;&tau;&alpha;&iota; </span><span style="text-align: left; text-decoration: none; letter-spacing: normal; color: #000000;"><a rel="noopener noreferrer" href="https://www.eurolife.gr/el/prosopika-dedomena#9" target="_blank">&epsilon;&delta;ώ</a></span><span style="text-align: left; text-decoration: none; letter-spacing: normal; color: #000000;">.</span>

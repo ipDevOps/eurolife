@@ -1,0 +1,43 @@
+﻿---
+ID: "22b36e60-bfa3-4391-828d-30362749f2bc"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/Walk-to-Win-meiwsh-sta-asfalistra-ygeias"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152949Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: "Walk to Win: Απόκτησε πιο οικονομική ασφάλεια υγείας… περπατώντας!"
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{F5595893-93CA-43C1-A382-A5CEA55D9393}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Η εξέλιξη της τεχνολογίας κάνει θαύματα! Ένα από αυτά, είναι ότι μας δίνει τη δυνατότητα να απλοποιούμε την καθημερινότητά μας, με τη βοήθεια εφαρμογών, σε όλους τους τομείς, ακόμα κι όταν πρόκειται για την υγεία μας. Μια τέτοια εφαρμογή είναι και η «Walk to Win», η οποία αξιοποιώντας την τεχνολογία των wearables, σου δίνει τη δυνατότητα να μειώνεις το κόστος της ασφάλισής σου όσο περπατάς.</p><p style="text-align: justify;">Άλλωστε το <a href="http://as-milisoume.gr/el/Articles/160808%20einai-to-20lepto-perpathma-kalh-gymanstikh">20λεπτο περπάτημα</a> είναι μια πολύ καλή γυμναστική, η οποία ως γνωστόν συμβάλλει και στην καλύτερη υγεία.</p><p style="text-align: justify;"><strong>Δες πώς μπορούν να πέσουν βήμα, βήμα και τα δικά σου ασφάλιστρα!</strong></p><p style="text-align: justify; margin-bottom: 15pt;">Η Eurolife ERB, έχοντας ως βασικό στόχο τη δημιουργία προϋποθέσεων για ένα καλύτερο αύριο για όλους, δημιούργησε το πρώτο ασφαλιστικό πρόγραμμα υγείας στην Ελλάδα που σου δίνει τη δυνατότητα να μειώνεις να ασφάλιστρά σου κάνοντας κάτι που έτσι και αλλιώς κάνεις κάθε μέρα, όπως το να περπατάς.</p><p><div style="text-align: justify;"><strong>1<sup>ο</sup> βήμα:&nbsp;</strong></div><div style="text-align: justify;">Συμπληρώνεις τα στοιχεία σου στην <a href="https://walktowin.eurolife.gr/">ειδική φόρμα</a>, ώστε ένας ασφαλιστικός συνεργάτης να επικοινωνήσει μαζί σου και να σε ενημερώσει σχετικά με το πρόγραμμα.</div></p><p><div style="text-align: justify;"><strong>2<sup>ο</sup> βήμα:&nbsp;</strong></div><div style="text-align: justify;">Αποκτάς το νοσοκομειακό πρόγραμμα Premium Νοσοκομειακό Β-1500 Economy και κατεβάζεις το app Walk to Win, για Android ή ΙΟS.</div></p><p><div style="text-align: justify;"><strong>3<sup>ο</sup> βήμα:&nbsp;</strong></div><div style="text-align: justify;">Ξεκινάς να περπατάς και να βλέπεις το κόστος της ασφάλισής σου να μειώνεται!</div></p><p style="text-align: justify;">Τόσο απλά!</p><p style="text-align: justify;"><strong>Δες τι σου εξασφαλίζει το νοσοκομειακό πρόγραμμα: </strong><strong>Premium</strong><strong> Νοσοκομειακό Β' 1500-</strong><strong>economy</strong></p><p style="text-align: justify;">Με το <a href="https://walktowin.eurolife.gr/informations.asp">πρόγραμμα&nbsp;Premium Νοσοκομειακό Β' 1500-economy</a> αποκτάς πρόσβαση σε υπηρεσίες υγείας υψηλής ποιότητας από το νοσηλευτικό κέντρο της επιλογής σου, σε Β' θέση νοσηλείας. Ανάμεσα στις κύριες καλύψεις του προγράμματος είναι τα έξοδα ασθενοφόρου, διαγνωστικών εξετάσεων, επείγοντα περιστατικά και άλλα πολλά.</p><p style="text-align: justify;"><strong>Πώς επωφελείσαι ενώ περπατάς;</strong></p><p><div style="text-align: justify;">Κατεβάζοντας το&nbsp;<strong>app</strong><strong> </strong><strong>Walk</strong><strong> </strong><strong>to</strong><strong> </strong><strong>Win</strong>&nbsp;παρακολουθείς τα βήματα που κάνεις κάθε μέρα, το οποίο θα σε βοηθήσει, έτσι και αλλιώς, και με τη φυσική σου κατάσταση. Στόχος σου είναι να κάνεις&nbsp;<strong>240.000 βήματα</strong>&nbsp;κάθε μήνα, που αντιστοιχεί σε&nbsp;<strong>8.000 βήματα την ημέρα. </strong>Πράγμα καθόλου δύσκολο αν σκεφτείς τις διαδρομές που κάνεις καθημερινά με τα πόδια, ακόμα κι αν αυτές είναι στο γραφείο ή και μέσα στο σπίτι!</div><div style="text-align: justify;"></div><div style="text-align: justify;">Αν πετύχεις τον μηνιαίο στόχο σου,&nbsp;<strong>10 από τους 12 μήνες</strong><strong>&nbsp;</strong>του ασφαλιστικού έτους, σού επιστρέφονται&nbsp;<strong>25€*. </strong>Επίσης ανάλογα με την επίδοσή σου, θα λαμβάνεις ακόμη περισσότερα κίνητρα και δώρα για να συνεχίζεις να προσπαθείς. Κάνε λοιπόν το βήμα και ξεκίνησε να μειώνεις το κόστος της ασφάλισής σου, σήμερα!</div></p><p style="text-align: justify;"><span style="font-size: 13px;">*Η χρηματική επιβράβευση των 25€ αφορά κάθε ασφαλισμένο του συμβολαίου που πετυχαίνει τον στόχο των βημάτων και θα καταβάλλεται στον αντισυμβαλλόμενο στη λήξη της πρώτης ετήσιας ασφαλιστικής περιόδου. Το ύψος της χρηματικής επιβράβευσης ενδέχεται να μεταβληθεί σε επόμενη ανανέωση του συμβολαίου. Η προωθητική ενέργεια ισχύει για περιορισμένο αριθμό πελατών και πρέπει να πληρούνται συγκεκριμένες προϋποθέσεις. Για περισσότερες πληροφορίες θα σε ενημερώσει ο ασφαλιστικός μας συνεργάτης.</span></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">Ένα ασφαλιστήριο υγείας είναι απαραίτητο σε κάθε ηλικία γιατί… η υγεία (θα πρέπει) να είναι πάνω από όλα. Όμως, το κόστος του, και ειδικά την περίοδο που διανύουμε, πιθανό να σε προβληματίζει. Είχες σκεφτεί ποτέ ότι η έκπτωση στο ασφαλιστήριο υγείας μπορεί να απέχει μόλις μερικά βήματα;</p><div style="text-align: justify;"></div>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{5D9C0CA2-0BAA-4024-B8C7-5361503A251D}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: "Walk to Win: Απόκτησε πιο οικονομική ασφάλεια υγείας… περπατώντας!"
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180627T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{DB3B9DAC-197A-458D-8625-B6B9A7E808EB}"

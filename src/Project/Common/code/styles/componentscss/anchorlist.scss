@@ -1,0 +1,88 @@
+/*------------------------------------*\
+  #NACHORLIST
+\*------------------------------------*/
+@import "../scss/base/mixins.scss";
+@import "../scss/base/variables.scss";
+
+
+.anchorlist{
+  padding-bottom:23px;
+  @include breakpoint-rev(820) {
+    padding-top:23px;
+  }
+
+  @include breakpoint-rev(1140){
+    min-width:1200px;
+  }
+
+  li{
+    list-style-type: none;
+    display: inline-block;
+  }
+
+  a{
+    display: block;
+    padding:10px 19px;
+    border-radius: 25px;
+    margin: 0;
+  }
+}
+
+@include breakpoint-rev(1140) {
+  #fix-2 {
+    width: 100%;
+    overflow-x: auto;
+  }
+}
+
+.achorlist__active{
+  background-color: #fff;
+}
+
+.theme{
+  &-health{
+    .achorlist__active{
+      color:$color-health;
+      background-color: $color-health-soft;
+    }
+  }
+  &-motor{
+    .achorlist__active{
+      color:$color-motor;
+      background-color: $color-motor-soft;
+    }
+  }
+  &-home{
+    .achorlist__active{
+      color:$color-home;
+      background-color: $color-home-soft;
+    }
+  }
+  &-life{
+    .achorlist__active{
+      color:$color-life-insurance;
+      background-color: $color-life-insurance-soft;
+    }
+  }
+}
+
+
+
+/*if anchor list is sticky*/
+
+.sticky-pending {
+  .anchorlist {
+    transition: transform 400ms ease;
+    will-change: transform;
+  }
+}
+
+.sticky-second{
+  .anchorlist{
+    @include breakpoint(1700) {
+      transform: translate(-240px, 0px);
+    }
+
+  }
+
+}

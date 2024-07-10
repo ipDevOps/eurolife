@@ -1,0 +1,14 @@
+﻿---
+ID: "a95eb2a1-7cf6-4076-9711-f79d4474e0bd"
+Parent: "0c1844cf-7006-418e-8a41-f8bed0e40b55"
+Template: "a096d891-6565-4505-8ad8-d497fd1b8776"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/messaies-kai-megales-epixeiriseis/_Local"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190605T104442Z

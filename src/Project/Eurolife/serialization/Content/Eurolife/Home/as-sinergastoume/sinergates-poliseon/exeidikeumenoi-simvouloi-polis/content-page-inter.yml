@@ -1,0 +1,27 @@
+﻿---
+ID: "bb9a975b-b302-4b60-8dc2-f31e9a77c96c"
+Parent: "ca091a7d-8c6b-4c6b-80a1-078fc9df89d0"
+Template: "b8b6f714-6702-463a-a7b7-5b3abbbafb31"
+Path: "/sitecore/content/Eurolife/Home/as-sinergastoume/sinergates-poliseon/exeidikeumenoi-simvouloi-poliseon/content-page-inter"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191013T201949Z
+    - ID: "5c95201b-69ed-40ae-abda-9eb83141d8e9"
+      Hint: Body
+      Value: |
+        <strong id="docs-internal-guid-96ac0cd4-7fff-c968-8ab4-f6bd14308f9b"></strong>
+        <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; text-decoration: none; color: #000000;">&Alpha;&nu; ό&lambda;&alpha; &alpha;&upsilon;&tau;ά &alpha;&kappa;&omicron;ύ&gamma;&omicron;&nu;&tau;&alpha;&iota; &ldquo;&iota;&delta;&alpha;&nu;&iota;&kappa;ά&rdquo;, &kappa;&omicron;&nu;&tau;ά &mu;&alpha;&sigmaf; &theta;&alpha; &delta;&iota;&alpha;&pi;&iota;&sigma;&tau;ώ&sigma;&epsilon;&tau;&epsilon; ό&tau;&iota; &epsilon;ί&nu;&alpha;&iota; &eta; &kappa;&alpha;&theta;&eta;&mu;&epsilon;&rho;&iota;&nu;ή &mu;&alpha;&sigmaf; &pi;&rho;&omicron;&tau;&epsilon;&rho;&alpha;&iota;ό&tau;&eta;&tau;&alpha; &gamma;&iota;&alpha; &tau;&omicron;&upsilon;&sigmaf; &alpha;&nu;&theta;&rho;ώ&pi;&omicron;&upsilon;&sigmaf; &mu;&alpha;&sigmaf;<br />
+        &Pi;&rho;&omicron;&tau;&epsilon;&rho;&alpha;&iota;ό&tau;&eta;&tau;&alpha; &pi;&omicron;&upsilon; &gamma;ί&nu;&epsilon;&tau;&alpha;&iota; &pi;&rho;ά&xi;&eta; ό&tau;&alpha;&nu; &sigma;&upsilon;&nu;&delta;&upsilon;ά&zeta;&epsilon;&tau;&alpha;&iota; &mu;&epsilon; <strong><span style="text-decoration: underline;">&alpha;&mu;&omicron;&iota;&beta;&alpha;ί&omicron;</span></strong> &epsilon;&nu;&delta;&iota;&alpha;&phi;έ&rho;&omicron;&nu;, &epsilon;&iota;&lambda;&iota;&kappa;&rho;ί&nu;&epsilon;&iota;&alpha; &kappa;&alpha;&iota; &epsilon;&rho;&gamma;&alpha;&tau;&iota;&kappa;ό&tau;&eta;&tau;&alpha;.<br />
+        &nbsp;<br />
+        &Kappa;&alpha;&lambda;ώ&sigmaf; ή&rho;&theta;&alpha;&tau;&epsilon; &sigma;&tau;&omicron;&nu; &kappa;ό&sigma;&mu;&omicron; &tau;&omega;&nu; <strong>&Epsilon;&xi;&epsilon;&iota;&delta;&iota;&kappa;&epsilon;&upsilon;&mu;έ&nu;&omega;&nu; &Sigma;&upsilon;&mu;&beta;&omicron;ύ&lambda;&omega;&nu; &Pi;&omega;&lambda;ή&sigma;&epsilon;&omega;&nu;</strong> &tau;&eta;&sigmaf; Eurolife ERB. <br />
+        </span></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

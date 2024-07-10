@@ -1,0 +1,45 @@
+/*------------------------------------*\
+  #PEOPLE
+\*------------------------------------*/
+.people{
+  background-color: $duck-egg-blue;
+
+  .slick-arrow{
+    position: absolute;
+    top:50%;
+  }
+  .slick-disabled{
+    opacity: 0.6;
+  }
+  .slick-prev{
+    left:0;
+  }
+  .slick-next{
+    right:0;
+  }
+}
+.people__image{
+  img{
+    margin: 0 auto;
+    width: 156px;
+    border-radius: 50%;
+    object-fit: cover;
+    height: 156px;
+  }
+}
+
+.people__quote{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.people__position{
+  font-size: 14px;
+  color:$color-black-faded;
+}
+
+
+
+

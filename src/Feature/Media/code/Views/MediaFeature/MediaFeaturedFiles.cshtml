@@ -1,0 +1,68 @@
+﻿@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Feature.Media
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.MediaFileGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.MediaFileGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+  var items = Model.Item.GetMultiListValueItems(Templates.MediaFileGroup.Fields.Files);
+}
+
+@if ((items == null || !items.Any()) && Sitecore.Context.PageMode.IsNormal)
+{
+  return;
+}
+
+
+@using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+{
+  <section class="center center--1100 m-b-112 media-featured-files">
+    <div class="list-column">
+      @using (Html.BeginEditFrame(Model.Item.ID.ToString(), ""))
+      {
+
+        foreach (var item in items)
+        {
+          <article>
+            <div class="list__article__group">
+              @if (item.FieldHasValue(Templates.HasMediaPublication.Fields.PublishDate) || Sitecore.Context.PageMode.IsExperienceEditor)
+              {
+                <time>@Html.Sitecore().Field(Templates.HasMediaPublication.Fields.PublishDate, item, new { DisableWebEdit = true, format = "d MMM yyyy" })</time>
+              }
+
+              <h2 class="h6 m-b-8">@Html.Sitecore().Field(Templates.HasMedia.Fields.Title, item, new { DisableWebEdit = true })</h2>
+              @if (item.FieldHasValue(Templates.HasMedia.Fields.Description) || Sitecore.Context.PageMode.IsExperienceEditor)
+              {
+                <div class="list__article__author">
+                  @Html.Sitecore().Field(Templates.HasMedia.Fields.Description, item, new { DisableWebEdit = true })
+                </div>
+              }
+
+              @if (item.FieldHasValue(Templates.HasMediaPublication.Fields.FirstPublishDate) || Sitecore.Context.PageMode.IsExperienceEditor)
+              {
+                <div class="list__article__text">
+                  @Html.Sitecore().Dictionary("/Media/Featured Files/First Published", "First Published")<br>
+                  @Html.Sitecore().Field(Templates.HasMediaPublication.Fields.PublishSource, item, new { DisableWebEdit = true }),
+                  @Html.Sitecore().Field(Templates.HasMediaPublication.Fields.FirstPublishDate, item, new { DisableWebEdit = true, format = "d/MM/yyyy" })
+                </div>
+              }
+
+              <a href="@item.ImageUrl(Templates.MediaFile.Fields.File)" class="link-plain">
+                @Html.Sitecore().Dictionary("/Media/Featured Files/Download Button", "Download")
+              </a>
+              <span class="link-plain-download"></span>
+            </div>
+          </article>
+        }
+      }
+    </div>
+  </section>
+}
+

@@ -1,0 +1,24 @@
+﻿---
+ID: "66a7d397-3483-4208-b05c-cefa183a9547"
+Parent: "99c43e69-bfca-4f55-a8c4-e063e9bfe513"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/A/asfalisiko-poso-orio-ana-thima"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Ασφαλιστικό Ποσό/Όριο ανά Θύμα ή Ανώτατο Όριο Ευθύνης ανά Θύμα
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191021T210314Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Το χρηματικό ποσό μέχρι το οποίο φτάνει η υποχρέωση της εταιρείας για Αποζημίωση για κάθε θύμα, δηλαδή το σύνολο που θα καταβληθεί για τον τραυματισμό ή απώλεια ζωής ενός προσώπου, συμπεριλαμβανομένης της ηθικής βλάβης ή/και ψυχικής οδύνης.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

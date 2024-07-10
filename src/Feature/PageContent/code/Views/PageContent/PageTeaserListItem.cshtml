@@ -1,0 +1,24 @@
+﻿@using Wedia.Feature.PageContent
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.Dictionary.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasPageContent.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasPageContent.ID),
+      AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+      Model.Item?.ID,
+      Model.Rendering.Item?.ID)
+  return;
+}
+
+<div class="list__item list__item--double">
+  <h4 class="list__title">@Html.Sitecore().Field(Templates.HasPageContent.Fields.Title, Model.Item, new { DisableWebEdit = true})</h4>
+  <div class="list__download">
+    <a href="@Model.Item.Url()" role="button" class="btn btn--dark btn--default">
+      @Html.Sitecore().Dictionary("/Page Content/Page Teaser/Read more", "Read more")
+    </a>
+  </div>
+</div>

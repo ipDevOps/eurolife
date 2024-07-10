@@ -1,0 +1,78 @@
+﻿---
+ID: "3f79105a-4bcc-433d-a62c-dcba7319a7cb"
+Parent: "16351d16-de59-4f85-b750-07e16e068026"
+Template: "ce1d7e61-0867-4d85-8661-ebea1d8b48ea"
+Path: "/sitecore/content/Eurolife/Home/gnoriste-mas/Dioikitiki-Omada/Alexandros-Sarrigeorgiou"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CBFFD0E6-1024-41F9-92F3-185ECDD785AB}"
+              s:ds="{3F79105A-4BCC-433D-A62C-DCBA7319A7CB}" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191116T155233Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Αλέξανδρος Σαρρηγεωργίου
+    - ID: "3a28c78d-3c5e-4d7b-837b-9f511fb70d80"
+      Hint: PersonBody
+      Value: |
+        <p>O &Alpha;&lambda;έ&xi;&alpha;&nu;&delta;&rho;&omicron;&sigmaf; &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &amp; &Delta;&iota;&epsilon;&upsilon;&theta;ύ&nu;&omega;&nu; &Sigma;ύ&mu;&beta;&omicron;&upsilon;&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; &omicron;&mu;ί&lambda;&omicron;&upsilon; &tau;&eta;&sigmaf; Eurolife ERB &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή&sigmaf;. &Epsilon;ί&nu;&alpha;&iota; &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;&omicron;ύ &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omicron;&upsilon; &tau;&eta;&sigmaf; Έ&nu;&omega;&sigma;&eta;&sigmaf; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &Epsilon;&tau;&alpha;&iota;&rho;&iota;ώ&nu; &Epsilon;&lambda;&lambda;ά&delta;&omicron;&sigmaf;, &mu;έ&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; Advisory Board &tau;&eta;&sigmaf; &Alpha;.&Mu;. Nomikos Transworld Maritime Agencies S.A&nbsp; &kappa;&alpha;&iota; &mu;έ&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; Executive Board for Europe, Middle East and Africa &tau;&omicron;&upsilon; Wharton School, University of Pennsylvania. &Epsilon;ί&nu;&alpha;&iota; &epsilon;&pi;ί&sigma;&eta;&sigmaf; &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;&omicron;ύ &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omicron;&upsilon; &tau;&omicron;&upsilon; Wharton Club of Greece , &Pi;&rho;ό&epsilon;&delta;&rho;&omicron;&sigmaf; &tau;&omicron;&upsilon; Hellenic Advisory Board &tau;&omicron;&upsilon; South East European Studies at Oxford&nbsp; (SEESOX) , &mu;έ&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;&omicron;ύ &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omicron;&upsilon; &kappa;&alpha;&iota; &tau;&eta;&sigmaf; &Epsilon;&kappa;&tau;&epsilon;&lambda;&epsilon;&sigma;&tau;&iota;&kappa;ή&sigmaf; &Epsilon;&pi;&iota;&tau;&rho;&omicron;&pi;ή&sigmaf; &tau;&omicron;&upsilon; &Iota;&delta;&rho;ύ&mu;&alpha;&tau;&omicron;&sigmaf; &Omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;ώ&nu; &kappa;&alpha;&iota; &Beta;&iota;&omicron;&mu;&eta;&chi;&alpha;&nu;&iota;&kappa;ώ&nu; &Epsilon;&rho;&epsilon;&upsilon;&nu;ώ&nu; (&Iota;&Omicron;&Beta;&Epsilon;) &kappa;&alpha;&theta;ώ&sigmaf; &kappa;&alpha;&iota; &mu;έ&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;&omicron;ύ &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omicron;&upsilon; &tau;&eta;&sigmaf; Grivalia Hospitality S.A. .</p>
+        <p>&Mu;&epsilon;&tau;&alpha;&xi;ύ ά&lambda;&lambda;&omega;&nu; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;ώ&nu; &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omega;&nu;, έ&chi;&epsilon;&iota; &delta;&iota;&alpha;&tau;&epsilon;&lambda;έ&sigma;&epsilon;&iota; &mu;έ&lambda;&omicron;&sigmaf; &tau;&omicron;&upsilon;&nbsp; &Delta;&iota;&omicron;&iota;&kappa;&eta;&tau;&iota;&kappa;&omicron;ύ &Sigma;&upsilon;&mu;&beta;&omicron;&upsilon;&lambda;ί&omicron;&upsilon; &tau;&eta;&sigmaf; S&amp;B Industrial Minerals Holdings S.A.R.L. ,&tau;&eta;&sigmaf; &Epsilon;&pi;&iota;&tau;&rho;&omicron;&pi;ή&sigmaf; &Kappa;&epsilon;&phi;&alpha;&lambda;&alpha;&iota;&alpha;&gamma;&omicron;&rho;ά&sigmaf; &kappa;&alpha;&iota; &tau;&omicron;&upsilon; &Epsilon;&lambda;&lambda;&eta;&nu;&iota;&kappa;&omicron;ύ &Iota;&nu;&sigma;&tau;&iota;&tau;&omicron;ύ&tau;&omicron;&upsilon; &Alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ώ&nu; &Sigma;&pi;&omicron;&upsilon;&delta;ώ&nu; (&Epsilon;&Iota;&Alpha;&Sigma;). &Omicron; &kappa;. &Sigma;&alpha;&rho;&rho;&eta;&gamma;&epsilon;&omega;&rho;&gamma;ί&omicron;&upsilon; &epsilon;ί&nu;&alpha;&iota; &pi;&tau;&upsilon;&chi;&iota;&omicron;ύ&chi;&omicron;&sigmaf; MBA Finance &tau;&omicron;&upsilon; Wharton School of the University of Pennsylvania &kappa;&alpha;&iota; &kappa;ά&tau;&omicron;&chi;&omicron;&sigmaf; MSc &kappa;&alpha;&iota; BSc &Pi;&omicron;&lambda;&iota;&tau;&iota;&kappa;&omicron;ύ &Mu;&eta;&chi;&alpha;&nu;&iota;&kappa;&omicron;ύ &tau;&omicron;&upsilon; Columbia University.</p>
+        <p>&Sigma;&tau;&omicron; &pi;&alpha;&rho;&epsilon;&lambda;&theta;ό&nu; έ&chi;&epsilon;&iota; &epsilon;&rho;&gamma;&alpha;&sigma;&tau;&epsilon;ί &sigma;&epsilon; &mu;&epsilon;&gamma;ά&lambda;&omicron;&upsilon;&sigmaf; &chi;&rho;&eta;&mu;&alpha;&tau;&omicron;&omicron;&iota;&kappa;&omicron;&nu;&omicron;&mu;&iota;&kappa;&omicron;ύ&sigmaf; &omicron;&mu;ί&lambda;&omicron;&upsilon;&sigmaf; &sigma;&tau;&eta;&nu; &Epsilon;&lambda;&lambda;ά&delta;&alpha; &kappa;&alpha;&iota; &sigma;&tau;&iota;&sigmaf; &Eta;&Pi;&Alpha;.<br />
+        <br />
+        </p>
+    - ID: "47e95858-efcc-4862-8a26-3905105ece5b"
+      Hint: PersonQuote
+      Value: Θέλουμε οι πελάτες μας και οι οικογένειές τους να αισθάνονται ασφαλείς ότι θα είμαστε δίπλα τους τη στιγμή που θα μας χρειαστούν. Γνωρίζοντας ότι αυτό που κάνουμε καθημερινά αγγίζει τη ζωή χιλιάδων ανθρώπων, ξεκινάμε κάθε μέρα με ενθουσιασμό χτίζοντας μια αξιόπιστη εταιρεία που καταλαβαίνει τον άνθρωπο.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "66daf897-2490-46a2-9cec-3523434273bb"
+      Hint: PersonName
+      Value: Αλέξανδρος Σαρρηγεωργίου
+    - ID: "7c4aaadd-2ca5-488a-8fc1-5b5f01df6a9b"
+      Hint: CanIndex
+      Type: Checkbox
+      Value: 1
+    - ID: "902ad41a-7a0a-43fc-9080-0a858d455597"
+      Hint: PersonTitle
+      Value: Αλέξανδρος Σαρρηγεωργίου
+    - ID: "a212c93a-7c83-4fed-bc5a-5b035baeff50"
+      Hint: PersonImage
+      Value: |
+        <image mediaid="{0A79099E-8EA1-4BB9-AD0C-D0AA79D2C603}" />
+    - ID: "e57a5fee-e68d-4d37-ac1f-edc51e551121"
+      Hint: PersonPosition
+      Value: Πρόεδρος & Διευθύνων Σύμβουλος 
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Αλέξανδρος Σαρρηγεωργίου

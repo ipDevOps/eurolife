@@ -1,0 +1,43 @@
+﻿---
+ID: "641f4e13-4e75-4984-9a51-3963e485af40"
+Parent: "c5fcc331-669b-420b-8fa5-e4b5acef2162"
+Template: "67f40fef-b3c7-4366-b026-183e80dcf4e6"
+Path: "/sitecore/content/Eurolife/Home/Blog/articles/2018/12/03/15/29/gnwriste-tous-treis-pylwnes-ths-asfalishs"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191203T152945Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Γνωρίστε τους 3 πυλώνες της ασφάλισης
+    - ID: "710d9be7-b5b4-4786-af74-43fd2d763a3b"
+      Hint: Selected Products
+      Type: Multilist
+      Value: "{AA00477F-4906-4634-966C-1E07F23582E8}"
+    - ID: "751cc2e2-f3d2-4896-94b5-ed8174395942"
+      Hint: Main content
+      Value: |
+        <p style="text-align: justify;">Είτε παρακολουθώντας την επικαιρότητα είτε από προσωπική εμπειρία γνωρίζετε πως <strong>οι συντάξεις έχουν μειωθεί κατά πολύ τα τελευταία χρόνια.</strong> Επίσης, σύμφωνα με <a href="https://cor.europa.eu/en/documentation/studies/Documents/The%20impact%20of%20demographic%20change%20on%20European%20regions/Impact_demographic_change_european_regions.pdf">μελέτη της Ευρωπαϊκής Επιτροπής (2015)</a> <strong>η Ελλάδα στο μέλλον θα αντιμετωπίσει μεγάλο δημογραφικό πρόβλημα</strong>, με σημαντική μείωση του πληθυσμού, ενώ σημαντικό μέρος αυτού του πληθυσμού θα είναι άνω των 65 ετών.</p><p style="text-align: justify;">Έτσι, δημιουργείται η ανάγκη για την υιοθέτηση ενός ασφαλιστικού συστήματος που να ανταποκρίνεται στις σύγχρονες ανάγκες και στον τρόπο διαβίωσης των Ελλήνων και το οποίο θα είναι βιώσιμο και θα αποτελέσει σοβαρό <a href="http://www.as-milisoume.gr/el/Articles/giati-dyskoleuomaste-na-katalavoume-th-shmasia-ths-apotamieyshs">κίνητρο για αποταμίευση</a>. </p><p style="text-align: justify;">Βεβαίως, <a href="http://www.as-milisoume.gr/el/Articles/akoume-gia-asfalisi-kai-syntaxi">όλο ακούμε για ασφάλιση και σύνταξη. Πόσα ξέρουμε όμως;</a></p><p style="text-align: justify;"><strong>Το Ελληνικό Σύστημα Κοινωνικής Ασφάλισης</strong></p><p style="text-align: justify;">Σήμερα, το Ελληνικό Σύστημα Κοινωνικής Ασφάλισης αποτελείται από <strong>δύο πυλώνες</strong>: </p><ol>    <li style="text-align: justify;">Δημόσιο Σύστημα Ασφάλισης (π.χ. ΙΚΑ) το οποίο χρηματοδοτείται από το κράτος, τον εργοδότη και τον εργαζόμενο (κύριο)</li>    <li style="text-align: justify;">Ταμείο Επαγγελματικής Ασφάλισης το οποίο λαμβάνει χρηματοδότηση από τις εισφορές εργοδοτών και εργαζόμενων (συμπληρωματικό)</li></ol><p style="text-align: justify;"><strong>Η φιλοσοφία των 3 πυλώνων του ασφαλιστικού συστήματος</strong></p><p style="text-align: justify;">Οι <strong>3 πυλώνες του ασφαλιστικού συστήματος</strong> περιγράφουν ένα σύστημα συντάξεων από δημόσιους και ιδιωτικούς φορείς, το οποίο εφαρμόζεται αποτελεσματικά τόσο στην Ευρώπη όσο και διεθνώς.</p><p style="text-align: justify; margin-left: 36pt;"><strong>1<sup>ος</sup> πυλώνας</strong> (Υποχρεωτικός): κρατικός/ασφαλιστικός φορέας </p><p style="text-align: justify; margin-left: 36pt;"><strong>2<sup>ος</sup> πυλώνας</strong> (Συμπληρωματικός): μεικτό σύστημα κρατικό ή/και ιδιωτικό, όπως για παράδειγμα το<strong> </strong>Ταμείο Επαγγελματικής Ασφάλισης </p><p style="text-align: justify; margin-left: 36pt;"><strong>3<sup>ος</sup> πυλώνας</strong> (Εθελοντικός): Ιδιωτική ασφάλιση</p><p style="text-align: justify;">Σύμφωνα με αυτό το σύστημα, ένας συνταξιούχος θα λαμβάνει μια σύνταξη για αξιοπρεπή διαβίωση από το κράτος και θα τη συμπληρώνει μέσω των <strong>Ταμείων Επαγγελματικής Ασφάλισης</strong>. Εάν θέλει κάτι περισσότερο <a href="http://www.as-milisoume.gr/el/Articles/kante-ti-diki-sas-prognosi">για τα χρόνια της σύνταξης</a>, τότε θα πρέπει να επενδύσει σε μια ιδιωτική ασφάλεια.</p><p style="text-align: justify;">Σε κάθε περίπτωση, αυτό προϋποθέτει την ολική αναθεώρηση των όσων γνωρίζαμε μέχρι σήμερα για τις συντάξεις, αλλά και το ασφαλιστικό σύστημα γενικότερα. Ελπίζουμε αυτό το άρθρο να σας βοήθησε <strong>να κατανοήσετε τη φιλοσοφία των 3 πυλώνων της ασφάλισης</strong> που συναντάμε κάθε τόσο και να αποτελέσει πηγή σκέψης για το πώς θα προνοήσετε όσο το δυνατόν καλύτερα για τη σύνταξή σας.</p><p style="text-align: justify;"><strong>Πηγές: Γενική Γραμματεία Κοινωνικών Ασφαλίσεων, Καθημερινή</strong></p>
+    - ID: "9fb7209f-e455-4463-91ba-1216d326dbfc"
+      Hint: Teaser
+      Value: |
+        <p style="text-align: justify;">Το ασφαλιστικό είναι ένα θέμα που μας αφορά όλους. Δεν αποτελεί μόνο πολιτική επικαιρότητα αλλά και συζήτηση στους περισσότερους κοινωνικούς κύκλους, καθώς η επίλυσή του προκαλεί γενικό προβληματισμό. Η συζήτηση αυτή πολλές φορές περιλαμβάνει και το μοντέλο των 3 πυλώνων της ασφάλισης, που όμως πολλοί δεν γνωρίζουν.</p>
+    - ID: "a766d447-508e-4fec-9033-f00e30361edc"
+      Hint: Image
+      Value: |
+        <image mediaid="{DF6008CF-A34A-4D30-A837-CDECA5B53F25}" />
+    - ID: "abb06b40-3bda-4795-9e3f-c3203da27637"
+      Hint: Title
+      Value: Γνωρίστε τους 3 πυλώνες της ασφάλισης
+    - ID: "dc21dbb1-629e-4c7c-8260-2048c1de036f"
+      Hint: Publicationdate
+      Value: 20180528T000000
+    - ID: "dc55b7e8-4aea-4e4f-82f3-4befd91d4375"
+      Hint: Selected Life Stages
+      Type: Multilist
+      Value: "{0C149C26-4890-4254-9E2D-8A38A5A8295A}"

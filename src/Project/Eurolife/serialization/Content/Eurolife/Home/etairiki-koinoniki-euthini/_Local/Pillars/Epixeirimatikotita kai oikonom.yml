@@ -1,0 +1,61 @@
+﻿---
+ID: "515c5463-fa37-48b8-9af9-bfbe4a9c1a6c"
+Parent: "52faeae8-a7a0-44be-ba58-88d10642cd2f"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: "/sitecore/content/Eurolife/Home/etairiki-koinoniki-euthini/_Local/Pillars/Epixeirimatikotita kai oikonomia"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Πιστεύουμε ότι κάθε άνθρωπος πρέπει να έχει περισσότερες ευκαιρίες και επιλογές για ό,τι αφορά το μέλλον του, γι’ αυτό και ενθαρρύνουμε τις νέες ιδέες που δημιουργούν αισιοδοξία και προοπτική.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Επιχειρηματικότητα & Οικονομία
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190806T111238Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{9B399889-7F44-4A25-8ADC-03BB67CD543D}" querystring="" text="ΠΕΡΙΣΣΟΤΕΡΑ" title="" class="" linktype="internal" url="/Eurolife/Home/etairiki-koinoniki-euthini/Epixeirimatikotita-oikonomia" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{0BAF53CC-31EF-4E54-87B8-3519F4A3F424}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015650f6-49a4-401c-b484-b9410a78c8ca"
+      Hint: TeaserSummary
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris congue vulputate erat hendrerit tincidunt.
+    - ID: "1c2f6ebb-7eb9-47f8-af61-57f1174108fe"
+      Hint: TeaserTitle
+      Value: Ποιότητα Ζωής
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190607T105034Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "af8b8e9d-3fe1-4bff-9062-4a139d8f4975"
+      Hint: TeaserCTA
+      Value: |
+        <link id="{98D0C2F9-5683-4D5E-BF97-40EE0BB990ED}" querystring="" linktype="internal" text="Περισσότερα" anchor="" url="/Eurolife/Home/etairiki-koinoniki-euthini/poiotita-zois" title="" class="" target="" />
+    - ID: "cfc640db-b9e4-41d6-abcd-5050d6b6d6fe"
+      Hint: TeaserImage
+      Value: |
+        <image mediapath="" alt="300" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="" mediaid="{CF982FC6-8B30-4EB1-BC94-C4F510245A62}" ></image>

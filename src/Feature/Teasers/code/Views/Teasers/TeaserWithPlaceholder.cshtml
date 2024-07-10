@@ -1,0 +1,44 @@
+﻿@using Wedia.Feature.Teasers
+@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Foundation.Theming.Extensions
+@using Sitecore.Mvc.Presentation;
+
+@model RenderingModel
+
+@if (!Model?.Item?.DescendsFrom(Templates.HasTeaserHeadline.ID) ?? true)
+{
+  @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HasTeaserHeadline.ID),
+        AlertTexts.InvalidDataSourceTemplateFriendlyMessage,
+        Model.Item?.ID,
+        Model.Rendering.Item?.ID)
+  return;
+}
+
+<section id="teaser-material" class="m-t-112 m-b-112 @RenderingContext.Current.Rendering.GetBackgroundClass()">
+  <div class="center center--1100 material">
+    <div class="material__left">
+      <div class="material__left__in">
+        <h1 class="color-life-insurance h4">@Html.Sitecore().Field(Templates.HasTeaserHeadline.Fields.Title)</h1>
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserSummary.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          <div class="material__text">
+            @Html.Sitecore().Field(Templates.HasTeaserSummary.Fields.Summary)
+          </div>
+        }
+
+        @if (Model.Item.FieldHasValue(Templates.HasTeaserCTA.Fields.CTA) || Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+          
+         @Html.Sitecore().Field(Templates.HasTeaserCTA.Fields.CTA, new { @class= "btn btn--default btn--dark" })
+          
+        }
+      </div>
+    </div>
+    <div class="material__right">
+      @Html.Sitecore().DynamicPlaceholder($"teaser-placeholder-1")
+    </div>
+  </div>
+</section>

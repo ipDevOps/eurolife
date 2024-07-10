@@ -1,0 +1,25 @@
+﻿---
+ID: "82d4a99c-cbfd-4a8e-83d9-dcea07fe44dd"
+Parent: "d10e7aa5-46da-4413-abd4-f375605924a4"
+Template: "ca06fba2-cc7d-48ec-919f-6ccc4d0957cc"
+Path: /sitecore/content/Eurolife/Global/FAQ/Geniki/Syntaxi Apotamiefsi/Pos eispratto ti miniaia syntaxi mou
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "218376e4-de85-44b1-a731-93a0a1f0ef06"
+      Hint: Question
+      Value: Πώς εισπράττω τη μηνιαία σύνταξή μου;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T091423Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c4a11b04-61f4-45ac-ac39-7eca98aac0d3"
+      Hint: Answer
+      Value: |
+        <span style="background-color: #ffffff; text-align: left; letter-spacing: normal; color: #000000;">&Sigma;&tau;&omicron;&nu; &lambda;&omicron;&gamma;&alpha;&rho;&iota;&alpha;&sigma;&mu;ό Eurobank &pi;&omicron;&upsilon; έ&chi;&epsilon;&tau;&epsilon; &omicron;&rho;ί&sigma;&epsilon;&iota;, &kappa;&alpha;&tau;&alpha;&theta;έ&tau;&omicron;&upsilon;&mu;&epsilon; &kappa;ά&theta;&epsilon; &mu;ή&nu;&alpha; &tau;&omicron; &pi;&omicron;&sigma;ό &tau;&eta;&sigmaf; &epsilon;&gamma;&gamma;&upsilon;&eta;&mu;έ&nu;&eta;&sigmaf; &sigma;ύ&nu;&tau;&alpha;&xi;&eta;&sigmaf;. &Eta; &pi;&rho;ώ&tau;&eta; &kappa;&alpha;&tau;ά&theta;&epsilon;&sigma;&eta; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&omicron;&pi;&omicron;&iota;&epsilon;ί&tau;&alpha;&iota; 1 &mu;ή&nu;&alpha; &mu;&epsilon;&tau;ά &tau;&eta;&nu; &alpha;ί&tau;&eta;&sigma;ή &sigma;&alpha;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron; &sigma;&upsilon;&nu;&tau;&alpha;&xi;&iota;&omicron;&delta;&omicron;&tau;&iota;&kappa;ό &pi;&rho;ό&gamma;&rho;&alpha;&mu;&mu;&alpha;.</span>

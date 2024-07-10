@@ -1,0 +1,81 @@
+/*------------------------------------*\
+  #GALLERY
+\*------------------------------------*/
+.gallery{
+  margin-left: calc( (100% - 1100px )/2);
+  .slick-slide {
+    margin: 0 8px;
+
+    img{
+      max-width: 543px;
+    }
+  }
+
+  .slick-dots{
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(0, 1fr) );
+    width:100%;
+    max-width: 1100px;
+    margin-top: 24px;
+
+    button{
+      display: none;
+    }
+
+    li{
+      height: 2px;
+      background-color: $color-base-grey;
+    }
+    .slick-active{
+      background-color: $color-base;
+    }
+  }
+
+}
+
+
+.gallery__video{
+  position: relative;
+  &:after {
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    z-index: 33;
+    position: absolute;
+    top: calc(50% - 25px);
+    left: calc(50% - 25px);
+    border-radius: 50%;
+  }
+}
+
+.fancybox-bg{
+  background:#fff;
+}
+
+.fancybox-is-open .fancybox-bg{
+  opacity:0.7;
+}
+
+.fancybox-content{
+  box-shadow: 0 0 26px -8px rgba(0,0,0,0.3);
+}
+
+.fancybox-active{
+  main{
+    filter:blur(5px);
+  }
+}
+
+.fancybox-caption{
+  background:#fff;
+  color: $charcoal;
+  padding-top:25px;
+}
+
+.gallery-prev svg, .gallery-next svg {
+    max-width: 32px;
+}
+
+
+

@@ -1,0 +1,18 @@
+﻿---
+ID: "79ed3d8a-825b-4894-bc1c-ba600e3042f9"
+Parent: "d4214d2e-ccd1-4231-8e3b-5a0e8b64fb12"
+Template: "2c7f1576-9844-4119-8f1e-a4e70c4791b9"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/ygeia/extra hospital care/_Local/Teaser List epidomata/Teaser
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T085638Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,38 @@
+﻿@using Wedia.Foundation.Dictionary.Extensions
+@model Wedia.Foundation.Indexing.Models.ISearchResults
+
+<div id="search-results">
+
+  @if (Model.TotalNumberOfResults == 0)
+  {
+    <p>
+      @Html.Sitecore().Dictionary("/Search/Global Search/No Data", "No Data")
+    </p>
+  }  
+
+  @foreach (var result in Model.Results)
+  {
+    if (result.ViewName != null)
+    {
+      //@Html.Partial(result.ViewName, result);
+    }
+    else
+    {
+      <article class="list__item list__item--ghost list__item--double">
+        <a class="list--double__info" href="@result.Url">
+          <h4 class="list__date">
+            @Html.Raw(result.Item.Created.Date.ToString("dd/MM/yyyy"))
+          </h4>
+          <h4 class="list__title">
+            @Html.Raw(result.Title)
+          </h4>
+          <p>
+            @Html.Raw(result.Description)
+          </p>
+        </a>
+      </article>
+    }
+
+  }
+</div>
+

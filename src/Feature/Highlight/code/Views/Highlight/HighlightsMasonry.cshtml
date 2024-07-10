@@ -1,0 +1,45 @@
+﻿@using Wedia.Foundation.Alerts
+@using Wedia.Foundation.Alerts.Extensions
+@using Wedia.Foundation.SitecoreExtensions.Extensions
+@using Wedia.Feature.Highlight
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+@{
+  if (!Model?.Item?.DescendsFrom(Templates.HighlightsGroup.ID) ?? true)
+  {
+    @Html.PageEditorError(AlertTexts.InvalidDataSourceTemplate(Templates.HighlightsGroup.ID), AlertTexts.InvalidDataSourceTemplateFriendlyMessage, Model.Item?.ID, Model.Rendering.Item?.ID)
+    return;
+  }
+
+  var highlights = Model.Item.GetMultiListValueItems(Templates.HighlightsGroup.Fields.Highlights);
+}
+
+<section class="center center--1100 m-b-112">
+  @if (Model.Item.FieldHasValue(Templates.HighlightMain.Fields.Title) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <h1 class="h4 t-c">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Title)</h1>
+  }
+
+  @if (Model.Item.FieldHasValue(Templates.HighlightMain.Fields.Summary) || Sitecore.Context.PageMode.IsExperienceEditor)
+  {
+    <div class="t-c m-b-48">@Html.Sitecore().Field(Templates.HighlightMain.Fields.Summary)</div>
+  }
+
+
+  <div class="list-axis">
+    @foreach (var highlight in highlights)
+    {
+      <article class="@(highlight?.TargetItem(Templates.HighlightMain.Fields.Class)?[Templates.Icon.Fields.CssClass])">
+        <a href="@highlight.LinkFieldUrl(Templates.HasHighlightCTA.Fields.CTA)" class="list-axis__link"></a>
+        <img src="@highlight.ImageUrl(Templates.HasHighlightImage.Fields.Image)" />
+        <div class="list-axis__overlay">
+          <div class="icon">
+            <img src="@highlight.ImageUrl(Templates.HasHighlightIcon.Fields.Icon)" />
+          </div>
+          <h2 class="h3">@highlight.Field(Templates.HighlightMain.Fields.Title)</h2>
+          <div class="list-axis__tag">@highlight.Field(Templates.HighlightMain.Fields.Summary)</div>
+        </div>
+      </article>
+    }
+  </div>
+</section>

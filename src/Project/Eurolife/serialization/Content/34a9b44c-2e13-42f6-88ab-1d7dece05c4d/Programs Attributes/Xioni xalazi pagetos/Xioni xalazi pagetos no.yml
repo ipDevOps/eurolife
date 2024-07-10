@@ -1,0 +1,18 @@
+﻿---
+ID: "904ef2f2-e032-4274-b0aa-6cf840cf2adb"
+Parent: "38a3f5fc-f643-4ec9-bd19-30f0d0cbbf31"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: "/sitecore/content/Eurolife/Home/Proionta/Epixeiriseis/mikres-epixeiriseis-kai-grafeia/_Local/panel mikres epixeiriseis/ktirio/Programs Attributes/Xioni xalazi pagetos/Xioni xalazi pagetos no"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T090742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

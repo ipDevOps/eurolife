@@ -1,0 +1,14 @@
+﻿---
+ID: "db68b84d-d405-43da-9414-a8a286cb2f17"
+Parent: "764aea45-f717-4936-83fe-b96945c8f363"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Renderings/Project/Eurolife
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20190508T150019:636929244198773258Z"

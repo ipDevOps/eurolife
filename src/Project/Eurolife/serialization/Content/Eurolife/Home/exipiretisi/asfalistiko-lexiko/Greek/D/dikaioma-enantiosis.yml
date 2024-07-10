@@ -1,0 +1,24 @@
+﻿---
+ID: "b19285f6-67f7-4d3e-ae5a-11db3978117e"
+Parent: "74e79fae-fff3-4e49-ae36-8f2e8086c370"
+Template: "b2e685e5-6beb-40f5-b6e9-34819cb918ce"
+Path: "/sitecore/content/Eurolife/Home/exipiretisi/asfalistiko-lexiko/Greek/D/dikaioma-enantiosis"
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f40ae97-e31d-4388-b2ec-e23ffe4304eb"
+      Hint: GlossaryTitle
+      Value: Δικαίωμα Εναντίωσης
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191022T071229Z
+    - ID: "4d753c7b-d0a0-42d1-9843-e2d23987fe81"
+      Hint: Gloss
+      Value: Ο αντισυμβαλλόμενος έχει δικαίωμα εναντίωσης αν πιστεύει ότι οι όροι του ασφαλιστηρίου παρεκκλίνουν των όρων της αίτησης ασφάλισης. Σε αυτή την περίπτωση, πρέπει να συμπληρώσει και να αποστείλει στην εταιρεία το έντυπο υπόδειγμα (Α) “Δήλωση Εναντίωσης” που περιλαμβάνεται στο συμβόλαιο, μέσα σε ένα (1) μήνα από την ημερομηνία παράδοσης του ασφαλιστηρίου σε αυτόν.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

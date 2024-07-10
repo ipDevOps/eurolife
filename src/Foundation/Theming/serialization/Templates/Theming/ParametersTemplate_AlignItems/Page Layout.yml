@@ -1,0 +1,18 @@
+﻿---
+ID: "52521651-15a6-45d3-87d0-265c6623de4e"
+Parent: "1b588914-4206-4f93-8409-db6671019e07"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Foundation/Theming/ParametersTemplate_AlignItems/Page Layout
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190621T093933Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

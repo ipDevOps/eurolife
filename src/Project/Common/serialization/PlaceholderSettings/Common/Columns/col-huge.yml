@@ -1,0 +1,35 @@
+﻿---
+ID: "850b366d-a949-4c89-995f-42ec0fffa4f6"
+Parent: "881644b1-b871-44e1-aa29-dbdbd606f530"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/Common/Columns/col-huge"
+DB: master
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "col-huge"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Type: TreelistEx
+  Value: |
+    {14B060D9-30B9-4B83-A5E9-DD74C86D253B}
+    {D1009CC0-A073-4EA5-99FD-389C097F0B4E}
+    {3F152F68-ECD9-42D8-B73F-A5E16DF5D827}
+    {4A32BBC2-C586-4EAC-B63B-1019D496D8A9}
+    {C567433E-34EA-4636-A942-3A93BFF54AAA}
+    {6C1EF47C-2C75-4E29-BF27-0B93E966CF7D}
+    {BC33BB52-419D-4118-9D08-EE4009C50D3E}
+    {8BFF74BD-66FF-4A73-A3F7-0BBD54A410CA}
+    {7D095F33-73E4-40C7-8D62-367931538B49}
+    {35B143BC-F015-4DA6-81BA-36BCC2F6351A}
+    {54928386-719D-48B9-8A91-524D9961E36D}
+    {F3136503-1EEB-41D2-B47C-89FBC34BC540}
+    {29887712-3E85-461E-AE69-AC01ABBC7B38}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190508T114507Z

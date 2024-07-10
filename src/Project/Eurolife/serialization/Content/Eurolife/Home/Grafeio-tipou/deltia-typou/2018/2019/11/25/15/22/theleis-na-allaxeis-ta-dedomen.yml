@@ -1,0 +1,57 @@
+﻿---
+ID: "7a267e80-adc5-4e31-867f-5feefa06902b"
+Parent: "9a2cfb55-2687-4efb-9573-21600efcb1eb"
+Template: "2a8d0010-55dc-4af8-9ecb-e590d157d546"
+Path: "/sitecore/content/Eurolife/Home/Grafeio-tipou/deltia-typou/2018/2019/11/25/15/22/theleis-na-allaxeis-ta-dedomena-mpes-stin-online-ereyna-pes-ti-gnomi-sou"
+DB: master
+SharedFields:
+- ID: "491a0266-2073-41f5-add3-02b4f76a03cc"
+  Hint: IncludeInSearchResults
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "06da1c6e-a118-40bc-9c2a-c951364f98f7"
+      Hint: NewsDesktopImage
+      Value: |
+        <image mediaid="{2D777791-22B8-4FB5-8122-040655535718}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191125T152210Z
+    - ID: "2e232095-d195-4acc-bbae-0d26d4d5b27c"
+      Hint: BrowserTitle
+      Value: Θέλεις να αλλάξεις τα δεδομένα; Μπες στην online έρευνα, πες τη γνώμη σου και διεκδίκησε ένα iPad Mini 4
+    - ID: "4f14c1c9-29a8-4039-be45-351a340c4d54"
+      Hint: NewsBody
+      Value: |
+        <p><em>&Epsilon;ά&nu; &sigma;&omicron;&upsilon; &pi;&epsilon;&rho;ί&sigma;&sigma;&epsilon;&upsilon;&alpha;&nu; 50 &epsilon;&upsilon;&rho;ώ, &pi;&omega;&sigmaf; &theta;&alpha; ή&theta;&epsilon;&lambda;&epsilon;&sigmaf; &nu;&alpha; &tau;&alpha; &xi;&omicron;&delta;έ&psi;&epsilon;&iota;&sigmaf;;</em></p>
+        <p><em>&Pi;&iota;&sigma;&tau;&epsilon;ύ&epsilon;&iota;&sigmaf; ό&tau;&iota; &eta; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha; &mu;&pi;&omicron;&rho;&epsilon;ί &nu;&alpha; &alpha;&lambda;&lambda;ά&xi;&epsilon;&iota; &tau;&eta; &sigma;&chi;έ&sigma;&eta; &sigma;&omicron;&upsilon; &mu;&epsilon; &tau;&eta;&nu; &alpha;&sigma;&phi;&alpha;&lambda;&iota;&sigma;&tau;&iota;&kappa;ή &sigma;&omicron;&upsilon; &epsilon;&tau;&alpha;&iota;&rho;&epsilon;ί&alpha;;</em></p>
+        <p><em>&Mu;&epsilon; &pi;&omicron;&iota;&omicron; &tau;&rho;ό&pi;&omicron;;</em></p>
+        <p>&Gamma;&iota;&alpha; &nu;&alpha; &alpha;&lambda;&lambda;ά&xi;&epsilon;&iota;&sigmaf; &tau;&alpha; &delta;&epsilon;&delta;&omicron;&mu;έ&nu;&alpha;, &nu;&alpha; &sigma;&upsilon;&mu;&beta;ά&lambda;&lambda;&epsilon;&iota;&sigmaf; &kappa;&alpha;&iota; &epsilon;&sigma;ύ &sigma;&tau;&omicron; &psi;&eta;&phi;&iota;&alpha;&kappa;ό &mu;έ&lambda;&lambda;&omicron;&nu; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &nu;&alpha; &delta;&iota;&epsilon;&kappa;&delta;&iota;&kappa;ή&sigma;&epsilon;&iota;&sigmaf; έ&nu;&alpha; <strong>iPad Mini 4</strong>, &eta; Eurolife ERB &sigma;&epsilon; &kappa;&alpha;&lambda;&epsilon;ί &nu;&alpha; &alpha;&pi;&alpha;&nu;&tau;ή&sigma;&epsilon;&iota;&sigmaf;,&nbsp; έ&omega;&sigmaf; 12 &Mu;&alpha;&rho;&tau;ί&omicron;&upsilon; 2018, &sigma;&tau;&eta; &sigma;ύ&nu;&tau;&omicron;&mu;&eta; έ&rho;&epsilon;&upsilon;&nu;&alpha; &gamma;&iota;&alpha; &tau;&eta;&nu; &alpha;&xi;ί&alpha; &tau;&eta;&sigmaf; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;. &Gamma;&iota;&alpha;&tau;ί &eta; <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=6EXn1Z2zV2o" target="_blank">Eurolife ERB</a> &pi;&iota;&sigma;&tau;&epsilon;ύ&epsilon;&iota; ό&tau;&iota; &eta; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha;, &eta; &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha; &kappa;&alpha;&iota; &eta; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta; &sigma;&upsilon;&gamma;&kappa;&lambda;ί&nu;&omicron;&upsilon;&nu; &delta;&iota;&alpha;&rho;&kappa;ώ&sigmaf; &delta;&eta;&mu;&iota;&omicron;&upsilon;&rho;&gamma;ώ&nu;&tau;&alpha;&sigmaf; &sigma;&upsilon;&nu;&alpha;&rho;&pi;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &nu;έ&epsilon;&sigmaf; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;ί&epsilon;&sigmaf; &gamma;&iota;&alpha; &epsilon;&sigma;έ&nu;&alpha; &pi;&omicron;&upsilon; &nu;&omicron;&iota;ά&zeta;&epsilon;&sigma;&alpha;&iota; &kappa;&alpha;&iota; &phi;&rho;&omicron;&nu;&tau;ί&zeta;&epsilon;&iota;&sigmaf; &gamma;&iota;&alpha; &tau;&omicron; &delta;&iota;&kappa;ό &sigma;&omicron;&upsilon; &mu;έ&lambda;&lambda;&omicron;&nu; ή &tau;&eta;&sigmaf; &omicron;&iota;&kappa;&omicron;&gamma;έ&nu;&epsilon;&iota;ά &sigma;&omicron;&upsilon;.</p>
+        <p>&Eta; έ&rho;&epsilon;&upsilon;&nu;&alpha; &pi;&epsilon;&rho;&iota;&lambda;&alpha;&mu;&beta;ά&nu;&epsilon;&iota; &tau;ό&sigma;&omicron; <strong>&gamma;&epsilon;&nu;&iota;&kappa;έ&sigmaf; &epsilon;&rho;&omega;&tau;ή&sigma;&epsilon;&iota;&sigmaf;</strong> &gamma;&iota;&alpha; &tau;&eta;&nu; έ&nu;&nu;&omicron;&iota;&alpha; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf;, ό&sigma;&omicron; &kappa;&alpha;&iota; &epsilon;&rho;&omega;&tau;ή&sigma;&epsilon;&iota;&sigmaf; &pi;&omicron;&upsilon; &alpha;&nu;&alpha;&delta;&epsilon;&iota;&kappa;&nu;ύ&omicron;&upsilon;&nu; &tau;&eta;&nu; <strong>&alpha;&xi;ί&alpha; &tau;&eta;&sigmaf; &tau;&epsilon;&chi;&nu;&omicron;&lambda;&omicron;&gamma;ί&alpha;&sigmaf; &sigma;&tau;&eta;&nu; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;</strong>. &Gamma;&iota;&alpha; &epsilon;&sigma;έ&nu;&alpha; &alpha;&rho;&kappa;&omicron;ύ&nu; &lambda;ί&gamma;&alpha; &lambda;&epsilon;&pi;&tau;ά &gamma;&iota;&alpha; &nu;&alpha; &pi;&epsilon;&iota;&sigmaf; &tau;&eta;&nu; ά&pi;&omicron;&psi;ή &sigma;&omicron;&upsilon;. &Gamma;&iota;&alpha; &tau;&eta;&nu; Eurolife ERB ό&mu;&omega;&sigmaf; &alpha;&upsilon;&tau;ά &tau;&alpha; &lambda;ί&gamma;&alpha; &lambda;&epsilon;&pi;&tau;ά &epsilon;ί&nu;&alpha;&iota; &pi;&omicron;&lambda;ύ&tau;&iota;&mu;&alpha; &kappa;&alpha;&iota; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&omicron;ύ&nu; &pi;&eta;&gamma;ή έ&mu;&pi;&nu;&epsilon;&upsilon;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota; &sigma;&upsilon;&sigma;&tau;&alpha;&tau;&iota;&kappa;ά &sigma;&tau;&eta; &delta;&iota;&alpha;&delta;&iota;&kappa;&alpha;&sigma;ί&alpha; &delta;&iota;&alpha;&mu;ό&rho;&phi;&omega;&sigma;&eta;&sigmaf; &kappa;&alpha;&iota;&nu;&omicron;&tau;ό&mu;&omega;&nu; &pi;&rho;&omicron;ϊό&nu;&tau;&omega;&nu; &kappa;&alpha;&iota; &upsilon;&pi;&eta;&rho;&epsilon;&sigma;&iota;ώ&nu; &pi;&omicron;&upsilon; &alpha;&gamma;&gamma;ί&zeta;&omicron;&upsilon;&nu; &tau;&eta;&nu; &pi;&rho;&alpha;&gamma;&mu;&alpha;&tau;&iota;&kappa;ή &delta;&iota;ά&sigma;&tau;&alpha;&sigma;&eta; &tau;&eta;&sigmaf; &zeta;&omega;ή&sigmaf; &alpha;&lambda;&lambda;ά &kappa;&alpha;&iota; &tau;&iota;&sigmaf; &omicron;&upsilon;&sigma;&iota;&alpha;&sigma;&tau;&iota;&kappa;έ&sigmaf; &sigma;&omicron;&upsilon; &alpha;&nu;ά&gamma;&kappa;&epsilon;&sigmaf;.</p>
+        <p>&Eta; &delta;&iota;&alpha;&phi;&omicron;&rho;&epsilon;&tau;&iota;&kappa;ή &alpha;&upsilon;&tau;ή έ&rho;&epsilon;&upsilon;&nu;&alpha; &epsilon;&nu;&tau;ά&sigma;&sigma;&epsilon;&tau;&alpha;&iota; &sigma;&tau;&omicron; &pi;&lambda;&alpha;ί&sigma;&iota;&omicron; &tau;&eta;&sigmaf; &sigma;&upsilon;&nu;&omicron;&lambda;&iota;&kappa;ή&sigmaf; &sigma;&tau;&rho;&alpha;&tau;&eta;&gamma;&iota;&kappa;ή&sigmaf; &kappa;&alpha;&iota; &phi;&iota;&lambda;&omicron;&sigma;&omicron;&phi;ί&alpha;&sigmaf; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon; Eurolife ERB, &pi;&omicron;&upsilon; &delta;ί&nu;&epsilon;&iota; έ&mu;&phi;&alpha;&sigma;&eta; &sigma;&tau;&eta;&nu; &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha; &mu;&epsilon; &beta;&alpha;&sigma;&iota;&kappa;ό &sigma;&tau;ό&chi;&omicron; &tau;&omicron;&nu; &epsilon;&pi;&alpha;&nu;&alpha;&pi;&rho;&omicron;&sigma;&delta;&iota;&omicron;&rho;&iota;&sigma;&mu;ό &kappa;&alpha;&iota; &tau;&eta; &beta;&epsilon;&lambda;&tau;&iota;&sigma;&tau;&omicron;&pi;&omicron;ί&eta;&sigma;&eta; &tau;&eta;&sigmaf; &epsilon;&mu;&pi;&epsilon;&iota;&rho;ί&alpha;&sigmaf; &tau;&omicron;&upsilon; &pi;&epsilon;&lambda;ά&tau;&eta;, &tau;&omega;&nu; &epsilon;&rho;&gamma;&alpha;&zeta;&omicron;&mu;έ&nu;&omega;&nu; &kappa;&alpha;&iota; &tau;&omicron;&nu; &sigma;&upsilon;&nu;&epsilon;&rho;&gamma;&alpha;&tau;ώ&nu; &tau;&omicron;&upsilon; &Omicron;&mu;ί&lambda;&omicron;&upsilon;.</p>
+        <p>&Eta; &sigma;&upsilon;&gamma;&kappa;&epsilon;&kappa;&rho;&iota;&mu;έ&nu;&eta; &delta;&rho;ά&sigma;&eta; &alpha;&pi;&omicron;&tau;&epsilon;&lambda;&epsilon;ί &mu;έ&rho;&omicron;&sigmaf; &alpha;&nu;&tau;ί&sigma;&tau;&omicron;&iota;&chi;&omega;&nu; &pi;&rho;&omega;&tau;&omicron;&beta;&omicron;&upsilon;&lambda;&iota;ώ&nu; &pi;&omicron;&upsilon; &upsilon;&lambda;&omicron;&pi;&omicron;&iota;&epsilon;ί &sigma;&tau;&alpha;&theta;&epsilon;&rho;ά &eta; Eurolife ERB, ό&pi;&omega;&sigmaf; &eta; &chi;&omicron;&rho;&eta;&gamma;ί&alpha; &kappa;&alpha;&iota; &sigma;&upsilon;&mu;&mu;&epsilon;&tau;&omicron;&chi;ή &sigma;&tau;&omicron;&nu; &pi;&rho;ό&sigma;&phi;&alpha;&tau;&omicron; &delta;&iota;&alpha;&gamma;&omega;&nu;&iota;&sigma;&mu;ό &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha;&sigmaf; <a rel="noopener noreferrer" rel="noopener noreferrer" href="http://crowdhackathon.com/insurance2/" target="_blank">Crowdhackathon#insurance2</a>, &mu;&epsilon; &beta;&alpha;&sigma;&iota;&kappa;ό &alpha;&nu;&tau;&iota;&kappa;&epsilon;ί&mu;&epsilon;&nu;&omicron; &tau;&eta;&nu; &alpha;&nu;ά&pi;&tau;&upsilon;&xi;&eta; &epsilon;&phi;&alpha;&rho;&mu;&omicron;&gamma;ώ&nu; &kappa;&alpha;&iota; &tau;&eta;&nu; &epsilon;&pi;&iota;&chi;&epsilon;&iota;&rho;&eta;&sigma;&iota;&alpha;&kappa;ή &kappa;&alpha;&iota;&nu;&omicron;&tau;&omicron;&mu;ί&alpha; &sigma;&tau;&omicron;&nu; &tau;&omicron;&mu;έ&alpha; &tau;&eta;&sigmaf; &alpha;&sigma;&phi;ά&lambda;&iota;&sigma;&eta;&sigmaf;.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cc55c7f7-8274-465b-8a77-d65b2153bb00"
+      Hint: NewsMobileImage
+      Value: |
+        <image mediaid="{2D777791-22B8-4FB5-8122-040655535718}" />
+    - ID: "cd562337-58d1-4ac7-ae9c-cac9839368d3"
+      Hint: NewsTitle
+      Value: Θέλεις να αλλάξεις τα δεδομένα; Μπες στην online έρευνα, πες τη γνώμη σου και διεκδίκησε ένα iPad Mini 4
+    - ID: "ec41fcd4-6086-4e51-a230-366fa15b648d"
+      Hint: ShowInNavigation
+      Type: Checkbox
+      Value: 1
+    - ID: "f426dcd4-a506-4a26-a7c1-e77ae6e22a1a"
+      Hint: NewsDate
+      Value: 20180213T152200Z
+    - ID: "f8086e11-481d-46aa-b2e5-b0a6f142ef10"
+      Hint: NavigationTitle
+      Value: Θέλεις να αλλάξεις τα δεδομένα; Μπες στην online έρευνα, πες τη γνώμη σου και διεκδίκησε ένα iPad Mini 4

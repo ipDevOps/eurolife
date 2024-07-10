@@ -1,0 +1,18 @@
+﻿---
+ID: "cb35b14c-7c9f-4e78-b305-7147b98e47e3"
+Parent: "4a1be027-5224-4512-8eca-324b711ba6c9"
+Template: "f5983a63-6d3f-4e6d-ac1e-c63877c15599"
+Path: /sitecore/content/Eurolife/Home/Proionta/Idiotes/katoikia/_Local/panel katoikias/periexomeno/Programs Attributes/THraysi swlinwsewn eksoda entopismoy/THraysi swlinwsewn eksoda entopismoy no
+DB: master
+Languages:
+- Language: "el-GR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191028T073327Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
